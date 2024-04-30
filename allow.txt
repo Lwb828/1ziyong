@@ -1,5 +1,5 @@
-! Version: 2024-04-30 08:59:02（北京时间） 
-! Total count: 4971
+! Version: 2024-04-30 20:24:20（北京时间） 
+! Total count: 4968
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
 @@&ad_type=$domain=ultimate-guitar.com
@@ -698,7 +698,7 @@
 @@/js/advert.js$~third-party
 @@/js/countd.js?rand=$script,stealth=referrer,domain=financemonk.net
 @@/js/fuckadb.js$~third-party,domain=megaurl.in
-@@/js/google*.js$domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*|currentcolorq2dv.*|determinemousecshe.*
+@@/js/google*.js$domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*|currentcolorq2dv.*|determinemousecshe.*|publicspeed5c.*
 @@/js/jquery.smartbanner.js$domain=fiyatseyir.com|greyhound.com|amalgama-lab.com|m.halkbank.com.tr|intime.ua|avic.ua|mirage.ru|speedtest.net|energy.de|hermesworld.com|lekvapteke.ru|yalispor.com.tr|metroturizm.com.tr|anadolu.edu.tr|whatpub.com[Adblock Plus 2.0]
 @@/js/prebid-$domain=huruwo.top
 @@/js/prebid-ads.js$~third-party,domain=vippaste.xyz|sharetext.me|getpaste.link|pastebr.xyz
@@ -719,6 +719,7 @@
 @@/premium*/*.php$subdocument,stealth=referrer,domain=stronstream.shop|dailytechs.shop|sportzlive.shop
 @@/premium*/index.m3u8$xmlhttprequest,stealth=referrer,domain=claplivehdplay.ru
 @@/premium*/playlist.m3u8$xmlhttprequest,stealth=referrer,domain=claplivehdplay.ru
+@@/premium*/tracks-*.html$xmlhttprequest,stealth=referrer
 @@/premium*/tracks-*/*$xmlhttprequest,stealth=referrer,domain=claplivehdplay.ru
 @@/pub/ad/*$domain=ruten.com.tw
 @@/pub1/??$domain=banggo.com
@@ -940,6 +941,7 @@
 @@||113.com.tw/www/image/index-ad.png
 @@||115.28.114.149^*&adf=dalian_300x250_
 @@||117.60.146.16:8089/images/
+@@||11bit.co.in/*/libs/advertisement.js
 @@||120.132.57.41/pjk/pag/
 @@||12306.cn/otn/resources/images/pic/new-ad
 @@||123dhang.com/supo/advertisement.js
@@ -1188,7 +1190,6 @@
 @@||ads.pinterest.com^$popup
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
 @@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js$domain=zeenews.india.com
-@@||ads.pubmatic.com/AdServer/js/pwtSync/$subdocument,domain=independent.co.uk
 @@||ads.pubmatic.com/adserver/js/$script,domain=zeebiz.com
 @@||ads.raidrive.com^
 @@||ads.reddit.com^$domain=myqqjd.com
@@ -2075,6 +2076,7 @@
 @@||delivery-cdn-cf.adswizz.com/adswizz/js/SynchroClient*.js$script,domain=tunein.com
 @@||delivery.adrecover.com/*/adRecover.js$domain=duplichecker.com
 @@||delivery.adrecover.com/allow.jpg$domain=duplichecker.com|smallseotools.com
+@@||delivery.consentmanager.net/delivery/cmp.php$stealth
 @@||demo.ama.pub^$generichide
 @@||deutsches-museum.de^$stealth=dpi
 @@||developer.apple.com$generichide
@@ -2378,6 +2380,7 @@
 @@||fs-im-kefu.7moor-fs1.com^$important
 @@||fscinda.com/ad/$~third-party
 @@||fundingchoicesmessages.google.com/f^$domain=adshnk.com
+@@||fundingchoicesmessages.google.com^$domain=rocketnews24.com|soranews24.com|youpouch.com,stealth
 @@||fundingchoicesmessages.google.com^$domain=ytlarge.com
 @@||fundingchoicesmessages.google.com^$script,domain=soranews24.com
 @@||fusacq.com/javascript/advertising.js|$script
@@ -2668,6 +2671,7 @@
 @@||hdvid.tv/js/jquery.min.js
 @@||hdvid.tv/player*/jwplayer.js
 @@||hdvid.tv/player*/lightsout.js
+@@||heartyhosting.com^$domain=muscleandfitness.com
 @@||helios.pl/*/*/*?ajax=$xmlhttprequest,content,elemhide,jsinject,extension
 @@||hellomagazine.com^$stealth=dpi
 @@||hellporno.net/_a_ht/s/s/js/ssu.v2.js
@@ -3083,7 +3087,6 @@
 @@||jlthjy.com^$generichide
 @@||jmedj.co.jp/files/$image,~third-party
 @@||jobs.bg/front_job_search.php$~third-party
-@@||jokerly.com/Okidak/vastChecker.htm$document,subdocument
 @@||joyk.com^$generichide
 @@||jpopsingles.eu/ddl/banner-ad-300x250.png
 @@||jpush.cn^$domain=jiguang.cn
@@ -3109,11 +3112,9 @@
 @@||kad.arbitr.ru^$stealth
 @@||kafan.cn^$stealth=dpi
 @@||kaitao.cn/public/wenda/ad/css/ds-un-detail.css
-@@||kaspersky.com/advert/
 @@||kaspersky.ru/advert/
 @@||katfile.com/js/*ad*.js
 @@||kayixin.com^*/advert
-@@||kcjervis.github.io/jervis/static/media/src/images/ships/banner/
 @@||kdocs.cn^$important
 @@||kdslife.com/ui/css/share2.
 @@||keep.google.com^$jsinject
@@ -3243,6 +3244,7 @@
 @@||login.wmtransfer.com^$stealth
 @@||login.yahoo.com$stealth
 @@||loginza.ru/api/
+@@||logo.clearbit.com^$image,domain=securitytrails.com
 @@||logs.game.qq.com^$important
 @@||loki.delve.office.com/api/$stealth
 @@||lol.qq.com^$important
@@ -3831,7 +3833,6 @@
 @@||ptmi.gitv.tv^$important
 @@||pttplay.com/js/momo/adsbygoogle.js
 @@||ptwxz.com/scripts/readindex/tongji.js
-@@||pub-api.biggerpicture.ai^$stealth=3p-auth
 @@||pub.alimama.com/common/adzone/
 @@||pub.doubleverify.com/dvtag/$domain=time.com
 @@||pub.doubleverify.com/dvtag/$script,domain=time.com
@@ -4025,7 +4026,6 @@
 @@||scorecardresearch.com/beacon.js$domain=hktvmall.com
 @@||scrippsdigital.com/cms/videojs/$stylesheet,domain=scrippsdigital.com
 @@||scs.openspeech.cn^$important
-@@||scw.cloud^$stealth=3p-auth
 @@||scyts.com^$generichide
 @@||sdc.pingan.com^$~image
 @@||sdk.alibaba.com.ailbaba.me^$important
@@ -4434,7 +4434,6 @@
 @@||thegioididong.com^$stealth=dpi
 @@||thehansindia.com/xhr/
 @@||theme.heytapimage.com^$important
-@@||themezon.net/link.php$stealth=referrer
 @@||thenewslens.com/assets/js/*/admanager.js$domain=thenewslens.com
 @@||thepiratebay.org/*.php$csp,~third-party
 @@||thepiratebay.org/cdn-cgi/challenge-platform/$~third-party
@@ -4446,7 +4445,6 @@
 @@||thisav.com^$generichide
 @@||thm.market.xiaomi.com^$important
 @@||threatbook.cn/public/asset/js/zhugeIo.
-@@||thumbor.thedailymeal.com^
 @@||tianxun.com/min/f=
 @@||tiktokcdn.com^$stealth
 @@||tildacdn.com^$stealth,xmlhttprequest
@@ -4888,7 +4886,6 @@
 @@||yastatic.net/pcode/adfox/loader.js$domain=onedio.ru
 @@||yastatic.net/yandex-video-player-iframe-api-bundles$stealth
 @@||ydstatic.com^$important
-@@||yellowmap.de/api_rst/$stealth
 @@||yesiget.i234.me^$generichide
 @@||yhd.com^$important
 @@||yieldlove.com/v2/yieldlove.js$script,domain=whatismyip.com
