@@ -1,5 +1,5 @@
-! Version: 2024-05-02 20:25:32（北京时间） 
-! Total count: 4966
+! Version: 2024-05-03 09:02:08（北京时间） 
+! Total count: 4968
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
 @@&ad_type=$domain=ultimate-guitar.com
@@ -2716,6 +2716,7 @@
 @@||hsforms.net^
 @@||htlbid.com^*/htlbid.js$domain=hodinkee.com
 @@||html5.gamedistribution.com/*/$stealth
+@@||htz-*upload.spac.me/pics_upload/$stealth=referrer
 @@||hudong.alicdn.com^$important
 @@||huhupan.com/e/extend/down/$generichide
 @@||huichuan-mc.sm.cn^
@@ -3167,6 +3168,7 @@
 @@||leech.ninja/stream^$popup
 @@||lefile.cn/??*,
 @@||lemall.com/adspace/
+@@||lenta.ru/comments/$extension
 @@||lequ-qfe.iqiyi.com^$important
 @@||lesports.com/pc/??*/click_statistics/
 @@||lessornot.ws^$stealth=ip
