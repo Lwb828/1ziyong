@@ -1,5 +1,5 @@
-! Version: 2024-05-04 08:58:58（北京时间） 
-! Total count: 4971
+! Version: 2024-05-04 20:22:21（北京时间） 
+! Total count: 4981
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1062,6 +1062,7 @@
 @@||a.magsrv.com/ad-provider.js$domain=reshare.pm
 @@||a.poki.com/prebid/$script,domain=poki-gdn.com|repuls.io
 @@||a.realsrv.com/ad-provider.js$xmlhttprequest,domain=asiaon.top|asiaontop.com
+@@||a0.app.xiaomi.com^$important
 @@||a1.itc.cn/pv/js/spv.
 @@||a10.com/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@||a2zapk.com^$script,xmlhttprequest,third-party,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com|jytechs.in
@@ -1415,6 +1416,7 @@
 @@||api.solvemedia.com/papi/
 @@||api.ts.feedback.qy.net^$important
 @@||api.tv.sohu.com^
+@@||api.twitter.com^$important
 @@||api.val.qq.com/go/agame/resource/banner?bannerid=aclos_website_banner$domain=val.qq.com
 @@||api.video.xiaomi.com^$important
 @@||api.vip.miui.com^$important
@@ -2083,6 +2085,7 @@
 @@||dftoutiao.com^
 @@||dictionary.search.yahoo.com/beacon/sc?&ajaxdd=tabsCard&
 @@||dienmayxanh.com^$stealth=dpi
+@@||dig.bdurl.net^$important
 @@||dig.lianjia.com^$important
 @@||digiland.tw/advert.js
 @@||digit77.com^$generichide
@@ -2101,6 +2104,7 @@
 @@||dl.360safe.com^$important
 @@||dl.phncdn.com/pics/$domain=pornhub.com|pornhub.org|pornhub.net
 @@||dl.r3sub.com^$generichide
+@@||dl.reg.163.com^$important
 @@||dldir1.qq.com^$important
 @@||dldir3.qq.com^$important
 @@||dlh.net^$script,subdocument,domain=dlh.net
@@ -2625,7 +2629,9 @@
 @@||gvt2.com^
 @@||gw-paopao.iqiyi.com^$important
 @@||gw.alicdn.com^$important
+@@||h-adashx.ut.taobao.com^$important
 @@||h.imedia.cz/js/cmp2/scmp.js$domain=seznam.cz
+@@||h.trace.qq.com^$important
 @@||h1g.jp/img/ad/ad_heigu.html$~third-party
 @@||h5.m.taobao.com^$important
 @@||h5.mse.360.cn^
@@ -3557,6 +3563,7 @@
 @@||oss-asq-static.11222.cn^$important
 @@||oss.dns.aliyun.com.dalvhe.com/image/$stealth=referrer,image,domain=4ksj.com
 @@||osym.gov.tr^$stealth=dpi
+@@||otheve.beacon.qq.com^$important
 @@||ott.yandex.ru^$stealth
 @@||outlook.live.com/owa/projection.aspx$document
 @@||outlook.live.com^$cookie=OParams
@@ -3699,6 +3706,7 @@
 @@||paypalobjects.com/tagmgmt/bootstrap.js
 @@||paywall-ad-bucket.s3.amazonaws.com/ad_300_250.jpg
 @@||pbs.twimg.com/ad_img/$image,xmlhttprequest
+@@||pbs.twimg.com^$important
 @@||pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
 @@||pchomepay.com.tw/share/js/
 @@||pcvideoaliyun.titan.mgtv.com^$important#
@@ -4244,6 +4252,7 @@
 @@||st.pussyspace.net/style/03/img/x-sprite.png|
 @@||st.pussyspace.net/style/10/img/logo.png|
 @@||st.pussyspace.net/style/10/img/logo_mobile.png|
+@@||st.todesk.com^$important
 @@||standard.co.uk/js/third-party/prebid*.js$domain=standard.co.uk
 @@||standardmedia.co.ke/assets/js/prebid-google-ads.js
 @@||stapewithadblock.monster^$generichide
@@ -4307,6 +4316,7 @@
 @@||stats.g.doubleclick.net/dc.js$script,domain=chintaistyle.jp|gyutoro.com
 @@||stats.gc.apple.com^
 @@||statsig.com^
+@@||statusapi.micloud.xiaomi.net^$important
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
 @@||stereonet.com^$stealth=dpi
 @@||stereophile.com^$elemhide
@@ -4783,6 +4793,7 @@
 @@||wpnrtnmrewunrtok.xyz/main/$image,domain=camwhores.tv
 @@||wpnrtnmrewunrtok.xyz/remote_control.php^$domain=camwhores.tv
 @@||wqsd.jd.com
+@@||ws.ribaoapi.com^$important
 @@||wuyong.fun^$generichide
 @@||wuyou.com.cn/Js/ad.js
 @@||ww1.lanzous.com^$important
@@ -4942,7 +4953,6 @@
 @@||yunjiasu.com^
 @@||yunjiema.top/static/ad/ads.js$domain=yunjiema.top
 @@||yunjiema.top/static/js/wpsafelink.js
-@@||yximgs.com^$important
 @@||yygsz.com^$generichide
 @@||z.moatads.com^$script,domain=standard.co.uk
 @@||z.weixin.qq.com^$important
