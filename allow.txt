@@ -1,5 +1,5 @@
-! Version: 2024-05-04 20:22:21（北京时间） 
-! Total count: 4981
+! Version: 2024-05-05 09:03:34（北京时间） 
+! Total count: 4989
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
 @@&ad_type=$domain=ultimate-guitar.com
@@ -234,6 +234,7 @@
 @@.cos.ap-guangzhou.myqcloud.com/jm/mxtheme
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.google-analytics.com%2Fanalytics.js$domain=free.com.tw
+@@.icu/js/gg.js$script,domain=kwoo50.icu
 @@.info/*/*/comm*.js$~third-party
 @@.info/*/*zepto*.js$~third-party
 @@.info/*/comm*.js$~third-party
@@ -1397,6 +1398,7 @@
 @@||api.mapbox.com/*/mapbox.satellite/$stealth
 @@||api.mapbox.com/*?secure&access_token=$stealth
 @@||api.mapbox.com/geocoding/$stealth
+@@||api.mapbox.com^$xmlhttprequest,stealth,domain=weather.com
 @@||api.mapy.cz^$stealth
 @@||api.mercari.jp^$stealth
 @@||api.mi-img.com^$stealth=referrer
@@ -2005,6 +2007,7 @@
 @@||crazygames.com^$content
 @@||crbmpurga.ru/files/files/ads/$image
 @@||cre.dp.sina.cn^
+@@||creaders.net^$generichide
 @@||create.jd.com/ad/
 @@||credit-jfimage-cn.heytapimage.com^$important
 @@||criteo.com/delivery/ajs.php?zoneid=$script,domain=gaus.ee
@@ -2590,6 +2593,7 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=topuniversities.com
 @@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|www.gamer.com.tw
 @@||googletagservices.com/tag/js/gpt.js?ad_tag=$domain=clipmyhorse.tv
+@@||googletagservices.com^$script,domain=creaders.net
 @@||gooogle.how^$generichide
 @@||gosuslugi.ru^$stealth=dpi
 @@||gounlimited.to/ads/pop.js|
@@ -3552,6 +3556,8 @@
 @@||onlinemschool.com/script/ads1.js
 @@||openap-alps.51y5.net^$important
 @@||opencloud.wostore.cn^$important
+@@||openfpcdn.io/fingerprintjs/$domain=uslugaplus.com
+@@||openfpcdn.io/fingerprintjs/$script,xmlhttprequest,redirect=noopjs,domain=uslugaplus.com,important
 @@||oppo.yidianzixun.com^$important
 @@||opt.semasio.net/optsvc^$domain=youronlinechoices.com
 @@||optout.mookie1.com/optout
@@ -3848,6 +3854,7 @@
 @@||pub.doubleverify.com/signals/pub.js$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com
 @@||pub.doubleverify.com/signals/pub.json$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com
 @@||pub.idqqimg.com^$important
+@@||pub.network^$script,domain=creaders.net
 @@||pub.pixels.ai/prebid_standard.js$domain=standard.co.uk
 @@||pub.pixels.ai/wrap-independent-no-prebid-lib.js$script,domain=independent.co.uk
 @@||pubads.g.doubleclick.net/gampad/ad?$domain=nbc.com
@@ -4819,6 +4826,7 @@
 @@||www.jiaoyimao.com^$important
 @@||www.kanjiantu.com^$important
 @@||www.kdocs.cn^$important
+@@||www.literotica.com^$content
 @@||www.lsds.cn^$important
 @@||www.maimemo.com^$important
 @@||www.manhuabei.com^$important
