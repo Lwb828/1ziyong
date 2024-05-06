@@ -1,5 +1,5 @@
-! Version: 2024-05-06 09:00:53（北京时间） 
-! Total count: 4468
+! Version: 2024-05-06 20:25:22（北京时间） 
+! Total count: 4470
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
 @@&ad_type=$domain=ultimate-guitar.com
@@ -59,6 +59,8 @@
 @@/_v2*/h/*.*$xmlhttprequest,image,stealth=referrer,domain=e69975b881.nl
 @@/ad-close.png$domain=ch.com
 @@/ad.js$domain=tiktokcounter.net|crypto-radio.eu|lifgam.online
+@@/ad.php?$domain=jav777.cc|jav777.xyz|520cc.cc|520cc.com
+@@/ad/ads.php?$domain=jav777.cc|jav777.xyz|520cc.cc|520cc.com
 @@/ad/banner/_adsense_/_adserver/_adview_.ad.json
 @@/ad/images/*$domain=37-express.com|vnnox.com
 @@/adLoader.$domain=shejiben.com
