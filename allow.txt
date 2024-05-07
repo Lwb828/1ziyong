@@ -1,4 +1,4 @@
-! Version: 2024-05-06 20:25:22（北京时间） 
+! Version: 2024-05-07 08:59:58（北京时间） 
 ! Total count: 4470
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
@@ -2079,8 +2079,8 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=proximus.be
 @@||googletagservices.com/tag/js/gpt.js$domain=scotsman.com,badfilter
 @@||googletagservices.com/tag/js/gpt.js$domain=topuniversities.com
+@@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|tvbs.com.tw|www.gamer.com.tw
 @@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|www.gamer.com.tw
-@@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|www.gamer.com.tw|tvbs.com.tw
 @@||googletagservices.com/tag/js/gpt.js?ad_tag=$domain=clipmyhorse.tv
 @@||googletagservices.com^$script,domain=creaders.net
 @@||gooogle.how^$generichide
