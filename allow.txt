@@ -1,5 +1,5 @@
-! Version: 2024-05-07 20:24:54（北京时间） 
-! Total count: 4465
+! Version: 2024-05-08 08:50:17（北京时间） 
+! Total count: 4467
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
 @@&ad_type=$domain=ultimate-guitar.com
@@ -938,6 +938,7 @@
 @@||appcloud.zhihu.com^$important
 @@||appcloud2.zhihu.com^$important
 @@||appdl-1-drcn.dbankcdn.com^$important
+@@||appdownload.alicdn.com^$important
 @@||appimg.dbankcdn.com^$important
 @@||apple.com^$domain=apple.com,stealth=referrer
 @@||appledaily.com.hk/admedia/
@@ -2976,6 +2977,7 @@
 @@||nirsoft.net^$stealth=dpi
 @@||nishub1.10010.com^$important
 @@||nitroflare.com/view/$xmlhttprequest
+@@||nmobi.kuwo.cn^$important
 @@||noahedu.com/ad/$~third-party
 @@||noahedu.com/advertising/
 @@||nobugin.com^$generichide
