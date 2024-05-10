@@ -1,5 +1,5 @@
-! Version: 2024-05-09 20:24:42（北京时间） 
-! Total count: 4478
+! Version: 2024-05-10 09:00:21（北京时间） 
+! Total count: 4479
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
 @@&ad_type=$domain=ultimate-guitar.com
@@ -3975,6 +3975,7 @@
 @@||toolfk.com/tools/js/share/js/jquery.share.min.js
 @@||toolfk.com^$generichide
 @@||tools.usps.com/go/TrackConfirmAction
+@@||toolsforworkingwood.com/blogimg/
 @@||top1porn.com^$generichide
 @@||torrage.info/torrent.php$popup,third-party
 @@||torrindex.net/images/*.gif$domain=thepiratebay.org
