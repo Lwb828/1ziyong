@@ -1,5 +1,5 @@
-! Version: 2024-05-12 20:25:08（北京时间） 
-! Total count: 4468
+! Version: 2024-05-13 09:02:15（北京时间） 
+! Total count: 4469
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
 @@&ad_type=$domain=ultimate-guitar.com
@@ -2765,6 +2765,7 @@
 @@||m.zhuanzhuan.com^$important
 @@||mac.bmcx.com^
 @@||macauo2o.com/advertise/
+@@||mafia.ua/js/jquery.smartbanner.js
 @@||mail.google.com/mail/$stealth
 @@||mail.qq.com^$important
 @@||mail.td^$generichide
