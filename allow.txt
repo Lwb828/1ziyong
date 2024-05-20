@@ -1,5 +1,5 @@
-! Version: 2024-05-19 20:24:24（北京时间） 
-! Total count: 4451
+! Version: 2024-05-20 09:01:45（北京时间） 
+! Total count: 4452
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
 @@&ad_type=$domain=ultimate-guitar.com
@@ -3996,6 +3996,7 @@
 @@||transfermarkt.*/image
 @@||transfernow.net/*/*?utm_source=$removeparam=utm_source
 @@||transfernow.net/*/dltransfer$removeparam=utm_source
+@@||translate-pa.googleapis.com/v1/translateHtml
 @@||translate.google.*/translate_a/single^
 @@||translate.googleapis.com/*translate_*/*=*=$xmlhttprequest
 @@||translate.googleapis.com/element/
