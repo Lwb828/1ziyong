@@ -1,4 +1,4 @@
-! Version: 2024-05-22 09:01:44（北京时间） 
+! Version: 2024-05-22 20:26:44（北京时间） 
 ! Total count: 4460
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
@@ -877,7 +877,6 @@
 @@||api.kuaishouzt.com^$important
 @@||api.kwaizt.com^
 @@||api.mapbox.com/*/mapbox.mapbox-terrain-*,mapbox.mapbox-streets-*^$stealth
-@@||api.mapbox.com/*/mapbox.satellite/$stealth
 @@||api.mapbox.com/*?secure&access_token=$stealth
 @@||api.mapbox.com/geocoding/$stealth
 @@||api.mapbox.com^$xmlhttprequest,stealth,domain=weather.com
@@ -1064,7 +1063,6 @@
 @@||betterads.org/hubfs/$image,~third-party
 @@||beyondsoft.com/dataservice/img/ad_
 @@||bhc.co.kr^$stealth=dpi
-@@||bidder.criteo.com/cdb|$domain=app.axenthost.com
 @@||bigbtc.win/js/ads-prebid.js
 @@||bigfishaudio.com/banners/$image,~third-party
 @@||bigota.d.miui.com^$important
@@ -1114,7 +1112,6 @@
 @@||boxer.baidu.com^$important
 @@||brave.com/static-assets/$image,~third-party
 @@||briian.com/advert.
-@@||brn-ads.sa.cz/www/delivery/*.php?zoneid=$domain=studentagency.eu
 @@||broccoli.uc.cn^$important
 @@||browser.360.cn^$important
 @@||browser.events.data.msn.com^$important
@@ -1582,6 +1579,7 @@
 @@||dl.phncdn.com/pics/$domain=pornhub.com|pornhub.org|pornhub.net
 @@||dl.r3sub.com^$generichide
 @@||dl.reg.163.com^$important
+@@||dl.zhutix.net^$stealth=referrer
 @@||dldir1.qq.com^$important
 @@||dldir3.qq.com^$important
 @@||dlh.net^$script,subdocument,domain=dlh.net
@@ -2179,6 +2177,7 @@
 @@||hk01.com^*/ga_trace.js
 @@||hk01.com^*/scripts/ga.js
 @@||hkjc.com/bannerad/
+@@||hls-live.bdstatic.com/*/stream_$stealth
 @@||hls.exmarketplace.com/*.m3u8$domain=tvserial.it
 @@||hls.exmarketplace.com/*.ts$domain=tvserial.it
 @@||hls3-cf.xvideos-cdn.com^$important
@@ -2311,13 +2310,13 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=babygames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=bestgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cdn.htmlgames.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cdn.witchhut.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chili.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ciudad.com.ar
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=clipmyhorse.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=coolgames.com|newgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=corrieredellosport.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cosmopolitan.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cubuffs.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dailystar.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=digitalspy.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=diziler.com
@@ -2367,6 +2366,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=mobinozer.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=motorsport.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nba.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nettavisen.no
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news.tvb.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nova.cz
@@ -2685,6 +2685,7 @@
 @@||limbopro.com^$important
 @@||line-mode.cern.ch^$elemhide
 @@||linetv.tw^*/scripts/ads.js
+@@||linkbucks.com/tmpl/$image,stylesheet
 @@||linkconnector.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||linksynergy.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||linkvertise.com/assets/ads.js
@@ -2727,7 +2728,6 @@
 @@||login.microsoftonline.com^$stealth
 @@||login.nvgs.nvidia.com^$stealth
 @@||login.uid.me^$domain=ucoz.ru
-@@||login.wmtransfer.com^$stealth
 @@||login.yahoo.com$stealth
 @@||loginza.ru/api/
 @@||logo.clearbit.com^$image,domain=securitytrails.com
@@ -3249,7 +3249,6 @@
 @@||play.vidyard.com^$stealth
 @@||play1.heytapimage.com^$important
 @@||player.aniview.com/script/$script,domain=odysee.com|pogo.com
-@@||player.avplayer.com^$script,domain=explosm.net|gamingbible.co.uk|justthenews.com|ladbible.com
 @@||player.clevercast.com/players/video-js/video-js-plugins/videojs.ads.min.js
 @@||player.enetres.net/js/videojs-plugins/videojs-ads-contrib/videojs.ads.js
 @@||player.ex.co/player/$domain=si.com
@@ -3936,6 +3935,7 @@
 @@||thisav.com^$generichide
 @@||thm.market.xiaomi.com^$important
 @@||threatbook.cn/public/asset/js/zhugeIo.
+@@||thumbor.thedailymeal.com^
 @@||tianxun.com/min/f=
 @@||tiktokcdn.com^$stealth
 @@||tildacdn.com^$stealth,xmlhttprequest
