@@ -1,5 +1,5 @@
-! Version: 2024-05-25 09:00:22（北京时间） 
-! Total count: 4469
+! Version: 2024-05-25 20:24:36（北京时间） 
+! Total count: 4472
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
@@ -940,6 +940,7 @@
 @@||appledaily.com.hk/admedia/
 @@||appledaily.com.tw^*_ad_logo.
 @@||appledaily.com/js/nxm_
+@@||appleid.apple.com^$stealth=referrer
 @@||appmsg.gzmtr.cn^$important
 @@||appnee.com/clever_ads.js
 @@||appsupport.qq.com^$important
@@ -3845,6 +3846,7 @@
 @@||support.google.com^$domain=support.google.com
 @@||suwonlib.go.kr^$stealth=dpi
 @@||swedbank.ee^$document
+@@||swhoi.com/e/$subdocument,stealth=referrer
 @@||swsc.com.cn/download/ad_images/
 @@||sxjbjt.com^*/ad
 @@||synchrobox.adswizz.com/register2.php$script,domain=tunein.com
@@ -4173,6 +4175,7 @@
 @@||videogamesblogger.com^$csp
 @@||videoplaza.tv/resources/
 @@||videosvc.ezoic.com/play?videoID=$domain=humix.com
+@@||vidhidevip.com/embed/$subdocument,stealth=referrer
 @@||vidmoly.to/embed-$stealth
 @@||vidoza.net/embed-*.html$subdocument
 @@||vidoza.net/js/pop.js
