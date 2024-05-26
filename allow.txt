@@ -1,5 +1,5 @@
-! Version: 2024-05-25 20:24:36（北京时间） 
-! Total count: 4472
+! Version: 2024-05-26 09:06:26（北京时间） 
+! Total count: 4474
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@$xmlhttprequest,stealth=referrer,domain=cuervotv.me
@@ -132,6 +132,7 @@
 @@/dash?tvid=$stealth,domain=iqiyi.com
 @@/dh-anti-adblocker/assets/js/ads-prebid.js
 @@/dh-anti-adblocker/assets/js/prebid-ads.js
+@@/dh-anti-adblocker/public/js/adex.js
 @@/dh-anti-adblocker/public/js/prebid-ads.js
 @@/dh-new-anti-adblocker-lite/public/js/prebid-ads.js
 @@/embed/*$stealth=referrer,subdocument,domain=tv1337.buzz|lol-foot.ru|flashsports.org|ldcstreaming.info|sportsonline.*|sportstream.website|elixx.xyz|primefoot.ru|lavents.la
@@ -610,7 +611,6 @@
 @@||ad.ettoday.net/msg_liveshow.php^$domain=ettoday.net
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^$important
-@@||ad.nl/ad/
 @@||ad.ourgame.com^
 @@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr
 @@||ad.thsi.cn/siteHome/
@@ -1112,6 +1112,7 @@
 @@||boxer.baidu.com^$important
 @@||brave.com/static-assets/$image,~third-party
 @@||briian.com/advert.
+@@||brn-ads.sa.cz/www/delivery/*.php?zoneid=$domain=studentagency.eu
 @@||broccoli.uc.cn^$important
 @@||browser.360.cn^$important
 @@||browser.events.data.msn.com^$important
@@ -1307,6 +1308,7 @@
 @@||cdntvmedia.com^$stealth=referrer
 @@||cdntvn.pl/*/assets/*advert*.js$domain=player.pl|get.x-link.pl|tvn24.pl|vod.pl
 @@||cdnvideo.ru^$stealth
+@@||cdpn.io^$subdocument,stealth
 @@||cds.connatix.com/*/connatix.player.dc.js$domain=loot.tv
 @@||celebfapper.com/js/adManager.js
 @@||cfg.imtt.qq.com^$important
@@ -1649,6 +1651,7 @@
 @@||dqzsteel.com/Website/Image/guanggao/
 @@||dragate-cn.dc.heytapmobi.com^$important
 @@||dragate.dc.oppomobile.com^$important
+@@||dragonfly.opera.com/app/$document
 @@||dreamdth.com/community/js/*.js
 @@||dreport.meituan.net^$important
 @@||drive.quark.cn^$important
@@ -3811,7 +3814,6 @@
 @@||static.webshark.pl/adserver/*/main_script.js?advertise_check=1
 @@||static.youporn.phncdn.com/cb/assets/css/$domain=youporn.com
 @@||statics.itc.cn^$important
-@@||stats.g.doubleclick.net/dc.js$script,domain=chintaistyle.jp|gyutoro.com
 @@||stats.gc.apple.com^
 @@||statsig.com^
 @@||statusapi.micloud.xiaomi.net^$important
@@ -4041,7 +4043,6 @@
 @@||ttkdex.com^$generichide
 @@||ttkdex.com^*ad$~third-party
 @@||tubeoffline.com/js/hot.min.js
-@@||tuborstb.co^$stealth=3p-auth
 @@||tui.click/js/ads.js
 @@||tui.click^$generichide
 @@||turing.captcha.gtimg.com^$important
@@ -4222,6 +4223,7 @@
 @@||ware.shop.jd.com^$genericblock,generichide
 @@||wargaming.net^$stealth
 @@||watchcartoononline.io/back.jpg
+@@||watchcartoononline.io/search|$popup
 @@||watchcartoononline.io/thumbs/
 @@||wavse.com^$generichide
 @@||wb.amap.com^$important
