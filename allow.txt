@@ -1,5 +1,5 @@
-! Version: 2024-05-30 09:02:33（北京时间） 
-! Total count: 4484
+! Version: 2024-05-30 20:26:33（北京时间） 
+! Total count: 4490
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1107,7 +1107,7 @@
 @@||bootcdn.net^$important
 @@||bootcss.com^$script,domain=jx.la
 @@||bootcss.com^$script,domain=kan-tv.com
-@@||bordeaux.futurecdn.net/bordeaux.js$script,domain=tomsguide.com
+@@||bordeaux.futurecdn.net/bordeaux.js$script,domain=gamesradar.com|tomsguide.com
 @@||boxer.baidu.com^
 @@||boxer.baidu.com^$important
 @@||brave.com/static-assets/$image,~third-party
@@ -1357,6 +1357,7 @@
 @@||cl2.webterren.com^$important
 @@||cl9a.com/static/ad/main.js
 @@||claimbits.net/static/js/noadblock.js
+@@||claplivehdplay.ru/*.ts$stealth
 @@||clarins.com.cn^
 @@||cleviationly.com/adServe/aff?cmpid=*mydealz*&dlink=$removeparam=cmpid
 @@||click.aliyun.com^$important
@@ -1863,6 +1864,7 @@
 @@||fundingchoicesmessages.google.com^$domain=rocketnews24.com|soranews24.com|youpouch.com,stealth
 @@||fundingchoicesmessages.google.com^$domain=ytlarge.com
 @@||fundingchoicesmessages.google.com^$script,domain=soranews24.com
+@@||fundingchoicesmessages.google.com^$stealth=referrer
 @@||fusacq.com/javascript/advertising.js|$script
 @@||fuseplatform.net^*/fuse.js$script,domain=broadsheet.com.au|friendcafe.jp
 @@||fux.com/adblockchecker.js
@@ -2457,6 +2459,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=cbssports.com
 @@||imasdk.googleapis.com/js/sdkloader/loader.js$domain=einthusan.ca|einthusan.tv|einthusan.com
 @@||imasdk.googleapis.com/js/sdkloader/outstream.js$domain=wanted5games.com
+@@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=13tv.co.il
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=cadenaser.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=foodnetwork.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=investigationdiscovery.com
@@ -3055,6 +3058,7 @@
 @@||online.cosmosbank.in^$document
 @@||online.tivo.com^$elemhide,jsinject
 @@||online.unionpay.com/ads/$script
+@@||onlinehdhls.ru/*/playlist.m3u8$stealth
 @@||onlinemschool.com/script/ads.js
 @@||onlinemschool.com/script/ads1.js
 @@||openap-alps.51y5.net^$important
@@ -4199,6 +4203,7 @@
 @@||viu.tv^$generichide
 @@||vivo.bg/gpt.js
 @@||vivud.com/js/pop.js
+@@||viwlivehdplay.ru/mono.php?id=$stealth
 @@||vjs.zencdn.net/*/video-js.css
 @@||vk.com/*.php?__query=$document
 @@||vlist.se/advertisement.js
@@ -4262,6 +4267,7 @@
 @@||wenxuecity.com^$generichide
 @@||wgo.mmstat.com^
 @@||wgun.net^$elemhide
+@@||wideiptv.top/*/embed.html?token=*&remote=no_check_ip$stealth
 @@||widget.gleamjs.io^
 @@||widget.mibbit.com^$important
 @@||widgets.jobbio.com^*/display.min.js$domain=interestingengineering.com
