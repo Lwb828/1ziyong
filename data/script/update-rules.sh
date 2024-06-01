@@ -14,7 +14,9 @@ cd tmp
 
 echo '下载规则'
 rules=(
-  "https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/-/main/black.txt"
+ 
+"https://raw.githubusercontent.com/qq5460168/666/master/rules.txt"
+ "https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/-/main/black.txt"
   "https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt"
   "https://cdn.jsdelivr.net/gh/damengzhu/abpmerge@main/abpmerge.txt"
  
