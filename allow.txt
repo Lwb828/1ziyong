@@ -1,5 +1,5 @@
-! Version: 2024-06-01 19:07:50（北京时间） 
-! Total count: 4477
+! Version: 2024-06-01 21:37:00（北京时间） 
+! Total count: 4499
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@&ad_type=$domain=ultimate-guitar.com
@@ -281,6 +281,7 @@
 @@cdn.eporner.com^$stealth=referrer
 @@clicks.$domain=cimbclicks.com.my,~third-party
 @@doubleclick.net/ads/preferences/
+@@down.360safe.com^
 @@game.baifumeiba.com/login/ad/adex.js
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@http://adsense.google.$document,domain=google.ad|google.ae|google.al|google.am|google.as|google.at|google.az|google.ba|google.be|google.bf|google.bg|google.bi|google.bj|google.bs|google.bt|google.by|google.ca|google.cat|google.cd|google.cf|google.cg|google.ch|google.ci|google.cl|google.cm|google.cn|google.co.ao|google.co.bw|google.co.ck|google.co.cr|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.ls|google.co.ma|google.co.mz|google.co.nz|google.co.th|google.co.tz|google.co.ug|google.co.uk|google.co.uz|google.co.ve|google.co.vi|google.co.za|google.co.zm|google.co.zw|google.com|google.com.af|google.com.ag|google.com.ai|google.com.ar|google.com.au|google.com.bd|google.com.bh|google.com.bn|google.com.bo|google.com.br|google.com.bz|google.com.co|google.com.cu|google.com.cy|google.com.do|google.com.ec|google.com.eg|google.com.et|google.com.fj|google.com.gh|google.com.gi|google.com.gt|google.com.hk|google.com.jm|google.com.kh|google.com.kw|google.com.lb|google.com.ly|google.com.mm|google.com.mt|google.com.mx|google.com.my|google.com.na|google.com.nf|google.com.ng|google.com.ni|google.com.np|google.com.om|google.com.pa|google.com.pe|google.com.pg|google.com.ph|google.com.pk|google.com.pr|google.com.py|google.com.qa|google.com.sa|google.com.sb|google.com.sg|google.com.sl|google.com.sv|google.com.tj|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vc|google.com.vn|google.cv|google.cz|google.de|google.dj|google.dk|google.dm|google.dz|google.ee|google.es|google.fi|google.fm|google.fr|google.ga|google.ge|google.gg|google.gl|google.gm|google.gp|google.gr|google.gy|google.hn|google.hr|google.ht|google.hu|google.ie|google.im|google.iq|google.is|google.it|google.je|google.jo|google.kg|google.ki|google.kz|google.la|google.li|google.lk|google.lt|google.lu|google.lv|google.md|google.me|google.mg|google.mk|google.ml|google.mn|google.ms|google.mu|google.mv|google.mw|google.ne|google.nl|google.no|google.nr|google.nu|google.pl|google.pn|google.ps|google.pt|google.ro|google.rs|google.ru|google.rw|google.sc|google.se|google.sh|google.si|google.sk|google.sm|google.sn|google.so|google.sr|google.st|google.td|google.tg|google.tk|google.tl|google.tm|google.tn|google.to|google.tt|google.vg|google.vu|google.ws
@@ -466,7 +467,9 @@
 @@||2345jsllq.dftoutiao.co
 @@||2mdn.net/instream/
 @@||2mdn.net/instream/html5/ima3.js$script,domain=earthtv.com|techrepublic.com|zdnet.com
+@@||316.coolapk1s.com^
 @@||31vcd.com/player/kuyun.js
+@@||360.cn^
 @@||360buyimg.com/ad/$domain=jd.com
 @@||360buyimg.com/ads/$domain=jd.com
 @@||360buyimg.com^$important
@@ -865,6 +868,7 @@
 @@||api.browser.yandex.$stealth
 @@||api.cognitive.microsofttranslator.com/translate?
 @@||api.comm.miui.com^$important
+@@||api.coolapk.com^
 @@||api.developer.xiaomi.com^$important
 @@||api.device.xiaomi.net^$important
 @@||api.flash.cn^$important
@@ -896,6 +900,7 @@
 @@||api.production.k8s.y3o.tv/*/video-ads/$domain=yallo.tv
 @@||api.revenuecat.com^$important
 @@||api.rikka.app^$important
+@@||api.sec.miui.com^
 @@||api.sec.miui.com^$important
 @@||api.solvemedia.com/papi/
 @@||api.ts.feedback.qy.net^$important
@@ -991,6 +996,7 @@
 @@||autotrader.co.uk^*/advert$~third-party
 @@||av30.xyz/cs/2.js
 @@||av4u.info/source/plugin/unadblock^
+@@||avatar.coolapk.com^
 @@||avclub.com^*/adManager.$script,~third-party
 @@||avgle.com/embed/$genericblock,generichide
 @@||avpgalaxy.net/gpt.js
@@ -1084,6 +1090,7 @@
 @@||bitsumactivationserver.com^
 @@||biz.yelp.com/ads?$popup
 @@||bizx.info$domain=sourceforge.net
+@@||bjfesdk.douyucdn.cn^
 @@||bjfesdk.douyucdn.cn^$important
 @@||bkvv.video.qq.com^$important
 @@||blackmod.net^$generichide
@@ -1101,6 +1108,7 @@
 @@||book.com.tw/image/getImage?
 @@||book.com.tw/image/getImage?$domain=books.com.tw
 @@||bookwalker.com.tw/images/p_img/pc_ad*.png$~third-party
+@@||bootcdn.net^
 @@||bootcdn.net^$important
 @@||bootcss.com^$script,domain=jx.la
 @@||bootcss.com^$script,domain=kan-tv.com
@@ -1394,6 +1402,7 @@
 @@||cmshow.qq.com^$important
 @@||cmts.iqiyi.com^$important
 @@||cn-cd-dx-2.natfrp.cloud^$important
+@@||cn.app.chat.xiaomi.net^
 @@||cn.app.chat.xiaomi.net^$important
 @@||cn.bing.com^$important
 @@||cn.ekg.riotgames.com^$important
@@ -1653,6 +1662,7 @@
 @@||dragonfly.opera.com/app/$document
 @@||dreamdth.com/community/js/*.js
 @@||dreport.meituan.net^$important
+@@||drive.quark.cn^
 @@||drive.quark.cn^$important
 @@||drive.uc.cn^$important
 @@||drivemoe.com/-ads-banner.js
@@ -1943,6 +1953,7 @@
 @@||ggg50.pw^$generichide
 @@||ggpht.com^$important
 @@||ghxi.com^$stealth=dpi
+@@||gia.jd.com^
 @@||gia.jd.com^$important
 @@||gias.jd.com/js/td.js
 @@||gifshow.com/rest/wd/common/log/collect/acfun
@@ -2676,7 +2687,9 @@
 @@||lf-dy-sourcecdn-tos.bytegecko.com^$important
 @@||lf1-cdn-tos.bytegoofy.com^
 @@||lf1-ttcdn-tos.pstatp.com^$important
+@@||lf3-cdn-tos.bytegoofy.com^
 @@||lf3-cdn-tos.bytegoofy.com^$important
+@@||lf6-cdn-tos.bytegoofy.com^
 @@||lf6-cdn-tos.bytegoofy.com^$important
 @@||lf6-mgsdk-sign.dailygn.com^$important
 @@||lf9-mgsdk-sign.dailygn.com^$important
@@ -2724,6 +2737,8 @@
 @@||loc.map.baidu.com^$important
 @@||local.adguard.org^
 @@||localads.chengzijianzhan.cn^$important
+@@||log-api.pangolin-sdk-toutiao-b.com^
+@@||log-api.pangolin-sdk-toutiao.com^
 @@||log-upload.mihoyo.com^
 @@||log.mmstat.com/eg.js^$script
 @@||log1.cmpassport.com^$important
@@ -2754,6 +2769,7 @@
 @@||m.dcinside.com^$stealth=dpi
 @@||m.intl.taobao.com^$important
 @@||m.jiaoyimao.com^$important
+@@||m.jingxi.com^
 @@||m.jingxi.com^$important
 @@||m.manhuabei.com^$important
 @@||m.media-amazon.com/images/*$domain=amazon.*,stealth
@@ -2948,6 +2964,7 @@
 @@||mylivesignature.com/js/adblocker.js
 @@||myqqjd.com^
 @@||myqqjd.com^$generichide
+@@||myquark.cn^
 @@||myquark.cn^$important
 @@||myssl.com/scripts/analyze.js
 @@||myvidster.com/processor.php
@@ -3179,6 +3196,7 @@
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
 @@||pagead2.googlesyndication.com^$domain=ytlarge.com
 @@||pagerank.fr/js*/advert.js?$script
+@@||pan.quark.cn^
 @@||pan.quark.cn^$important
 @@||pandora.com/images/public/devicead/$image
 @@||pandora.com/static/ads/
@@ -3200,6 +3218,7 @@
 @@||passport.youdao.com^$important
 @@||patreonusercontent.com/*.gif?token-$image,domain=patreon.com
 @@||pay.yandex.ru/web/sdk/$stealth
+@@||payapp.weixin.qq.com^
 @@||payapp.weixin.qq.com^$important
 @@||payload.cargocollective.com^$image,~third-party
 @@||payments.braintree-api.com^$stealth
@@ -3535,6 +3554,7 @@
 @@||scyts.com^$generichide
 @@||sdc.pingan.com^$~image
 @@||sdk.alibaba.com.ailbaba.me^$important
+@@||sdk.open.talk.gepush.com^
 @@||sdk.open.talk.gepush.com^$important
 @@||sdkconfig.ad.xiaomi.com^$important
 @@||sdltutorials.com/Data/Ads/AppStateBanner.jpg$~third-party
@@ -4091,6 +4111,7 @@
 @@||ultimedia.com/js/common/smart.js$domain=letelegramme.fr
 @@||uma.media^$stealth
 @@||umengacs.m.taobao.com^$important
+@@||umengjmacs.m.taobao.com^
 @@||umiwi.com^
 @@||unet.ucweb.com^$important
 @@||unimedsorocaba.coop.br^$stealth=dpi
@@ -4297,6 +4318,7 @@
 @@||www.123pan.com^$important
 @@||www.alidns.com^$important
 @@||www.blogger.com^$important
+@@||www.bqgyy.com^
 @@||www.chemdraw.com.cn^$important
 @@||www.cmpassport.com^$important
 @@||www.crossoverchina.com^$important
