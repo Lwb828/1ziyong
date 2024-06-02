@@ -1,5 +1,5 @@
-! Version: 2024-06-01 21:37:00（北京时间） 
-! Total count: 4499
+! Version: 2024-06-02 09:06:46（北京时间） 
+! Total count: 4500
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@&ad_type=$domain=ultimate-guitar.com
@@ -562,6 +562,7 @@
 @@||aax-eu.amazon-adsystem.com/s/yoc^$domain=youronlinechoices.com
 @@||abchina.com^*ad
 @@||abema-tv.com^$domain=abema.tv,stealth=3p-auth
+@@||abema-tv.com^$stealth=3p-auth
 @@||abema.tv^$stealth=ip
 @@||aboluowang.com^$generichide
 @@||about.gitlab.cn^$important
@@ -639,6 +640,7 @@
 @@||admin.mailchimp.com^
 @@||adnet.pravda.com/examples/adriver.core.2.minifire.js
 @@||adnet.qq.com^$~third-party
+@@||adnews.me^$domain=adnews.me
 @@||adnmb3.com^
 @@||adnxs.com/ast/ast.js$domain=zone.msn.com
 @@||adnxs.com/ast/static/$domain=outlook.live.com
@@ -1346,7 +1348,6 @@
 @@||chinamobile.com^*/ad$~third-party
 @@||chinatimes.com/css-main/ad.css
 @@||chineseanime.vip^$generichide
-@@||choice.microsoft.com/*/opt-out$urlblock
 @@||chompers.io/ads.js
 @@||chrome-infra-packages.appspot.com^$important
 @@||chromeweblab.com^$jsinject,elemhide
@@ -2223,7 +2224,6 @@
 @@||hsforms.net^
 @@||htlbid.com^*/htlbid.js$domain=hodinkee.com
 @@||html5.gamedistribution.com/*/$stealth
-@@||htz-*upload.spac.me/pics_upload/$stealth=referrer
 @@||hudong.alicdn.com^$important
 @@||huhupan.com/e/extend/down/$generichide
 @@||huichuan-mc.sm.cn^
@@ -2470,11 +2470,12 @@
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=investigationdiscovery.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=motortrend.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=pluto.tv
+@@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=sciencechannel.com
 @@||imasdk.googleapis.com^$domain=cnet.com
 @@||imbc.com/operate/common/ad/covid
 @@||imfeifan.com/adv/$~third-party
 @@||img*.*.*^$stealth,domain=mangalib.me
-@@||img*.doubanio.com^$stealth,domain=accounts.douban.com
+@@||img*.doubanio.com^$stealth=referrer,domain=douban.com
 @@||img*.kachelmannwetter.com/images/$domain=meteologix.com
 @@||img*.kangaroobro.com/images/$image,domain=leyuman.com
 @@||img*.nga$removeparam=cmpid
@@ -2507,6 +2508,7 @@
 @@||imtt.dd.qq.com^$important
 @@||independent.co.uk/_build/prebid.*.js$domain=independent.co.uk
 @@||indiatimes.com/configspace/
+@@||indiatimes.com/wp-content/themes/*/js/*ads*.js
 @@||indiegogo.com^$stealth
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
@@ -3188,7 +3190,6 @@
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=copyseeker.net
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=production-api.androidacy.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=zefoy.com
-@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=alliptvlinks.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/slotcar_library_$script,domain=game.anymanager.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hexviewer.iblogbox.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -3350,7 +3351,6 @@
 @@||protoawe.com/tube-player/?psid=*&accessKey=*jasminVideoPlayerContainer$domain=pornhd.com
 @@||proxy.ads.canalplus-bo.net/web/undefined/v1/adserver/info/?asset=*&channel=$xmlhttprequest,domain=www.mycanal.fr
 @@||przegladsportowy.pl/*&srcc=ucs$removeparam﻿[Adblock Plus 2.0]
-@@||ps.eyeota.net/eopt$domain=youronlinechoices.com
 @@||ps.w.org^$image,domain=wordpress.org
 @@||ps3-infos.fr/adsense/openads/ads/ads.js
 @@||pstatic.net^$image,stealth
@@ -3664,6 +3664,7 @@
 @@||shutterbug.com^$elemhide
 @@||simba.taobao.com/?name=mcad$script
 @@||simba.taobao.com/?name=tcmad&$domain=www.taobao.com
+@@||simg.doubanio.com^$stealth=referrer,domain=douban.com
 @@||simg.sinajs.cn^$important
 @@||simkl.com^$xmlhttprequest,elemhide,jsinject,extension
 @@||sina.cn^$important
