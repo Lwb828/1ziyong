@@ -1,5 +1,5 @@
-! Version: 2024-06-02 09:06:46（北京时间） 
-! Total count: 4500
+! Version: 2024-06-02 20:24:19（北京时间） 
+! Total count: 4502
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@&ad_type=$domain=ultimate-guitar.com
@@ -2910,6 +2910,7 @@
 @@||mobinovels.com^$generichide
 @@||moea.gov.tw/EgisWeb/Scripts/google-analytics.js
 @@||moegirl.org.cn^$generichide
+@@||moggy-image-1251316161.file.myqcloud.com^$important
 @@||mojedatovaschranka.cz^$stealth=dpi
 @@||moly.cloud/*/*.m3u8$stealth
 @@||momovod.com/js/momo/adsbygoogle.js
@@ -2969,6 +2970,7 @@
 @@||myquark.cn^
 @@||myquark.cn^$important
 @@||myssl.com/scripts/analyze.js
+@@||myun.tenpay.com^$important
 @@||myvidster.com/processor.php
 @@||mywot.com/*/confirmNewEmail/$removeparam
 @@||na61-na62.wagbridge.advertisement.alibabacorp.com.gds.alibabadns.com^$important
