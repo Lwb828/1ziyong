@@ -1,5 +1,5 @@
-! Version: 2024-06-04 09:03:30（北京时间） 
-! Total count: 4502
+! Version: 2024-06-04 20:26:53（北京时间） 
+! Total count: 4505
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@&ad_type=$domain=ultimate-guitar.com
@@ -860,6 +860,7 @@
 @@||api.account.xiaomi.com^$important
 @@||api.adinplay.com/$xmlhttprequest,domain=taming.io
 @@||api.adinplay.com/libs/aiptag/$script
+@@||api.adinplay.com/libs/aiptag/*/tag.min.js$domain=crazygames.com
 @@||api.adinplay.com/libs/aiptag/*/tag.min.js$domain=v6p9d9t4.ssl.hwcdn.net|golfroyale.io|bullet.town|zoneroyale.com|memegames.space|erigato.space|creatur.io|wormate.io|deadwalk.io|swaarm.io|octagor.com|lordz2.io|brutalmania.io|warscrap.io|findcat.io|evowars.io|shellshock.io|dinoman.io|bombhopper.io|clashblade.com|littlebigsnake.com|evoworld.io
 @@||api.adinplay.com/libs/aiptag/assets/adsbygoogle.js
 @@||api.adinplay.com/libs/aiptag/pub/NND/taming.io/tag.min.js$domain=taming.io
@@ -936,7 +937,6 @@
 @@||app.titsx.com*/search$domain=porn-plus.com
 @@||app.zhuanzhuan.com^$important
 @@||app2.522.com.cn
-@@||appcdn01.xyz/vast.js
 @@||appcloud.zhihu.com^$important
 @@||appcloud2.zhihu.com^$important
 @@||appdl-1-drcn.dbankcdn.com^$important
@@ -1283,6 +1283,7 @@
 @@||cdn.vox-cdn.com/packs/js/concert_ads-*.js$domain=theverge.com
 @@||cdn.watch.aetnd.com^$domain=fyi.tv|cdn.watch.aetnd.com
 @@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
+@@||cdn1.img4kora.com/assets/js/clever_ads.js
 @@||cdn13.com/*.mp4?$domain=xhamster.com
 @@||cdn4.tennistemple.com/js/advert.js|$script,~third-party
 @@||cdn77-vid.xvideos-cdn.com^$important
@@ -1327,7 +1328,6 @@
 @@||challenges.cloudflare.com/turnstile/$script
 @@||challenges.cloudflare.com^$domain=download.megaup.net
 @@||challenges.cloudflare.com^$stealth
-@@||chamsko.pl/js/advertisement.js
 @@||changyan.sohu.com/debug/cookie?
 @@||changyou.com^$generichide
 @@||chat.openai.com^$stealth
@@ -1575,7 +1575,6 @@
 @@||digit77.com^$generichide
 @@||dilidili.live^
 @@||direct.wap.zol.com.cn^
-@@||directline.botframework.com^$stealth
 @@||discordapp.com/banners/$image
 @@||discoveryplus.in/*/ads/banner_ad.js
 @@||discretemath.org/ads/
@@ -2098,6 +2097,7 @@
 @@||gounlimited.to/js/pop.js|
 @@||gov.cn/scripts/Comm/AdRotator.js
 @@||gpt-worldwide.com/js/gpt.js$~third-party
+@@||grandhotelcalciomercato.com/js/prebid-ads.js
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
 @@||graph.microsoft.com$stealth=3p-auth
 @@||graph.qq.com^$important
@@ -2176,6 +2176,7 @@
 @@||hdslb.com^$stealth,domain=bilibili.com
 @@||hdvid.tv/js/jquery.cookie.js
 @@||hdvid.tv/js/jquery.min.js
+@@||hdvid.tv/player*/jwplayer.html5.js
 @@||hdvid.tv/player*/jwplayer.js
 @@||hdvid.tv/player*/lightsout.js
 @@||helios.pl/*/*/*?ajax=$xmlhttprequest,content,elemhide,jsinject,extension
@@ -2520,6 +2521,7 @@
 @@||ingest.sentry.io^$important
 @@||ingka.com^$stealth,domain=ikea.com
 @@||injections.adguard.com^$document
+@@||innerfidelity.com^$elemhide
 @@||inoreader.com^$genericblock,generichide
 @@||inpad.com.tw/data/adv/
 @@||input.shouji.sogou.com^$important
@@ -3075,7 +3077,6 @@
 @@||openap-alps.51y5.net^$important
 @@||opencloud.wostore.cn^$important
 @@||openfpcdn.io/fingerprintjs/$domain=uslugaplus.com
-@@||openfpcdn.io/fingerprintjs/$script,xmlhttprequest,redirect=noopjs,domain=uslugaplus.com,important
 @@||oppo.yidianzixun.com^$important
 @@||opt.semasio.net/optsvc^$domain=youronlinechoices.com
 @@||optout.mookie1.com/optout
@@ -3098,8 +3099,10 @@
 @@||p*.music.126.net^$important
 @@||p.jwpcdn.com/*/skins/$third-party
 @@||p16-tiktokcdn-com.akamaized.net^$important
+@@||p26-sign.bdxiguaimg.com^$important
 @@||p26-sign.toutiaoimg.com^$important
 @@||p2p.huya.com^$important
+@@||p3-sign.bdxiguaimg.com^$important
 @@||p3-sign.toutiaoimg.com^
 @@||p3-sign.toutiaoimg.com^$important
 @@||p3.dcarimg.com^$important
@@ -3133,6 +3136,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chromeactions.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cimanow.cc|cnvids.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=copyseeker.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=crazygames.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=di.fm
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dl.ccbluex.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=door2windows.com
@@ -3731,7 +3735,6 @@
 @@||spankbang.com^*/prebid-ads.js$domain=spankbang.com
 @@||spclient.wg.spotify.com^$important
 @@||speech.platform.bing.com^$important
-@@||speedtest.net/*-login.php$domain=speedtest.net
 @@||speedtest.net/api/api.php
 @@||speedtest.net/api/js/user-settings|$xmlhttprequest
 @@||speedtest.net/javascript/ads.js
@@ -3811,7 +3814,7 @@
 @@||static.criteo.net/js/ld/publishertag.js$domain=shinden.pl
 @@||static.crunchyroll.com/*/player.html$stealth
 @@||static.doubleclick.net/instream/ad_status.js$domain=alliptvlinks.com
-@@||static.doubleclick.net/instream/ad_status.js$domain=idlixofficials.com|idlixofficial.co
+@@||static.doubleclick.net/instream/ad_status.js$domain=idlixofficials.com|idlixofficial.co|idlixofficial.net
 @@||static.doubleclick.net/instream/ad_status.js$domain=investing.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=mhdtvmax.net
 @@||static.doubleclick.net/instream/ad_status.js$domain=sonixgvn.net
@@ -4264,6 +4267,7 @@
 @@||webaudioapi.com/samples/
 @@||webbtelescope.org/files/live/sites/webb/$image,~third-party
 @@||webfail.com/image
+@@||webgains.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||weblet.square-enix.com/banner.php^
 @@||webmail.smartlinkcorp.com/dotrans_20160909.php
 @@||webminepool.com/lib/base.js$domain=autofaucet.org
@@ -4338,7 +4342,6 @@
 @@||www.jiaoyimao.com^$important
 @@||www.kanjiantu.com^$important
 @@||www.kdocs.cn^$important
-@@||www.literotica.com^$content
 @@||www.lsds.cn^$important
 @@||www.maimemo.com^$important
 @@||www.manhuabei.com^$important
