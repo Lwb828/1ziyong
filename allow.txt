@@ -1,5 +1,5 @@
-! Version: 2024-06-03 20:27:49（北京时间） 
-! Total count: 4501
+! Version: 2024-06-04 09:03:30（北京时间） 
+! Total count: 4502
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@&ad_type=$domain=ultimate-guitar.com
@@ -2863,6 +2863,7 @@
 @@||miaozhen.com^$domain=miaozhen.com
 @@||miaozhen.com^$~third-party
 @@||miaozhen.com^*/m.suning.
+@@||miastko24.pl/pl/js/trustmeimadolphin
 @@||mibi.api.xiaomi.com^$important
 @@||micro.rubiconproject.com/prebid/dynamic/$script,xmlhttprequest,domain=gamingbible.co.uk|ladbible.com|sportbible.com
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=cnbc.com
