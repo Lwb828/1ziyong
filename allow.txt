@@ -1,5 +1,5 @@
-! Version: 2024-06-07 20:27:58（北京时间） 
-! Total count: 4497
+! Version: 2024-06-08 09:02:59（北京时间） 
+! Total count: 4499
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
@@ -1885,6 +1885,7 @@
 @@||g.doubleclick.net/gampad/ads?*superbanner_3$xmlhttprequest,domain=spiegel.de
 @@||g.doubleclick.net/gampad/ads?*wallpaper_1$xmlhttprequest,domain=spiegel.de
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=v.ifeng.com
+@@||g.doubleclick.net/gampad/live/ads?iu=*jp.tver.$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=spiegel.de
 @@||g.doubleclick.net/pagead/ads$subdocument,domain=sudokugame.org
 @@||g.doubleclick.net/pagead/ads?$subdocument,domain=ff14angler.com
@@ -2759,6 +2760,7 @@
 @@||lookcam.com/fuckadblock.js
 @@||looker.com/api/internal/$~third-party
 @@||lootup.me/assets/js/ads-prebid.js
+@@||lostpod.space/static/streaming-playlists/$xmlhttprequest,domain=videos.john-livingston.fr
 @@||lpg-forum.pl/ad-blocker.js
 @@||lpl.qq.com^$important
 @@||lso.ca^$stealth=dpi
