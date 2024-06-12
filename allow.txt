@@ -1,5 +1,5 @@
-! Version: 2024-06-12 09:04:11（北京时间） 
-! Total count: 4499
+! Version: 2024-06-12 20:27:10（北京时间） 
+! Total count: 4500
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
@@ -25,7 +25,6 @@
 @@.com/o.js$domain=2biqu.com
 @@.com/o.js$third-party,script,domain=mpo18.com|xcupfox.com
 @@.cos.ap-guangzhou.myqcloud.com/jm/mxtheme
-@@.dmf.link/dl/$stealth
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.google-analytics.com%2Fanalytics.js$domain=free.com.tw
 @@.html?ad_$domain=jd.com|zol.com.cn
@@ -521,6 +520,7 @@
 @@||5w8.fun/myads/img/*.gif
 @@||61.164.108.184/tb/*.gif
 @@||70.86.24.120:8060/*/
+@@||720static.com/resource/$stealth=referrer
 @@||75.125.41.29:8080/*/
 @@||7m.cn/v2/js/analyse.js
 @@||7x24s.com^
@@ -554,6 +554,7 @@
 @@||a.realsrv.com/ad-provider.js$xmlhttprequest,domain=asiaon.top|asiaontop.com
 @@||a0.app.xiaomi.com^$important
 @@||a1.itc.cn/pv/js/spv.
+@@||a10.com/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@||a2zapk.com^$script,xmlhttprequest,third-party,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com|jytechs.in
 @@||aax-eu.amazon-adsystem.com/s/yoc^$domain=youronlinechoices.com
 @@||abchina.com^*ad
@@ -717,6 +718,7 @@
 @@||adswizz.com/adswizz/js/SynchroClient*.js$script,third-party,domain=jjazz.net
 @@||adswizz.com^$domain=noz.de
 @@||adtng.com/get/$subdocument,domain=hanime.tv
+@@||adtraction.com^$image,domain=ebjudande.se
 @@||adv.asahi.com^$popup
 @@||adv.bebad.it/js/ads.js$domain=badtaste.it
 @@||adv.ccb.com^
@@ -945,6 +947,7 @@
 @@||appleid.apple.com^$stealth=referrer
 @@||appmsg.gzmtr.cn^$important
 @@||appnee.com/clever_ads.js
+@@||apps.skype.com$jsinject
 @@||appsupport.qq.com^$important
 @@||appzdam.net^$elemhide
 @@||apv-launcher.minute.ly/api/$script
@@ -1335,7 +1338,6 @@
 @@||check-host.net^$extension
 @@||check.ddos-guard.net/check.js
 @@||checkfresh.com/js/prebid-ads.js
-@@||chemicalbook.com^$stealth
 @@||cherrymx.de^$stealth=dpi
 @@||cheshi-img.com/ad/csad_2019.js
 @@||chicksonright.com^$csp,~third-party
@@ -2970,6 +2972,7 @@
 @@||na61-na62.wagbridge.advertisement.alibabacorp.com^$important
 @@||naiadsystems.com/*/hls/live$domain=pornhub.com|pornhub.org|pornhub.net
 @@||nakanohito.jp^*/bi.js$domain=myna.go.jp
+@@||napi.hu/js/advertisement.js
 @@||nascar.com/wp-content/themes/ndms-2023/assets/js/inc/ads/prebid8.$~third-party
 @@||native.sharethrough.com/assets/sfp.js$domain=looper.com
 @@||nav.browser.miui.com^
@@ -3290,7 +3293,6 @@
 @@||player.odycdn.com/api/$xmlhttprequest,domain=odysee.com
 @@||player.vimeo.com/video^$stealth
 @@||playhydrax.com/?v=$subdocument
-@@||playshakespeare.com/*/js/prebid-ads.js
 @@||playwire.com/bolt/js/zeus/embed.js$script,third-party
 @@||plejada.pl/*&srcc=ucs$removeparam=utm_source
 @@||plex.tv/api/v*/users/*?utm_source=$removeparam=utm_source,domain=watch.plex.tv
@@ -3935,7 +3937,6 @@
 @@||techonthenet.com/javascript/advert-min.js
 @@||telegram.hr^$content
 @@||tenki.jp/storage/static-images/top-ad/
-@@||tenor.googleapis.com^$stealth
 @@||tenpay.com/v2/res/pub/cps/main/bottom_ad.js
 @@||tenpay.com^*?ADTAG=
 @@||test.nextdns.io^$important
@@ -3962,7 +3963,6 @@
 @@||thepiratebay.org/static/main.js$script,~third-party
 @@||thepiratebay.org^$subdocument
 @@||thetvdb.com/banners/$image,domain=tvtime.com
-@@||theverge.com/_next/data/*.json
 @@||thirdwx.qlogo.cn^$important
 @@||thisav.com^$generichide
 @@||thm.market.xiaomi.com^$important
@@ -4436,6 +4436,7 @@
 @@||you.visualdna.com/user/iab^$domain=youronlinechoices.com
 @@||youaima.com/zz/play_
 @@||youchien.net/ad/*/ad/img/$~third-party
+@@||youchien.net/css/ad_side.css$~third-party
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
 @@||youmadcdn.xyz^$image,stealth,domain=mangabuddy.com
