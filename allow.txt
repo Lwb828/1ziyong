@@ -1,5 +1,5 @@
-! Version: 2024-06-13 20:27:21（北京时间） 
-! Total count: 4662
+! Version: 2024-06-14 09:03:43（北京时间） 
+! Total count: 4658
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
@@ -975,7 +975,6 @@
 @@||asimgs.pplive.cn
 @@||ask.qcloudimg.com^$stealth,domain=cloud.tencent.com
 @@||assbbs.com^$generichide
-@@||assets.anyclip.com^$domain=content.dictionary.com
 @@||assets.ctfassets.net^$media,domain=ads.spotify.com
 @@||assets.evolutionadv.it/optiload/*/optiload_video.min.js$domain=adnkronos.com
 @@||assets.evolutionadv.it/prebid/*/prebid.min.js$domain=adnkronos.com
@@ -999,7 +998,6 @@
 @@||audiotag.info/js/adblockDetectorWithGA.js
 @@||auditude.com^
 @@||ausujet.com/skins/common/ads.js
-@@||auth.gfx.ms^$document
 @@||auth.mail.ru^$stealth
 @@||auth.wosms.cn^$important
 @@||auth.zijieapi.com^
@@ -1207,7 +1205,6 @@
 @@||cd.connatix.com/connatix.player.js$domain=loot.tv
 @@||cd.connatix.com/connatix.playspace.js$domain=inc.com
 @@||cd.connatix.com/connatix.playspace.js$domain=loot.tv
-@@||cdn*.anyclip.com^$domain=content.dictionary.com
 @@||cdn*.downdetector.com/*/javascript*/adscript.js
 @@||cdn*.downdetector.com/*/javascript*/adscript_vars.js
 @@||cdn*.jianshu.io^$stealth
@@ -1241,7 +1238,6 @@
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||cdn.cnn.com/ads/adfuel/adfuel-*.min.js$domain=arabic.cnn.com
 @@||cdn.concert.io/lib/concert-ads/v*-latest/concert_ads.js$domain=arrowheadpride.com
-@@||cdn.confiant-integrations.net/*/gpt_and_prebid/config.js$domain=adnkronos.com
 @@||cdn.consentmanager.net/delivery/customdata/$stealth
 @@||cdn.consentmanager.net/delivery/js/cmp*.min.js$stealth
 @@||cdn.contentful.com/spaces^$stealth
@@ -1474,6 +1470,8 @@
 @@||connect.ubisoft.com/oauth/*?redirectUrl$jsinject
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.platform.hicloud.com^$important
+@@||consent.cookiefirst.com/banner.js$stealth
+@@||consent.cookiefirst.com/sites$stealth
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abc.com
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abcnews.go.com
 @@||content-*.googleapis.com^$stealth
@@ -2244,7 +2242,6 @@
 @@||hopto.org/js/prebid-ads.
 @@||hopto.org^$generichide
 @@||hosting24.com^
-@@||hosts-file.net/ad_servers.txt
 @@||hosts-file.net^$important
 @@||hot.browser.miui.com^$important
 @@||hotel.17u.cn^$important
@@ -2374,7 +2371,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cubuffs.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dailystar.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=digitalspy.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dressupmix.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=einthusan.ca|einthusan.tv|einthusan.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=embed-zattoo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=etonline.com
@@ -2396,7 +2392,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haber7.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haberler.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hanime.tv
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hiddenobjectgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=html5.gamedistribution.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hungama.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ilmeteo.it
@@ -2640,6 +2635,8 @@
 @@||jpush.cn^$domain=jiguang.cn
 @@||jr.jd.com^$important
 @@||js-gamezone.static.yximgs.com^
+@@||js.assemblyexchange.com/videojs-skip-$domain=worldstar.com
+@@||js.assemblyexchange.com/wana.$domain=worldstar.com
 @@||js.iplsc.com/inpl.abd/latest/ads.js?$domain=pomponik.pl|interia.pl|js.iplsc.com
 @@||js.tv.itc.cn/gg.seed.js
 @@||js.wpadmngr.com/static/adManager.js$domain=blog.carstopia.net|blog.coinsvalue.net|blog.cookinguide.net|blog.freeoseocheck.com|blog.makeupguide.net
@@ -3505,6 +3502,7 @@
 @@||pubads.g.doubleclick.net/ssai/
 @@||pubads.g.doubleclick.net/ssai/event/$xmlhttprequest,domain=10play.com.au
 @@||pubads.g.doubleclick.net/ssai/event/$xmlhttprequest,domain=sbs.com.au
+@@||pubads.g.doubleclick.net/ssai/event/$xmlhttprequest,domain=zoomtventertainment.com
 @@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=click2houston.com
 @@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=digi24.ro
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$domain=cbc.ca
@@ -3579,7 +3577,6 @@
 @@||rainmail.xyz/storage/js/suv4.js
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
 @@||rapidrar.com/js/fuckadblock.js
-@@||rapidvid.net/vod/$stealth=referrer
 @@||raw.githubusercontent.com/wmcmurray/just-detect-adblock/master/baits
 @@||raw.githubusercontent.com^$domain=viewscreen.githubusercontent.com
 @@||rd.ias.global.rakuten.com/adv/$domain=24.rakuten.co.jp
@@ -3666,7 +3663,6 @@
 @@||sanyonews.jp/files/image/ad/okachoku.jpg$~third-party
 @@||saomiao.51240.com^$important
 @@||saomiao.bmcx.com^$important
-@@||sascdn.com/video/controller.js$domain=towideo.pl
 @@||sascdn.com/video/players/jwplayer/
 @@||satellite-calculations.com/ads.js
 @@||saveu*-normal-lf.zijieapi.com^
@@ -3724,6 +3720,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=abccar.com.tw
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=agario-play.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=blog.carstopia.net|blog.coinsvalue.net|blog.cookinguide.net|blog.freeoseocheck.com|blog.makeupguide.net
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=bloomberg.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=digitaltrends.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=epaper.timesgroup.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=factable.com
@@ -4105,6 +4102,7 @@
 @@||thepiratebay.org/static/main.js$script,~third-party
 @@||thepiratebay.org^$subdocument
 @@||thetvdb.com/banners/$image,domain=tvtime.com
+@@||theverge.com/_next/data/*.json
 @@||thirdwx.qlogo.cn^$important
 @@||thisav.com^$generichide
 @@||thm.market.xiaomi.com^$important
@@ -4173,7 +4171,6 @@
 @@||tradingview.com^$script,stealth
 @@||trafficdeposit.com/bvideo^$domain=yourporn.sexy
 @@||traffichaus.com/scripts/banner-ad.js
-@@||trafficmanager.anyclip.com^$domain=content.dictionary.com
 @@||trailrunnermag.com^$stealth=dpi
 @@||train.17u.cn^$important
 @@||transcend-info.com^$stealth=dpi
@@ -4281,7 +4278,6 @@
 @@||upload*.jianshu.io^$stealth
 @@||upload.cc
 @@||upload.wikimedia.org/wikipedia/$image,media
-@@||uploadex.com^$elemhide
 @@||upos-sz-*.bilivideo.com^$important
 @@||upstream.to/embed-*.html$domain=javtiful.com
 @@||upstream.to/js/dnsads.js
