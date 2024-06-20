@@ -1,5 +1,5 @@
-! Version: 2024-06-20 09:02:39（北京时间） 
-! Total count: 4651
+! Version: 2024-06-20 20:26:57（北京时间） 
+! Total count: 4648
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
@@ -642,6 +642,7 @@
 @@||adligature.com^|$xmlhttprequest,domain=work.ink
 @@||adlink.wf^
 @@||admin.mailchimp.com^
+@@||admob.google.com/static/$domain=admob.google.com
 @@||adnet.pravda.com/examples/adriver.core.2.minifire.js
 @@||adnet.qq.com^$~third-party
 @@||adnews.me^$domain=adnews.me
@@ -1427,6 +1428,7 @@
 @@||cnbj1.fds.api.xiaomi.com^$important
 @@||cnki.com.cn/cnki/images/ad/2020/1112_45711271.jpg
 @@||cnlogin.cainiao.com^
+@@||cnn.com^*/ad_policy.xml$domain=cnn.com
 @@||cnnic.net.cn^
 @@||cnpack.org^$stealth=dpi
 @@||cnprint.org^$generichide
@@ -1859,7 +1861,6 @@
 @@||fluidplayer.com^$script,stylesheet,domain=canyoublockit.com
 @@||flydigi.com^
 @@||flyert.com/plug/socialShare/js/social-share.
-@@||flying-lines.com/banners/$image,~third-party
 @@||flyme.cn^$important
 @@||flyordie.com/games/online/iframeafg*.html
 @@||fm.ipinyou.$domain=ipinyou.com.cn
@@ -2282,7 +2283,6 @@
 @@||i.tancdn.com^$important
 @@||i.tantanapp.com^$important
 @@||i.tianqi.com^$important
-@@||i.tmgrup.com.tr^$script,stealth
 @@||i.ytimg.com
 @@||i2.bahamut.com.tw/JS/ad/animeLogo.js^$domain=ani.gamer.com.tw
 @@||i2.bahamut.com.tw/JS/ad/animeVideo.js^$domain=ani.gamer.com.tw
@@ -2510,6 +2510,7 @@
 @@||img.ads.tvb.com/news/min.js$domain=news.tvb.com
 @@||img.ads.tvb.com^
 @@||img.alicdn.com^$important
+@@||img.blesk.cz/static/data/blesk/reklama/advertisment.js
 @@||img.cmvideo.cn^$important
 @@||img.forumfree.net^$stealth
 @@||img.funshion.com^
@@ -2931,7 +2932,6 @@
 @@||mibi.api.xiaomi.com^$important
 @@||micro.rubiconproject.com/prebid/dynamic/$script,xmlhttprequest,domain=gamingbible.co.uk|ladbible.com|sportbible.com
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=cnbc.com
-@@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=sportbible.com
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=tyla.com
 @@||microsoft.com/*/p/$stealth
 @@||microsoft.com/*=wsign$stealth
@@ -2942,7 +2942,6 @@
 @@||mil.by^$stealth=dpi
 @@||mime.baidu.com^
 @@||mimg.127.net^
-@@||minecraft-forum.net/v/adblock-detection-master/advert.js
 @@||minigame.aeriagames.jp/*/ae-tpgs-$~third-party
 @@||minigame.zijieapi.com^$important
 @@||minigiants.io/ads.js
@@ -3572,6 +3571,7 @@
 @@||rainmail.xyz/storage/js/suv4.js
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
 @@||rapidrar.com/js/fuckadblock.js
+@@||rapidvid.net/vod/$stealth=referrer
 @@||raw.githubusercontent.com/wmcmurray/just-detect-adblock/master/baits
 @@||raw.githubusercontent.com^$domain=viewscreen.githubusercontent.com
 @@||rd.ias.global.rakuten.com/adv/$domain=24.rakuten.co.jp
@@ -4044,7 +4044,6 @@
 @@||taobao.com^*&adgroupid=
 @@||target.my.com/media/js/app/ads.js^
 @@||target.my.com^$~third-party,document
-@@||tawk.to^$stealth
 @@||tb.mgtv.com/sdk/*/ad-sdk.js^$script
 @@||tb1.bdstatic.com/tb/cms/ngmis/adsense/*.jpg
 @@||tbcdn.cn^*/click_track.js
@@ -4221,7 +4220,6 @@
 @@||tx163.com^$important
 @@||txc.gtimg.com/static/$stealth,domain=support.qq.com
 @@||txxx.ahcdn.com/key=$stealth
-@@||txxx.com/embed/$stealth
 @@||tybook.taoyuewenhua.net^
 @@||tyue.me^$image
 @@||u1.img.mobile.sina.cn^$important
@@ -4272,6 +4270,7 @@
 @@||upload*.jianshu.io^$stealth
 @@||upload.cc
 @@||upload.wikimedia.org/wikipedia/$image,media
+@@||uploadex.com^$elemhide
 @@||upos-sz-*.bilivideo.com^$important
 @@||upstream.to/embed-*.html$domain=javtiful.com
 @@||upstream.to/js/dnsads.js
@@ -4390,7 +4389,6 @@
 @@||wargaming.net^$stealth
 @@||watchcartoononline.io/back.jpg
 @@||watchcartoononline.io/search|$popup
-@@||watchcartoononline.io/thumbs/
 @@||wavse.com^$generichide
 @@||wb.amap.com^$important
 @@||wbapp.mobile.sina.cn^$important
@@ -4402,7 +4400,6 @@
 @@||web.skype.com^$stealth
 @@||web.vip.miui.com^$important
 @@||web.whatsapp.com^$stealth
-@@||webaudioapi.com/samples/
 @@||webbtelescope.org/files/live/sites/webb/$image,~third-party
 @@||webfail.com/image
 @@||webgains.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
