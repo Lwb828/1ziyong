@@ -1,5 +1,5 @@
-! Version: 2024-06-21 20:26:42（北京时间） 
-! Total count: 4642
+! Version: 2024-06-22 09:02:53（北京时间） 
+! Total count: 4639
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
@@ -17,7 +17,6 @@
 @@.com/ad.aspx|$domain=xdingdian.cc
 @@.com/adv/$domain=my.ctrip.com
 @@.com/click-$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
-@@.com/embed2.php?player=$stealth=referrer
 @@.com/js/a_d/$domain=colamanga.com
 @@.com/js/a_d/$domain=colamanhua.com
 @@.com/logo/ad.$domain=colamanga.com
@@ -125,6 +124,7 @@
 @@/bag2?r[]=*&r[]=$domain=free.com.tw
 @@/banner/ad/*$image,domain=achaloto.com
 @@/channel/*$subdocument,stealth=referrer,domain=redditsoccerstream.online
+@@/chunklist/*.m3u8$xmlhttprequest,stealth=referrer,domain=usgate.xyz|hdfungamezz.xyz|chrisellisonllc.xyz|arcasiangrocer.store
 @@/chunks.m3u8$stealth
 @@/clickn(download|upload)\.[a-z]{3,5}/$script,xmlhttprequest,domain=clickndownload.*|clicknupload.*
 @@/common/cf/*$domain=66u.com|changhong.com|fei3d.com|oneplusbbs.com|readboy.com
@@ -1249,7 +1249,6 @@
 @@||cdn.exmarketplace.com/bidder/video_scripts/video_updated_*.js$domain=tvserial.it
 @@||cdn.fluidplayer.com/*/current/fluidplayer.min.js
 @@||cdn.games.mobinozer.com/shared/loader/advert.js
-@@||cdn.gateway.now-plus-prod.aws-cbc.cloud^$stealth=3p-auth,domain=plus.rtl.de
 @@||cdn.hsmedia.ru/dist/$stealth,domain=maximonline.ru|woman.ru|parents.ru|vokrugsveta.ru|psychologies.ru|ellegirl.ru|wday.ru|elle.ru|marieclaire.ru
 @@||cdn.jsdelivr.net/*/clappr^
 @@||cdn.jsdelivr.net/clappr
@@ -1267,7 +1266,6 @@
 @@||cdn.lsicloud.net/kendall/Images/AD/$domain=shop.kendallelectric.com
 @@||cdn.maskinbladet.dk/*assets/templates/*/img/adblocker/ads.png
 @@||cdn.nlark.com^$image,stealth,domain=yuque.com
-@@||cdn.optimizely.com/js/$domain=account.microsoft.com
 @@||cdn.optimizely.com/js/*.js$domain=kktv.me
 @@||cdn.orangeclickmedia.com/tech/libs/ocm_iab_compliance.js$domain=protothema.gr
 @@||cdn.privatehost.com/videos*/$removeparam
@@ -1749,7 +1747,6 @@
 @@||egmobile.co.kr^$stealth=dpi
 @@||einthusan.tv/prebid.js$script,~third-party
 @@||ekamus.info^$generichide
-@@||elahmad.com/ads/fc.php
 @@||elearning.ual.pt^$stealth=dpi
 @@||elife-cloud.blogspot.com^$generichide
 @@||eloqua.com^$domain=forms.progress.com
@@ -2397,7 +2394,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ilmeteo.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=independent.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kanald.ro
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kizi.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kktv.me
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=knoxnews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kraloyun.com
@@ -2514,6 +2510,7 @@
 @@||img.cmvideo.cn^$important
 @@||img.forumfree.net^$stealth
 @@||img.funshion.com^
+@@||img.mangahasu.se^$image,stealth=referrer
 @@||img.mp.itc.cn^$important
 @@||img.soft98.ir/*/300x250.
 @@||img.tfd.com/ads.js
