@@ -1,10 +1,9 @@
-! Version: 2024-06-25 09:04:06（北京时间） 
-! Total count: 4631
+! Version: 2024-06-25 20:27:31（北京时间） 
+! Total count: 4628
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@*.myapp.com
 @@*.php?player=desktop$stealth=referrer,domain=tv1337.buzz|soccermlbstream.top|hitsports.pro|feedzstream.com|cricplay2.xyz|antenatv.shop|virazo.sx|redditsoccerstream.online
-@@*ad*.cms$domain=indiatimes.com|timesofindia.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -485,6 +484,7 @@
 @@||40017.cn^$important
 @@||423down.com^$generichide
 @@||4399sj.com^*/adview_pic_
+@@||4cdn.org/adv/$image,xmlhttprequest,domain=4channel.org
 @@||4cdn.org/js/catalog.min.*.js$domain=4chan.org
 @@||4cdn.org/js/core.min.*.js$domain=4chan.org
 @@||4cdn.org/js/extension.min.*.js$domain=4chan.org
@@ -678,6 +678,7 @@
 @@||ads.google.com^$popup
 @@||ads.imprezzer.com/js/$script,domain=mgronline.com
 @@||ads.lingxing.com^$~third-party
+@@||ads.microsoft.com^$popup
 @@||ads.midwayusa.com^$popup
 @@||ads.pinterest.com^$popup
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
@@ -850,6 +851,7 @@
 @@||anyporn.com/player/kt_player.js
 @@||anyporn.com/player/kt_player_*.jsx
 @@||aobi.100bt.com/play/ad/ad*.swf
+@@||aone-soft.com/style/images/ad2.jpg
 @@||ap.6wz.co^$important
 @@||ap6.ssl.msdk.qq.com^$important
 @@||ap6.ssl.msdk.qq.com^$important,app=com.tencent.tmgp.sgame
@@ -1680,7 +1682,6 @@
 @@||dqzsteel.com/Website/Image/guanggao/
 @@||dragate-cn.dc.heytapmobi.com^$important
 @@||dragate.dc.oppomobile.com^$important
-@@||dragonfly.opera.com/app/$document
 @@||dreamdth.com/community/js/*.js
 @@||dreport.meituan.net^$important
 @@||drive.quark.cn^
@@ -2528,7 +2529,6 @@
 @@||imtt.dd.qq.com^$important
 @@||independent.co.uk/_build/prebid.*.js$domain=independent.co.uk
 @@||indiatimes.com/configspace/
-@@||indiatimes.com/wp-content/themes/*/js/*ads*.js
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
 @@||infotop.jp/html/ad/$image,~third-party
@@ -2896,6 +2896,7 @@
 @@||mediav.com/js/reward_video_pc.min.js$domain=baiten.cn
 @@||medium.com^$stealth
 @@||medonet.pl/*&srcc=ucs$removeparam=utm_source
+@@||meet.jit.si^$stealth
 @@||mega-debrid.eu/JS/advertisement.js
 @@||megatube.xxx/atrm/s/s/js/m/pr-before.js
 @@||meiqia.com^
@@ -2971,7 +2972,6 @@
 @@||money18.on.cc/js/adbanner.js
 @@||moneysave.info^$generichide
 @@||monnsutogatya.com^$elemhide
-@@||monova.*/fonts/
 @@||monsetting.toutiao.com^
 @@||mooc-image.nosdn.127.net^
 @@||mooc-image.nosdn.127.net^$stealth
@@ -3073,7 +3073,6 @@
 @@||note.sieuthuthuat.com/js/prebid-ads.js
 @@||nouvelle-fiat500.fr/ad-pub.js$script
 @@||nowscore.com/script/common/adHelper.js
-@@||np.community.playstation.net^$stealth
 @@||npr.org/sponsorship/targeting/$other,xmlhttprequest,domain=npr.org
 @@||nsclick.baidu.com^
 @@||nsclick.baidu.com^$important
@@ -3244,7 +3243,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kitguru.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=livemint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mealcold.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mediastinger.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=metrolagu.cam
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mobile-tracker-free.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mta-resource.com
@@ -3285,6 +3283,7 @@
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=copyseeker.net
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=production-api.androidacy.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=zefoy.com
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=alliptvlinks.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/slotcar_library_$script,domain=game.anymanager.io|sudokugame.org
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hexviewer.iblogbox.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
@@ -3316,7 +3315,6 @@
 @@||payapp.weixin.qq.com^
 @@||payapp.weixin.qq.com^$important
 @@||payload.cargocollective.com^$image,~third-party
-@@||payments.braintree-api.com^$stealth
 @@||paypalobjects.com/pa/js/min/pa.js
 @@||paypalobjects.com/tagmgmt/bootstrap.js
 @@||paywall-ad-bucket.s3.amazonaws.com/ad_300_250.jpg
@@ -3925,6 +3923,7 @@
 @@||static.crunchyroll.com/*/player.html$stealth
 @@||static.doubleclick.net/instream/ad_status.js$domain=alliptvlinks.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=idlixofficials.com|idlixofficial.co|idlixofficial.net
+@@||static.doubleclick.net/instream/ad_status.js$domain=idlixplus.*
 @@||static.doubleclick.net/instream/ad_status.js$domain=investing.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=mhdtvmax.net
 @@||static.doubleclick.net/instream/ad_status.js$domain=sonixgvn.net
@@ -3986,7 +3985,6 @@
 @@||survey.feelgood.cn^
 @@||suwonlib.go.kr^$stealth=dpi
 @@||swedbank.ee^$document
-@@||swhoi.com/e/$subdocument,stealth=referrer
 @@||swsc.com.cn/download/ad_images/
 @@||sxjbjt.com^*/ad
 @@||synchrobox.adswizz.com/register2.php$script,domain=tunein.com
@@ -4322,7 +4320,6 @@
 @@||videogamesblogger.com^$csp
 @@||videoplaza.tv/resources/
 @@||videosvc.ezoic.com/play?videoID=$domain=humix.com
-@@||vidhidevip.com/embed/$subdocument,stealth=referrer
 @@||vidmoly.to/embed-$stealth
 @@||vidoza.net/embed-*.html$subdocument
 @@||vidoza.net/js/pop.js
