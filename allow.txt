@@ -1,5 +1,5 @@
-! Version: 2024-06-25 20:27:31（北京时间） 
-! Total count: 4628
+! Version: 2024-06-26 09:04:09（北京时间） 
+! Total count: 4629
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@*.myapp.com
@@ -3811,6 +3811,7 @@
 @@||snssdk.com^
 @@||snssdk.com^$important
 @@||so-net.ne.jp/access/hikari/minico/ad/images/$~third-party
+@@||sobot.com^$~third-party
 @@||sofire.baidu.com^
 @@||sofire.baidu.com^$important
 @@||soft.360.cn^$important
