@@ -1,5 +1,5 @@
-! Version: 2024-06-26 20:28:47（北京时间） 
-! Total count: 4632
+! Version: 2024-06-27 09:04:16（北京时间） 
+! Total count: 4628
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@*.myapp.com
@@ -198,7 +198,6 @@
 @@/playlist/*caxi.m3u8$xmlhttprequest,stealth=referrer,domain=methstreamer.com|crackstreamer.net|thestreameast.ai|1stream.soccer|streameast.app|1stream.eu|buffstreams.app|meth-streams.ai
 @@/pop.js|$domain=pornve.com
 @@/prebid-js-$domain=mytvsuper.com|tvb.com|tvbs.com.tw
-@@/premium*/tracks-*.html$xmlhttprequest,stealth=referrer
 @@/premium*/tracks-*/*$xmlhttprequest,stealth=referrer,domain=lewblivehdplay.ru|claplivehdplay.ru
 @@/pub/ad/*$domain=ruten.com.tw
 @@/pub1/??$domain=banggo.com
@@ -280,6 +279,7 @@
 @@clicks.$domain=cimbclicks.com.my,~third-party
 @@doubleclick.net/ads/preferences/
 @@down.360safe.com^
+@@embed/$stealth=webrtc,domain=vipbox.lc
 @@game.baifumeiba.com/login/ad/adex.js
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@http://df.tanx.com/*$domain=2345.com
@@ -742,7 +742,6 @@
 @@||ahhhhfs.com^$generichide
 @@||aiasahi.jp/ads/$image,domain=japan.techrepublic.com|japan.zdnet.com
 @@||aikanvod.miguvideo.com^$important
-@@||aimfar.solution.weborama.fr/fcgi-bin/oba.fcgi?action=opt$domain=youronlinechoices.com
 @@||airav.cc/js/td_ga_tracker.js
 @@||airchina.com.cn/dynamicAd/
 @@||airplaydirect.com/openx/www/images/$image
@@ -1110,7 +1109,6 @@
 @@||blog.ztjal.info^$generichide
 @@||blueconic.net/capitolbroadcasting.js$script,domain=wral.com
 @@||bluehost.com^
-@@||bluekai.com/online-choices^$domain=youronlinechoices.com
 @@||blueskyxn.com^
 @@||bmap6.cn^$important
 @@||boatwizard.com/ads_prebid.min.js$script,domain=boats.com
@@ -1215,11 +1213,16 @@
 @@||cdn.adpushup.com/*/adpushup.js$domain=duplichecker.com
 @@||cdn.adrise.tv/js/ads.js$domain=tubitv.com
 @@||cdn.adsninja.ca/adsninja_client.js$domain=androidpolice.com
+@@||cdn.adsninja.ca/adsninja_client.js$domain=makeuseof.com|howtogeek.com
 @@||cdn.adsninja.ca/adsninja_client_style.css$domain=androidpolice.com
+@@||cdn.adsninja.ca/adsninja_client_style.css$domain=makeuseof.com|howtogeek.com
+@@||cdn.adsninja.ca/adsninja_worker.js$domain=makeuseof.com|howtogeek.com
+@@||cdn.adsninja.ca/adsninja_worker_caller.js$domain=makeuseof.com|howtogeek.com
 @@||cdn.adsninja.ca^$domain=xda-developers.com
 @@||cdn.adswizz.com/adswizz/js/SynchroClient*.js$domain=lounge.fm
 @@||cdn.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||cdn.anilife.*/assets/img/cover/$domain=anilife.*,stealth=referrer
+@@||cdn.apple-mapkit.com/*?apiVersion=$stealth
 @@||cdn.ark.qq.com^$important
 @@||cdn.bannersnack.com/banners/$~third-party,image,subdocument
 @@||cdn.bcebos.com/passApi/$stealth
@@ -1810,7 +1813,6 @@
 @@||facebook.com/login.php$stealth
 @@||facebook.com/share/share_now_menu/$domain=facebook.com
 @@||facebook.com^$important
-@@||faculty.uml.edu^$image,stylesheet
 @@||fakt.pl/*&srcc=ucs$removeparam
 @@||fakt.pl/*?utm_source=$removeparam
 @@||familyporner.com/jesojof/js/prebid-ads.js
@@ -2191,6 +2193,7 @@
 @@||hcaptcha.com/captcha/
 @@||hcaptcha.com/captcha/$script,subdocument
 @@||hcaptcha.com^*/api.js
+@@||hdmomplayer.com/embed/$domain=dizimom.*,stealth=referrer
 @@||hdnumerique.com/tpl/jscript/advert.js
 @@||hdsky.net/ad/down.png
 @@||hdslb.com/bfs/archive/*@$domain=bilibili.com,image
@@ -2263,7 +2266,6 @@
 @@||i*.gmx.com/image
 @@||i*.imagetwist.com^$image,domain=imagetwist.com
 @@||i*.mangapanda.com^$image
-@@||i-funbox.com/images/
 @@||i.cdn.turner.com/ads/adfuel/ais/*/tbs-ais.min.js$domain=tbs.com
 @@||i.cdn.turner.com/ads/adfuel/ais/tcm-ais.js$domain=tcm.com
 @@||i.doodcdn.co/ads/ad.js
@@ -2705,7 +2707,6 @@
 @@||lemall.com/adspace/
 @@||lequ-qfe.iqiyi.com^$important
 @@||lesports.com/pc/??*/click_statistics/
-@@||letocard.fr/wp-content/uploads/$image,~third-party
 @@||letskorail.com^$stealth=dpi
 @@||lewd.ninja^$csp
 @@||lf*-baike.searchpstatp.com^
@@ -2846,13 +2847,10 @@
 @@||mangapark.net^$image
 @@||manhua.acimg.cn^$stealth,domain=ac.qq.com
 @@||manhua.weibo.com/adv/
-@@||manifest.auditude.com/auditude/*.m3u8?$domain=rickandmorty.com
 @@||manifest.googlevideo.com
 @@||manisteenews.com/sites/jquery.adx.js
 @@||manoramamax.com/videojs/videojs-contrib-ads.min.js$domain=manoramamax.com
 @@||manwa*/static/custom/files/300X250.gif
-@@||manwa.fun/static/upload/ads/*.gif?$image,~third-party
-@@||manwa.me/static/custom/files/300X250.gif
 @@||manwa.me^
 @@||map.bmcx.com^$important
 @@||map.qq.com^$important
@@ -2965,7 +2963,6 @@
 @@||moegirl.org.cn^$generichide
 @@||moggy-image-1251316161.file.myqcloud.com^$important
 @@||mojedatovaschranka.cz^$stealth=dpi
-@@||moly.cloud/*/*.m3u8$stealth
 @@||momovod.com/js/momo/adsbygoogle.js
 @@||monetize-static.viralize.tv/prebid.min.$domain=automoto.it|moto.it
 @@||monetize-static.viralize.tv/viralize_player_content$domain=majorcineplex.com
@@ -3246,11 +3243,11 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kitguru.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=livemint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mealcold.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mediastinger.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=metrolagu.cam
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mobile-tracker-free.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mta-resource.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=okdebrid.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=populistpress.com|canadafreepress.com|thelibertydaily.com|writerscafe.org|populist.press|welovetrump.com|grammarist.com|protrumpnews.com|concomber.com|videogamesblogger.com|gamersheroes.com|letocard.fr|100percentfedup.com|thepalmierireport.com|kresy.pl|beforeitsnews.com|thepatriotjournal.com|phoenixnewtimes.com|thepoke.co.uk|comicallyincorrect.com|thegatewaypundit.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=portmiamiwebcam.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=production-api.androidacy.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=quienhabla.mx,xmlhttprequest
@@ -3489,6 +3486,7 @@
 @@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=digi24.ro
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$domain=cbc.ca
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$xmlhttprequest,domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
+@@||pubads.g.doubleclick.net/ssai/event/*/streams$xmlhttprequest,domain=wsls.com
 @@||public-api.reviews.2gis.com^$stealth
 @@||public-ubiservices.ubi.com^$stealth
 @@||public.gdtimg.com^$important
@@ -4503,7 +4501,6 @@
 @@||xboxlive.com^$stealth
 @@||xboxservices.com^$stealth
 @@||xe.com^$removeparam
-@@||xfinity.com^$stealth
 @@||xhcdn.com/*/fonts$font
 @@||xhscdn.com^$image,stealth,domain=xiaohongshu.com
 @@||xhslink.com^$important
@@ -4565,7 +4562,6 @@
 @@||ykimg.com^$important
 @@||ylog.huya.com^
 @@||yogajournal.com^$stealth=dpi
-@@||you.visualdna.com/user/iab^$domain=youronlinechoices.com
 @@||youaima.com/zz/play_
 @@||youchien.net/ad/*/ad/img/$~third-party
 @@||youchien.net/css/ad_side.css$~third-party
