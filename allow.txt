@@ -1,5 +1,5 @@
-! Version: 2024-06-28 20:27:20（北京时间） 
-! Total count: 4629
+! Version: 2024-06-29 09:03:08（北京时间） 
+! Total count: 4630
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@*.mp4?$media,stealth=referrer,domain=vidtube.pro
@@ -1588,6 +1588,7 @@
 @@||delivery.consentmanager.net/delivery/cmp.php$stealth
 @@||demo.ama.pub^$generichide
 @@||deutsches-museum.de^$stealth=dpi
+@@||dev.virtualearth.net/REST/*/Autosuggest?query=$stealth=referrer
 @@||develope-oss.lanzoug.com^
 @@||developer.apple.com$generichide
 @@||developer.qcloudimg.com/http-save/$image,stealth=referrer
