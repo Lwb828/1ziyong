@@ -1,5 +1,5 @@
-! Version: 2024-06-29 20:26:28（北京时间） 
-! Total count: 4630
+! Version: 2024-06-30 09:09:57（北京时间） 
+! Total count: 4629
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@*.mp4?$media,stealth=referrer,domain=vidtube.pro
@@ -136,7 +136,6 @@
 @@/dh-anti-adblocker/public/js/adex.js
 @@/dh-anti-adblocker/public/js/prebid-ads.js
 @@/dh-new-anti-adblocker-lite/public/js/prebid-ads.js
-@@/embed/*$subdocument,stealth,domain=strims.*|daddylive.*
 @@/embed/comments^$removeparam,~third-party,domain=clickhole.com|lifehacker.com|splinternews.com|avclub.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|qz.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 @@/favicon.ico^$domain=hackintosh.zone
 @@/fingerprint.$domain=abchina.com
@@ -663,7 +662,6 @@
 @@||ads-api.twitter.com^$domain=ads.twitter.com|analytics.twitter.com
 @@||ads-twitter.com/oct.js$domain=ncsoft.jp
 @@||ads-twitter.com/uwt.js$domain=factory.pixiv.net
-@@||ads.a-static.com/ads.js|
 @@||ads.adthrive.com/api/$domain=adamtheautomator.com|mediaite.com|packhacker.com|packinsider.com
 @@||ads.adthrive.com/builds/core/*/js/adthrive.min.js$domain=adamtheautomator.com|mediaite.com|packhacker.com|packinsider.com
 @@||ads.adthrive.com/builds/core/*/prebid.min.js$domain=mediaite.com
@@ -1377,7 +1375,6 @@
 @@||cl2.webterren.com^$important
 @@||cl9a.com/static/ad/main.js
 @@||claimbits.net/static/js/noadblock.js
-@@||claplivehdplay.ru/*.ts$stealth
 @@||clarins.com.cn^
 @@||cleviationly.com/adServe/aff?cmpid=*mydealz*&dlink=$removeparam=cmpid
 @@||click.aliyun.com^
@@ -1698,7 +1695,6 @@
 @@||dropbox.com/*/oauth$document
 @@||drtuber.com^$stealth
 @@||ds2play.com^$stealth=ip
-@@||dsharer.com/-ads-banner.js
 @@||dsp.fcbox.com^$important
 @@||duapps.com^$important
 @@||duckduckgo.com^$important
@@ -1750,7 +1746,6 @@
 @@||ekamus.info^$generichide
 @@||elearning.ual.pt^$stealth=dpi
 @@||elife-cloud.blogspot.com^$generichide
-@@||eloqua.com^$domain=forms.progress.com
 @@||em.hk/wp-content/uploads/*_300_250.
 @@||emathhelp.net^$csp
 @@||embed.binkies3d.com/content/$domain=gsmarena.com
@@ -2245,6 +2240,7 @@
 @@||hotpornfile.org/*/a/na/js/*?container=naskjz
 @@||hotpornfile.org/wp-admin/admin-ajax.php$domain=hotpornfile.org
 @@||hoy.tv/wp-content/themes/vodi-child/videojs-event-tracking.js
+@@||hq.sinajs.cn^$stealth=referrer,script,domain=finance.sina.com.cn
 @@||hqq.to/js/adv/fuckadblock.js
 @@||hqq.tv/*player/*.php$popup
 @@||hqq.tv/player/embed_player.php$stealth
@@ -2927,6 +2923,7 @@
 @@||mil.by^$stealth=dpi
 @@||mime.baidu.com^
 @@||mimg.127.net^
+@@||minecraft-forum.net/v/adblock-detection-master/advert.js
 @@||minigame.aeriagames.jp/*/ae-tpgs-$~third-party
 @@||minigame.zijieapi.com^$important
 @@||minigiants.io/ads.js
@@ -3252,7 +3249,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=production-api.androidacy.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=quienhabla.mx,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ravenscans.com|oatuu.org|techedubyte.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rekidai-info.github.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rjno1.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rockmods.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
@@ -3285,6 +3281,7 @@
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=zefoy.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=alliptvlinks.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/slotcar_library_$script,domain=game.anymanager.io|sudokugame.org
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hexviewer.iblogbox.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
 @@||pagead2.googlesyndication.com^$domain=battlecats-db.com
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
@@ -3582,6 +3579,8 @@
 @@||ren.tv/video/embed/$stealth
 @@||renfei.net^$generichide
 @@||report.passport.360.cn^
+@@||republicbharat.com/_app/immutable/assets/FloatAd.*.css$domain=republicbharat.com
+@@||republicbharat.com/_app/immutable/chunks/FloatAd.*.js$domain=republicbharat.com
 @@||request-global.czilladx.com/serve/popunder.php$domain=faucetcrypto.net
 @@||res.imtt.qq.com^$important
 @@||res.mi.baidu.com^
@@ -3895,6 +3894,7 @@
 @@||st.pussyspace.net/style/03/img/x-sprite.png|
 @@||st.pussyspace.net/style/10/img/logo.png|
 @@||st.pussyspace.net/style/10/img/logo_mobile.png|
+@@||st.pussyspace.net/style/webcam.jpg|
 @@||st.todesk.com^$important
 @@||standard.co.uk/js/third-party/prebid8.$~third-party
 @@||standardmedia.co.ke/assets/js/prebid-google-ads.js
@@ -3973,7 +3973,6 @@
 @@||stream.voidboost.$stealth
 @@||streamingcommunity.*/*.js
 @@||streamwish.com/js/dnsads.js?ads
-@@||strims.in/live/*.php$stealth=referrer
 @@||stripe.com^$domain=pay.openai.com
 @@||studcat.infra.systems^$important
 @@||studioclassroom.com/ad/
