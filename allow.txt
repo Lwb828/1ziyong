@@ -1,5 +1,5 @@
-! Version: 2024-06-30 09:09:57（北京时间） 
-! Total count: 4629
+! Version: 2024-06-30 20:26:52（北京时间） 
+! Total count: 4625
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@*.mp4?$media,stealth=referrer,domain=vidtube.pro
@@ -31,7 +31,6 @@
 @@.m3u8$xmlhttprequest,domain=thestreameast.to
 @@.mp4$media,stealth=referrer,domain=sekai.one
 @@.net/click-$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
-@@.php?play_vid=$subdocument,stealth=referrer,domain=xyflv.cc
 @@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com|digit77.com|e9china.net|upxin.net
 @@.ru.com/*/tracks-$xmlhttprequest,stealth
 @@.ru/premiumtv/*.php*$subdocument,xmlhttprequest,stealth=referrer
@@ -681,7 +680,6 @@
 @@||ads.pinterest.com^$popup
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
 @@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js$domain=zeenews.india.com
-@@||ads.pubmatic.com/AdServer/js/pwtSync/$script,subdocument,domain=dnaindia.com|independent.co.uk|wionews.com
 @@||ads.pubmatic.com/adserver/js/$script,domain=zeebiz.com
 @@||ads.raidrive.com^
 @@||ads.reddit.com^$domain=myqqjd.com
@@ -1286,7 +1284,6 @@
 @@||cdn.staticfile.org^$script,domain=movieffm.net
 @@||cdn.taboola.com/magazine/$domain=taboolanews.com
 @@||cdn.theguardian.tv/ad/*.m3u8$domain=theguardian.com
-@@||cdn.turner.com/*.swf
 @@||cdn.vox-cdn.com/packs/js/concert_ads-*.js$domain=arrowheadpride.com
 @@||cdn.vox-cdn.com/packs/js/concert_ads-*.js$domain=bavarianfootballworks.com
 @@||cdn.vox-cdn.com/packs/js/concert_ads-*.js$domain=goldenstateofmind.com
@@ -1527,6 +1524,7 @@
 @@||cstnet.cn/r/cms/cstnet/zh_CN/ad/index/
 @@||ctrip.com/Customer-Market-Proxy/AdCallProxyV2.$~third-party
 @@||ctrip.com^$important
+@@||cw-api.takeaway.com^$stealth=3p-auth
 @@||cy.com/hz/*/ad
 @@||cy.com^$generichide
 @@||cyberdean.fr/js/advertisement.js
@@ -1696,6 +1694,7 @@
 @@||drtuber.com^$stealth
 @@||ds2play.com^$stealth=ip
 @@||dsp.fcbox.com^$important
+@@||dtdc.com/tracking/
 @@||duapps.com^$important
 @@||duckduckgo.com^$important
 @@||duelmeta.com^$generichide
@@ -1949,7 +1948,6 @@
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
 @@||gardenista.com/assets/scripts/advert.js
 @@||gateway.kugou.com^$important
-@@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest
 @@||gaugau.futabanet.jp^$removeparam=utm_content
 @@||gaus.ee^$generichide
 @@||gbf.wiki/images/$image,~third-party
@@ -2483,7 +2481,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/outstream.js$domain=wanted5games.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=13tv.co.il
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=cadenaser.com|tunein.com
-@@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=foodnetwork.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=investigationdiscovery.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=motortrend.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=pluto.tv
@@ -2698,6 +2695,7 @@
 @@||lc-cn-n1-shared.com^
 @@||ldxinyong.com^$generichide
 @@||leaklinks.com/js/prebid-ads.js
+@@||leerolymp.com/_nuxt/300-250.$script,~third-party
 @@||lefile.cn/??*,
 @@||lemall.com/adspace/
 @@||lequ-qfe.iqiyi.com^$important
@@ -3924,7 +3922,6 @@
 @@||static.anyporn.com/bravoplayer/fluidplayer.js
 @@||static.anyporn.com/bravoplayer/scripts/bpconfig.js
 @@||static.clmbtech.com/ad/commons/js/colombia_v2.js$domain=indiatimes.com
-@@||static.criteo.net/js/ld/publishertag.js$domain=shinden.pl
 @@||static.crunchyroll.com/*/player.html$stealth
 @@||static.doubleclick.net/instream/ad_status.js$domain=alliptvlinks.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=idlixofficials.com|idlixofficial.co|idlixofficial.net
@@ -4017,7 +4014,6 @@
 @@||tagmanager.google.com^$document
 @@||tagmp3.net/ads.js
 @@||tags.crwdcntrl.net/*/cc_af_ajax.js$domain=infinitiq50.org
-@@||tags.crwdcntrl.net/*?ns=_$domain=indiatimes.com
 @@||tags.crwdcntrl.net^$domain=weather.com
 @@||tagtic.cn^
 @@||taipit-mebel.ru/upload/resize_cache/$image,~third-party
