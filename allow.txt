@@ -1,5 +1,5 @@
-! Version: 2024-07-01 09:11:46（北京时间） 
-! Total count: 4623
+! Version: 2024-07-01 20:29:18（北京时间） 
+! Total count: 4625
 @@&ad_type=$domain=ultimate-guitar.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@*.mp4?$media,stealth=referrer,domain=vidtube.pro
@@ -631,6 +631,7 @@
 @@||adblockanalytics.com^|$domain=pearos.xyz
 @@||adcdn.pingan.com^
 @@||addon.dismall.com/resource/*/ad
+@@||addons.opera.com/ru/extensions/details/$stealth
 @@||addons.opera.com^$stealth
 @@||adguard.com^$stealth
 @@||adidasapp.api.adidas.com.cn^$important
@@ -968,6 +969,7 @@
 @@||asimgs.pplive.cn
 @@||ask.qcloudimg.com^$stealth,domain=cloud.tencent.com
 @@||assbbs.com^$generichide
+@@||assets.ctfassets.net^$media,domain=ads.spotify.com
 @@||assets.evolutionadv.it/optiload/*/optiload_video.min.js$domain=adnkronos.com
 @@||assets.evolutionadv.it/prebid/*/prebid.min.js$domain=adnkronos.com
 @@||assets.giocdn.com/2.1/gio.js$domain=saicmg.com
@@ -1890,6 +1892,7 @@
 @@||fs-im-kefu.7moor-fs1.com^$important
 @@||fscinda.com/ad/$~third-party
 @@||fundingchoicesmessages.google.com/f^$domain=adshnk.com
+@@||fundingchoicesmessages.google.com^$domain=rocketnews24.com|soranews24.com|youpouch.com,stealth
 @@||fundingchoicesmessages.google.com^$domain=ytlarge.com
 @@||fundingchoicesmessages.google.com^$script,domain=soranews24.com
 @@||fundingchoicesmessages.google.com^$stealth=referrer
@@ -2286,7 +2289,6 @@
 @@||ibon.com.tw/imageserver/images/ad_file/
 @@||ic.snssdk.com^
 @@||icantw.com/platform/cover_ad/cover_ad.js
-@@||icashier.alipay.com^$domain=aliexpress.com
 @@||icbc.com.cn/ICBC_ADJS/
 @@||icbc.com.cn/Portal_Resources/Common/AdCss/
 @@||icbc.com.cn/Portal_Resources/Common/AdRes/
@@ -2437,6 +2439,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvp.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvp.pl|tvp.info
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ultimedia.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.capital.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.deejay.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.gazzetta.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.lastampa.it
@@ -2747,7 +2750,6 @@
 @@||linkconnector.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||linksynergy.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||linkvertise.com/assets/ads.js
-@@||lirarate.org/tardisrocinante/screx.js
 @@||litv.tv/ads/ads.js
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-
 @@||liumingye.cn^$generichide
@@ -3082,6 +3084,7 @@
 @@||o2o.api.xiaomi.com^$important
 @@||oasjs.kataweb.it/adsetup*.js$domain=huffingtonpost.it
 @@||oasjs.kataweb.it/adsetup*.js$domain=video.lastampa.it
+@@||oasjs.kataweb.it/adsetup.real.js$domain=video.capital.it
 @@||oasjs.kataweb.it/adsetup.real.js$domain=video.deejay.it
 @@||oasjs.kataweb.it/adsetup.real.js$domain=video.repubblica.it
 @@||oasjs.kataweb.it/adsetup_cmp.js$domain=repubblica.it
@@ -3951,7 +3954,6 @@
 @@||stats.gc.apple.com^
 @@||statsig.com^
 @@||statusapi.micloud.xiaomi.net^$important
-@@||stcaimcu.com/data/attachment/common/cf/stc_logo_
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
 @@||stereonet.com^$stealth=dpi
 @@||stereophile.com^$elemhide
@@ -4595,6 +4597,7 @@
 @@||yun.rili.cn^$important
 @@||yunduanxin.xyz/static/js/banger.js
 @@||yunjiasu.com^
+@@||yunjiema.top/static/ad/ads.js$domain=yunjiema.top
 @@||yunjiema.top/static/js/wpsafelink.js
 @@||yygsz.com^$generichide
 @@||z.moatads.com^$script,domain=standard.co.uk
@@ -4618,7 +4621,6 @@
 @@||zmovs.com/js/pop.js
 @@||zmtt.net^$script,domain=luoqiuzw.com
 @@||zohopublic.com^*/ADManager_$subdocument,xmlhttprequest,domain=manageengine.com|zohopublic.com
-@@||zonebourse.com/js/googleads.js
 @@||zpmobi.cn^*/ad.css?$stylesheet
 @@||ztgame.com^
 @@||zxc.nyaa-tan.my.id/js/-ads-banner.js$domain=kusonime.com
