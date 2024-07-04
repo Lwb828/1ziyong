@@ -1,5 +1,5 @@
-! Version: 2024-07-04 09:04:47（北京时间） 
-! Total count: 4446
+! Version: 2024-07-04 20:27:27（北京时间） 
+! Total count: 4443
 @@&ad_type=$domain=ultimate-guitar.com
 @@*.mp4?$media,stealth=referrer,domain=vidtube.pro
 @@*.myapp.com
@@ -476,7 +476,6 @@
 @@||aax-eu.amazon-adsystem.com/s/yoc^$domain=youronlinechoices.com
 @@||abchina.com^*ad
 @@||abema-tv.com^$domain=abema.tv,stealth=3p-auth
-@@||abema.tv^$stealth=ip
 @@||aboluowang.com^$generichide
 @@||about.gitlab.cn^$important
 @@||abtest3-misc-lf.zijieapi.com^
@@ -635,7 +634,6 @@
 @@||adv.asahi.com^$popup
 @@||adv.bebad.it/js/ads.js$domain=badtaste.it
 @@||adv.ccb.com^
-@@||adv.clickadu.com^$domain=adv.clickadu.com
 @@||adv.gg^$popup
 @@||adv.lack-girl.com/_assets/$image,stylesheet,script,~third-party
 @@||adv.sec.miui.com^$important
@@ -900,6 +898,7 @@
 @@||atozmath.com^$cookie
 @@||attach.mobile01.com/image/mod_ad/*$domain=mobile01.com
 @@||audid-api.taobao.com^$important
+@@||audiostream.com^$elemhide
 @@||audiotag.info/images/banner
 @@||audiotag.info/js/adblockDetectorWithGA.js
 @@||auditude.com^
@@ -1183,7 +1182,6 @@
 @@||cdn.watch.aetnd.com^$domain=fyi.tv|cdn.watch.aetnd.com
 @@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
 @@||cdn.ynuf.aliapp.org^
-@@||cdn1.img4kora.com/assets/js/clever_ads.js
 @@||cdn13.com/*.mp4?$domain=xhamster.com
 @@||cdn13.com^$stealth,media
 @@||cdn4.tennistemple.com/js/advert.js|$script,~third-party
@@ -2608,6 +2606,7 @@
 @@||lightningmaps.org/min/index.php?f=js/
 @@||limbopro.com^$important
 @@||linetv.tw^*/scripts/ads.js
+@@||linkbucks.com/tmpl/$image,stylesheet
 @@||linkconnector.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||linksynergy.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||linkvertise.com/assets/ads.js
@@ -4044,7 +4043,6 @@
 @@||ui.ads.microsoft.com^$~third-party
 @@||ujinbi.com/UpLoadFile/guanggao/
 @@||ujjivansfb.in^$stealth=dpi
-@@||ukbride.co.uk/css/*/adverts.css
 @@||uland.taobao.com^$important
 @@||ulifestyle.com.hk/store/prod/iskypost/res/js/dfp-
 @@||ulive-interact.uc.cn^
@@ -4152,7 +4150,6 @@
 @@||vip-pro.m.yhd.com^$important
 @@||vip.iqiyi.com^$important
 @@||vip1.kuwo.cn^
-@@||vipi.tv/ads.js
 @@||vipstatic.com/img/share/blank.png
 @@||virpe.cc/includes/js/adver.js
 @@||virtualearth.net^$stealth,domain=bing.com
@@ -4160,7 +4157,6 @@
 @@||viu.tv^$generichide
 @@||vivo.bg/gpt.js
 @@||vivud.com/js/pop.js
-@@||viwlivehdplay.ru/mono.php?id=$stealth
 @@||vjs.zencdn.net/*/video-js.css
 @@||vk.com/*.php?__query=$document
 @@||vlist.se/advertisement.js
@@ -4171,6 +4167,7 @@
 @@||vodjk.com/offlights.js
 @@||volcengine-cache-weboffice.wpscdn.cn^$important
 @@||volcengine-kdocs-cache.wpscdn.cn^$important
+@@||vpnsplit.com/ads/advertisement.js
 @@||vps.uc.cn^
 @@||vv.video.qq.com^$important
 @@||vvic.com/monetize/ads/index/
