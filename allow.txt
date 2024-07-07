@@ -1,5 +1,5 @@
-! Version: 2024-07-06 20:25:07（北京时间） 
-! Total count: 4290
+! Version: 2024-07-07 09:10:22（北京时间） 
+! Total count: 4286
 @@&ad_type=$domain=ultimate-guitar.com
 @@*.mp4?$media,stealth=referrer,domain=vidtube.pro
 @@*.myapp.com
@@ -560,7 +560,6 @@
 @@||adocean.pl/ad.xml$domain=imasdk.googleapis.com,badfilter
 @@||adoi.cn^$generichide
 @@||adpop.me^$domain=adpop.me
-@@||adroll.com/edaa^$domain=youronlinechoices.com
 @@||ads-api.twitter.com/*/accounts/$domain=analytics.twitter.com
 @@||ads-api.twitter.com^$domain=ads.twitter.com|analytics.twitter.com
 @@||ads-twitter.com/oct.js$domain=ncsoft.jp
@@ -761,6 +760,7 @@
 @@||api-unionid.meituan.com^$important
 @@||api.1plus1.video^$stealth
 @@||api.account.xiaomi.com^$important
+@@||api.adguard-dns.io/api/
 @@||api.adinplay.com/$xmlhttprequest,domain=taming.io
 @@||api.adinplay.com/libs/aiptag/$script
 @@||api.adinplay.com/libs/aiptag/*/tag.min.js$domain=crazygames.com
@@ -854,7 +854,6 @@
 @@||appnee.com/clever_ads.js
 @@||apps.skype.com$jsinject
 @@||appsupport.qq.com^$important
-@@||appzdam.net^$elemhide
 @@||apv-launcher.minute.ly/api/$script
 @@||aqy103.com/js/aqy/main.js
 @@||aranzulla.it/_adv/
@@ -1527,6 +1526,7 @@
 @@||down.sandai.net^
 @@||download.adguard.com^
 @@||download.megaup.net/*.js$~third-party
+@@||download.megaup.net/openads.js$script,~third-party
 @@||download.mokeedev.com^$genericblock,generichide
 @@||downloader.disk.yandex.$stealth
 @@||downloadly.ir^$stealth
@@ -2262,7 +2262,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sondakika.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=spox.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=stack.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tenceretv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=timesnownews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvid.in
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvn24.pl|tvn.pl
@@ -2366,7 +2365,6 @@
 @@||inpad.com.tw/data/adv/
 @@||input.shouji.sogou.com^$important
 @@||insidemarketing.eu/cdn/lib/js/adsframe.js
-@@||insight.adsrvr.org/track/edaa^$domain=youronlinechoices.com
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
 @@||instagram.com/api/v1/ads/$~third-party,xmlhttprequest
 @@||instagram.com^$important
@@ -2593,6 +2591,7 @@
 @@||logo.clearbit.com^$image,domain=securitytrails.com
 @@||logs.game.qq.com^$important
 @@||loki.delve.office.com/api/$stealth
+@@||lokopromo.com^*/adsimages/$~third-party
 @@||lol.qq.com^$important
 @@||loltmcheck.com/js/ads.js
 @@||lookcam.com/fuckadblock.js
@@ -2900,7 +2899,6 @@
 @@||openap-alps.51y5.net^$important
 @@||opencloud.wostore.cn^$important
 @@||oppo.yidianzixun.com^$important
-@@||opt.semasio.net/optsvc^$domain=youronlinechoices.com
 @@||optout.mookie1.com/optout
 @@||optout.networkadvertising.org^$document
 @@||orange-dc.alibaba.com^$important
@@ -2994,6 +2992,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rjno1.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rockmods.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sammobile.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=satdl.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=shahid4u1.vip|elktob.online
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smallseotools.com,badfilter
@@ -4071,7 +4070,6 @@
 @@||wenxuecity.com^$generichide
 @@||wgo.mmstat.com^
 @@||wgun.net^$elemhide
-@@||wideiptv.top/*/embed.html?token=*&remote=no_check_ip$stealth
 @@||widget.gleamjs.io^
 @@||widget.mibbit.com^$important
 @@||widgets.jobbio.com^*/display.min.js$domain=interestingengineering.com
@@ -4154,7 +4152,6 @@
 @@||www.pussyspace.net/upload/no_img.jpg|
 @@||www.recaptcha.net^$important
 @@||www.ruanyifeng.com^$csp=script-src 'self' * 'sha256-0McqMM66/wAVZmxF6zXpjNsb1UMbTl4LXBXdhqPKxws='
-@@||www.ticketmaster.$popup,domain=adclick.g.doubleclick.net
 @@||www.tudou.com^$important
 @@||www.xvideos.com^$important
 @@||www.youtube-nocookie.com
@@ -4276,7 +4273,6 @@
 @@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
 @@||zhuti.xiaomi.com^
 @@||zhwnlapi.etouch.cn^$important
-@@||ziffdavis.com/edaa^$domain=youronlinechoices.com
 @@||zive.cz/Client.Scripts/advertisment.js
 @@||zjjcxy.cn^*/ad.css?$stylesheet
 @@||zkres.myzaker.com^$important
