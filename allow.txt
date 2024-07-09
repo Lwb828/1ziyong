@@ -1,5 +1,5 @@
-! Version: 2024-07-08 20:28:30（北京时间） 
-! Total count: 4288
+! Version: 2024-07-09 09:05:37（北京时间） 
+! Total count: 4291
 @@&ad_type=$domain=ultimate-guitar.com
 @@*.mp4?$media,stealth=referrer,domain=vidtube.pro
 @@*.myapp.com
@@ -1099,6 +1099,7 @@
 @@||cdn.adsninja.ca^$domain=xda-developers.com
 @@||cdn.adswizz.com/adswizz/js/SynchroClient*.js$domain=lounge.fm
 @@||cdn.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
+@@||cdn.ampproject.org^$script,domain=rocketnews24.com|soranews24.com|youpouch.com,stealth
 @@||cdn.anilife.*/assets/img/cover/$domain=anilife.*,stealth=referrer
 @@||cdn.apple-mapkit.com/*?apiVersion=$stealth
 @@||cdn.ark.qq.com^$important
@@ -1165,6 +1166,7 @@
 @@||cdn.vox-cdn.com/packs/js/concert_ads-*.js$domain=theverge.com
 @@||cdn.watch.aetnd.com^$domain=fyi.tv|cdn.watch.aetnd.com
 @@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
+@@||cdn1.img4kora.com/assets/js/clever_ads.js
 @@||cdn13.com/*.mp4?$domain=xhamster.com
 @@||cdn13.com^$stealth,media
 @@||cdn4.tennistemple.com/js/advert.js|$script,~third-party
@@ -1184,6 +1186,7 @@
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.js
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$domain=televisiongratishd.com
+@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$domain=androidaba.com
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$domain=papalah.com
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$domain=sadistic.pl
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/jquery.min.js$domain=ouo.press|ouo.io
@@ -2125,6 +2128,7 @@
 @@||icbc.com.cn/icbc/include/AD_
 @@||ichnaea-web.netflix.com^$important
 @@||icloud.com^$stealth
+@@||id.atlassian.com^$stealth
 @@||id.mail.wo.cn^$important
 @@||id.skyeng.ru^$stealth
 @@||id.vk.com/auth$jsinject
@@ -2598,7 +2602,6 @@
 @@||lookcam.com/fuckadblock.js
 @@||looker.com/api/internal/$~third-party
 @@||lootup.me/assets/js/ads-prebid.js
-@@||lostpod.space/static/streaming-playlists/$domain=videos.john-livingston.fr
 @@||lpg-forum.pl/ad-blocker.js
 @@||lpl.qq.com^$important
 @@||lso.ca^$stealth=dpi
@@ -2647,7 +2650,6 @@
 @@||marketplace.xbox.com^$document
 @@||mars.jd.com^$important
 @@||masterkong.com.cn/adimages/
-@@||mathworks.com^$stealth
 @@||mb.yidianzixun.com^$important
 @@||mbank.pl^$stealth=dpi
 @@||mbd.baidu.com^$important
@@ -2910,8 +2912,7 @@
 @@||osym.gov.tr^$stealth=dpi
 @@||otheve.beacon.qq.com^$important
 @@||ott.yandex.ru^$stealth
-@@||outkick.com/wp-content/plugins/advanced-ads-pro/assets/js/
-@@||outkick.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js
+@@||outlook.live.com/owa/projection.aspx$document
 @@||outlook.live.com^$cookie=OParams
 @@||outsideonline.com^$stealth=dpi
 @@||ovh.webshark.pl/adserver/*/main_script.js?advertise_check=1
@@ -3509,6 +3510,7 @@
 @@||slit.cn/source/plugin/unadblock/*.js
 @@||sm.cn^$important
 @@||smartadserver.com/genericpost$domain=filmweb.pl
+@@||smartstore.naver.com^$stealth=useragent
 @@||smotrim.ru^$stealth=referrer
 @@||smsks1.cmpassport.com^$important
 @@||smsonline.cloud^$generichide
@@ -3552,7 +3554,6 @@
 @@||speedtest.net/api/api.php
 @@||speedtest.net/api/js/user-settings|$xmlhttprequest
 @@||speedtest.net/javascript/ads.js
-@@||speedtestcustom.com^$subdocument,stealth
 @@||spolecznosci.net/core/*/main.js$domain=shinden.pl
 @@||spolecznosci.net/js/modules/*.js$domain=shinden.pl
 @@||sports.ru^*/adfox.$xmlhttprequest
@@ -4015,6 +4016,8 @@
 @@||vlist.se/advertisement.js
 @@||vlscppe.microsoft.com/fp/tags.js$stealth
 @@||vmeas.cloud/hls/$stealth
+@@||vms-players.minutemediaservices.com^$script,domain=si.com
+@@||vms-videos.minutemediaservices.com^$xmlhttprequest,domain=si.com
 @@||vmware.com^$important
 @@||vo.msecnd.net^$domain=gsmarena.com
 @@||vodjk.com/offlights.js
