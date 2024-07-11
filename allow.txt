@@ -1,5 +1,5 @@
-! Version: 2024-07-11 09:06:23（北京时间） 
-! Total count: 4290
+! Version: 2024-07-11 20:28:06（北京时间） 
+! Total count: 4295
 @@&ad_type=$domain=ultimate-guitar.com
 @@*.mp4?$media,stealth=referrer,domain=vidtube.pro
 @@*.myapp.com
@@ -238,6 +238,7 @@
 @@185.88.236.77:443$network
 @@1anime.me/template/conch/asset/js/hlhtml.
 @@212.103.68.8:443$network
+@@43.240.156.118:8443^$stealth=referrer
 @@5.148.189.203:443$network
 @@5.148.189.204:443$network
 @@5.148.189.205:443$network
@@ -904,6 +905,7 @@
 @@||avgle.com/embed/$genericblock,generichide
 @@||avpgalaxy.net/gpt.js
 @@||aweme.snssdk.com^$important
+@@||awempire.com/*/css/*.css$domain=awempire.com
 @@||awempt.com/embed/$script,domain=sexcamfreeporn.com
 @@||awin1.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||ay.delivery/client-v2.js$script,domain=diep.io
@@ -1219,6 +1221,8 @@
 @@||cheatsquad.gg/javascript/ad*.js
 @@||check.ddos-guard.net/check.js
 @@||checkfresh.com/js/prebid-ads.js
+@@||checkout.paddle.com^$elemhide,jsinject,content
+@@||chemicalbook.com^$stealth
 @@||cherrymx.de^$stealth=dpi
 @@||cheshi-img.com/ad/csad_2019.js
 @@||chicksonright.com^$csp,~third-party
@@ -1605,7 +1609,6 @@
 @@||embed.binkies3d.com/content/$domain=gsmarena.com
 @@||embed.ex.co^$xmlhttprequest,domain=espncricinfo.com
 @@||embed.redditmedia.com/widgets/platform.js$domain=gamerant.com
-@@||embed.watchanimesub.net/inc/embed/kampyle.js
 @@||emjcd.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||emome.net/files/advertising/
 @@||en.bongacash.com/js/videojs/video.js$domain=pornsocket.com
@@ -1661,6 +1664,7 @@
 @@||facebook.com/login.php$stealth
 @@||facebook.com/share/share_now_menu/$domain=facebook.com
 @@||facebook.com^$important
+@@||faculty.uml.edu^$image,stylesheet
 @@||familyporner.com/jesojof/js/prebid-ads.js
 @@||fang.com/stats/clickm2011.js
 @@||fangcloud.com^$generichide
@@ -2037,6 +2041,7 @@
 @@||hellomagazine.com^$stealth=dpi
 @@||hellporno.net/_a_ht/s/s/js/ssu.v2.js
 @@||hellporno.net/_a_ht/s/s/su.php?
+@@||help.ea.com^$stealth
 @@||hermes.hupu.com^$important
 @@||heytapimage.com^$third-party,domain=news.heytapdownload.com
 @@||hh010.com^$generichide
@@ -2089,7 +2094,6 @@
 @@||humix.com/beardeddragon/wyvern.js
 @@||huntington.com^$document
 @@||hutchgo.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
-@@||hvg.hu/Content/redesign/js-notbundled/showads.js
 @@||hvz.baden-wuerttemberg.de$stealth=dpi
 @@||i*.gmx.com/image
 @@||i*.imagetwist.com^$image,domain=imagetwist.com
@@ -2894,7 +2898,6 @@
 @@||online.cosmosbank.in^$document
 @@||online.tivo.com^$elemhide,jsinject
 @@||online.unionpay.com/ads/$script
-@@||onlinehdhls.ru/*/playlist.m3u8$stealth
 @@||onlinemschool.com/script/ads.js
 @@||onlinemschool.com/script/ads1.js
 @@||openap-alps.51y5.net^$important
@@ -2960,6 +2963,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=copyseeker.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=crazygames.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cutty.app
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=darkwiki.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=di.fm
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=door2windows.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=drivedrama.com|puressh.net|iptvbin.com|htnovo.net|frendz4m.org|bestnhl.com|safbits.com|codenova-center.web.app|rivanimation.com|elbierzodigital.com|uploadrar.com|vknsorgula.net|safelink.asia
@@ -3375,7 +3379,6 @@
 @@||sdk.open.talk.gepush.com^
 @@||sdk.open.talk.gepush.com^$important
 @@||sdkconfig.ad.xiaomi.com^$important
-@@||sdltutorials.com/Data/Ads/AppStateBanner.jpg$~third-party
 @@||se.360.cn^
 @@||seadragons.io/ads.js
 @@||search.brave.com/search$xmlhttprequest
@@ -3726,6 +3729,7 @@
 @@||taobao.com^*&adgroupid=
 @@||target.my.com/media/js/app/ads.js^
 @@||target.my.com^$~third-party,document
+@@||tawk.to^$stealth
 @@||tb.mgtv.com/sdk/*/ad-sdk.js^$script
 @@||tbcdn.cn^*/click_track.js
 @@||tbm-auth.alicdn.com^$important
@@ -3825,7 +3829,6 @@
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
 @@||track.adform.net/*cpdir=$popup,domain=pepper.*
 @@||track.sohu.com^
-@@||track.ukrposhta.ua^$stealth
 @@||track.webgains.com/click.html?$popup,domain=pepper.*
 @@||tracker.ai.xiaomi.com^
 @@||tracker.ai.xiaomi.com^$important
@@ -4074,6 +4077,7 @@
 @@||wenxuecity.com^$generichide
 @@||wgo.mmstat.com^
 @@||wgun.net^$elemhide
+@@||wideiptv.top/*/embed.html?token=*&remote=no_check_ip$stealth
 @@||widget.gleamjs.io^
 @@||widget.mibbit.com^$important
 @@||widgets.jobbio.com^*/display.min.js$domain=interestingengineering.com
@@ -4263,6 +4267,7 @@
 @@||yun.rili.cn^$important
 @@||yunduanxin.xyz/static/js/banger.js
 @@||yunjiasu.com^
+@@||yunjiema.top/static/ad/ads.js$domain=yunjiema.top
 @@||yunjiema.top/static/js/wpsafelink.js
 @@||yygsz.com^$generichide
 @@||z.moatads.com^$script,domain=standard.co.uk
