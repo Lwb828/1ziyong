@@ -1,5 +1,5 @@
-! Version: 2024-07-13 20:25:07（北京时间） 
-! Total count: 4289
+! Version: 2024-07-14 09:11:25（北京时间） 
+! Total count: 4290
 @@&ad_type=$domain=ultimate-guitar.com
 @@*.mp4?$media,stealth=referrer,domain=vidtube.pro
 @@*.myapp.com
@@ -2330,6 +2330,7 @@
 @@||img.alicdn.com^$important
 @@||img.blesk.cz/static/data/blesk/reklama/advertisment.js
 @@||img.cmvideo.cn^$important
+@@||img.jbzj.com^$important
 @@||img.mangahasu.se^$image,stealth=referrer
 @@||img.mp.itc.cn^$important
 @@||img.soft98.ir/*/300x250.
