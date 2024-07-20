@@ -1,5 +1,5 @@
-! Version: 2024-07-19 20:27:23（北京时间） 
-! Total count: 4295
+! Version: 2024-07-20 09:10:54（北京时间） 
+! Total count: 4298
 @@&ad_type=$domain=ultimate-guitar.com
 @@*.mp4?$media,stealth=referrer,domain=vidtube.pro
 @@*.myapp.com
@@ -541,7 +541,6 @@
 @@||adligature.com^|$xmlhttprequest,domain=work.ink
 @@||adlink.wf^
 @@||admin.mailchimp.com^
-@@||admob.google.com/static/$domain=admob.google.com
 @@||adnet.pravda.com/examples/adriver.core.2.minifire.js
 @@||adnet.qq.com^$~third-party
 @@||adnmb3.com^
@@ -566,6 +565,7 @@
 @@||ads.adthrive.com/sites/$script,domain=adamtheautomator.com|mediaite.com|packhacker.com|packinsider.com
 @@||ads.alafish.cn^$~third-party
 @@||ads.cdn.tvb.com^*.key
+@@||ads.dblink.us$~image,~third-party
 @@||ads.elevateplatform.co.uk^$popup
 @@||ads.exoclick.com/ads.js$domain=sss.xxx|hdzog.com|hclips.com
 @@||ads.google.com^$domain=accounts.google.com
@@ -910,6 +910,7 @@
 @@||bachhoaxanh.com^$stealth=dpi
 @@||backpacker.com^$stealth=dpi
 @@||bagehd.com/iplookup.
+@@||bahn.de/*/*/suche$stealth=referrer
 @@||baidu-taobao-av.com/js/home.js
 @@||baidu-taobao-av.com/js/jquery.
 @@||baidu.com/h.js$domain=19lou.com|baomihua.com|ihome99.com
@@ -1603,6 +1604,7 @@
 @@||embed.binkies3d.com/content/$domain=gsmarena.com
 @@||embed.ex.co^$xmlhttprequest,domain=espncricinfo.com
 @@||embed.redditmedia.com/widgets/platform.js$domain=gamerant.com
+@@||embed.watchanimesub.net/inc/embed/ads.js
 @@||emjcd.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||emome.net/files/advertising/
 @@||en.bongacash.com/js/videojs/video.js$domain=pornsocket.com
@@ -1699,6 +1701,7 @@
 @@||fluidplayer.com^$script,stylesheet,domain=canyoublockit.com
 @@||flydigi.com^
 @@||flyert.com/plug/socialShare/js/social-share.
+@@||flying-lines.com/banners/$image,~third-party
 @@||flyme.cn^$important
 @@||flyordie.com/games/online/iframeafg*.html
 @@||fm.ipinyou.$domain=ipinyou.com.cn
@@ -2330,7 +2333,6 @@
 @@||img.ads.tvb.com/news/min.js$domain=news.tvb.com
 @@||img.ads.tvb.com^
 @@||img.alicdn.com^$important
-@@||img.blesk.cz/static/data/blesk/reklama/advertisment.js
 @@||img.cmvideo.cn^$important
 @@||img.jbzj.com^$important
 @@||img.mangahasu.se^$image,stealth=referrer
@@ -2628,6 +2630,7 @@
 @@||m.zhuanzhuan.com^$important
 @@||mac.bmcx.com^
 @@||macauo2o.com/advertise/
+@@||magni.itv.com/playlist/$stealth=ip
 @@||mail.google.com/mail/$stealth
 @@||mail.qq.com^$important
 @@||mail.td^$generichide
@@ -2652,6 +2655,7 @@
 @@||maps.googleapis.com^$domain=last.fm,script
 @@||market.m.taobao.com^$important
 @@||market.mi-img.com^$important
+@@||marketools.plus500.com/Widgets/RegistrationWidget/*$domain=investing.com
 @@||marketplace.xbox.com^$document
 @@||mars.jd.com^$important
 @@||masterkong.com.cn/adimages/
@@ -3001,10 +3005,10 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=shahid4u1.vip|elktob.online
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smallseotools.com,badfilter
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smsget.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=soisk.pl
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sportskeeda.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=stockstracker.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=thizissam.in
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=updato.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vladan.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=zefoy.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=app.axenthost.com
@@ -3170,7 +3174,6 @@
 @@||prod.fennec.atp.fox/js/fennec.js$domain=freemcserver.net
 @@||profile.csdnimg.cn^
 @@||promo.awempire.com/live_feeds/script_basic_livefeed.php?$domain=sexcamdb.com
-@@||promo.com/embed/$subdocument,third-party
 @@||promods.net/*.js$~third-party
 @@||protoawe.com/embed/*/?psid=*&accessKey=*jasminVideoPlayerContainer$domain=pornhd.com
 @@||protoawe.com/tube-player/?psid=*&accessKey=*jasminVideoPlayerContainer$domain=pornhd.com
@@ -3300,6 +3303,7 @@
 @@||reimg.org/images^$image,stealth=referrer
 @@||ren.tv/video/embed/$stealth
 @@||renfei.net^$generichide
+@@||repo.realmoasis.com/storage/$stealth=referrer,domain=rizzfables.com
 @@||republicbharat.com/_app/immutable/assets/FloatAd.*.css$domain=republicbharat.com
 @@||republicbharat.com/_app/immutable/chunks/FloatAd.*.js$domain=republicbharat.com
 @@||request-global.czilladx.com/serve/popunder.php$domain=faucetcrypto.net
@@ -3437,7 +3441,6 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com|jytechs.in
 @@||securevideotoken.tmgrup.com.tr/webtv/secure^$stealth
 @@||securitykiss.com$document
-@@||securitytrails.com/app/api/$domain=securitytrails.com
 @@||securitytrails.com/domain/$domain=securitytrails.com
 @@||self.events.data.microsoft.com^$important
 @@||selfimg.com.cn/??
@@ -3537,6 +3540,7 @@
 @@||sohu.com/play/videonew.do?*/share_play.
 @@||sohu.com/upload/static/share/share_play.html
 @@||solve-all-problems.info/googleads.js
+@@||solvetube.site/*js$domain=solvetube.site
 @@||sonar.viously.com^$domain=clubic.com
 @@||sonar.viously.com^$domain=supertoinette.com
 @@||soufunimg.com/??*/fshare.
@@ -3889,7 +3893,6 @@
 @@||twitter.com$domain=bleacherreport.com
 @@||tx163.com^$important
 @@||txc.gtimg.com/static/$stealth,domain=support.qq.com
-@@||txxx.ahcdn.com/key=$stealth
 @@||tyue.me^$image
 @@||u1.img.mobile.sina.cn^$important
 @@||uc-titans-cn-01.heytapimage.com^$important
