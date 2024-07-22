@@ -1,5 +1,5 @@
-! Version: 2024-07-21 20:26:43（北京时间） 
-! Total count: 4297
+! Version: 2024-07-22 09:08:29（北京时间） 
+! Total count: 4299
 @@&ad_type=$domain=ultimate-guitar.com
 @@*.mp4?$media,stealth=referrer,domain=vidtube.pro
 @@*.myapp.com
@@ -1736,6 +1736,7 @@
 @@||fscinda.com/ad/$~third-party
 @@||fundingchoicesmessages.google.com/f^$domain=adshnk.com
 @@||fundingchoicesmessages.google.com^$domain=ytlarge.com
+@@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr
 @@||fundingchoicesmessages.google.com^$script,domain=soranews24.com
 @@||fundingchoicesmessages.google.com^$stealth=referrer
 @@||fusacq.com/javascript/advertising.js|$script
@@ -2628,6 +2629,7 @@
 @@||m.zhuanzhuan.com^$important
 @@||mac.bmcx.com^
 @@||macauo2o.com/advertise/
+@@||mafia.ua/js/jquery.smartbanner.js
 @@||magni.itv.com/playlist/$stealth=ip
 @@||mail.google.com/mail/$stealth
 @@||mail.qq.com^$important
