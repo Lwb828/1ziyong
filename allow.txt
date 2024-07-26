@@ -1,5 +1,5 @@
-! Version: 2024-07-26 09:05:40（北京时间） 
-! Total count: 4283
+! Version: 2024-07-26 20:27:20（北京时间） 
+! Total count: 4286
 @@&ad_type=$domain=ultimate-guitar.com
 @@*.mp4?$media,stealth=referrer,domain=vidtube.pro
 @@-social-bar.$domain=mobi.yahoo.com
@@ -849,6 +849,7 @@
 @@||ascii.jp/img/ad/$image,~third-party
 @@||ask.qcloudimg.com^$stealth,domain=cloud.tencent.com
 @@||assbbs.com^$generichide
+@@||assets.anyclip.com^$domain=content.dictionary.com
 @@||assets.evolutionadv.it/optiload/*/optiload_video.min.js$domain=adnkronos.com
 @@||assets.evolutionadv.it/prebid/*/prebid.min.js$domain=adnkronos.com
 @@||assets.giocdn.com/2.1/gio.js$domain=saicmg.com
@@ -871,7 +872,6 @@
 @@||audiotag.info/js/adblockDetectorWithGA.js
 @@||auditude.com^
 @@||ausujet.com/skins/common/ads.js
-@@||auth.gfx.ms^$document
 @@||auth.mail.ru^$stealth
 @@||auth.wosms.cn^$important
 @@||auto.cz/auto/skins/*/js/advertisment.js
@@ -1064,6 +1064,7 @@
 @@||cd.connatix.com/connatix.player.js$domain=loot.tv
 @@||cd.connatix.com/connatix.playspace.js$domain=inc.com
 @@||cd.connatix.com/connatix.playspace.js$domain=loot.tv
+@@||cdn*.anyclip.com^$domain=content.dictionary.com
 @@||cdn*.downdetector.com/*/javascript*/adscript.js
 @@||cdn*.downdetector.com/*/javascript*/adscript_vars.js
 @@||cdn*.jianshu.io^$stealth
@@ -1139,7 +1140,6 @@
 @@||cdn.stat-rock.com/player/*player.js$domain=4shared.com
 @@||cdn.staticfile.org^$domain=00ksw.com|147xiaoshuo.com|91zww.com|biququ.info|bxwx.live|lzbao.net|shenzu.org|tianz.la
 @@||cdn.staticfile.org^$script,domain=movieffm.net
-@@||cdn.taboola.com/magazine/$domain=taboolanews.com
 @@||cdn.theguardian.tv/ad/*.m3u8$domain=theguardian.com
 @@||cdn.turner.com/*.swf
 @@||cdn.vox-cdn.com/packs/js/concert_ads-*.js$domain=arrowheadpride.com
@@ -1179,6 +1179,7 @@
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads^$domain=in.gr
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls^
 @@||cdnqq.net/ad/api/popunder.js$script
+@@||cdns.*.gigya.com/gs/webSdk/Api.aspx$stealth
 @@||cdntvmedia.com^$stealth=referrer
 @@||cdntvn.pl/*/assets/*advert*.js$domain=player.pl|get.x-link.pl|tvn24.pl|vod.pl
 @@||cdnvideo.ru^$stealth
@@ -1353,7 +1354,6 @@
 @@||crackle.com/vendor/adex.js
 @@||crazygames.com/prebid.js$script,~third-party
 @@||crazygames.com^$content
-@@||crbmpurga.ru/files/files/ads/$image
 @@||cre.dp.sina.cn^
 @@||creaders.net^$generichide
 @@||create.jd.com/ad/
@@ -1428,6 +1428,8 @@
 @@||defaultts.tc.qq.com^$important
 @@||defensa.gob.es^$stealth=dpi
 @@||delivery-cdn-cf.adswizz.com/adswizz/js/SynchroClient*.js$script,domain=tunein.com
+@@||delivery.adrecover.com/*/adRecover.js$domain=duplichecker.com
+@@||delivery.adrecover.com/allow.jpg$domain=duplichecker.com|smallseotools.com
 @@||delivery.consentmanager.net/delivery/cmp.php$stealth
 @@||demo.ama.pub^$generichide
 @@||deutsches-museum.de^$stealth=dpi
@@ -1561,6 +1563,7 @@
 @@||easylife.tw^$generichide
 @@||ebank.bsstarozreby.pl^$stealth=dpi
 @@||ebay.*/makeOffer/$document,subdocument
+@@||ec.nintendo.com^$stealth
 @@||ecard.shenzhentong.com^
 @@||ecitic.com/source/*/pop
 @@||ecma.bdimg.com/holmes/*.svg
@@ -2043,6 +2046,7 @@
 @@||hk01.com^*/ga_trace.js
 @@||hk01.com^*/scripts/ga.js
 @@||hkjc.com/bannerad/
+@@||hlmod.ru/resources/$domain=hlmod.ru
 @@||hls-live.bdstatic.com/*/stream_$stealth
 @@||hls.exmarketplace.com/*.m3u8$domain=tvserial.it
 @@||hls.exmarketplace.com/*.ts$domain=tvserial.it
@@ -2176,7 +2180,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=autocentrum.pl|autokult.pl|gadzetomania.pl|fotoblogia.pl|pudelek.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=babygames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=bestgames.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=bighero.io
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cdn.htmlgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chili.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ciudad.com.ar
@@ -2795,7 +2798,6 @@
 @@||myabandonware.com/wp-content/plugins/wp-banners/js/wp-banners.js
 @@||mycdn.me^$stealth
 @@||mylivesignature.com/js/adblocker.js
-@@||myqcloud.com^$stealth=referrer,domain=chinadsl.net
 @@||myqqjd.com^
 @@||myqqjd.com^$generichide
 @@||myquark.cn^
@@ -2822,7 +2824,6 @@
 @@||netease.com^$important
 @@||netflav.com^$generichide
 @@||netmile.co.jp/ad/images/$image
-@@||netportal.hdfcbank.com^$stealth=referrer
 @@||new.livestream.com^$jsinject
 @@||news.u17i.com/advert/
 @@||newser.com/javascript/*/adblock.js
@@ -3653,7 +3654,6 @@
 @@||storage.yandex.net/rdisk/$stealth
 @@||store-web.dynamics.com^$stealth
 @@||store.heytapimage.com^$important
-@@||stores.office.com/authredir
 @@||stores.office.com/myaccount/advancedinstalls.aspx
 @@||stpd.cloud^$domain=freemcserver.net
 @@||stream.u-p.pw/hls/$stealth=referrer
@@ -3770,6 +3770,7 @@
 @@||thisav.com^$generichide
 @@||thm.market.xiaomi.com^$important
 @@||threatbook.cn/public/asset/js/zhugeIo.
+@@||thumbor.thedailymeal.com^
 @@||tianxun.com/min/f=
 @@||tiktokcdn.com^$stealth
 @@||tildacdn.com^$stealth,xmlhttprequest
@@ -3827,6 +3828,7 @@
 @@||tradingview.com^$script,stealth
 @@||trafficdeposit.com/bvideo^$domain=yourporn.sexy
 @@||traffichaus.com/scripts/banner-ad.js
+@@||trafficmanager.anyclip.com^$domain=content.dictionary.com
 @@||trailrunnermag.com^$stealth=dpi
 @@||train.17u.cn^$important
 @@||transcend-info.com^$stealth=dpi
@@ -3879,6 +3881,7 @@
 @@||twitter.com$domain=bleacherreport.com
 @@||tx163.com^$important
 @@||txc.gtimg.com/static/$stealth,domain=support.qq.com
+@@||txxx.ahcdn.com/key=$stealth
 @@||typhoon.zjwater.gov.cn^$stealth
 @@||tyue.me^$image
 @@||u1.img.mobile.sina.cn^$important
