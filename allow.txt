@@ -1,5 +1,5 @@
-! Version: 2024-07-29 20:28:50（北京时间） 
-! Total count: 4276
+! Version: 2024-07-30 09:06:40（北京时间） 
+! Total count: 4274
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -711,6 +711,7 @@
 @@||ansedo.com/js/advert-banner.js
 @@||answers.microsoft.com/*/completesignin
 @@||answers.microsoft.com/*/site/startsignin
+@@||anti-virus4u.com/v/
 @@||anyknew.com^$generichide
 @@||anyporn.com/get_file^
 @@||anyporn.com/js/functions.js
@@ -1426,7 +1427,6 @@
 @@||delivery.consentmanager.net/delivery/cmp.php$stealth
 @@||demo.ama.pub^$generichide
 @@||deutsches-museum.de^$stealth=dpi
-@@||dev.virtualearth.net/REST/*/Autosuggest?query=$stealth=referrer
 @@||developer.apple.com$generichide
 @@||developer.qcloudimg.com/http-save/$image,stealth=referrer
 @@||developers.google.com^$domain=developers.google.com
@@ -3013,7 +3013,6 @@
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=alliptvlinks.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/slotcar_library_$script,domain=game.anymanager.io|sudokugame.org
 @@||pagead2.googlesyndication.com/pagead/managed/js/gpt/*/pubads_impl.js?$script,domain=wunderground.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=hexviewer.iblogbox.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
 @@||pagead2.googlesyndication.com/tag/js/gpt.js$script,domain=wunderground.com
 @@||pagead2.googlesyndication.com^$domain=battlecats-db.com
@@ -3099,7 +3098,6 @@
 @@||player.ex.co/player/$domain=thestreet.com
 @@||player.ex.co/player/$script,domain=theautopian.com
 @@||player.ex.co^$domain=reviewjournal.com
-@@||player.glomex.com^$subdocument,stealth=referrer
 @@||player.mediavitrina.ru^$stealth=referrer
 @@||player.odycdn.com/api/$xmlhttprequest,domain=odysee.com
 @@||player.vimeo.com/video^$stealth
@@ -3510,6 +3508,7 @@
 @@||soft.360.cn^$important
 @@||soft.tbs.imtt.qq.com^$important
 @@||soft8ware.com^$generichide
+@@||softblog.tw^$generichide
 @@||softwarebrother.com^$generichide
 @@||sogou.com/adpub/cfg/sendmsg.
 @@||sogou.com/pv.gif?*&stype=showskinpanel
@@ -3575,7 +3574,6 @@
 @@||st.pussyspace.net/style/03/img/x-sprite.png|
 @@||st.pussyspace.net/style/10/img/logo.png|
 @@||st.pussyspace.net/style/10/img/logo_mobile.png|
-@@||st.pussyspace.net/style/webcam.jpg|
 @@||st.todesk.com^$important
 @@||standard.co.uk/js/third-party/prebid8.$~third-party
 @@||standardmedia.co.ke/assets/js/prebid-google-ads.js
@@ -3588,6 +3586,7 @@
 @@||stat.funshion.com^$important
 @@||stat.y.qq.com^$important
 @@||static-cdn.spot.im/production/ads/tags/*/ads/ads.js$domain=cgmagonline.com
+@@||static-file.com^$stealth,domain=eyny.com
 @@||static-ppp.portalcdn.com/$script,domain=pornhub.com
 @@||static-redesign.cnbcfm.com/dist/components-PcmModule-Taboola-*.js$domain=cnbc.com
 @@||static-res.qq.com^$important
@@ -4130,7 +4129,6 @@
 @@||www.nuomiphp.com^$important
 @@||www.paypalobjects.com^$important
 @@||www.pussyspace.com/class/captcha/arrow.png|
-@@||www.pussyspace.com/class/captcha/captcha.php|
 @@||www.pussyspace.com/favicon.ico|
 @@||www.pussyspace.com/style/img/navbg.hover.png|
 @@||www.pussyspace.com/upload/no_img.jpg|
