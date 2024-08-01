@@ -1,5 +1,5 @@
-! Version: 2024-07-31 20:29:11（北京时间） 
-! Total count: 4280
+! Version: 2024-08-01 09:12:23（北京时间） 
+! Total count: 4286
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -446,10 +446,12 @@
 @@||9zvip.net^$elemhide
 @@||a.alimama.cn/tkapi$domain=ieeee.com
 @@||a.magsrv.com/ad-provider.js$domain=reshare.pm
+@@||a.magsrv.com/ad-provider.js$domain=rule34porn.net
 @@||a.poki.com/prebid/$script,domain=poki-gdn.com|repuls.io
 @@||a.realsrv.com/ad-provider.js$xmlhttprequest,domain=asiaon.top|asiaontop.com
 @@||a0.app.xiaomi.com^$important
 @@||a1.itc.cn/pv/js/spv.
+@@||a10.com/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@||a2zapk.com^$script,xmlhttprequest,third-party,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com|jytechs.in
 @@||aax-eu.amazon-adsystem.com/s/yoc^$domain=youronlinechoices.com
 @@||aax.amazon-adsystem.com^$domain=mylifetime.com
@@ -1310,8 +1312,6 @@
 @@||connect.ubisoft.com/oauth/*?redirectUrl$jsinject
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.platform.hicloud.com^$important
-@@||consent.cookiefirst.com/banner.js$stealth
-@@||consent.cookiefirst.com/sites$stealth
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abc.com
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abcnews.go.com
 @@||content-*.googleapis.com^$stealth
@@ -1417,6 +1417,7 @@
 @@||ddys.pro^$important
 @@||ddzswov1e84sp.cloudfront.net^$script,domain=free-content.pro
 @@||debugtbs.qq.com^$important
+@@||decompiler.com/javascripts/ads-prebid/prebid-ad*.js
 @@||defaultts.tc.qq.com^$important
 @@||defensa.gob.es^$stealth=dpi
 @@||delivery-cdn-cf.adswizz.com/adswizz/js/SynchroClient*.js$script,domain=tunein.com
@@ -1650,6 +1651,7 @@
 @@||fanyi.baidu.com^$important
 @@||fapcat.com^$~third-party
 @@||faq.viewcard.co.jp^$stealth=dpi
+@@||fashion-headline.com/js/jquery.smartbanner.js
 @@||fastssh.com/dfp.min.js
 @@||faucetcrypto.com/ads^
 @@||fbcdn.net^$stealth
@@ -2109,7 +2111,6 @@
 @@||ibon.com.tw/imageserver/images/ad_file/
 @@||ic.snssdk.com^
 @@||icantw.com/platform/cover_ad/cover_ad.js
-@@||icashier.alipay.com^$domain=aliexpress.com
 @@||icbc.com.cn/ICBC_ADJS/
 @@||icbc.com.cn/Portal_Resources/Common/AdCss/
 @@||icbc.com.cn/Portal_Resources/Common/AdRes/
@@ -2414,6 +2415,7 @@
 @@||jd.com^*&refer=http$script
 @@||jdoqocy.com/click$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||jeniusplay.com/video/$stealth=referrer
+@@||jetv.xyz/dz/?id=$stealth=referrer
 @@||jeux-geographiques.com/js/adblock_detector.js
 @@||jeux.meteocity.com^$generichide
 @@||jeuxvideo-live.com/js/ads.js
@@ -2545,7 +2547,6 @@
 @@||linksynergy.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||linkvertise.com/assets/ads.js
 @@||linuxize.com/porpoiseant/banger.js
-@@||lirarate.org/tardisrocinante/screx.js
 @@||litv.tv/ads/ads.js
 @@||litvp.com/checkStatus/$domain=emturbovid.com
 @@||litvp.com/creatDownload$domain=emturbovid.com
@@ -2589,7 +2590,6 @@
 @@||login.uid.me^$domain=ucoz.ru
 @@||login.yahoo.com$stealth
 @@||loginza.ru/api/
-@@||logo.clearbit.com^$image,domain=securitytrails.com
 @@||logs.game.qq.com^$important
 @@||loki.delve.office.com/api/$stealth
 @@||lokopromo.com^*/adsimages/$~third-party
@@ -2993,6 +2993,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sportskeeda.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=stockstracker.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=thizissam.in
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=updato.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vladan.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=zefoy.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=app.axenthost.com
@@ -3147,6 +3148,7 @@
 @@||pptv.com/webdelivery/webafp?cb=loadAdStatus&*sports.pp
 @@||pravo.by^$stealth=dpi
 @@||prebid-asia.creativecdn.com/bidder/prebid/bids$domain=atozmath.com
+@@||pricematrix.nltg.com/*/markup/$xmlhttprequest,elemhide,jsinject,extension
 @@||primis.tech^$domain=sportsmole.co.uk
 @@||privat24.privatbank.ua^
 @@||pro.gooooal.com/ad/ad_2.js
@@ -3341,6 +3343,7 @@
 @@||s2.ssl.qhres2.com^$important
 @@||s3.pstatp.com^$important
 @@||safeway.com/*/?bannerId
+@@||salfordonline.com/wp-content/plugins/wp_pro_ad_system/$script
 @@||sanyonews.jp/files/image/ad/okachoku.jpg$~third-party
 @@||saomiao.51240.com^$important
 @@||saomiao.bmcx.com^$important
@@ -3447,6 +3450,7 @@
 @@||sf0.market.xiaomi.com^$important
 @@||sf3-pitaya-tos.pstatp.com^$important
 @@||sfsapi.micloud.xiaomi.net^$important
+@@||sgcpanel.com^$document
 @@||shahid.mbc.net^$generichide
 @@||shaka-player-demo.appspot.com/lib/ads/ad_manager.js$script,~third-party
 @@||shana.pe.kr^$generichide
@@ -3532,6 +3536,7 @@
 @@||spankbang.com^*/prebid-ads.js$domain=spankbang.com
 @@||spclient.wg.spotify.com^$important
 @@||speech.platform.bing.com^$important
+@@||speedtest.net/*-login.php$domain=speedtest.net
 @@||speedtest.net/api/api.php
 @@||speedtest.net/api/js/user-settings|$xmlhttprequest
 @@||speedtest.net/javascript/ads.js
@@ -3730,6 +3735,7 @@
 @@||techniknews.net/data/ads/doubleserve.js
 @@||techonthenet.com/javascript/advert-min.js
 @@||telegram.hr^$content
+@@||tempinbox.xyz/storage/js/mnpw3.js
 @@||temu.com^$stealth=dpi
 @@||tenki.jp/storage/static-images/top-ad/
 @@||tenpay.com/v2/res/pub/cps/main/bottom_ad.js
