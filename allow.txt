@@ -1,5 +1,5 @@
-! Version: 2024-08-02 09:06:27（北京时间） 
-! Total count: 4282
+! Version: 2024-08-02 20:28:08（北京时间） 
+! Total count: 4289
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -356,6 +356,7 @@
 @@||1keydata.com^$generichide
 @@||1plus1.video/tvguide/embed/*?autoplay=$stealth
 @@||1plus1.video/video/embed/$stealth,~script,~xmlhttprequest,~other
+@@||1qwebplay.xyz/*.php$stealth=referrer
 @@||1sapp.com^
 @@||2018x.bid/adview.js
 @@||210.40.130.91^*/ad.css?$stylesheet
@@ -460,6 +461,7 @@
 @@||ac.dun.163yun.com^
 @@||ac.kr^$stealth=dpi
 @@||account.mail.ru^$stealth
+@@||account.mcid.mynavi.jp^$stealth=referrer
 @@||account.microsoft.com/?refd=$stealth
 @@||account.microsoft.com/auth/$stealth
 @@||account.wps.cn^$important
@@ -1770,6 +1772,7 @@
 @@||gammaplus.takeshobo.co.jp/img/ad/
 @@||ganji.com/findjob/send_resume.*&ad_type=
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
+@@||gapis.win^$stealth=referrer,domain=app.jscdn.win
 @@||gardenista.com/assets/scripts/advert.js
 @@||gateway.kugou.com^$important
 @@||gaus.ee^$generichide
@@ -2466,6 +2469,7 @@
 @@||kdslife.com/ui/css/share2.
 @@||keep.google.com^$jsinject
 @@||kehai.com/front/dist/app/site/list/advertisement.js
+@@||kenitv.me/*embed$stealth=referrer
 @@||kf.cn/ad/css/*.*.
 @@||kf.cn/ad/css/*.css
 @@||kf.cn/ad/css/images/
@@ -3416,6 +3420,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=telex.hu
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=wunderground.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com|jytechs.in
+@@||securetoken.googleapis.com^$stealth=referrer
 @@||securitykiss.com$document
 @@||securitytrails.com/app/api/$domain=securitytrails.com
 @@||securitytrails.com/domain/$domain=securitytrails.com
@@ -3971,6 +3976,7 @@
 @@||vali-g1.cp31.ott.cibntv.net^
 @@||valuecommerce.com^$image,domain=pointtown.com
 @@||vast.btrll.com^$domain=hinet.net
+@@||vcdn.xemcl.net/html/$stealth=referrer,domain=app.jscdn.win
 @@||vd1.market.xiaomi.com^$important
 @@||vdun.weibo.com^$important
 @@||vectorsdk.map.qq.com^$important
@@ -4022,6 +4028,7 @@
 @@||w8.com.cn^
 @@||waimai-guide.ele.me^$important
 @@||walla.co.il^$csp
+@@||walletkeyslocker.me/?scode=*&stream=$stealth=referrer
 @@||wallpaper.cdn.pandora.xiaomi.com^$important
 @@||wallpapers.ispazio.net/advert^
 @@||wallpapershome.com/scripts/ads.js
