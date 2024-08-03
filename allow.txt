@@ -1,5 +1,5 @@
-! Version: 2024-08-02 20:28:08（北京时间） 
-! Total count: 4289
+! Version: 2024-08-03 09:05:47（北京时间） 
+! Total count: 4291
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -3965,7 +3965,9 @@
 @@||v.fwmrm.net/crossdomain.xml$xmlhttprequest
 @@||v.gdt.qq.com^$important
 @@||v.uc.cn^
+@@||v1.jinrishici.com^$important
 @@||v2.get.sogou.com^$important
+@@||v2.jinrishici.com^$important
 @@||v2cross.com^$generichide
 @@||v2rayssr.com/wp-content/plugins/dh-anti-adblocker/public/js/prebid-ads.js
 @@||v2rayssr.com^$generichide
