@@ -1,5 +1,5 @@
-! Version: 2024-08-04 09:11:46（北京时间） 
-! Total count: 4294
+! Version: 2024-08-04 20:25:50（北京时间） 
+! Total count: 4296
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -233,7 +233,6 @@
 @@5.148.189.204:443$network
 @@5.148.189.205:443$network
 @@://*.*.xyz/videos/*-*-*-*/cover
-@@://*.ico$domain=livenewschat.eu
 @@://*/static/ad/main.js
 @@://*cdn.com$domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
 @@://css.yhdmtu.xyz$image,third-party
@@ -543,6 +542,7 @@
 @@||adocean.pl/ad.xml$domain=imasdk.googleapis.com,badfilter
 @@||adoi.cn^$generichide
 @@||adpop.me^$domain=adpop.me
+@@||adroll.com/edaa^$domain=youronlinechoices.com
 @@||ads-api.twitter.com/*/accounts/$domain=analytics.twitter.com
 @@||ads-twitter.com/uwt.js$domain=factory.pixiv.net
 @@||ads.adthrive.com/api/$domain=adamtheautomator.com|mediaite.com|packhacker.com|packinsider.com
@@ -810,7 +810,6 @@
 @@||app.home.360.cn^$important
 @@||app.huabao.360.cn^$important
 @@||app.hubspot.com/api/ads/$~third-party
-@@||app.khz.se/api/*&ad_type=preroll-channel$domain=ilikeradio.se
 @@||app.market.xiaomi.com^$important
 @@||app.sendgrid.com$document
 @@||app.sendgrid.com^$elemhide,jsinject
@@ -970,6 +969,7 @@
 @@||blog.ztjal.info^$generichide
 @@||blueconic.net/capitolbroadcasting.js$script,domain=wral.com
 @@||bluehost.com^
+@@||bluekai.com/online-choices^$domain=youronlinechoices.com
 @@||blueskyxn.com^
 @@||bmap6.cn^$important
 @@||boatwizard.com/ads_prebid.min.js$script,domain=boats.com
@@ -1118,7 +1118,6 @@
 @@||cdn.nlark.com^$image,stealth,domain=yuque.com
 @@||cdn.optimizely.com/js/*.js$domain=kktv.me
 @@||cdn.orangeclickmedia.com/tech/libs/ocm_iab_compliance.js$domain=protothema.gr
-@@||cdn.playwire.com/bolt/js/zeus/embed.js$domain=abcya.com
 @@||cdn.plyr.io/*/plyr.svg$domain=akwam.*
 @@||cdn.qooqlevideo.com/key=*.mp4$domain=avgle.com
 @@||cdn.radiostreamlive.com/v*/js/adblock/advert-1bb.js
@@ -1450,7 +1449,6 @@
 @@||dl.r3sub.com^$generichide
 @@||dl.reg.163.com^$important
 @@||dl.zhutix.net^$stealth=referrer
-@@||dldir1.qq.com^$important
 @@||dldir3.qq.com^$important
 @@||dlh.net^$script,subdocument,domain=dlh.net
 @@||dlkoo.cc/down/*/*.htm$popup
@@ -1813,7 +1811,6 @@
 @@||gitee.com/HServer/
 @@||github.com/AdguardTeam/
 @@||github.com/login$stealth
-@@||github.com^$important
 @@||github.io/videojs-ima/node_modules/video.$domain=setn.com
 @@||githubusercontent.com^$important
 @@||gitlab.com/api/v4/projects/$~third-party
@@ -1939,7 +1936,6 @@
 @@||gounlimited.to/embed-*.html$stealth
 @@||gounlimited.to/js/pop.js|
 @@||gov.cn/scripts/Comm/AdRotator.js
-@@||grandcentral.1plus1.video^$stealth
 @@||grandhotelcalciomercato.com/js/prebid-ads.js
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
 @@||graph.microsoft.com$stealth=3p-auth
@@ -2361,6 +2357,7 @@
 @@||inpad.com.tw/data/adv/
 @@||input.shouji.sogou.com^$important
 @@||insidemarketing.eu/cdn/lib/js/adsframe.js
+@@||insight.adsrvr.org/track/edaa^$domain=youronlinechoices.com
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
 @@||instagram.com/api/v1/ads/$~third-party,xmlhttprequest
 @@||instagram.com^$important
@@ -2681,7 +2678,6 @@
 @@||medium.com^$stealth
 @@||meet.jit.si^$stealth
 @@||mega-debrid.eu/JS/advertisement.js
-@@||megacloud.tv/embed-$stealth=referrer
 @@||megatube.xxx/atrm/s/s/js/m/pr-before.js
 @@||meituan.net/bs/js/*/js/tracker.js
 @@||meizu.com/fileserver/ad/img/
@@ -2896,6 +2892,7 @@
 @@||openap-alps.51y5.net^$important
 @@||opencloud.wostore.cn^$important
 @@||oppo.yidianzixun.com^$important
+@@||opt.semasio.net/optsvc^$domain=youronlinechoices.com
 @@||optout.mookie1.com/optout
 @@||optout.networkadvertising.org^$document
 @@||orange-dc.alibaba.com^$important
@@ -3085,6 +3082,7 @@
 @@||pjtra.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||pkg.sinaimg.cn^$important
 @@||pkstep.com^$generichide
+@@||pl-play.adtonos.com^$domain=radio-internetowe.com
 @@||platform.twitter.com/$domain=discovery.com
 @@||platform.twitter.com/js/tweet.*.js$domain=gamerant.com
 @@||platform.twitter.com/widgets.js$domain=gamerant.com
@@ -3261,6 +3259,7 @@
 @@||radio.securenetsystems.net/cwa/js/prebid.js
 @@||raenonx.cc^$generichide
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
+@@||ramnode.com/images/
 @@||rapidrar.com/js/fuckadblock.js
 @@||rapidvid.net/vod/$stealth=referrer
 @@||raw.githubusercontent.com/wmcmurray/just-detect-adblock/master/baits
@@ -3276,7 +3275,6 @@
 @@||recaptcha.net/recaptcha/$script
 @@||recmd.html5.qq.com^$important
 @@||redbox.com/images/ads/pixel.png
-@@||redefineadpl.hit.gemius.pl/*redataredir?url=*.hit.stat24.com*ad.xml$domain=polsatnews.pl|polsatsport.pl|twojapogoda.pl
 @@||redguide.top^*/ad.css?$stylesheet
 @@||redian.news^$generichide
 @@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|techrepublic.com|zdnet.com
@@ -3645,6 +3643,7 @@
 @@||statusapi.micloud.xiaomi.net^$important
 @@||stcaimcu.com/data/attachment/common/cf/stc_logo_
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
+@@||stepik.org/lesson^$stealth
 @@||stereonet.com^$stealth=dpi
 @@||stereophile.com^$elemhide
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
@@ -3656,6 +3655,7 @@
 @@||storage.yandex.net/rdisk/$stealth
 @@||store-web.dynamics.com^$stealth
 @@||store.heytapimage.com^$important
+@@||stores.office.com/authredir
 @@||stpd.cloud^$domain=freemcserver.net
 @@||stream.u-p.pw/hls/$stealth=referrer
 @@||stream.voidboost.$stealth
@@ -3743,6 +3743,7 @@
 @@||tempinbox.xyz/storage/js/mnpw3.js
 @@||temu.com^$stealth=dpi
 @@||tenki.jp/storage/static-images/top-ad/
+@@||tenor.googleapis.com^$stealth
 @@||tenpay.com/v2/res/pub/cps/main/bottom_ad.js
 @@||tenpay.com^*?ADTAG=
 @@||test.nextdns.io^$important
@@ -4048,8 +4049,8 @@
 @@||ware.shop.jd.com^$genericblock,generichide
 @@||wargaming.net^$stealth
 @@||watchcartoononline.io/back.jpg
-@@||watchcartoononline.io/favicon.ico
 @@||watchcartoononline.io/search|$popup
+@@||watchcartoononline.io/thumbs/
 @@||wavepc.pl/wp-content/*-500x100.png$image,~third-party
 @@||wavse.com^$generichide
 @@||wb.amap.com^$important
@@ -4232,6 +4233,7 @@
 @@||yixiu-abtest.alicdn.com^$important
 @@||ykimg.com^$important
 @@||yogajournal.com^$stealth=dpi
+@@||you.visualdna.com/user/iab^$domain=youronlinechoices.com
 @@||youaima.com/zz/play_
 @@||youchien.net/ad/*/ad/img/$~third-party
 @@||youku.com/cms/player/userinfo/
