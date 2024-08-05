@@ -1,5 +1,5 @@
-! Version: 2024-08-05 09:08:39（北京时间） 
-! Total count: 4290
+! Version: 2024-08-05 20:29:23（北京时间） 
+! Total count: 4293
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -808,6 +808,7 @@
 @@||apkpure.com^$generichide
 @@||apmebf.com/ad/$domain=betfair.com
 @@||app-advertise.zhihuishu.com^
+@@||app-api.pixiv.net^$important
 @@||app-measurement.com^$important
 @@||app.home.360.cn^$important
 @@||app.huabao.360.cn^$important
@@ -1103,6 +1104,7 @@
 @@||cdn.fluidplayer.com/*/current/fluidplayer.min.js
 @@||cdn.games.mobinozer.com/shared/loader/advert.js
 @@||cdn.hsmedia.ru/dist/$stealth,domain=maximonline.ru|woman.ru|parents.ru|vokrugsveta.ru|psychologies.ru|ellegirl.ru|wday.ru|elle.ru|marieclaire.ru
+@@||cdn.iocdn.cc^$important
 @@||cdn.jsdelivr.net/*/clappr^
 @@||cdn.jsdelivr.net/clappr
 @@||cdn.jsdelivr.net/combine/npm/jquery
@@ -2856,6 +2858,7 @@
 @@||oasjs.kataweb.it/adsetup.real.js$domain=video.repubblica.it
 @@||oasjs.kataweb.it/adsetup_cmp.js$domain=repubblica.it
 @@||oasjs.kataweb.it/adsetup_pcmp.js$domain=kataweb.it
+@@||oauth.secure.pixiv.net^$important
 @@||oauth.vk.com$document
 @@||oauth.vk.com/authorize?
 @@||oddee.com/w_files/scripts/adblock.js
