@@ -1,5 +1,5 @@
-! Version: 2024-08-06 09:06:53（北京时间） 
-! Total count: 4293
+! Version: 2024-08-06 20:28:37（北京时间） 
+! Total count: 4295
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -483,6 +483,7 @@
 @@||act.vip.iqiyi.com^$important
 @@||activity.tuiapple.com^$important
 @@||ad-cdn.bilgin.pro/app/ad-*.min.js$domain=medyafaresi.com
+@@||ad-emea.doubleclick.net/clk
 @@||ad-maven.com^$domain=ad-maven.com
 @@||ad.10010.com^
 @@||ad.12306.cn^$elemhide,subdocument,domain=95306.cn
@@ -738,7 +739,6 @@
 @@||api-unionid.meituan.com^$important
 @@||api.1plus1.video^$stealth
 @@||api.account.xiaomi.com^$important
-@@||api.adguard-dns.io/api/
 @@||api.adinplay.com/$xmlhttprequest,domain=taming.io
 @@||api.adinplay.com/libs/aiptag/$script
 @@||api.adinplay.com/libs/aiptag/*/tag.min.js$domain=crazygames.com|shellshock.io|minijuegos.com
@@ -945,6 +945,7 @@
 @@||bigfishaudio.com/banners/$image,~third-party
 @@||bigota.d.miui.com^$important
 @@||bikeportland.org/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js$script,~third-party
+@@||bild.de^$stealth
 @@||bili96.co^$image
 @@||bilibili.com/*/newplayer.html$stealth=referrer
 @@||bilibili.com^*/web_page_view?$domain=message.bilibili.com
@@ -1285,6 +1286,7 @@
 @@||code.jquery.com/*.min.js$domain=audioz.download
 @@||coinadster.com^$script,stylesheet,xmlhttprequest,other,image,domain=coinadster.com
 @@||coinmarketcap.com/static/addetect/$script,~third-party
+@@||colamanga.com/js/*/load.js
 @@||colamanga.com^$generichide
 @@||colatour.com.tw/webDM/*/adbanner$~third-party
 @@||colatour.com.tw^$generichide
@@ -1793,7 +1795,6 @@
 @@||geoip.redirect-ads.com^$subdocument,third-party
 @@||get.sogou.com^$important
 @@||getbootstrap.com/docs/*/assets/js/vendor/popper.min.js
-@@||getcopy.link/js/prebid-ads.js
 @@||getintopc.com/*.js$domain=getintopc.com
 @@||getitfree.cn/wp-content/plugins/adunblocker/public/js/banner_ads_*.js
 @@||getjad.io/library/$script,domain=allocine.fr
@@ -1914,6 +1915,7 @@
 @@||googletagmanager.com/gtm.js$domain=laprovence.com
 @@||googletagmanager.com/gtm.js$domain=motorsport.com
 @@||googletagmanager.com/gtm.js$domain=radio.at|radio.net|radio.de
+@@||googletagmanager.com/gtm.js$domain=redbull.com
 @@||googletagmanager.com/gtm.js$domain=se.pl
 @@||googletagmanager.com/gtm.js$domain=zennioptical.com
 @@||googletagservices.com/tag/js/gpt.js$domain=allestoringen.be|allestoringen.nl|downdetector.ae|downdetector.ca|downdetector.cl|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.ph|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.tw|downdetector.web.tr|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de
@@ -1937,7 +1939,6 @@
 @@||gounlimited.to/embed-*.html$stealth
 @@||gounlimited.to/js/pop.js|
 @@||gov.cn/scripts/Comm/AdRotator.js
-@@||grandhotelcalciomercato.com/js/prebid-ads.js
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
 @@||graph.microsoft.com$stealth=3p-auth
 @@||graph.qq.com^$important
@@ -2116,6 +2117,7 @@
 @@||id6.me^
 @@||identitytoolkit.googleapis.com^$stealth=referrer
 @@||idos.idnes.cz^$csp
+@@||iejima.org/ad-banner/$image,~third-party
 @@||ienohikari.net/ad/common/$~third-party
 @@||ienohikari.net/ad/img/$~third-party
 @@||ievaphone.com/public/javascripts/ads.js
@@ -2591,7 +2593,6 @@
 @@||loginza.ru/api/
 @@||logs.game.qq.com^$important
 @@||loki.delve.office.com/api/$stealth
-@@||lokopromo.com^*/adsimages/$~third-party
 @@||lol.qq.com^$important
 @@||loltmcheck.com/js/ads.js
 @@||lookcam.com/fuckadblock.js
@@ -3937,6 +3938,7 @@
 @@||upgrade.ptmi.gitv.tv^$important
 @@||upload*.jianshu.io^$stealth
 @@||upload.wikimedia.org/wikipedia/$image,media
+@@||uploadex.com^$elemhide
 @@||upos-sz-*.bilivideo.com^$important
 @@||upstream.to/embed-*.html$domain=javtiful.com
 @@||upstream.to/js/dnsads.js
