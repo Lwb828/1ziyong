@@ -1,5 +1,5 @@
-! Version: 2024-08-06 20:28:37（北京时间） 
-! Total count: 4295
+! Version: 2024-08-07 09:07:42（北京时间） 
+! Total count: 4297
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -1585,6 +1585,7 @@
 @@||embed.watchanimesub.net/inc/embed/ads.js
 @@||emjcd.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||emome.net/files/advertising/
+@@||emturbovid.com/t/$stealth=referrer
 @@||en.bongacash.com/js/videojs/video.js$domain=pornsocket.com
 @@||en.bongacash.com/js/videojs/videojs_*.vast.vpaid.min.js$domain=pornsocket.com
 @@||ename.com.cn^
@@ -2589,6 +2590,7 @@
 @@||login.nvgs.nvidia.com^$stealth
 @@||login.nvidia.com^$stealth
 @@||login.uid.me^$domain=ucoz.ru
+@@||login.wyborcza.pl^$stealth=referrer
 @@||login.yahoo.com$stealth
 @@||loginza.ru/api/
 @@||logs.game.qq.com^$important
