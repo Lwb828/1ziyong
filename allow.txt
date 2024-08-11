@@ -1,5 +1,5 @@
-! Version: 2024-08-10 20:27:06（北京时间） 
-! Total count: 4306
+! Version: 2024-08-11 09:12:53（北京时间） 
+! Total count: 4309
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -21,7 +21,6 @@
 @@.html?ad_$domain=jd.com|zol.com.cn
 @@.icu/js/gg.js$script,domain=kwoo50.icu|kwuu83.icu|ljt1.icu|ljt2.icu|ljt3.icu|ljt4.icu
 @@.jpg#$domain=huhupan.com
-@@.m3u8$xmlhttprequest,domain=thestreameast.to
 @@.net/click-$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com|digit77.com|e9china.net|upxin.net
 @@.ru/premiumtv/*.php*$subdocument,xmlhttprequest,stealth=referrer
@@ -239,6 +238,7 @@
 @@://d*.cloudfront.net/usr/themes
 @@://img.souche.com/*.jpg
 @@://up.taoseye.com/contents/other/player/playerlogo.png
+@@://www.sinya.com.tw^$stealth=ip
 @@=mywebloadt1&$domain=myweb.hinet.net
 @@?adType=$domain=taotaosou.com
 @@?sid=ads$domain=126.com|mail.163.com
@@ -1974,6 +1974,7 @@
 @@||gvt2.com^
 @@||gw-paopao.iqiyi.com^$important
 @@||gw.alicdn.com^$important
+@@||gws.unicredit.ru/branch/map?$stealth=referrer,domain=unicreditbank.ru
 @@||h-adashx.ut.taobao.com^$important
 @@||h.imedia.cz/js/cmp2/scmp.js$domain=seznam.cz
 @@||h.trace.qq.com^$important
@@ -2026,6 +2027,7 @@
 @@||heytapimage.com^$third-party,domain=news.heytapdownload.com
 @@||hh010.com^$generichide
 @@||highcharts.com.cn/highcharts/modules/heatmap.js
+@@||hikari.faq.rakuten.net^$stealth=dpi
 @@||hindustantimes.com/res/js/*ads*
 @@||hinet.net/keys/a.key^$domain=ani.gamer.com.tw
 @@||histock.tw/JScript/AD/
@@ -3824,6 +3826,7 @@
 @@||totheglory.im/pic/ttg_logo
 @@||toy-people.com^$generichide
 @@||tpc.googlesyndication.com/archive/$image,subdocument,xmlhttprequest,domain=adstransparency.google.com
+@@||tpc.googlesyndication.com/daca_images/simgad/$domain=lover934.net
 @@||tpc.googlesyndication.com/pagead/js/$domain=googleads.g.doubleclick.net
 @@||tpc.googlesyndication.com/simgad/$domain=financemonk.net
 @@||tpc.googlesyndication.com/simgad/$domain=smartkhabrinews.com|streama2z.com
