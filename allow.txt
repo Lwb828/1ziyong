@@ -1,5 +1,5 @@
-! Version: 2024-08-12 09:09:26（北京时间） 
-! Total count: 4306
+! Version: 2024-08-12 20:30:56（北京时间） 
+! Total count: 4308
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -467,6 +467,7 @@
 @@||accounts.google.com^$popup
 @@||accounts.nintendo.com^$stealth
 @@||accscdn.m.taobao.com^$important
+@@||accuweather.com/bundles/prebid.$script
 @@||acdn.adnxs.com/ast/ast.js$domain=msn.com
 @@||acdn.adnxs.com/ast/ast.js$domain=svd.se
 @@||acea.it^$jsinject
@@ -819,6 +820,7 @@
 @@||app.sendgrid.com^$elemhide,jsinject
 @@||app.titsx.com*/search$domain=porn-plus.com
 @@||app.zhuanzhuan.com^$important
+@@||appcdn01.xyz/vast.js
 @@||appcloud.zhihu.com^$important
 @@||appcloud2.zhihu.com^$important
 @@||appdl-1-drcn.dbankcdn.com^$important
@@ -1314,6 +1316,7 @@
 @@||connect.ubisoft.com/oauth/*?redirectUrl$jsinject
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.platform.hicloud.com^$important
+@@||consent.cookiefirst.com/sites$stealth
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abc.com
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abcnews.go.com
 @@||content-*.googleapis.com^$stealth
@@ -1444,6 +1447,7 @@
 @@||direct.wap.zol.com.cn^
 @@||discordapp.com/banners/$image
 @@||discoveryplus.in/*/ads/banner_ad.js
+@@||discretemath.org^$image,stylesheet
 @@||disneyplus.bn5x.net^$important
 @@||disqus.com/embed/comments/
 @@||disqus.com/embed/comments/$subdocument
@@ -2073,7 +2077,6 @@
 @@||huichuan.sm.cn^
 @@||huke88.com^*-tracking.js
 @@||hulkshare.com/combine/*adblocker.js
-@@||hulu.com/embed$document
 @@||huluxia.com^$important
 @@||humix.com/beardeddragon/iguana.js
 @@||humix.com/beardeddragon/wyvern.js
@@ -2235,7 +2238,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nowtv.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nrl.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ntvspor.net
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nydailynews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=oe24.at
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=olympics.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=onlinemahjong.games
@@ -3028,7 +3030,6 @@
 @@||pagerank.fr/js*/advert.js?$script
 @@||pan.quark.cn^
 @@||pan.quark.cn^$important
-@@||pandora.com/images/public/devicead/$image
 @@||pandora.com/static/ads/
 @@||pandora.com/web-client-assets/ads.*.js
 @@||pandora.com/web-version/*/*.json
@@ -3086,7 +3087,6 @@
 @@||pingtcss.qq.com^$important
 @@||pixel.adsafeprotected.com/services/pub$domain=reuters.com
 @@||pixel.adsafeprotected.com^$xmlhttprequest,domain=gentside.com|ohmymag.com
-@@||pixlr.com^$content,jsinject
 @@||pjtra.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||pkg.sinaimg.cn^$important
 @@||pkstep.com^$generichide
@@ -3594,6 +3594,7 @@
 @@||st.pussyspace.net/style/03/img/x-sprite.png|
 @@||st.pussyspace.net/style/10/img/logo.png|
 @@||st.pussyspace.net/style/10/img/logo_mobile.png|
+@@||st.pussyspace.net/style/webcam.jpg|
 @@||st.todesk.com^$important
 @@||standard.co.uk/js/third-party/prebid8.$~third-party
 @@||standardmedia.co.ke/assets/js/prebid-google-ads.js
@@ -4009,6 +4010,7 @@
 @@||video.adsninja.ca/valnetinc/AndroidPolice/*-projectRssVideoFile.mp4$domain=androidpolice.com
 @@||video.matchtv.ru^$stealth=donottrack
 @@||video.weibocdn.com^$stealth
+@@||video.xpembed.me/remote_control.php$stealth
 @@||video2.pddpic.com^$important
 @@||video3.pddpic.com^$important
 @@||videogamesblogger.com^$csp
