@@ -1,5 +1,5 @@
-! Version: 2024-08-15 09:04:45（北京时间） 
-! Total count: 4313
+! Version: 2024-08-15 20:29:12（北京时间） 
+! Total count: 4312
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -1729,7 +1729,6 @@
 @@||fscinda.com/ad/$~third-party
 @@||fundingchoicesmessages.google.com/f^$domain=adshnk.com
 @@||fundingchoicesmessages.google.com^$domain=ytlarge.com
-@@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr
 @@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr|milliyet.com.tr
 @@||fundingchoicesmessages.google.com^$script,domain=soranews24.com
 @@||fundingchoicesmessages.google.com^$stealth=referrer
