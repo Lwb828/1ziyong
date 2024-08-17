@@ -1,5 +1,5 @@
-! Version: 2024-08-17 09:05:19（北京时间） 
-! Total count: 4313
+! Version: 2024-08-17 20:25:50（北京时间） 
+! Total count: 4316
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -1103,7 +1103,7 @@
 @@||cdn.cpex.cz/logos/cnc.png$domain=zive.cz
 @@||cdn.datatables.net^
 @@||cdn.ex.co/player/$domain=reviewjournal.com
-@@||cdn.ex.co^$domain=theautopian.com
+@@||cdn.ex.co^$domain=mm-watch.com|theautopian.com
 @@||cdn.exmarketplace.com/bidder/video_scripts/video_updated_*.js$domain=tvserial.it
 @@||cdn.fluidplayer.com/*/current/fluidplayer.min.js
 @@||cdn.games.mobinozer.com/shared/loader/advert.js
@@ -1309,6 +1309,7 @@
 @@||connect-drcn.hispace.hicloud.com^$important
 @@||connect.facebook.net^$script,domain=up-4ever.net
 @@||connect.intl.rom.miui.com^$important
+@@||connect.mobage.jp^$stealth=referrer
 @@||connect.rom.miui.com/generate_204^$important
 @@||connect.rom.miui.com^$important
 @@||connect.ubisoft.com/oauth/*?redirectUrl$jsinject
@@ -1316,6 +1317,7 @@
 @@||connectivitycheck.platform.hicloud.com^$important
 @@||consent.cookiefirst.com/banner.js$stealth
 @@||consent.cookiefirst.com/sites$stealth
+@@||consentmanager.net/delivery/$domain=winfuture.de,stealth
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abc.com
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abcnews.go.com
 @@||content-*.googleapis.com^$stealth
@@ -2206,6 +2208,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=get.x-link.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=globoplay.globo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gocolumbialions.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=goducks.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gostanford.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=h5.4j.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haber7.com
@@ -2687,7 +2690,6 @@
 @@||mediav.com/js/interactive_plugin.js$domain=v.360kan.com
 @@||mediav.com/js/reward_video_pc.min.js$domain=baiten.cn
 @@||medium.com^$stealth
-@@||meet.jit.si^$stealth
 @@||mega-debrid.eu/JS/advertisement.js
 @@||megatube.xxx/atrm/s/s/js/m/pr-before.js
 @@||meituan.net/bs/js/*/js/tracker.js
@@ -3001,6 +3003,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sammobile.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=satdl.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=shed4u1.com|elktob.online
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sivadictionaries.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smallseotools.com,badfilter
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=smsget.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=soisk.pl
@@ -3111,7 +3114,7 @@
 @@||player.enetres.net/js/videojs-plugins/videojs-ads-contrib/videojs.ads.js
 @@||player.ex.co/player/$domain=si.com
 @@||player.ex.co/player/$domain=thestreet.com
-@@||player.ex.co/player/$script,domain=theautopian.com
+@@||player.ex.co/player/$script,domain=mm-watch.com|theautopian.com
 @@||player.ex.co^$domain=reviewjournal.com
 @@||player.glomex.com^$subdocument,stealth=referrer
 @@||player.mediavitrina.ru^$stealth=referrer
@@ -3175,7 +3178,6 @@
 @@||protoawe.com/embed/*/?psid=*&accessKey=*jasminVideoPlayerContainer$domain=pornhd.com
 @@||protoawe.com/tube-player/?psid=*&accessKey=*jasminVideoPlayerContainer$domain=pornhd.com
 @@||proxy.ads.canalplus-bo.net/web/undefined/v1/adserver/info/?asset=*&channel=$xmlhttprequest,domain=www.mycanal.fr
-@@||ps.eyeota.net/eopt$domain=youronlinechoices.com
 @@||ps.w.org^$image,domain=wordpress.org
 @@||ps3-infos.fr/adsense/openads/ads/ads.js
 @@||pstatic.net^$image,stealth
@@ -3632,7 +3634,6 @@
 @@||static.clmbtech.com/ad/commons/js/colombia_v2.js$domain=indiatimes.com
 @@||static.criteo.net/js/ld/publishertag.js$domain=shinden.pl
 @@||static.doubleclick.net/instream/ad_status.js$domain=alliptvlinks.com
-@@||static.doubleclick.net/instream/ad_status.js$domain=idlixofficials.com|idlixofficial.co|idlixofficial.net
 @@||static.doubleclick.net/instream/ad_status.js$domain=idlixplus.*|idlixofficialx.*
 @@||static.doubleclick.net/instream/ad_status.js$domain=investing.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=mhdtvmax.net
@@ -4295,12 +4296,14 @@
 @@||zaixianjisuan.com^$generichide
 @@||zazhipu.com^
 @@||zconfig.alibabausercontent.com^
+@@||zdbb.net/edaa^$domain=youronlinechoices.com
 @@||zeebiz.com/ads/$image,~third-party
 @@||zhaiyd5.com^$script,domain=louzhong8.com|miwens.com
 @@||zhan.vivo.com.cn^$important
 @@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
 @@||zhuti.xiaomi.com^
 @@||zhwnlapi.etouch.cn^$important
+@@||ziffdavis.com/edaa^$domain=youronlinechoices.com
 @@||zive.cz/Client.Scripts/advertisment.js
 @@||zjjcxy.cn^*/ad.css?$stylesheet
 @@||zkres.myzaker.com^$important
