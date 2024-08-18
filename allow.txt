@@ -1,5 +1,5 @@
-! Version: 2024-08-17 20:25:50（北京时间） 
-! Total count: 4316
+! Version: 2024-08-18 09:11:49（北京时间） 
+! Total count: 4324
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -444,6 +444,7 @@
 @@||a.alimama.cn/tkapi$domain=ieeee.com
 @@||a.magsrv.com/ad-provider.js$domain=reshare.pm
 @@||a.magsrv.com/ad-provider.js$domain=rule34porn.net
+@@||a.magsrv.com/ad-provider.js$domain=veev.to
 @@||a.poki.com/prebid/$script,domain=poki-gdn.com|repuls.io
 @@||a.realsrv.com/ad-provider.js$xmlhttprequest,domain=asiaon.top|asiaontop.com
 @@||a0.app.xiaomi.com^$important
@@ -634,6 +635,7 @@
 @@||akamaihd.net/i^$third-party
 @@||akamaized.net/*.m4s$stealth,domain=bilibili.com
 @@||akamaized.net^$important
+@@||aktualne.cz/embed_iframe/$csp=child-src *
 @@||algolia.net/*/indexes/$stealth
 @@||algolianet.com/*/indexes/$stealth
 @@||ali2.a.yximgs.com^$important
@@ -1559,6 +1561,8 @@
 @@||ecard.shenzhentong.com^
 @@||ecitic.com/source/*/pop
 @@||ecma.bdimg.com/holmes/*.svg
+@@||ecma.bdimg.com^$domain=3g.baidu.com|m.baidu.com|m5.baidu.com|m2.baidu.com|m3.baidu.com
+@@||ecmb.bdimg.com^$domain=3g.baidu.com|m.baidu.com|m5.baidu.com|m2.baidu.com|m3.baidu.com
 @@||ecmb.bdimg.com^$important
 @@||eco.taobao.com^
 @@||eco.taobao.com^$important
@@ -2449,8 +2453,12 @@
 @@||jpopsingles.eu/ddl/banner-ad-300x250.png
 @@||jpush.cn^$domain=jiguang.cn
 @@||jr.jd.com^$important
+@@||js.adscale.de/getads.js:adscale_slot_id/$domain=dasolo.org
 @@||js.assemblyexchange.com/videojs-skip-$domain=worldstar.com
 @@||js.assemblyexchange.com/wana.$domain=worldstar.com
+@@||js.hyra.io/*.js$~third-party
+@@||js.iplsc.com/inpl.abd/latest/ads.js?$domain=pomponik.pl|interia.pl|js.iplsc.com
+@@||js.jansatta.com/ads_js.js
 @@||js.tv.itc.cn/gg.seed.js
 @@||js.wpadmngr.com/static/adManager.js$domain=blog.carstopia.net|blog.coinsvalue.net|blog.cookinguide.net|blog.freeoseocheck.com|blog.makeupguide.net
 @@||jsdelivr.net/combine/npm/$domain=ulifestyle.com.hk
