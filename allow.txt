@@ -1,5 +1,5 @@
-! Version: 2024-08-20 20:29:25（北京时间） 
-! Total count: 4321
+! Version: 2024-08-21 09:07:18（北京时间） 
+! Total count: 4324
 @@&ad_type=$domain=ultimate-guitar.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -1056,6 +1056,8 @@
 @@||cc.map.qq.com^$important
 @@||cc.zorores.com/ad/*.vtt$domain=rapid-cloud.co
 @@||ccb.com^*^ad
+@@||cchome.adobe.io/prof/graphql$domain=adobe.io,stealth=3p-auth
+@@||cchome.adobe.io/srch/*/users/$domain=adobe.io,stealth=3p-auth
 @@||ccllaa.com^$generichide
 @@||cctv.com/js/cntv_Advertise.js
 @@||cd.connatix.com/connatix.player.js$domain=loot.tv
@@ -1980,6 +1982,7 @@
 @@||gw-paopao.iqiyi.com^$important
 @@||gw.alicdn.com^$important
 @@||gws.unicredit.ru/branch/map?$stealth=referrer,domain=unicreditbank.ru
+@@||gxr.world^$elemhide,extension
 @@||h-adashx.ut.taobao.com^$important
 @@||h.imedia.cz/js/cmp2/scmp.js$domain=seznam.cz
 @@||h.trace.qq.com^$important
