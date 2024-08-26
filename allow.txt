@@ -1,5 +1,5 @@
-! Version: 2024-08-25 20:26:42（北京时间） 
-! Total count: 4316
+! Version: 2024-08-26 09:08:46（北京时间） 
+! Total count: 4315
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -767,7 +767,6 @@
 @@||api.jr.mi.com^$important
 @@||api.kuaishouzt.com^$important
 @@||api.kwaizt.com^
-@@||api.mapbox.com/*/mapbox.mapbox-terrain-*,mapbox.mapbox-streets-*^$stealth
 @@||api.mapbox.com/*?secure&access_token=$stealth
 @@||api.mapy.cz^$stealth
 @@||api.mercari.jp^$stealth
@@ -1165,6 +1164,7 @@
 @@||cdndx.clouddata8g.xyz^$domain=ohmanhua.com
 @@||cdndx.clouddata8g.xyz^$script,domain=www.cocomanhua.com
 @@||cdnjs.cloudflare.com/ajax/libs/$domain=fmovies.to
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=vidoza.co|vidoza.net
 @@||cdnjs.cloudflare.com/ajax/libs/*.min.js$domain=audioz.download
 @@||cdnjs.cloudflare.com/ajax/libs/Swiper/*/js/swiper.min.js$domain=9anime.*
 @@||cdnjs.cloudflare.com/ajax/libs/blockadblock/3.2.1/blockadblock.js
@@ -1531,6 +1531,7 @@
 @@||drtuber.com^$stealth
 @@||ds2play.com^$stealth=ip
 @@||dsp.fcbox.com^$important
+@@||dtdc.com/tracking/
 @@||duapps.com^$important
 @@||duckduckgo.com^$important
 @@||duelmeta.com^$generichide
@@ -1556,7 +1557,6 @@
 @@||easylife.tw^$generichide
 @@||ebank.bsstarozreby.pl^$stealth=dpi
 @@||ebay.*/makeOffer/$document,subdocument
-@@||ec.nintendo.com^$stealth
 @@||ecard.shenzhentong.com^
 @@||ecitic.com/source/*/pop
 @@||ecma.bdimg.com/holmes/*.svg
@@ -2186,6 +2186,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=coolgames.com|newgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=corrieredellosport.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cosmopolitan.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cubuffs.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dailystar.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=digitalspy.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=diziler.com
@@ -2389,7 +2390,6 @@
 @@||is.snssdk.com^$important
 @@||is1-ssl.mzstatic.com^$important
 @@||isee.weishi.qq.com^$important
-@@||island.lk/userfiles/image/danweem/island.gif
 @@||issuecdn.baidupcs.com^
 @@||issuecdn.baidupcs.com^$important
 @@||isure.stream.qqmusic.qq.com^$important
@@ -2435,6 +2435,7 @@
 @@||jinyongci.com^$generichide
 @@||jjjgame.com/plus/ad_
 @@||jjkmn.com^$generichide
+@@||jkanime.net/*.php?$popup,domain=jkanime.net
 @@||jkanime.net/jk.php?
 @@||jlthjy.com^$generichide
 @@||jmedj.co.jp/files/$image,~third-party
@@ -2764,6 +2765,8 @@
 @@||moneysave.info^$generichide
 @@||monnsutogatya.com^$elemhide
 @@||monova.*/fonts/
+@@||monova.*/img/
+@@||monova.*/js/main.js
 @@||mooc-image.nosdn.127.net^$stealth
 @@||morosedog.gitlab.io^$generichide
 @@||mos.m.taobao.com^$important
@@ -2788,7 +2791,6 @@
 @@||msn.wrating.com/a1.js
 @@||mssl.fwmrm.net/libs/adm/*/LinkTag2.js$domain=play.tv3.lt
 @@||mstm.motorsport.com/mstm.js
-@@||msubload.com/sub/$xmlhttprequest
 @@||mtouch.facebook.com/ads/api/preview/$domain=business.facebook.com
 @@||mts.ru^$stealth
 @@||multiup.org/*/mirror^
@@ -3108,7 +3110,6 @@
 @@||play1.heytapimage.com^$important
 @@||player.aniview.com/script/$script,domain=odysee.com|pogo.com
 @@||player.clevercast.com/players/video-js/video-js-plugins/videojs.ads.min.js
-@@||player.enetres.net/js/videojs-plugins/videojs-ads-contrib/videojs.ads.js
 @@||player.ex.co/player/$domain=si.com
 @@||player.ex.co/player/$domain=thestreet.com
 @@||player.ex.co/player/$script,domain=mm-watch.com|theautopian.com
@@ -3406,7 +3407,6 @@
 @@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=manchestereveningnews.co.uk
 @@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=purepeople.com
 @@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=worldsurfleague.com
-@@||securepubads.g.doubleclick.net/pagead/ppub_config?$domain=bloomberg.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$domain=purepeople.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?ippd=$xmlhttprequest,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com|jytechs.in
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=10play.com.au
@@ -3519,7 +3519,6 @@
 @@||slit.cn/source/plugin/unadblock/*.js
 @@||sm.cn^$important
 @@||smartadserver.com/genericpost$domain=filmweb.pl
-@@||smartstore.naver.com^$stealth=useragent
 @@||smotrim.ru^$stealth=referrer
 @@||smsks1.cmpassport.com^$important
 @@||smsonline.cloud^$generichide
