@@ -1,5 +1,5 @@
-! Version: 2024-08-26 20:29:26（北京时间） 
-! Total count: 4315
+! Version: 2024-08-27 09:09:16（北京时间） 
+! Total count: 4314
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -767,6 +767,7 @@
 @@||api.jr.mi.com^$important
 @@||api.kuaishouzt.com^$important
 @@||api.kwaizt.com^
+@@||api.mapbox.com/*/mapbox.mapbox-terrain-*,mapbox.mapbox-streets-*^$stealth
 @@||api.mapbox.com/*?secure&access_token=$stealth
 @@||api.mapy.cz^$stealth
 @@||api.mercari.jp^$stealth
@@ -2269,7 +2270,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvp.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvp.pl|tvp.info
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ultimedia.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=uptostream.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.deejay.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.gazzetta.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.onnetwork.tv
@@ -2420,7 +2420,6 @@
 @@||jd.com/setCookie?
 @@||jd.com^*&refer=http$script
 @@||jdoqocy.com/click$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
-@@||jeniusplay.com/video/$stealth=referrer
 @@||jetv.xyz/dz/?id=$stealth=referrer
 @@||jeux-geographiques.com/js/adblock_detector.js
 @@||jeux.meteocity.com^$generichide
@@ -2681,6 +2680,7 @@
 @@||media-imdb.com^$stealth,domain=imdb.com
 @@||media.jd.com/static/*/ad
 @@||media.kijiji.ca/api/$image,~third-party
+@@||media.oadts.com/www/delivery/afv.php$domain=games.gamesplaza.com
 @@||media.org.hk^*/ads_
 @@||media.studybreakmedia.com/doubleclick/ads2.js
 @@||media.trafficjunky.net/js/holiday-promo.js$domain=redtube.com|redtube.net|tube8.com|youporn.com|youporn.fyi
@@ -2974,7 +2974,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=darkwiki.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=di.fm
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=door2windows.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=drivedrama.com|puressh.net|iptvbin.com|htnovo.net|frendz4m.org|bestnhl.com|safbits.com|codenova-center.web.app|rivanimation.com|elbierzodigital.com|uploadrar.com|vknsorgula.net|safelink.asia
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duplichecker.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eirudo.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ff14angler.com
@@ -3086,6 +3085,7 @@
 @@||pic.imgdb.cn
 @@||pic.mairuan.com^$important
 @@||piccool.com/2home/phpAdsNew/
+@@||pichive.online^$subdocument,xmlhttprequest,stealth=referrer
 @@||pinduoduo.com/advert/$~third-party
 @@||pingan.com^*/rrweb-record-
 @@||pingfore.qq.com^$important
@@ -3438,7 +3438,6 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=wunderground.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com|jytechs.in
 @@||securetoken.googleapis.com^$stealth=referrer
-@@||securitytrails.com/app/api/$domain=securitytrails.com
 @@||securitytrails.com/domain/$domain=securitytrails.com
 @@||seeitworks.com/advertisement.js
 @@||self.events.data.microsoft.com^$important
@@ -3682,6 +3681,7 @@
 @@||stpd.cloud^$domain=freemcserver.net
 @@||stream.voidboost.$stealth
 @@||streamingcommunity.*/*.js
+@@||streamtape.*/ad.js
 @@||streamwish.com/js/dnsads.js?ads
 @@||stripe.com^$domain=pay.openai.com
 @@||studcat.infra.systems^$important
@@ -3821,11 +3821,11 @@
 @@||tools.usps.com/go/TrackConfirmAction
 @@||toolsforworkingwood.com/blogimg/
 @@||top1porn.com^$generichide
+@@||topsporter.net/frames/$stealth=referrer
 @@||torrage.info/torrent.php$popup,third-party
 @@||torrindex.net/images/*.gif$domain=thepiratebay.org
 @@||torrindex.net/images/*.jpg$domain=thepiratebay.org
 @@||torrindex.net^$script,stylesheet,domain=thepiratebay.org
-@@||tortuga.wtf^$stealth=referrer
 @@||totheglory.im/pic/ttg_logo
 @@||toy-people.com^$generichide
 @@||tpc.googlesyndication.com/archive/$image,subdocument,xmlhttprequest,domain=adstransparency.google.com
@@ -4019,7 +4019,6 @@
 @@||videogamesblogger.com^$csp
 @@||videoplaza.tv/resources/
 @@||videosvc.ezoic.com/play?videoID=$domain=humix.com
-@@||vidmoly.to/embed-$stealth
 @@||vidoza.net/embed-*.html$subdocument
 @@||vidoza.net/js/pop.js
 @@||vidsrc.*/embed/$stealth=referrer
