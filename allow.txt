@@ -1,5 +1,5 @@
-! Version: 2024-08-29 09:10:28（北京时间） 
-! Total count: 4313
+! Version: 2024-08-29 20:30:00（北京时间） 
+! Total count: 4315
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -866,6 +866,7 @@
 @@||attach.mobile01.com/image/mod_ad/*$domain=mobile01.com
 @@||audi.com.tr/*/modeller/$stealth=webrtc
 @@||audid-api.taobao.com^$important
+@@||audio-cdn.shuqireader.com^$important
 @@||audiostream.com^$elemhide
 @@||audiotag.info/images/banner
 @@||audiotag.info/js/adblockDetectorWithGA.js
@@ -3101,6 +3102,7 @@
 @@||pl-play.adtonos.com^$domain=radio-internetowe.com
 @@||platform.twitter.com/$domain=discovery.com
 @@||platform.twitter.com/js/tweet.*.js$domain=gamerant.com
+@@||platform.twitter.com/oct.js$domain=cravetv.ca
 @@||platform.twitter.com/widgets.js$domain=gamerant.com
 @@||play-fe.googleapis.com^$important
 @@||play.bokracdn.run/v2/adsjs/ads.js$script,~third-party
