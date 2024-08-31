@@ -1,5 +1,5 @@
-! Version: 2024-08-30 20:29:22（北京时间） 
-! Total count: 4315
+! Version: 2024-08-31 09:10:03（北京时间） 
+! Total count: 4312
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -625,7 +625,6 @@
 @@||aixifan.com/static/home/widget/basic/advertisement/advertisement.$stylesheet
 @@||aizhan.com^$important
 @@||ajax.cloudflare.com/cdn-cgi/scripts/*/cloudflare-static/mirage*.js$domain=rule34.xxx
-@@||ajax.cloudflare.com/cdn-cgi/scripts/*/cloudflare-static/mirage2.min.js$domain=mangafreak.net
 @@||ajax.googleapis.com/ajax/libs/jquery$domain=gaypornwave.com
 @@||ajax.googleapis.com/ajax/libs/jquery/
 @@||ajax.googleapis.com^$script,domain=imgbox.com
@@ -785,6 +784,7 @@
 @@||api.production.k8s.y3o.tv/*/video-ads/$domain=yallo.tv
 @@||api.revenuecat.com^$important
 @@||api.rikka.app^$important
+@@||api.rmr.rocks^$stealth=3p-auth
 @@||api.sec.miui.com^
 @@||api.sec.miui.com^$important
 @@||api.solvemedia.com/papi/
@@ -2093,7 +2093,6 @@
 @@||hvz.baden-wuerttemberg.de$stealth=dpi
 @@||i*.gmx.com/image
 @@||i*.imagetwist.com^$image,domain=imagetwist.com
-@@||i*.mangapanda.com^$image
 @@||i.cdn.turner.com/ads/adfuel/ais/*/tbs-ais.min.js$domain=tbs.com
 @@||i.cdn.turner.com/ads/adfuel/ais/tcm-ais.js$domain=tcm.com
 @@||i.doodcdn.co/ads/ad.js
@@ -3654,6 +3653,7 @@
 @@||static.shorte.st/bundles/smeweb/$domain=sh.st
 @@||static.telegraph.co.uk/telegraph-advertising/tmg-gpt.min.js$domain=telegraph.co.uk
 @@||static.tieba.baidu.com/tb/editor/images/client/image_emoticon*.png
+@@||static.truex.com/js/client.js$domain=schoolcheats.net
 @@||static.vrv.co^$media,domain=crunchyroll.com
 @@||static.webshark.pl/adserver/*/main_script.js?advertise_check=1
 @@||static.youporn.phncdn.com/cb/assets/css/$domain=youporn.com
@@ -4065,9 +4065,6 @@
 @@||wappass.baidu.com^
 @@||ware.shop.jd.com^$genericblock,generichide
 @@||wargaming.net^$stealth
-@@||watchcartoononline.io/back.jpg
-@@||watchcartoononline.io/search|$popup
-@@||watchcartoononline.io/thumbs/
 @@||wavse.com^$generichide
 @@||wb.amap.com^$important
 @@||wbapp.mobile.sina.cn^$important
