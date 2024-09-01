@@ -1,5 +1,5 @@
-! Version: 2024-08-31 20:27:40（北京时间） 
-! Total count: 4312
+! Version: 2024-09-01 09:21:22（北京时间） 
+! Total count: 4314
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -1454,6 +1454,7 @@
 @@||discoveryplus.in/*/ads/banner_ad.js
 @@||discretemath.org^$image,stylesheet
 @@||disneyplus.bn5x.net^$important
+@@||disp-qryapi.3g.qq.com^$important
 @@||disqus.com/embed/comments/
 @@||disqus.com/embed/comments/$subdocument
 @@||distrowatch.com/images/cpxtu/dwbanner.png
@@ -3170,6 +3171,7 @@
 @@||prod.adspsp.com/adb.2418030m.min.js$domain=medicalnewstoday.com
 @@||prod.fennec.atp.fox/js/fennec.js$domain=freemcserver.net
 @@||profile.csdnimg.cn^
+@@||progress.org.uk/wp-content/plugins/adsanity-adblock-detection/public/js/ads.js$~third-party
 @@||promo.awempire.com/live_feeds/script_basic_livefeed.php?$domain=sexcamdb.com
 @@||promo.com/embed/$subdocument,third-party
 @@||promods.net/*.js$~third-party
