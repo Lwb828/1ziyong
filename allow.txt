@@ -1,5 +1,5 @@
-! Version: 2024-09-02 20:31:19（北京时间） 
-! Total count: 4301
+! Version: 2024-09-03 09:09:55（北京时间） 
+! Total count: 4302
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -1296,6 +1296,7 @@
 @@||colatour.com.tw^$generichide
 @@||colendilabs.com^$stealth=dpi
 @@||collect.hupu.com^$important
+@@||comci.net^$stealth
 @@||commons.wikimedia.org/w/api.php?$~third-party,xmlhttprequest
 @@||computemaster.bxcearth.com^$important
 @@||computerworld.com/www/js/ads/jquery.lazyload-ad.js
