@@ -1,5 +1,5 @@
-! Version: 2024-09-03 20:30:21（北京时间） 
-! Total count: 4300
+! Version: 2024-09-04 09:10:56（北京时间） 
+! Total count: 4296
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -770,10 +770,8 @@
 @@||api.mapbox.com/*/mapbox.mapbox-terrain-*,mapbox.mapbox-streets-*^$stealth
 @@||api.mapbox.com/*?secure&access_token=$stealth
 @@||api.mapy.cz^$stealth
-@@||api.mercari.jp^$stealth
 @@||api.mi-img.com^$stealth=referrer
 @@||api.micloud.xiaomi.net^$important
-@@||api.minecraftservices.com^$stealth
 @@||api.miui.security.xiaomi.com^$important
 @@||api.miwifi.com^$important
 @@||api.nocturnal-narwhal.buzz^$domain=webtor.io
@@ -1832,7 +1830,6 @@
 @@||github.io/videojs-ima/node_modules/video.$domain=setn.com
 @@||githubusercontent.com^$important
 @@||gitlab.com/api/v4/projects/$~third-party
-@@||gizchina.com^$stealth=useragent
 @@||gk.sina.cn/v1/gkmatch?
 @@||gk.sina.cn^
 @@||global-search.browser.miui.com^$important
@@ -2282,6 +2279,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wsls.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=xxxdan.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=yad.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=yepi.com|veedi.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ynet.co.il
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zee5.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zeebiz.com
@@ -2705,7 +2703,6 @@
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=cnbc.com
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=tyla.com
 @@||microsoft.com/*/p/$stealth
-@@||microsoft.com/*/signin.aspx$stealth
 @@||microsoft.com/*=wsign$stealth
 @@||microsoft.com/translate/auth
 @@||microsoftedge.microsoft.com/addons^$stealth
@@ -2963,7 +2960,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=copyseeker.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=crazygames.com|shellshock.io|minijuegos.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cutty.app
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=darkwiki.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=di.fm
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=door2windows.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duplichecker.com
@@ -3090,7 +3086,6 @@
 @@||pkg.sinaimg.cn^$important
 @@||pkstep.com^$generichide
 @@||pl-play.adtonos.com^$domain=radio-internetowe.com
-@@||platform.twitter.com/$domain=discovery.com
 @@||platform.twitter.com/js/tweet.*.js$domain=gamerant.com
 @@||platform.twitter.com/oct.js$domain=cravetv.ca
 @@||platform.twitter.com/widgets.js$domain=gamerant.com
@@ -3940,6 +3935,7 @@
 @@||updateinfo.market.xiaomi.com^$important
 @@||upgrade.ptmi.gitv.tv^$important
 @@||upload*.jianshu.io^$stealth
+@@||upload-bbs.miyoushe.com^$important
 @@||upload.wikimedia.org/wikipedia/$image,media
 @@||uploadex.com^$elemhide
 @@||upos-sz-*.bilivideo.com^$important
@@ -3989,11 +3985,11 @@
 @@||vd1.market.xiaomi.com^$important
 @@||vdun.weibo.com^$important
 @@||vectorsdk.map.qq.com^$important
+@@||veedi.com/*/js/ads/advert.js
 @@||vegetariantimes.com^$stealth=dpi
 @@||venus.yhd.com^$important
 @@||verify.cmpassport.com^$important
 @@||vg247.com/wp-content/themes/vg247/scripts/AdsLoad.js
-@@||vidcache.net:*/*/*.mp4$stealth
 @@||video*.xhcdn.com/key=$stealth
 @@||video.520cc.cc/ad.php|
 @@||video.520cc.cc^$generichide
