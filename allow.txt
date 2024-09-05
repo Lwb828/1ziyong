@@ -1,5 +1,5 @@
-! Version: 2024-09-05 09:10:50（北京时间） 
-! Total count: 4300
+! Version: 2024-09-05 20:30:43（北京时间） 
+! Total count: 4303
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -236,6 +236,7 @@
 @@5.148.189.203:443$network
 @@5.148.189.204:443$network
 @@5.148.189.205:443$network
+@@://*.*.xyz/*/*-*-*-*/$third-party,domain=njav.xyz
 @@://*.*.xyz/videos/*-*-*-*/cover
 @@://*/static/ad/main.js
 @@://*cdn.com$domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
@@ -607,6 +608,7 @@
 @@||adv.lack-girl.com/_assets/$image,stylesheet,script,~third-party
 @@||adv.sec.miui.com^$important
 @@||advert.kf5.com^
+@@||advertisertape.com^$domain=jav.rip|jav.red
 @@||adverts.ie/css/
 @@||adx.yiche.com/cityindex.ashx
 @@||adx.yiche.com/ssp/echo/v1.0/en?*,*,*&cs=
@@ -1088,6 +1090,7 @@
 @@||cdn.afp.ai/ssp/sdk.js$domain=manilatimes.net
 @@||cdn.anilife.*/assets/img/cover/$domain=anilife.*,stealth=referrer
 @@||cdn.anilife.live/assets/img/$stealth=referrer,image,domain=anilife.*
+@@||cdn.animenewsnetwork.com/javascripts/ads.js$~third-party
 @@||cdn.apple-mapkit.com/*?apiVersion=$stealth
 @@||cdn.ark.qq.com^$important
 @@||cdn.bannersnack.com/banners/$~third-party,image,subdocument
@@ -1247,7 +1250,6 @@
 @@||cloud.mail.ru^$image,~third-party
 @@||cloud.typography.com/*/css/fonts.css$stealth
 @@||cloudflare.com/ajax/libs/dash-shaka-playback/$script,domain=vpornvideos.com
-@@||cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=nfmovies.com
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
 @@||cloudflare.com^$script,domain=rule34hentai.net
 @@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl
@@ -2830,7 +2832,6 @@
 @@||newver.api.dedecms.com/index.php$subdocument
 @@||nextbigfuture.s3.amazonaws.com/uploads$stealth
 @@||nextcloud.com/remote.php/$~third-party,xmlhttprequest
-@@||nfmovies.com/static/side.jpg$xmlhttprequest,domain=nfmovies.com
 @@||nintendo.co.kr^$stealth=dpi
 @@||niotv.com^$generichide
 @@||nirsoft.net^$stealth=dpi
@@ -3204,6 +3205,7 @@
 @@||public-api.reviews.2gis.com^$stealth
 @@||public-ubiservices.ubi.com^$stealth
 @@||public.gdtimg.com^$important
+@@||public.slidesharecdn.com/v2/javascripts/assets/ads/detection.*.js
 @@||pubmsg.meituan.com^
 @@||pull2.91cloud.net^$important
 @@||puma.112.2o7.net^
@@ -4180,6 +4182,7 @@
 @@||xbeibeix.com^$generichide
 @@||xboxlive.com^$stealth
 @@||xboxservices.com^$stealth
+@@||xhamster*.*/*/ads$xmlhttprequest,~third-party
 @@||xhcdn.com/*/fonts$font
 @@||xhscdn.com^$image,stealth,domain=xiaohongshu.com
 @@||xhslink.com^$important
