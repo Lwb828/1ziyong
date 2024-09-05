@@ -1,5 +1,5 @@
-! Version: 2024-09-04 20:30:49（北京时间） 
-! Total count: 4296
+! Version: 2024-09-05 09:10:50（北京时间） 
+! Total count: 4300
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -1254,6 +1254,7 @@
 @@||cloudflare.net^$script,domain=colamanga.com
 @@||cloudfront.net/js/common/invoke.js
 @@||cloudfront.net^$domain=portmiamiwebcam.com|mecox.wpengine.com|rethmic.com|soap2day.ai|nationalreview.com|bitly.com|hotslogs.com|webupd8.org|heatworld.com|streamingcommunity.tech|blog.wiki-topia.com|ksl.com|anime1.me|assistant.etxlzb.com|gualaoshi.org|bitbucket.org|laoshigua.com
+@@||cloudfront.net^$domain=postype.com,stealth,image
 @@||cloudfront.net^$script,domain=ebaticalfel.com|fansmega.com|iedprivatedqu.com|stownrusis.com|best-links.org
 @@||club.tgfcer.com^$generichide
 @@||cmbc.com.cn^*ads/
@@ -2968,6 +2969,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=fox.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freeopenvpn.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hackedfreegames.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hulblog.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ifate.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=investing.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jpopsingles.eu
@@ -3150,6 +3152,7 @@
 @@||pptv.com/webdelivery/webafp?cb=loadAdStatus&*sports.pp
 @@||pravo.by^$stealth=dpi
 @@||prebid-asia.creativecdn.com/bidder/prebid/bids$domain=atozmath.com
+@@||pricematrix.nltg.com/*/markup/$xmlhttprequest,elemhide,jsinject,extension
 @@||primevideo.com^$stealth
 @@||primis.tech^$domain=sportsmole.co.uk
 @@||privat24.privatbank.ua^
@@ -3675,6 +3678,7 @@
 @@||sudupan.com^*/*.gif
 @@||sug.browser.miui.com^
 @@||sugar.zhihu.com^$important
+@@||suggestion.baidu.com^$important
 @@||suggestions.dadata.ru^$stealth
 @@||suning.cn/project/msIndex/js/??
 @@||suntory.co.jp/beer/kinmugi/img/ad/$image,~third-party
