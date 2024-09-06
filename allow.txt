@@ -1,5 +1,5 @@
-! Version: 2024-09-05 20:30:43（北京时间） 
-! Total count: 4303
+! Version: 2024-09-06 09:11:08（北京时间） 
+! Total count: 4302
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -486,7 +486,6 @@
 @@||act.vip.iqiyi.com^$important
 @@||activity.tuiapple.com^$important
 @@||ad-cdn.bilgin.pro/app/ad-*.min.js$domain=medyafaresi.com
-@@||ad-emea.doubleclick.net/clk
 @@||ad-maven.com^$domain=ad-maven.com
 @@||ad.10010.com^
 @@||ad.12306.cn^$elemhide,subdocument,domain=95306.cn
@@ -572,6 +571,7 @@
 @@||ads.raidrive.com^
 @@||ads.reddit.com^$domain=myqqjd.com
 @@||ads.remix.es/advertisement.js|
+@@||ads.roblox.com/v*/sponsored-pages$xmlhttprequest
 @@||ads.roblox.com/v1/sponsored-pages$xmlhttprequest,domain=roblox.com
 @@||ads.rubiconproject.com/prebid/$script,domain=drudgereport.com|everydayhealth.com
 @@||ads.sber.ru^$domain=ads.sber.ru
@@ -1368,6 +1368,7 @@
 @@||criteo.com/delivery/ajs.php?zoneid=$script,domain=gaus.ee
 @@||cros-updates-serving.appspot.com^$important
 @@||cruisecenter.com.tw/data/ad/
+@@||cruisingearth.com/community/js/BJumh/top-ads.js
 @@||crunchyrollsvc.com^$stealth=3p-auth
 @@||crystalmark.info/wp-content/uploads/sites/$image,~third-party
 @@||csdn.net/static/static/js/apps/popShow.js
@@ -1930,7 +1931,6 @@
 @@||googletagmanager.com/gtm.js$domain=laprovence.com
 @@||googletagmanager.com/gtm.js$domain=motorsport.com
 @@||googletagmanager.com/gtm.js$domain=radio.at|radio.net|radio.de
-@@||googletagmanager.com/gtm.js$domain=redbull.com
 @@||googletagmanager.com/gtm.js$domain=se.pl
 @@||googletagmanager.com/gtm.js$domain=zennioptical.com
 @@||googletagservices.com/tag/js/gpt.js$domain=allestoringen.be|allestoringen.nl|downdetector.ae|downdetector.ca|downdetector.cl|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.ph|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.tw|downdetector.web.tr|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de
@@ -2520,6 +2520,7 @@
 @@||ldxinyong.com^$generichide
 @@||leaklinks.com/js/prebid-ads.js
 @@||lefile.cn/??*,
+@@||leisurefire.github.io$elemhide,jsinject
 @@||lemall.com/adspace/
 @@||lequ-qfe.iqiyi.com^$important
 @@||lesports.com/pc/??*/click_statistics/
@@ -2948,7 +2949,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com,stealth
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arahdrive.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arkadium.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=autofaucet.dutchycorp.space
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=avforums.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=axilesoft.com
@@ -3317,7 +3317,6 @@
 @@||rule34hentai.net/cdn-cgi/challenge-platform/orchestrate/$domain=rule34hentai.net
 @@||rule34hentai.net/fluidplayer.min.js$domain=rule34hentai.net
 @@||rule34hentai.net^$generichide
-@@||rumble.com/embed/$stealth
 @@||runative-syndicate.com/do2/*$domain=onemanhua.com
 @@||runescape.wiki^$image,~third-party
 @@||rut-miit.ru^$stealth=dpi
@@ -3809,6 +3808,7 @@
 @@||tools.usps.com/go/TrackConfirmAction
 @@||toolsforworkingwood.com/blogimg/
 @@||top1porn.com^$generichide
+@@||topembed.pw^$stealth=referrer
 @@||topsporter.net/frames/$stealth=referrer
 @@||torrage.info/torrent.php$popup,third-party
 @@||torrindex.net/images/*.gif$domain=thepiratebay.org
@@ -3943,7 +3943,6 @@
 @@||upload*.jianshu.io^$stealth
 @@||upload-bbs.miyoushe.com^$important
 @@||upload.wikimedia.org/wikipedia/$image,media
-@@||uploadex.com^$elemhide
 @@||upos-sz-*.bilivideo.com^$important
 @@||upstream.to/embed-*.html$domain=javtiful.com
 @@||upstream.to/js/dnsads.js
