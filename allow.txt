@@ -1,5 +1,5 @@
-! Version: 2024-09-06 20:29:41（北京时间） 
-! Total count: 4296
+! Version: 2024-09-07 09:09:40（北京时间） 
+! Total count: 4297
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -1100,6 +1100,7 @@
 @@||cdn.bootcss.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
 @@||cdn.bootcss.com^$script,domain=59xs.com|biqudd.com|luoqiuzw.com|u33.me|xbiqugela.com|xhtxt.cc|xs98.me|ysxs8.vip
 @@||cdn.broadstreetads.com/init.js$domain=thebatavian.com
+@@||cdn.clarip.com^$stealth=useragent,domain=jcrew.com
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||cdn.cnn.com/ads/adfuel/adfuel-*.min.js$domain=arabic.cnn.com
 @@||cdn.concert.io/lib/concert-ads/v*-latest/concert_ads.js$domain=arrowheadpride.com
@@ -1382,6 +1383,7 @@
 @@||cyberdean.fr/js/advertisement.js
 @@||cz.mrezadosa.com^$xmlhttprequest,image,domain=playzone.cz
 @@||d.bmcx.com^$important
+@@||d.socdm.com/adsv/*/tver_splive$xmlhttprequest,domain=imasdk.googleapis.com
 @@||d.toutiao.com^$important
 @@||d1-dm.com^$generichide
 @@||d13nu0oomnx5ti.cloudfront.net^$domain=rethmic.com
@@ -2408,6 +2410,7 @@
 @@||javpost.net/ads.php
 @@||javtiful.com/ad-engine.js
 @@||jbprogramnotes.com^$generichide
+@@||jcrew.com^$stealth=useragent
 @@||jd.com/adclick?$popup,~third-party
 @@||jd.com/adclick?$~third-party
 @@||jd.com/setCookie?
@@ -2468,7 +2471,6 @@
 @@||kaspersky.ru/advert/
 @@||katfile.com/js/*ad*.js
 @@||kayixin.com^*/advert
-@@||kc.linksgen.com^$subdocument,~third-party
 @@||kdocs.cn^$important
 @@||kdslife.com/ui/css/share2.
 @@||keep.google.com^$jsinject
@@ -2481,9 +2483,7 @@
 @@||kfcorder.com.tw^*/Advert
 @@||kh.google.com/rt/earth/$stealth,xmlhttprequest
 @@||kifir2.kir.hu^$stealth=dpi
-@@||kimcartoon.li^$subdocument,~third-party
 @@||kinescope.io/embed/$stealth
-@@||kisscartoon.se^$subdocument,~third-party
 @@||kissjav.com^$generichide
 @@||kk665403.pixnet.net^$generichide
 @@||knet.cn^
@@ -3046,6 +3046,7 @@
 @@||paypalobjects.com/pa/js/min/pa.js
 @@||paypalobjects.com/tagmgmt/bootstrap.js
 @@||paywall-ad-bucket.s3.amazonaws.com/ad_300_250.jpg
+@@||pbaccess.video.qq.com^$important
 @@||pbs.twimg.com/ad_img/$image,xmlhttprequest
 @@||pbs.twimg.com^$important
 @@||pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
@@ -3749,6 +3750,7 @@
 @@||tenor.googleapis.com^$stealth
 @@||tenpay.com/v2/res/pub/cps/main/bottom_ad.js
 @@||tenpay.com^*?ADTAG=
+@@||tesco.com^$stealth=ip
 @@||test.nextdns.io^$important
 @@||test.profitsfly.com/wp-content/uploads/*/bg-h2-pattern.png$domain=starkroboticsfrc.com|cryptednews.space|seoliv.com|waezg.xyz|blackwoodacademy.org|lifgam.online|crypto-radio.eu|tiktokcounter.net
 @@||tgc1.ru^$stealth=dpi
@@ -4206,7 +4208,6 @@
 @@||yacine-app.com^$generichide
 @@||yads.c.yimg.jp/js/yads-async.js$domain=kobe-np.co.jp|yahoo.co.jp
 @@||yandex.ru/ads/system/adsdk.js$domain=gisher.org
-@@||yandex.ru/ads/system/adsdk.js$domain=kino.tricolor.tv
 @@||yandex.ru/ads/system/context.js$domain=investing.com
 @@||yandex.ru/ads/system/context.js|$script,domain=playground.ru
 @@||yandex.ru/user-id$stealth
