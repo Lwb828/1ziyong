@@ -1,5 +1,5 @@
-! Version: 2024-09-08 20:27:47（北京时间） 
-! Total count: 4287
+! Version: 2024-09-09 09:13:23（北京时间） 
+! Total count: 4278
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -605,7 +605,6 @@
 @@||adv.bebad.it/js/ads.js$domain=badtaste.it
 @@||adv.ccb.com^
 @@||adv.gg^$popup
-@@||adv.lack-girl.com/_assets/$image,stylesheet,script,~third-party
 @@||adv.sec.miui.com^$important
 @@||advert.kf5.com^
 @@||advertisertape.com^$domain=jav.rip|jav.red
@@ -866,7 +865,6 @@
 @@||audi.com.tr/*/modeller/$stealth=webrtc
 @@||audid-api.taobao.com^$important
 @@||audio-cdn.shuqireader.com^$important
-@@||audiostream.com^$elemhide
 @@||audiotag.info/images/banner
 @@||audiotag.info/js/adblockDetectorWithGA.js
 @@||auditude.com^
@@ -1733,7 +1731,6 @@
 @@||frodo.douban.com^
 @@||frontier.tiktokv.com^$important
 @@||frontroute.org/*.txt$stealth=referrer
-@@||frontroute.org^$media,stealth=referrer
 @@||fs-im-kefu.7moor-fs1.com^$important
 @@||fscinda.com/ad/$~third-party
 @@||fundingchoicesmessages.google.com/f^$domain=adshnk.com
@@ -1859,7 +1856,6 @@
 @@||google-analytics.com/analytics.js$domain=atozmath.com
 @@||google-analytics.com/analytics.js$domain=burgerking.hu
 @@||google-analytics.com/analytics.js$domain=citytalk.tw|ebb.io|komica.org|lenovo.com.cn|linetv.tw|maminews.com.tw|support.amd.com
-@@||google-analytics.com/analytics.js$domain=orbitum.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=lenovo.com.cn
 @@||google-analytics.com/plugins/ua/linkid.js$domain=support.amd.com
 @@||google.*/_/chrome/newtab$document
@@ -2823,7 +2819,6 @@
 @@||newtoki*.org/data/file/$image,stealth=referrer
 @@||newver.api.dedecms.com/index.php$subdocument
 @@||nextbigfuture.s3.amazonaws.com/uploads$stealth
-@@||nextcloud.com/remote.php/$~third-party,xmlhttprequest
 @@||nintendo.co.kr^$stealth=dpi
 @@||niotv.com^$generichide
 @@||nirsoft.net^$stealth=dpi
@@ -3016,7 +3011,6 @@
 @@||pandora.com/static/ads/
 @@||pandora.com/web-client-assets/ads.*.js
 @@||pandora.com/web-version/*/*.json
-@@||panel.sinema.cx/video/$stealth=referrer
 @@||panjiachen.github.io^$generichide
 @@||papalah.com^$generichide
 @@||papi-service.jd.com/ads/
@@ -3270,7 +3264,6 @@
 @@||recmd.html5.qq.com^$important
 @@||redbox.com/images/ads/pixel.png
 @@||redguide.top^*/ad.css?$stylesheet
-@@||redheadsound.video/player^$stealth
 @@||redian.news^$generichide
 @@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|zdnet.com
 @@||regapi.37.com/api/p_register.php?login_account=
@@ -3330,7 +3323,6 @@
 @@||s0.2mdn.net^$image,domain=client.falixnodes.net
 @@||s0.wp.com/wp-content/js^$domain=gaypornwave.com
 @@||s1-filecr.xyz^$stealth
-@@||s1-static.msstatic.com/mfe/huya_main/*.html$stealth,domain=huya.com
 @@||s1-static.msstatic.com/mfe/huya_main/*.html$xmlhttprequest,elemhide,jsinject,content,extension,domain=huya.com
 @@||s1.adform.net/banners/scripts/adx.js$domain=delfi.lt
 @@||s1.kskwai.com^$important
@@ -3914,7 +3906,6 @@
 @@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 @@||union2.50bang.org^$third-party
 @@||universfreebox.com/js/advertisement.js
-@@||unpkg.com/vue-recaptcha@*/dist/vue-recaptcha.js$domain=vidoza.net
 @@||uop.quark.cn
 @@||up.cm.ksmobile.com^$important
 @@||up4ever.download^$domain=up-4ever.net
