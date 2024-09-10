@@ -1,5 +1,5 @@
-! Version: 2024-09-09 20:31:22（北京时间） 
-! Total count: 4277
+! Version: 2024-09-10 09:12:05（北京时间） 
+! Total count: 4276
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -361,7 +361,6 @@
 @@||1plus1.video/tvguide/embed/*?autoplay=$stealth
 @@||1plus1.video/video/embed/$stealth,~script,~xmlhttprequest,~other
 @@||1sapp.com^
-@@||1trackapp.com^$stealth,xmlhttprequest,domain=1track.ru
 @@||2018x.bid/adview.js
 @@||210.40.130.91^*/ad.css?$stylesheet
 @@||230book.com/images/bqg.js$domain=230book.net
@@ -2016,7 +2015,6 @@
 @@||hdslb.com^$stealth,domain=bilibili.com
 @@||hdvid.tv/js/jquery.cookie.js
 @@||hdvid.tv/js/jquery.min.js
-@@||hdvid.tv/player*/jwplayer.html5.js
 @@||hdvid.tv/player*/jwplayer.js
 @@||hdvid.tv/player*/lightsout.js
 @@||heartyhosting.com^$domain=muscleandfitness.com
@@ -2335,6 +2333,7 @@
 @@||imgcache.qq.com^$important
 @@||imgdrive.net/anex/alt2.js
 @@||imgtaxi.com/img-*.html
+@@||imgtn.bdimg.com^$stealth
 @@||imgwallet.com/advertisement.js
 @@||imop.com^
 @@||improvedigital.com/pbw/headerlift.min.js$domain=games.co.uk|kizi.com|zigiz.com
@@ -2664,6 +2663,7 @@
 @@||media.nbb-cdn.de/images^$stealth
 @@||media.oadts.com/www/delivery/afv.php$domain=games.gamesplaza.com
 @@||media.org.hk^*/ads_
+@@||media.salemwebnetwork.com/adverts/advertisement.js$domain=biblestudytools.com
 @@||media.studybreakmedia.com/doubleclick/ads2.js
 @@||media.trafficjunky.net/js/holiday-promo.js$domain=redtube.com|redtube.net|tube8.com|youporn.com|youporn.fyi
 @@||mediaplex.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
@@ -2735,7 +2735,6 @@
 @@||mobinovels.com^$generichide
 @@||moea.gov.tw/EgisWeb/Scripts/google-analytics.js
 @@||moegirl.org.cn^$generichide
-@@||moeni.net^$stealth=webrtc
 @@||moggy-image-1251316161.file.myqcloud.com^$important
 @@||mojedatovaschranka.cz^$stealth=dpi
 @@||momovod.com/js/momo/adsbygoogle.js
