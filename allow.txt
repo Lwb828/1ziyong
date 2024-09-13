@@ -1,5 +1,5 @@
-! Version: 2024-09-13 09:11:54（北京时间） 
-! Total count: 4268
+! Version: 2024-09-13 20:29:40（北京时间） 
+! Total count: 4258
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -48,6 +48,7 @@
 @@/_js/pubfig.min.js$~third-party,domain=svethardware.cz|relaxuj.cz|svetmobilne.cz|digimanie.cz
 @@/_next/static/chunks/$script,domain=hentaipaw.com
 @@/ad-close.png$domain=ch.com
+@@/ad-provider.js$xmlhttprequest,domain=veev.to
 @@/ad.js$domain=starkroboticsfrc.com|cryptednews.space|seoliv.com|waezg.xyz|blackwoodacademy.org|lifgam.online|crypto-radio.eu|tiktokcounter.net
 @@/ad.php?$domain=jav777.cc|jav777.xyz|520cc.cc|520cc.com
 @@/ad/ads.php?$domain=jav777.cc|jav777.xyz|520cc.cc|520cc.com
@@ -450,8 +451,6 @@
 @@||a.lulucdn.com/js/dnsads.js
 @@||a.magsrv.com/ad-provider.js$domain=reshare.pm
 @@||a.magsrv.com/ad-provider.js$domain=rule34porn.net
-@@||a.magsrv.com/ad-provider.js$xmlhttprequest,domain=veev.to
-@@||a.orbsrv.com/ad-provider.js$xmlhttprequest,domain=veev.to
 @@||a.poki.com/prebid/$script,domain=poki-gdn.com|repuls.io
 @@||a0.app.xiaomi.com^$important
 @@||a1.itc.cn/pv/js/spv.
@@ -937,7 +936,6 @@
 @@||beltelecom.by^$stealth=dpi
 @@||bestlistofporn.com^$generichide
 @@||beta.speedtest.net/api/
-@@||betterads.org/hubfs/$image,~third-party
 @@||beyondsoft.com/dataservice/img/ad_
 @@||bhc.co.kr^$stealth=dpi
 @@||bigbtc.win/js/ads-prebid.js
@@ -1312,8 +1310,6 @@
 @@||connect.ubisoft.com/oauth/*?redirectUrl$jsinject
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.platform.hicloud.com^$important
-@@||consent.cookiefirst.com/banner.js$stealth
-@@||consent.cookiefirst.com/sites$stealth
 @@||consentmanager.net/delivery/$domain=winfuture.de,stealth
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abc.com
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abcnews.go.com
@@ -1524,7 +1520,6 @@
 @@||drivemoe.com/-ads-banner.js
 @@||dropbox.com/*/oauth$document
 @@||drtuber.com^$stealth
-@@||ds2play.com^$stealth=ip
 @@||dsp.fcbox.com^$important
 @@||dtdc.com/tracking/
 @@||duapps.com^$important
@@ -1539,7 +1534,6 @@
 @@||dxx.wwwtop.top^$important
 @@||dydog.org/*/DPlayer.min.css
 @@||dydog.org/*/DPlayer.min.js
-@@||dziennikwschodni.pl/*/*?ads=$~third-party,image
 @@||dziennikwschodni.pl/*/*ads.
 @@||e-cdns-assets.dzcdn.net/common/js/*.js$domain=deezer.com
 @@||e-gen.or.kr^$stealth=dpi
@@ -1720,7 +1714,6 @@
 @@||friday.tw/backend/uploadpic/adindex/
 @@||frodo.douban.com^
 @@||frontier.tiktokv.com^$important
-@@||frontroute.org/*.txt$stealth=referrer
 @@||fs-im-kefu.7moor-fs1.com^$important
 @@||fscinda.com/ad/$~third-party
 @@||fundingchoicesmessages.google.com/f^$domain=adshnk.com
@@ -1834,7 +1827,6 @@
 @@||go.redirectingat.com/*&url=$domain=forums.redflagdeals.com
 @@||go.xliirdr.com/?*targetDomain=fikfapcams.com$domain=fikfap.com
 @@||gocomics.com/assets/ad-dependencies-$script,~third-party
-@@||gogoplay1.com/streaming.php?id=
 @@||gogoplay5.com^$subdocument
 @@||goha.ru/app/video/adblock.teaser.js|$script,domain=goha.ru
 @@||golangnote.com^$generichide
@@ -2168,7 +2160,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=digitalspy.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dressupmix.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=einthusan.ca|einthusan.tv|einthusan.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=embed-zattoo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=etonline.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=express.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=flipboard.com
@@ -2226,6 +2217,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=play.joj.sk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=play.nova.bg
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.glomex.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.pl|vod.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=pluscdn.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=pogo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=poki-gdn.com|repuls.io
@@ -2258,7 +2250,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vizita.si
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voicetv.co.th
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wetv.vip
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wibc.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wsls.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=xxxdan.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=yad.com
@@ -2644,7 +2635,6 @@
 @@||mcmod.cn/images/banner/
 @@||mcmod.cn/js/jquery.cookie.js
 @@||mcs.snssdk.com^
-@@||mcsg.my.site.com^$stealth=referrer,domain=mcafee.com
 @@||mdn.open.wo.cn^$important
 @@||media-imdb.com^$stealth,domain=imdb.com
 @@||media.jd.com/static/*/ad
@@ -3077,6 +3067,7 @@
 @@||player.glomex.com^$subdocument,stealth=referrer
 @@||player.mediavitrina.ru^$stealth=referrer
 @@||player.odycdn.com/api/$xmlhttprequest,domain=odysee.com
+@@||player.starlight.digital^$stealth
 @@||player.vimeo.com/video^$stealth
 @@||playhydrax.com/?v=$subdocument
 @@||playshakespeare.com/*/js/prebid-ads.js
@@ -3232,7 +3223,6 @@
 @@||r4---sn-qxo7rn7e.googlevideo.com^$important
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
 @@||rackcdn.com^$stealth,domain=investing.com|forexpros.com
-@@||radio.securenetsystems.net/cwa/js/prebid.js
 @@||raenonx.cc^$generichide
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
 @@||rapidrar.com/js/fuckadblock.js
