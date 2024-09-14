@@ -1,5 +1,5 @@
-! Version: 2024-09-13 20:29:40（北京时间） 
-! Total count: 4258
+! Version: 2024-09-14 09:10:39（北京时间） 
+! Total count: 4251
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -422,6 +422,7 @@
 @@||5qidgde.com^$generichide
 @@||5w8.fun/myads/img/*.gif
 @@||70.86.24.120:8060/*/
+@@||720static.com/resource/$stealth=referrer
 @@||75.125.41.29:8080/*/
 @@||7m.cn/v2/js/analyse.js
 @@||7x24s.com^
@@ -463,7 +464,6 @@
 @@||ac.dun.163yun.com^
 @@||ac.kr^$stealth=dpi
 @@||account.mail.ru^$stealth
-@@||account.microsoft.com/?refd=$stealth
 @@||account.microsoft.com/auth/$stealth
 @@||account.wps.cn^$important
 @@||accounts.google.com/gsi/$stealth
@@ -618,7 +618,6 @@
 @@||aikanvod.miguvideo.com^$important
 @@||airav.cc/js/td_ga_tracker.js
 @@||airchina.com.cn/dynamicAd/
-@@||airplaydirect.com/openx/www/images/$image
 @@||aixifan.com/acfun-H5/public/script/sensorsdata.
 @@||aixifan.com/acsdk/log.min.js?
 @@||aixifan.com/dotnet/20130418/script/fingerprint.
@@ -857,7 +856,6 @@
 @@||atozmath.com/Scripts/advertisement.js
 @@||atozmath.com^$cookie
 @@||attach.mobile01.com/image/mod_ad/*$domain=mobile01.com
-@@||audi.com.tr/*/modeller/$stealth=webrtc
 @@||audid-api.taobao.com^$important
 @@||audio-cdn.shuqireader.com^$important
 @@||audiotag.info/images/banner
@@ -1118,7 +1116,6 @@
 @@||cdn.jsdelivr.net^$script,domain=yemancomic.com
 @@||cdn.lib.getjad.io/library/$domain=purepeople.com
 @@||cdn.lib.getjad.io/prebid/$domain=purepeople.com
-@@||cdn.lsicloud.net/kendall/Images/AD/$domain=shop.kendallelectric.com
 @@||cdn.maskinbladet.dk/*assets/templates/*/img/adblocker/ads.png
 @@||cdn.nlark.com^$image,stealth,domain=yuque.com
 @@||cdn.optimizely.com/js/*.js$domain=kktv.me
@@ -2119,7 +2116,6 @@
 @@||image.uc.cn^$important
 @@||imagefap.com/jscripts/ad_loader.js
 @@||images*.imagebam.com/ad^
-@@||images-*.ssl-images-amazon.com/images/*/advertising^$domain=amazon.de|amazon.com|amazon.fr|amazon.it|amazon.es|amazon.co.jp|amazon.co.uk|amazon.ca
 @@||images-na.ssl-images-amazon.com/images/*/transparent-pixel.$image,domain=amazon.in
 @@||images.bestbuy.com^$domain=bestbuy.com
 @@||images.boosty.to^$stealth
@@ -2174,7 +2170,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|esgentside.com|maxisciences.com|ohmymag.com|ohmymag.de|ohmymag.com.br|ohmirevista.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=get.x-link.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=globoplay.globo.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gocolumbialions.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=goducks.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gostanford.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=h5.4j.com
@@ -2208,6 +2203,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nova.cz
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nowplayer.now.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nowplayer.now.com,important
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nowtv.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nrl.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ntvspor.net
@@ -2434,7 +2430,6 @@
 @@||jwpcdn.com/player/plugins/googima/*/googima.js$domain=viu.tv
 @@||jwpcdn.com^
 @@||k.apiairasia.com^$domain=airasia.com,stealth=referrer
-@@||kad.arbitr.ru^$stealth
 @@||kafan.cn^$stealth=dpi
 @@||kaitao.cn/public/wenda/ad/css/ds-un-detail.css
 @@||kaspersky.ru/advert/
@@ -2679,7 +2674,6 @@
 @@||microsofttranslator.com/translate?
 @@||migrate.driveapi.micloud.xiaomi.net^$important
 @@||mil.by^$stealth=dpi
-@@||milffox.com/player/config.php
 @@||mime.baidu.com^
 @@||minigame.aeriagames.jp/*/ae-tpgs-$~third-party
 @@||minigame.zijieapi.com^$important
@@ -2935,7 +2929,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ifate.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=investing.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jpopsingles.eu
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=key-hub.eu
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kitguru.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=livemint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mealcold.com
@@ -3412,7 +3405,6 @@
 @@||sf0.market.xiaomi.com^$important
 @@||sf3-pitaya-tos.pstatp.com^$important
 @@||sfsapi.micloud.xiaomi.net^$important
-@@||sgcpanel.com^$document
 @@||shahid.mbc.net^$generichide
 @@||shaka-player-demo.appspot.com/lib/ads/ad_manager.js$script,~third-party
 @@||shana.pe.kr^$generichide
@@ -3516,6 +3508,7 @@
 @@||sravni-labs.ru^$stealth=dpi
 @@||srv.clickfuse.com/showads/showad.js$domain=aha-music.com
 @@||ssl-cdn.static.browser.mi-img.com^$important
+@@||ssl-thumb2.720static.com^$stealth,image
 @@||ssl.gstatic.com^$important
 @@||ssl.msdk.qq.com^
 @@||ssl.sdcdn.com/cms/ads/*$domain=stardoll.com
