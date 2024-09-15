@@ -1,5 +1,5 @@
-! Version: 2024-09-14 20:28:17（北京时间） 
-! Total count: 4251
+! Version: 2024-09-15 09:19:08（北京时间） 
+! Total count: 4241
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -474,6 +474,7 @@
 @@||acea.it^$jsinject
 @@||acgbenzi.com//dist/images/top.png
 @@||acgdraw.com/ad$xmlhttprequest
+@@||achieves.2gis.com/*/achieves?locale=$stealth,xmlhttprequest
 @@||acid2.acidtests.org^$document
 @@||acid3.acidtests.org^$document
 @@||acs.m.taobao.com^
@@ -730,7 +731,6 @@
 @@||api-cmnt.wtzw.com^$important
 @@||api-edge.cognitive.microsofttranslator.com/translate?
 @@||api-game.meizu.com^$important
-@@||api-maps.yandex.ru/services/startup/$stealth
 @@||api-secure.solvemedia.com^
 @@||api-shoulei-ssl.xunlei.com^
 @@||api-unionid.meituan.com^$important
@@ -1913,7 +1913,6 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=scotsman.com,badfilter
 @@||googletagservices.com/tag/js/gpt.js$domain=topuniversities.com
 @@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|tvbs.com.tw|www.gamer.com.tw
-@@||googletagservices.com/tag/js/gpt.js$domain=xn--allestrungen-9ib.de
 @@||googletagservices.com/tag/js/gpt.js?ad_tag=$domain=clipmyhorse.tv
 @@||googletagservices.com^$script,domain=creaders.net
 @@||gooogle.how^$generichide
@@ -2035,7 +2034,6 @@
 @@||hotel.17u.cn^$important
 @@||hotpornfile.org/*/a/na/js/*?container=naskjz
 @@||hotpornfile.org/wp-admin/admin-ajax.php$domain=hotpornfile.org
-@@||hotstream.club/embed/$stealth=referrer
 @@||hoy.tv/wp-content/themes/vodi-child/videojs-event-tracking.js
 @@||hq.sinajs.cn^$stealth=referrer,script,domain=finance.sina.com.cn
 @@||hqq.to/js/adv/fuckadblock.js
@@ -2202,7 +2200,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news.tvb.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nova.cz
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nowplayer.now.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nowplayer.now.com,important
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nowtv.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nrl.com
@@ -2359,7 +2356,6 @@
 @@||item-voyage.fr/ads.css
 @@||iteye.com^$important
 @@||itv.com/itv/hserver/*/site=itv/$xmlhttprequest
-@@||itv.com/itv/tserver/$~third-party
 @@||itv.com/itv/tserver/$~third-party,badfilter
 @@||itv.com/itv/tserver/*size=*/*/viewid=$badfilter
 @@||iv*.imgview.net/i/$image
@@ -2750,6 +2746,7 @@
 @@||musictrack.jp/a/ad/banner_member.jpg
 @@||muzlan.top/ads/banner.png
 @@||muzlan.top^$generichide
+@@||mvz.hufeland.de^$stealth=dpi
 @@||mx.technolutions.net^$important
 @@||mxcontent.net/*.mp4$media,stealth=referrer
 @@||my.bmi.ir^$elemhide,jsinject
@@ -2823,7 +2820,6 @@
 @@||oasjs.kataweb.it/adsetup.real.js$domain=video.deejay.it
 @@||oasjs.kataweb.it/adsetup.real.js$domain=video.repubblica.it
 @@||oasjs.kataweb.it/adsetup_cmp.js$domain=repubblica.it
-@@||oasjs.kataweb.it/adsetup_pcmp.js$domain=kataweb.it
 @@||oauth.secure.pixiv.net^$important
 @@||oauth.vk.com$document
 @@||oauth.vk.com/authorize?
@@ -2959,8 +2955,8 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=app.axenthost.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=b2bhint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=ewrc-results.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=fooak.com|plknu.com|nexnoo.com|simana.online|efhjd.com|upfilesurls.com|falpus.com|upfiles-urls.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=watchx.top|phimlongtieng.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=iconmonstr.com,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=noor-book.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
@@ -3001,7 +2997,6 @@
 @@||payapp.weixin.qq.com^$important
 @@||payload.cargocollective.com^$image,~third-party
 @@||payments.braintree-api.com^$stealth
-@@||payments.jagex.com^$stealth
 @@||paypalobjects.com/pa/js/min/pa.js
 @@||paypalobjects.com/tagmgmt/bootstrap.js
 @@||paywall-ad-bucket.s3.amazonaws.com/ad_300_250.jpg
@@ -3292,7 +3287,6 @@
 @@||s0.2mdn.net^
 @@||s0.2mdn.net^$image,domain=client.falixnodes.net
 @@||s0.wp.com/wp-content/js^$domain=gaypornwave.com
-@@||s1-filecr.xyz^$stealth
 @@||s1-static.msstatic.com/mfe/huya_main/*.html$xmlhttprequest,elemhide,jsinject,content,extension,domain=huya.com
 @@||s1.adform.net/banners/scripts/adx.js$domain=delfi.lt
 @@||s1.kskwai.com^$important
@@ -3304,7 +3298,6 @@
 @@||saomiao.51240.com^$important
 @@||saomiao.bmcx.com^$important
 @@||sascdn.com/video/players/jwplayer/
-@@||satellite-calculations.com/ads.js
 @@||sax.sina.com.cn/video/newimpress?
 @@||sberbank.ru^$stealth=ip
 @@||scatfap.com/scat-porn/modules/vids/misc_static/adverts.js
@@ -3609,10 +3602,8 @@
 @@||sto520.com^$generichide
 @@||storage.googleapis.com/aisw-assets/fanpage/adblock/advert*_.json$domain=staige.tv
 @@||storage.yandex.net/rdisk/$stealth
-@@||store-web.dynamics.com^$stealth
 @@||store.heytapimage.com^$important
 @@||store.mktpl.minecraft-services.net/api/$stealth
-@@||stores.office.com/authredir
 @@||stpd.cloud^$domain=freemcserver.net
 @@||stream.voidboost.$stealth
 @@||streamingcommunity.*/*.js
@@ -3696,6 +3687,7 @@
 @@||techniknews.net/data/ads/doubleserve.js
 @@||techonthenet.com/javascript/advert-min.js
 @@||telegram.hr^$content
+@@||teleportal.ua/vplayer/?hash=$stealth
 @@||tempinbox.xyz/storage/js/mnpw3.js
 @@||temu.com^$stealth=dpi
 @@||tenki.jp/storage/static-images/top-ad/
@@ -4011,7 +4003,6 @@
 @@||we.tl^$important
 @@||web-ads.pulse.weatherbug.net/api/ads/targeting/v*/parameters?$domain=weatherbug.com
 @@||web.any.do^$document
-@@||web.mention.com^$document
 @@||web.np.playstation.com/api^$stealth
 @@||web.skype.com^$stealth
 @@||web.vip.miui.com^$important
@@ -4057,7 +4048,6 @@
 @@||wordpress.org/plugins/$domain=wordpress.org
 @@||wordpress.org/stats/plugin/$domain=wordpress.org
 @@||work.weixin.qq.com^$important
-@@||workers.dev/yayinstar$xmlhttprequest,stealth=referrer
 @@||world.qpic.cn^$important
 @@||worldwide.sogou.com^$important
 @@||wplocker.com/advertisement.js
@@ -4104,6 +4094,7 @@
 @@||www.paypalobjects.com^$important
 @@||www.pussyspace.com/ajax/contact/exo-logo.png|
 @@||www.pussyspace.com/class/captcha/arrow.png|
+@@||www.pussyspace.com/class/captcha/captcha.php|
 @@||www.pussyspace.com/favicon.ico|
 @@||www.pussyspace.com/player/loading.gif|
 @@||www.pussyspace.com/style/img/navbg.hover.png|
@@ -4172,7 +4163,6 @@
 @@||yastatic.net/pcode/adfox/loader.js$domain=onedio.ru
 @@||yastatic.net/yandex-video-player-iframe-api-bundles$stealth
 @@||ydstatic.com^$important
-@@||yerim.buzz/embed-*.html$stealth=referrer
 @@||yesiget.i234.me^$generichide
 @@||yhd.com^$important
 @@||yimg.com/*/*.css
