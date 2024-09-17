@@ -15,24 +15,18 @@ cd tmp
 echo '下载规则'
 rules=(
  
-"https://raw.githubusercontent.com/qq5460168/666/master/rules.txt"
- "https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/-/main/black.txt"
+"https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt"
+ "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt"
   "https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt"
   "https://cdn.jsdelivr.net/gh/damengzhu/abpmerge@main/abpmerge.txt"
- 
-  "https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.plus.txt"
-  "https://raw.hellogithub.com/hosts"
-  "https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt"
-
-"https://raw.githubusercontent.com/qq5460168/-/main/white.txt"
 
 ""
  )
 
 allow=(
   "https://raw.githubusercontent.com/qq5460168/-/main/white.txt"
-#anti白名单
-＂https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt＂
+#good白名单
+＂https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt＂
   
 )
 
