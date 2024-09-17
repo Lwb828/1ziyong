@@ -1,5 +1,5 @@
-! Version: 2024-09-17 09:00:00（北京时间） 
-! Total count: 4236
+! Version: 2024-09-17 23:46:43（北京时间） 
+! Total count: 4223
 @@&ad_type=$domain=ultimate-guitar.com
 @@-atari-embeds.googleusercontent.com/embeds/*/inner-frame-minified.html$stealth
 @@-social-bar.$domain=mobi.yahoo.com
@@ -384,7 +384,6 @@
 @@||40017.cn^$important
 @@||423down.com^$generichide
 @@||4399sj.com^*/adview_pic_
-@@||4cdn.org/adv/$image,xmlhttprequest,domain=4channel.org
 @@||4cdn.org/js/catalog.min.*.js$domain=4chan.org
 @@||4cdn.org/js/core.min.*.js$domain=4chan.org
 @@||4cdn.org/js/extension.min.*.js$domain=4chan.org
@@ -475,7 +474,6 @@
 @@||acgbenzi.com//dist/images/top.png
 @@||acgdraw.com/ad$xmlhttprequest
 @@||achieves.2gis.com/*/achieves?locale=$stealth,xmlhttprequest
-@@||acid2.acidtests.org^$document
 @@||acid3.acidtests.org^$document
 @@||acs.m.taobao.com^
 @@||acs.m.taobao.com^$important
@@ -998,7 +996,6 @@
 @@||bytegoofy.com/ad/$domain=jinritemai.com
 @@||c-ctrip.com/images/*.jpg
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=atozmath.com
-@@||c.amazon-adsystem.com/aax2/apstag.js$domain=baltimoresun.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=fox21news.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=foxnews.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=kark.com
@@ -1091,7 +1088,6 @@
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||cdn.cnn.com/ads/adfuel/adfuel-*.min.js$domain=arabic.cnn.com
 @@||cdn.concert.io/lib/concert-ads/v*-latest/concert_ads.js$domain=arrowheadpride.com
-@@||cdn.consentmanager.net/delivery/customdata/$stealth
 @@||cdn.consentmanager.net/delivery/js/cmp*.min.js$stealth
 @@||cdn.contentful.com/spaces^$stealth
 @@||cdn.cpex.cz/cmp/v*/cpex-cmp.min.js$domain=zive.cz
@@ -1306,7 +1302,6 @@
 @@||connect.ubisoft.com/oauth/*?redirectUrl$jsinject
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.platform.hicloud.com^$important
-@@||consentmanager.net/delivery/$domain=winfuture.de,stealth
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abc.com
 @@||content*.uplynk.com/channel/*.m3u8?$domain=abcnews.go.com
 @@||content-*.googleapis.com^$stealth
@@ -1608,7 +1603,6 @@
 @@||experienceleague.adobe.com^$~third-party
 @@||explainxkcd.com/wiki/images/$image,~third-party
 @@||exponential.com^*/tags.js$domain=yellowbridge.com
-@@||extreme-down.plus^$popup,domain=extreme-down.plus
 @@||eye.swfchan.com/captcha/*.gif$domain=eye.swfchan.com
 @@||eye.swfchan.com/flash.asp?id=*.swf$domain=eye.swfchan.com
 @@||ez3c.tw/js/adblockDetector.js
@@ -1653,7 +1647,6 @@
 @@||feed.4strokemedia.com^$domain=video.gazzetta.it
 @@||feedback-pa.clients*.google.com/*/google.internal.feedback.$stealth
 @@||feedback.miui.com^$important
-@@||feedly.com/i/^$jsinject
 @@||feilusw.com/search.html$genericblock,generichide
 @@||fengkongcloud.com/fpv2.js
 @@||fexclick.baidu.com^
@@ -2152,7 +2145,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cubuffs.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dailystar.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=digitalspy.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dressupmix.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=einthusan.ca|einthusan.tv|einthusan.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=etonline.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=express.co.uk
@@ -2210,6 +2202,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=play.nova.bg
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.glomex.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.pl|vod.pl
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=pluscdn.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=pogo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=poki-gdn.com|repuls.io
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=primarygames.com
@@ -2424,6 +2417,7 @@
 @@||k.apiairasia.com^$domain=airasia.com,stealth=referrer
 @@||kafan.cn^$stealth=dpi
 @@||kaitao.cn/public/wenda/ad/css/ds-un-detail.css
+@@||kaspersky.com/advert/
 @@||kaspersky.ru/advert/
 @@||katfile.com/js/*ad*.js
 @@||kayixin.com^*/advert
@@ -2579,7 +2573,6 @@
 @@||m.zhuanzhuan.com^$important
 @@||mac.bmcx.com^
 @@||macauo2o.com/advertise/
-@@||mafia.ua/js/jquery.smartbanner.js
 @@||mail.google.com/mail/$stealth
 @@||mail.qq.com^$important
 @@||mail.td^$generichide
@@ -2617,7 +2610,6 @@
 @@||mccc11.com^$generichide
 @@||mccm88.com^$generichide
 @@||mcdn.bilivideo.cn^$stealth,domain=bilibili.com
-@@||mcloud.to/embed/*?key=$subdocument
 @@||mcmod.cn/images/banner/
 @@||mcmod.cn/js/jquery.cookie.js
 @@||mcs.snssdk.com^
@@ -3139,7 +3131,6 @@
 @@||pubads.g.doubleclick.net/ssai/
 @@||pubads.g.doubleclick.net/ssai/event/$xmlhttprequest,domain=10play.com.au
 @@||pubads.g.doubleclick.net/ssai/event/$xmlhttprequest,domain=sbs.com.au
-@@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=click2houston.com
 @@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=digi24.ro
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$domain=cbc.ca
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$xmlhttprequest,domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
@@ -3231,7 +3222,6 @@
 @@||renfei.net^$generichide
 @@||republicbharat.com/_app/immutable/assets/FloatAd.*.css$domain=republicbharat.com
 @@||republicbharat.com/_app/immutable/chunks/FloatAd.*.js$domain=republicbharat.com
-@@||request-global.czilladx.com/serve/popunder.php$domain=faucetcrypto.net
 @@||res.imtt.qq.com^$important
 @@||research.hchs.hc.edu.tw/*/banner.php$domain=research.hchs.hc.edu.tw
 @@||resolver.msg.xiaomi.net^
@@ -3517,7 +3507,6 @@
 @@||st.pussyspace.com/style/10/img/logo_mobile.png|
 @@||st.pussyspace.com/style/webcam.jpg|
 @@||st.pussyspace.net/favicon.ico|
-@@||st.pussyspace.net/player/playBTN.png|
 @@||st.pussyspace.net/style/03/img/bg.png|
 @@||st.pussyspace.net/style/03/img/dropmenudownarrow.png|
 @@||st.pussyspace.net/style/03/img/navbg.hover.png|
@@ -3578,7 +3567,6 @@
 @@||static.telegraph.co.uk/telegraph-advertising/tmg-gpt.min.js$domain=telegraph.co.uk
 @@||static.tieba.baidu.com/tb/editor/images/client/image_emoticon*.png
 @@||static.truex.com/js/client.js$domain=schoolcheats.net
-@@||static.vrv.co^$media,domain=crunchyroll.com
 @@||static.webshark.pl/adserver/*/main_script.js?advertise_check=1
 @@||static.youporn.phncdn.com/cb/assets/css/$domain=youporn.com
 @@||statics.itc.cn^$important
@@ -4096,7 +4084,6 @@
 @@||www.pussyspace.net/class/captcha/arrow.png|
 @@||www.pussyspace.net/class/captcha/captcha.php|
 @@||www.pussyspace.net/favicon.ico|
-@@||www.pussyspace.net/style/img/navbg.hover.png|
 @@||www.pussyspace.net/upload/no_img.jpg|
 @@||www.recaptcha.net^$important
 @@||www.ruanyifeng.com^$csp=script-src 'self' * 'sha256-0McqMM66/wAVZmxF6zXpjNsb1UMbTl4LXBXdhqPKxws='
