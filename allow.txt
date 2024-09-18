@@ -1,5 +1,5 @@
-! Version: 2024-09-17 23:54:43（北京时间） 
-! Total count: 14073
+! Version: 2024-09-18 09:13:53（北京时间） 
+! Total count: 14061
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -3105,7 +3105,6 @@
 @@||cdn.jsdelivr.net/npm/fuckadblock@3.2.1/fuckadblock.min.js
 @@||cdn.jsdelivr.net/npm/fuckadblock@3.2.1/fuckadblock.min.js$domain=flix-anime.com
 @@||cdn.jsdelivr.net/npm/fuckadblock@3.2.1/fuckadblock.min.js$domain=series-d.com
-@@||cdn.jsdelivr.net/npm/jquery*/dist/jquery.min.js$domain=kimcartoon.to
 @@||cdn.jsdelivr.net/npm/jquery*/dist/jquery.min.js$domain=strikeout.nu
 @@||cdn.jsdelivr.net/npm/videojs-contrib-ads/dist/videojs.ads.min.css$domain=yandexcdn.com
 @@||cdn.jsdelivr.net/npm/videojs-contrib-ads/dist/videojs.ads.min.js$domain=scenelife.org|hqq.tv|czxxx.org|waaw.tv
@@ -3804,7 +3803,6 @@
 @@||code.etracker.com/t.js?et=$script,domain=apotheken-umschau.de|compo-hobby.de|kaguma.com|krombacher.de
 @@||code.jivo.ru/widget/$domain=coffee-tea-bravos.ru
 @@||code.jquery.com/*.min.js$domain=audioz.download
-@@||code.jquery.com/jquery-*.min.js$domain=kimcartoon.to
 @@||code.skript.pl/api/c847214714ee6ba86bdc9f026eb4c1ef.js?ad_type=skript
 @@||codepen.io^$generichide
 @@||codesandbox.io^$generichide
@@ -4461,6 +4459,7 @@
 @@||desktophut.com/ad1.js
 @@||destinationamerica.com^$generichide
 @@||destyy.com^$generichide
+@@||desu.shikimori.one^$stealth=dpi
 @@||detectadblock.com/*.js$~third-party
 @@||detectadblock.com/ads.js
 @@||detectadblock.com/ads.js$script
@@ -6537,7 +6536,6 @@
 @@||googletagservices.com/tag/js/gpt_mobile.js$domain=www.vulture.com
 @@||googletagservices.com^$domain=cenapaliw.pl
 @@||googletagservices.com^$script,domain=creaders.net
-@@||googleusercontent.com^$media,domain=kimcartoon.to
 @@||googlevideo.com/videoplayback/*dclk_video_ads$domain=10play.com.au
 @@||gooogle.how^$generichide
 @@||gorillanation.com/js/triggertag.js$domain=playstationlifestyle.net
@@ -6900,7 +6898,6 @@
 @@||hw-ads.datpiff.com/news/$image,domain=datpiff.com
 @@||hwcdn.net^$domain=canyoublockit.com
 @@||hwcdn.net^$script,domain=mp4upload.com
-@@||hydrax.net/players/player.min.js$domain=kimcartoon.to
 @@||hypem.com/inc/header_menu$document
 @@||hypercomments.com/api/comments?_=$stealth
 @@||hypercomments.com/api/comments?widget_id=$stealth
@@ -7789,13 +7786,6 @@
 @@||kifir2.kir.hu^$stealth=dpi
 @@||kilimall.co.tz/sensorsdata.min.js$~third-party
 @@||kilimall.com*/js/sensorsdata.min.js$script,domain=kilimall.co.ke
-@@||kimcartoon.to/*Bookmark$other,xmlhttprequest
-@@||kimcartoon.to/Content/ui-lightness/jquery.ui.progressbar.css
-@@||kimcartoon.to/Register/GetCaptcha
-@@||kimcartoon.to/Scripts^
-@@||kimcartoon.to/hdx.aspx?apiKey=
-@@||kimcartoon.to^$csp=script-src 'self' * 'unsafe-inline'
-@@||kimcartoon.xyz/wp-admin/admin-ajax.php
 @@||kincho.co.jp/cm/img/bnr_ad_$image,~third-party
 @@||kinescope.io/embed/$stealth
 @@||kingofdown.com^$generichide
@@ -8183,7 +8173,6 @@
 @@||lumload.com/pop.js$script
 @@||lunaticfiles.com/ads.js|
 @@||luoxiadushu.com^$generichide
-@@||luxubu.review/v/$domain=kimcartoon.to
 @@||luzernerzeitung.ch^$generichide
 @@||lvmgeo.lv/media/mod_cookie_notification/CookieNotification.js
 @@||lwadm.com/lw/pbjs?pid=$script,domain=sydostran.se
@@ -13326,7 +13315,6 @@
 @@||vizio.com/resources/js/vizio-module-tracking-google-analytics.js
 @@||vizzed.com/scripts/ads.js
 @@||vjs.zencdn.net/*/video-js.css
-@@||vjs.zencdn.net/*/video.js$domain=kimcartoon.to
 @@||vjs.zencdn.net/4.12/video.js$script
 @@||vjs.zencdn.net^$domain=stream2watch.org
 @@||vk.com/*.php?__query=$document
@@ -13819,8 +13807,8 @@
 @@||xfinity.com/stream/js/api/fingerprint.js$domain=xfinity.com
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||xfinity.com^$stealth
-@@||xfreehd.com^$generichide! Checksum: Mp8eY8d+9boTZfOV/Kv0wQ
-@@||xfreehd.com^$generichide! Checksum: njHVt/XgXrljeg+P3fJMIA
+@@||xfreehd.com^$generichide! Checksum: 54KQSFpP7cBfyImdFx7wdg
+@@||xfreehd.com^$generichide! Checksum: 9fnpqeN1N0YqXZuSE3jsbg
 @@||xgp.pl/wp-content/plugins/real-cookie-banner-pro/public/dist/*.pro.js
 @@||xhamster*.*/*/ads$xmlhttprequest,~third-party
 @@||xhcdn.com/*/fonts$font
