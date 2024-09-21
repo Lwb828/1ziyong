@@ -1,5 +1,5 @@
-! Version: 2024-09-20 20:31:00（北京时间） 
-! Total count: 14077
+! Version: 2024-09-21 09:11:45（北京时间） 
+! Total count: 14085
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -457,7 +457,6 @@
 @@/token/*/master.mp4$stealth,domain=anilife.*
 @@/track?vid=*&mime=video/mp4&*&domain=*.drive.google.com$stealth,domain=kissasian.sh
 @@/tracking.php?id$domain=a1.express
-@@/tracks-v1a1/*$xmlhttprequest,stealth=referrer,domain=olalivehdplay.ru|topembed.pw|poscishd.online
 @@/tracks-v1a1/*$xmlhttprequest,stealth=referrer,domain=olalivehdplay.ru|topembed.pw|poscishd.online|pkpakiplay.xyz
 @@/uk-cookie-consent/*$domain=bytescout.com
 @@/unadblock/adjs_$domain=hepan.com
@@ -1286,7 +1285,10 @@
 @@||ads2.filescreed.buzz^$xmlhttprequest,domain=techcyan.com
 @@||ads3.xumo.com^$domain=2vnews.com|redbox.com
 @@||adsafeprotected.com/iasPET.$script,domain=independent.co.uk|reuters.com
+@@||adsafeprotected.com/iasPET.$script,domain=independent.co.uk|reuters.com|wjs.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com
+@@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com|wjs.com
+@@||adsafeprotected.com^$domain=marketwatch.com|wsj.com
 @@||adsales.snidigital.com/*/ads-config.min.js$script
 @@||adsatt.espn.starwave.com^$domain=livenewschat.eu,~script
 @@||adscale.de/getads.js$image,domain=dasolo.org
@@ -1769,7 +1771,6 @@
 @@||api.academia.edu/v0/users/*/stats$script
 @@||api.account.xiaomi.com^$important
 @@||api.adguard-dns.io/api/
-@@||api.adinplay.com/$xmlhttprequest,domain=taming.io
 @@||api.adinplay.com/$xmlhttprequest,domain=taming.io|tamming.io
 @@||api.adinplay.com/display/pub/*/display.min.js$domain=blastz.io
 @@||api.adinplay.com/display/pub/*/display.min.js$domain=tombr.io
@@ -1782,7 +1783,6 @@
 @@||api.adinplay.com/libs/aiptag/assets/loader-red.gif$domain=castlesiege.io
 @@||api.adinplay.com/libs/aiptag/assets/loader-red.gif$domain=tetrads.io
 @@||api.adinplay.com/libs/aiptag/pub/$domain=geotastic.net
-@@||api.adinplay.com/libs/aiptag/pub/NND/taming.io/tag.min.js$domain=taming.io
 @@||api.adinplay.com/libs/aiptag/pub/NND/taming.io/tag.min.js$domain=taming.io|tamming.io
 @@||api.adinplay.com/libs/aiptag/pub/NRB/castlesiege.io/tag.min.js$domain=castlesiege.io
 @@||api.adinplay.com/libs/aiptag/pub/SND/skynode.pro/tag.min.js$domain=panel.skynode.pro
@@ -4939,6 +4939,7 @@
 @@||endesaclientes.com/*/ruxitagentjs_*.js$domain=endesaclientes.com
 @@||endesaclientes.com^$cookie=dtCookie
 @@||energy.de^*/ivw.js?$domain=energy.de
+@@||engagently.com/graphql$stealth=3p-auth,xmlhttprequest
 @@||england101.com/assets/js/prebid-add.js
 @@||english-subtitles.club/assets/$image,~third-party
 @@||enrichgw.10010.com^$important
@@ -6145,6 +6146,7 @@
 @@||googletagmanager.com/gtag/js$domain=zf1.tohoku-epco.co.jp
 @@||googletagmanager.com/gtag/js$script,domain=game.anymanager.io
 @@||googletagmanager.com/gtag/js$script,domain=panflix.com.br
+@@||googletagmanager.com/gtag/js$script,domain=rekidai-info.github.io
 @@||googletagmanager.com/gtag/js$script,domain=toptal.com
 @@||googletagmanager.com/gtag/js$script,domain=undawn.game
 @@||googletagmanager.com/gtag/js$script,domain=weathernews.jp
@@ -7344,6 +7346,7 @@
 @@||img.rakudaclub.com/adv/$~third-party
 @@||img.segmentify.com^$domain=mediamarkt.com.tr
 @@||img.soft98.ir/*/300x250.
+@@||img.soutula.com^$stealth=referrer,domain=fabiaoqing.com
 @@||img.ssl.msdk.qq.com^$document
 @@||img.techwallacdn.com/300x250/photos.demandstudios.com/getty/article/*/*.jpg
 @@||img.tfd.com/ads.js
@@ -7580,6 +7583,7 @@
 @@||jav777.cc/advertise/
 @@||jav777.xyz/advertise/
 @@||javb1.com/js/boxad.js
+@@||javedit.com/d/js/acmsd/thea0.
 @@||javhdonline.com^$generichide
 @@||javhdx.tv$generichide
 @@||javpee.com/*.js|$script
@@ -8692,6 +8696,7 @@
 @@||mooc-image.nosdn.127.net^$stealth
 @@||mooma.sh/js/cookiechoices.js
 @@||mopar.com/moparsvc/mopar-analytics-state$~third-party
+@@||morgenpost.de/static/*/admanager.js
 @@||morosedog.gitlab.io^$generichide
 @@||mos.m.taobao.com^$important
 @@||motherboard.vice.com^*/vmp_analytics.js
@@ -9008,7 +9013,6 @@
 @@||nobook.com/open-interface/official-sensors.git/$script,~third-party
 @@||nobugin.com^$generichide
 @@||nocookie.net^*/tracking-opt-in.min.js$script,domain=fandom.com
-@@||nocorspolicy.com^$xmlhttprequest,domain=taming.io
 @@||nocorspolicy.com^$xmlhttprequest,domain=taming.io|tamming.io
 @@||nocturnetls.net/_static/*wp-content/plugins/quick-adsense-reloaded/assets/js/performance_tracking.min.js
 @@||nodkey.xyz^$generichide
@@ -9550,6 +9554,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ravenscans.com|oatuu.org|techedubyte.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=realadmin.ru
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=receive-sms-online.info
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rekidai-info.github.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=robotcoingame.com|monstercoingame.com|wonderlandco.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rockmods.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
@@ -9763,6 +9768,7 @@
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl$script,domain=battlecats-db.com|game.anymanager.io|games.wkb.jp|sudokugame.org
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads*.js$domain=forum.release-apk.com,important,stealth
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl*.js$domain=exey.io
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_$script,domain=rekidai-info.github.io
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=copyseeker.net
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=production-api.androidacy.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=zefoy.com
@@ -9807,6 +9813,7 @@
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
 @@||pagead2.googlesyndication.com^$domain=ytlarge.com
 @@||pagead2.googlesyndication.com^$script,domain=hackintosh.computer
+@@||pagead2.googlesyndication.com^$xmlhttprequest,domain=rekidai-info.github.io
 @@||pagerank.fr/js*/advert.js?$script
 @@||pakkotoisto.com/js/siropu/am/ads.min.js$domain=pakkotoisto.com
 @@||palixi.net/assets/js/prebid-ads.js
@@ -10588,6 +10595,7 @@
 @@||rappers.in/js/antiadblock.js
 @@||rappers.in/js/antiadblock.js$script
 @@||raptu.com/e/$generichide
+@@||rat.rakuten.co.jp^$app=jp.co.rakuten.pay
 @@||ratemyprofessors.com/assets/libs/adFrame_ads-*.js
 @@||ratemyteachers.com/ads.js
 @@||raw.githubusercontent.com/*/cookie_consent^
@@ -11628,7 +11636,6 @@
 @@||snobdomobeyeo.com^$script,domain=blog.cryptowidgets.net|blog.insurancegold.in
 @@||snowfl.com/ads/*.js$~third-party
 @@||snowheroes.io/ads.js
-@@||snssdk.com^
 @@||snva.jp/javascripts/reco/$script,domain=store.charle.co.jp
 @@||snyk.io^$cookie=ajs_anonymous_id
 @@||so-magazyn.pl^$generichide
@@ -12901,6 +12908,7 @@
 @@||tweaktown.com^$generichide,badfilter
 @@||twickets.live/assets/resources^
 @@||twitch.tv^$generichide
+@@||twitch.tv^$websocket,permissions
 @@||twitchadvertising.tv/wp-content/uploads/2014/06/header_logo_advertising.png
 @@||twitter.com$domain=bleacherreport.com
 @@||twitter.com/i/redirect$removeparam
@@ -13823,8 +13831,8 @@
 @@||xfinity.com/stream/js/api/fingerprint.js$domain=xfinity.com
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||xfinity.com^$stealth
-@@||xfreehd.com^$generichide! Checksum: 1Bc3ZrvsR2oITywKsEUeTg
-@@||xfreehd.com^$generichide! Checksum: njpVxz0Wza9htE3IV+jC3g
+@@||xfreehd.com^$generichide! Checksum: XS6QYYHOV/mMsl/7FFgg/w
+@@||xfreehd.com^$generichide! Checksum: iA92VCDSxNqRXgqKgt2A7A
 @@||xgp.pl/wp-content/plugins/real-cookie-banner-pro/public/dist/*.pro.js
 @@||xhamster*.*/*/ads$xmlhttprequest,~third-party
 @@||xhcdn.com/*/fonts$font
