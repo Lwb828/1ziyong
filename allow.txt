@@ -1,5 +1,5 @@
-! Version: 2024-09-29 09:20:41（北京时间） 
-! Total count: 14101
+! Version: 2024-09-29 20:29:33（北京时间） 
+! Total count: 14109
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -4831,9 +4831,11 @@
 @@||ecard.shenzhentong.com^
 @@||ecitic.com/source/*/pop
 @@||ecma.bdimg.com/holmes/*.svg
+@@||ecma.bdimg.com^$document
 @@||ecma.bdimg.com^$domain=3g.baidu.com|m.baidu.com|m5.baidu.com|m2.baidu.com|m3.baidu.com
 @@||ecmb.bdimg.com/*.jpg
 @@||ecmb.bdimg.com/*.png
+@@||ecmb.bdimg.com^$document
 @@||ecmb.bdimg.com^$domain=3g.baidu.com|m.baidu.com|m5.baidu.com|m2.baidu.com|m3.baidu.com
 @@||ecmb.bdimg.com^$important
 @@||eco.taobao.com^
@@ -8413,6 +8415,7 @@
 @@||mcs.snssdk.com/webid$domain=ixigua.com
 @@||mcs.snssdk.com^
 @@||mcsg.my.site.com^$stealth=referrer,domain=mcafee.com
+@@||mdevstat.qqlive.qq.com^$document
 @@||mdn.open.wo.cn^$important
 @@||me-api.jd.com^$document
 @@||mealcold.com^$generichide
@@ -8618,6 +8621,7 @@
 @@||minyu-net.com/parts/ad/banner/$image,~third-party
 @@||mipcache.bdstatic.com^$document
 @@||mirrorlessrumors.com/wp-content/plugins/ginger/front/js/cookies-enabler.min.js
+@@||mistat.xiaomi.com^
 @@||mistore.jp/content/dam/isetan_mitsukoshi/advertise/$~third-party
 @@||mitreden.zdf.de/_app/immutable/chunks/CookieConsent.*.js
 @@||mitsubishiclub.cz^$generichide
@@ -10686,6 +10690,7 @@
 @@||reels2watch.com/hls/$stealth
 @@||refi-reklama.razitko.cz^$domain=refi-reklama.razitko.cz
 @@||regapi.37.com/api/p_register.php?login_account=
+@@||register*mi.com^
 @@||register.xmpush.xiaomi.com^$document
 @@||registrierung.gmx.net^$stealth
 @@||registrierung.web.de^$stealth
@@ -10716,6 +10721,8 @@
 @@||reseguiden.se^*.siteCatalyst.js! Title: ClearURLs for uBo (unofficial)
 @@||reseguiden.se^*.siteCatalyst.js[Adblock Plus 2.1]
 @@||reshade.me/media/plg_system_eprivacy/
+@@||resolver*mi.com^
+@@||resolver.gslb.mi-idc.com^$document
 @@||resolver.msg.xiaomi.net^
 @@||resolver.msg.xiaomi.net^$document
 @@||resolver.msg.xiaomi.net^$important
@@ -12315,6 +12322,7 @@
 @@||t5.a.market.xiaomi.com^$important
 @@||t7.baidu.com^$important
 @@||t7z.cupid.iqiyi.com/show2?e$domain=m.iqiyi.com
+@@||t7z.cupid.iqiyi.com^$document
 @@||tab.gladly.io/newtab/|$document,subdocument
 @@||tab.gladly.io/newtab/|$document,subdocument,badfilter
 @@||tablespoon.com/library/js/TBSP_ntpagetag.js
@@ -13848,7 +13856,7 @@
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||xfinity.com^$stealth
 @@||xfreehd.com^$generichide! Checksum: +KTX9GObQjDuf9l6KBh3rQ
-@@||xfreehd.com^$generichide! Checksum: POHL1AwIAdwhs5y53ghKZg
+@@||xfreehd.com^$generichide! Checksum: dqAtpBQiAxN+CYVxw9A8eA
 @@||xgp.pl/wp-content/plugins/real-cookie-banner-pro/public/dist/*.pro.js
 @@||xhamster*.*/*/ads$xmlhttprequest,~third-party
 @@||xhcdn.com/*/fonts$font
