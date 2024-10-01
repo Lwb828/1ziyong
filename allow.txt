@@ -1,5 +1,5 @@
-! Version: 2024-09-30 20:34:17（北京时间） 
-! Total count: 14110
+! Version: 2024-10-01 09:21:49（北京时间） 
+! Total count: 14121
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -647,6 +647,7 @@
 @@||000714.xyz^
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
+@@||07c225f3.online^$stealth=referrer
 @@||0mniscient.github.io^$generichide
 @@||1.1.1.1/cdn-cgi/trace$xmlhttprequest,domain=myair.resmed.com|one.one.one.one
 @@||10-download.com^$generichide
@@ -2887,7 +2888,6 @@
 @@||cdn.behavioralengine.com/scripts/btest/advertisement.js$domain=tvnturbo.pl
 @@||cdn.betrad.com/pub/icon*.png$domain=ehow.co.uk
 @@||cdn.bg/live/$stealth
-@@||cdn.bidder.dev/clients/$script,domain=forces.net
 @@||cdn.bluebillywig.com/apps/player/*/components/admanager.js$domain=eurogamer.net
 @@||cdn.blueconic.net/akc.js$domain=akc.org
 @@||cdn.blueconic.net/pon.js$domain=seat.nl
@@ -3991,10 +3991,12 @@
 @@||consent.trustarc.com/asset/notice.js$domain=hsl.fi
 @@||consent.trustarc.com/asset/notice.js$domain=philips.de
 @@||consent.trustarc.com/asset/notice.js$domain=weather.com
+@@||consent.trustarc.com/asset/notice.js/$domain=concur.de
 @@||consent.trustarc.com/asset/notice.js/$domain=philips-hue.com
 @@||consent.trustarc.com/get$domain=fortune.com
 @@||consent.trustarc.com/get$domain=philips-hue.com
 @@||consent.trustarc.com/iab/$domain=fortune.com
+@@||consent.trustarc.com/notice$domain=concur.de
 @@||consent.trustarc.com/notice$domain=concursolutions.com
 @@||consent.trustarc.com/notice$domain=formula1.com
 @@||consent.trustarc.com/notice$domain=fortune.com
@@ -4074,13 +4076,13 @@
 @@||convincing-prettiest-firefly.quiknode.pro^$xmlhttprequest,domain=token.wallstmemes.com,stealth=referrer
 @@||cookie-bar.eu^
 @@||cookie-cdn.cookiepro.com/consent/$domain=app.nlziet.nl
-@@||cookie-cdn.cookiepro.com/consent/$domain=saal-digital.de
+@@||cookie-cdn.cookiepro.com/consent/$domain=saal-digital.*
 @@||cookie-cdn.cookiepro.com/consent/$domain=turn-on.de
 @@||cookie-cdn.cookiepro.com/scripttemplates/*/$domain=app.nlziet.nl
-@@||cookie-cdn.cookiepro.com/scripttemplates/*/$domain=saal-digital.de
+@@||cookie-cdn.cookiepro.com/scripttemplates/*/$domain=saal-digital.*
 @@||cookie-cdn.cookiepro.com/scripttemplates/*/$domain=turn-on.de
 @@||cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js$domain=app.nlziet.nl
-@@||cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js$domain=saal-digital.de
+@@||cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js$domain=saal-digital.*
 @@||cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js$domain=turn-on.de
 @@||cookie-cdn.cookiepro.com/vendorlist/$domain=app.nlziet.nl
 @@||cookie-cdn.cookiepro.com/vendorlist/iab2Data.json$domain=wz.de
@@ -5429,6 +5431,7 @@
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|tv-tokyo.co.jp|voici.fr
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=soranews24.com
+@@||g.doubleclick.net/gampad/ads?*%2Ftver.$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*&prev_scp=kw%3Diqdspiegel%2Cdigtransform%2Ciqadtile4%2$xmlhttprequest,domain=spiegel.de
 @@||g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Fgames.poki.com$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Frepuls.io$xmlhttprequest,domain=imasdk.googleapis.com
@@ -7175,6 +7178,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=linetv.tw
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=livexlive.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=loot.tv
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=mako.co.il
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=manoramamax.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=mariogames.be
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=matchtv.ru|sportbox.ru
@@ -7279,6 +7283,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zee5.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zoomtventertainment.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$important,domain=digi24.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=news.voicetv.co.th
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=play.neos-easygames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=winknews.com
@@ -7998,6 +8003,9 @@
 @@||lhl.zxcs.linghit.com^$important
 @@||lhscanlation.club/images/$stealth
 @@||liangcang-material.alicdn.com^$important
+@@||lib.baomitu.com/axios/*/axios.min.js$domain=69xx03608.xyz
+@@||lib.baomitu.com/video.js/*/video.min.js$domain=69xx03608.xyz
+@@||lib.baomitu.com/vue/*/vue.global.prod.min.js$domain=69xx03608.xyz
 @@||lib.wtg-ads.com/lib.min.js$domain=dnevnik.hr
 @@||lib.wtg-ads.com/publisher/wiki-topia.com/732ddef10898663e15a5.js$domain=blog.wiki-topia.com
 @@||libero.it^$generichide
@@ -10714,6 +10722,8 @@
 @@||republicbharat.com/_app/immutable/chunks/FloatAd.*.js$domain=republicbharat.com
 @@||request-global.czilladx.com/serve/popunder.php$domain=faucetcrypto.net
 @@||res-x.com^*/Resonance.aspx?
+@@||res.aidegelin.cn/dom2/js/app.js$domain=69xx03608.xyz
+@@||res.aidegelin.cn/dom2/js/com.js$domain=69xx03608.xyz
 @@||res.imtt.qq.com^$document
 @@||res.imtt.qq.com^$important
 @@||research.hchs.hc.edu.tw/*/banner.php$domain=research.hchs.hc.edu.tw
@@ -13842,6 +13852,7 @@
 @@||x6img.com^
 @@||xbeibeix.com^$generichide
 @@||xbox-store-checker.com/assets/js/*ads*.js
+@@||xbox.com/*/play/$stealth=webrtc
 @@||xboxforum.pl^$generichide
 @@||xboxlive.com^$stealth
 @@||xboxservices.com^$stealth
@@ -13856,8 +13867,8 @@
 @@||xfinity.com/stream/js/api/fingerprint.js$domain=xfinity.com
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||xfinity.com^$stealth
-@@||xfreehd.com^$generichide! Checksum: +KTX9GObQjDuf9l6KBh3rQ
-@@||xfreehd.com^$generichide! Checksum: dqAtpBQiAxN+CYVxw9A8eA
+@@||xfreehd.com^$generichide! Checksum: SMzz6rfu72KNVr7wz/2S6Q
+@@||xfreehd.com^$generichide! Checksum: YKyBWmdLRyWA80dRwJ8+WA
 @@||xgp.pl/wp-content/plugins/real-cookie-banner-pro/public/dist/*.pro.js
 @@||xhamster*.*/*/ads$xmlhttprequest,~third-party
 @@||xhcdn.com/*/fonts$font
