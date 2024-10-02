@@ -1,5 +1,5 @@
-! Version: 2024-10-02 09:15:00（北京时间） 
-! Total count: 14121
+! Version: 2024-10-02 20:32:24（北京时间） 
+! Total count: 14123
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -4101,6 +4101,7 @@
 @@||cookieconsent.insites.com^
 @@||cookieinfoscript.com/js/cookieinfo.min.js$domain=cookieinfoscript.com
 @@||cookielaw.org/langswitch/$script,domain=lippu.fi
+@@||cookielaw.org^$domain=dacia.pl
 @@||cookielaw.org^$third-party,domain=popsugar.co.uk
 @@||cookielaw.org^*/OtAutoBlock.js$domain=bancsabadell.com|darkreading.com|uphold.com
 @@||cookiepro.com/scripttemplates/$script,domain=wowbiz.ro
@@ -9245,6 +9246,7 @@
 @@||onetrust.com/vendorlist/iab2V2Data.json$domain=nintendolife.com|pushsquare.com|purexbox.com|timeextension.com
 @@||onetrust.com/webform/$domain=lushaprivacy.com
 @@||onetrust.com^$domain=communityfibre.co.uk
+@@||onetrust.com^$domain=dacia.pl
 @@||onli.anime-best.com^$stealth
 @@||online-metrix.net/*/check.js$domain=secure.getcreditscore.com.au
 @@||online-metrix.net/*/tags.js$domain=secure.getcreditscore.com.au
@@ -13867,8 +13869,8 @@
 @@||xfinity.com/stream/js/api/fingerprint.js$domain=xfinity.com
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||xfinity.com^$stealth
-@@||xfreehd.com^$generichide! Checksum: OyeOGAYqwcqTmMj0FDVuXA
 @@||xfreehd.com^$generichide! Checksum: asdYE+s5hVybQIXxH2ylMg
+@@||xfreehd.com^$generichide! Checksum: rpUem5mvo0LMqsGtcB8WrQ
 @@||xgp.pl/wp-content/plugins/real-cookie-banner-pro/public/dist/*.pro.js
 @@||xhamster*.*/*/ads$xmlhttprequest,~third-party
 @@||xhcdn.com/*/fonts$font
