@@ -1,5 +1,5 @@
-! Version: 2024-10-02 20:32:24（北京时间） 
-! Total count: 14123
+! Version: 2024-10-03 09:15:11（北京时间） 
+! Total count: 14127
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -3348,6 +3348,7 @@
 @@||cdn.segmentify.com^$script,domain=gratis.com
 @@||cdn.sendpulse.com/js/push/*.js$domain=surfingbird.ru
 @@||cdn.shopify.com/*/trekkie*.js$domain=koh.com
+@@||cdn.skycdp.com/100e/Content/HLS_$stealth=ip
 @@||cdn.smartclip-services.com^$script,domain=cerebriti.com
 @@||cdn.snigelweb.com/adengine/imagetotext.info/loader.js$domain=imagetotext.info
 @@||cdn.sophi.io/assets/$script,domain=nationalpost.com
@@ -4219,6 +4220,7 @@
 @@||csm.cxpublic.com^$script,domain=tarzanweb.jp
 @@||csoonline.com/js/demandbase.js
 @@||csr.inspsearchapi.com/lib/infospace.search.js$domain=search.pch.com
+@@||css-load.com^$stealth=referrer
 @@||css.njhzmxx.com^$stealth,domain=yhdm.io
 @@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
 @@||cstaticdun.126.net^
@@ -4440,6 +4442,7 @@
 @@||delivery.consentmanager.net/delivery$domain=sir-apfelot.de
 @@||delivery.consentmanager.net/delivery/$domain=benzinpreis.de
 @@||delivery.consentmanager.net/delivery/cmp.php$domain=propertydesign.pl
+@@||delivery.consentmanager.net/delivery/cmp.php$domain=rlptoday.de
 @@||delivery.consentmanager.net/delivery/cmp.php$domain=ruhr24.de
 @@||delivery.consentmanager.net/delivery/cmp.php$domain=tvdigital.de|infranken.de|winfuture.de
 @@||delivery.consentmanager.net/delivery/cmp.php$stealth
@@ -12273,6 +12276,7 @@
 @@||sw-i.de/typo3conf/ext/epl_site/Resources/Public/js/lib/cookieconsent.js
 @@||swa.mail.ru/cgi-bin/counters?$script
 @@||swagbucks.com^$generichide
+@@||swap.qth.com/include/adblockdetection/adblockDetector.js
 @@||swapsmut.com/video/$stealth
 @@||swasc.kaufland.com^$app=com.kaufland.Kaufland
 @@||swatchseries.to/freecale.html?$popup,domain=swatchseries.to
@@ -13869,8 +13873,8 @@
 @@||xfinity.com/stream/js/api/fingerprint.js$domain=xfinity.com
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||xfinity.com^$stealth
-@@||xfreehd.com^$generichide! Checksum: asdYE+s5hVybQIXxH2ylMg
-@@||xfreehd.com^$generichide! Checksum: rpUem5mvo0LMqsGtcB8WrQ
+@@||xfreehd.com^$generichide! Checksum: NdcrEgVo0rfHDGe6o8Qrdw
+@@||xfreehd.com^$generichide! Checksum: tbG6G6RzONPR0Z7dHpFQ0g
 @@||xgp.pl/wp-content/plugins/real-cookie-banner-pro/public/dist/*.pro.js
 @@||xhamster*.*/*/ads$xmlhttprequest,~third-party
 @@||xhcdn.com/*/fonts$font
