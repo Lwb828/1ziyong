@@ -1,5 +1,5 @@
-! Version: 2024-10-03 20:32:10（北京时间） 
-! Total count: 14127
+! Version: 2024-10-04 09:14:58（北京时间） 
+! Total count: 14131
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -1909,6 +1909,7 @@
 @@||api.mpapis.xyz/|$stealth
 @@||api.nandos.services^$stealth
 @@||api.nocturnal-narwhal.buzz^$domain=webtor.io
+@@||api.omappapi.com/v3/geolocate/json$domain=seclore.com
 @@||api.onedrive.com^$stealth
 @@||api.open.uc.cn^$document
 @@||api.open.uc.cn^$important
@@ -1955,6 +1956,7 @@
 @@||api.useinsider.com/sw.js$domain=gratis.com
 @@||api.useinsider.com^$domain=ing.com.tr
 @@||api.usercentrics.eu/consent-templates/*$domain=wetter.com
+@@||api.usercentrics.eu/gvl/*.json$domain=joyn.de
 @@||api.usercentrics.eu/settings*/latest/languages.json$domain=sixx.de|prosiebenmaxx.de|sat1.de|prosieben.de|kabeleins.de|sixx.de|sat1gold.de|ran.de|joyn.de|sat1.at
 @@||api.usercentrics.eu/settings/$domain=limango.pl
 @@||api.usercentrics.eu/settings/$domain=lootboy.de
@@ -1985,7 +1987,7 @@
 @@||api.zhihu.com^$important
 @@||api.zhuti.xiaomi.com^$important
 @@||api2-album.quark.cn^$important
-@@||api2.branch.io^$app=com.reddit.frontpage|com.spotify.music
+@@||api2.branch.io^$app=com.spotify.music
 @@||api2.branch.io^$app=com.tokopedia.tkpd
 @@||apiavsee.com/player.php$stealth
 @@||apibay.org^$script,xmlhttprequest,domain=thepiratebay.org
@@ -4746,7 +4748,6 @@
 @@||druckerchannel.de/werbung/ads.js
 @@||ds.serving-sys.com/OBA/EUROPE^$domain=youronlinechoices.com
 @@||ds2play.com^$stealth=ip
-@@||dsag3w1du2cu2.cloudfront.net^$image,domain=soap2day.ai
 @@||dsharer.com/-ads-banner.js
 @@||dsp.fcbox.com^$important
 @@||dtdc.com/tracking/
@@ -7366,6 +7367,7 @@
 @@||img.mxomo.com^$image,stealth
 @@||img.noobzone.ru^$stealth
 @@||img.rakudaclub.com/adv/$~third-party
+@@||img.reimg2.org/images/$stealth=referrer
 @@||img.segmentify.com^$domain=mediamarkt.com.tr
 @@||img.soft98.ir/*/300x250.
 @@||img.soutula.com^$stealth=referrer,domain=fabiaoqing.com
@@ -7762,6 +7764,7 @@
 @@||k.sinaimg.cn^$document
 @@||k.uecdn.es/html5/html5lib/*/modules/DoubleClick/resources/mw.DoubleClick.js$domain=videos.marca.com
 @@||k12-company.ru^*/statistics.js$script
+@@||kabumap.com/servlets/kabumap/html/common/img/ad/$~third-party
 @@||kad.arbitr.ru^$stealth
 @@||kafan.cn^$stealth=dpi
 @@||kaitao.cn/public/wenda/ad/css/ds-un-detail.css
@@ -8242,6 +8245,7 @@
 @@||m.ykimg.com^$important
 @@||m.youtube.com^$important
 @@||m.zhuanzhuan.com^$important
+@@||m1tm.insideevs.com/gtm.js$~third-party
 @@||ma-x.org^$generichide
 @@||mabanque.fortuneo.fr/js/front/fingerprint2.js$script,domain=mabanque.fortuneo.fr
 @@||mac.bmcx.com^
@@ -13873,8 +13877,8 @@
 @@||xfinity.com/stream/js/api/fingerprint.js$domain=xfinity.com
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||xfinity.com^$stealth
-@@||xfreehd.com^$generichide! Checksum: NdcrEgVo0rfHDGe6o8Qrdw
-@@||xfreehd.com^$generichide! Checksum: tbG6G6RzONPR0Z7dHpFQ0g
+@@||xfreehd.com^$generichide! Checksum: 2fS3M/TWWWD0HyXZUF9hew
+@@||xfreehd.com^$generichide! Checksum: FQR8Zq9BMbmzt+iWbM13hg
 @@||xgp.pl/wp-content/plugins/real-cookie-banner-pro/public/dist/*.pro.js
 @@||xhamster*.*/*/ads$xmlhttprequest,~third-party
 @@||xhcdn.com/*/fonts$font
