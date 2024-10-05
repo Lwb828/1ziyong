@@ -1,5 +1,5 @@
-! Version: 2024-10-04 20:31:49（北京时间） 
-! Total count: 14131
+! Version: 2024-10-05 09:13:58（北京时间） 
+! Total count: 14130
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -3076,7 +3076,6 @@
 @@||cdn.flowplayer.com/releases/native/stable/plugins/ads.min.js$domain=nettavisen.no
 @@||cdn.fluidplayer.com/*/current/fluidplayer.min.js
 @@||cdn.flurry.com/js/flurry.js$domain=slantnews.com
-@@||cdn.fuseplatform.net/publift/tags/*/fuse.js$domain=vimm.net
 @@||cdn.gallerix.asia/x/code/ads/advertisement.js
 @@||cdn.games.mobinozer.com/shared/loader/advert.js
 @@||cdn.gateway.now-plus-prod.aws-cbc.cloud^$stealth=3p-auth,domain=plus.rtl.de
@@ -3560,6 +3559,7 @@
 @@||chat.d-id.com/assets/mixpanel.$~third-party
 @@||chat.kuki.ai/*/cm-cookie-banner-
 @@||chat.openai.com^$stealth
+@@||chatgpt.com^$generichide
 @@||chathispano.com/kiwi/$stealth=referrer
 @@||chatropolis.com:1588/*/amazing?sid=$document
 @@||chaturbate.com/*embed^$domain=chatterbate.org|uuu.cam
@@ -3692,6 +3692,7 @@
 @@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl
 @@||cloudflare.net^$script,domain=colamanga.com
 @@||cloudflareinsights.com/beacon.min.js$script,domain=app.uniswap.org
+@@||cloudfront.net/*.js^$third-party,script,domain=marketwatch.com|wsj.com
 @@||cloudfront.net/*/latest/cmp_shim.js$domain=macworld.com
 @@||cloudfront.net/a/ads/ad-block/ad/adblocker.js$domain=ispot.tv
 @@||cloudfront.net/assets/advertisement/ads-*.js$domain=heatworld.com
@@ -4048,9 +4049,7 @@
 @@||content.delta.com/content/dam/delta-applications/fresh-air-core/*/js/trackjs.js
 @@||content.gap.com/fp/*.js$script,~third-party
 @@||content.gap.com/fp/check.js$domain=oldnavy.gap.com
-@@||content.gap.com/fp/check.js$script,domain=oldnavy.gap.com
 @@||content.gap.com/fp/tags.js$domain=oldnavy.gap.com
-@@||content.gap.com/fp/tags.js$script,domain=oldnavy.gap.com
 @@||content.googleapis.com$document
 @@||content.jwplatform.com^$domain=destructoid.com
 @@||content.jwplatform.com^$domain=tomshardware.com
@@ -8732,6 +8731,7 @@
 @@||mopar.com/moparsvc/mopar-analytics-state$~third-party
 @@||morgenpost.de/static/*/admanager.js
 @@||morosedog.gitlab.io^$generichide
+@@||morphic.sh^$generichide
 @@||mos.m.taobao.com^$important
 @@||motherboard.vice.com^*/vmp_analytics.js
 @@||motherless.com/favorites/
@@ -9290,7 +9290,6 @@
 @@||ooyala.com/crossdomain.xml
 @@||open.snssdk.com^$document
 @@||open.spotify.com^$generichide
-@@||openai.com^$generichide
 @@||openap-alps.51y5.net^$important
 @@||opencloud.wostore.cn^$important
 @@||openfpcdn.io/fingerprintjs$script,redirect=noopjs,domain=linkneverdie.net
@@ -13877,8 +13876,8 @@
 @@||xfinity.com/stream/js/api/fingerprint.js$domain=xfinity.com
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||xfinity.com^$stealth
-@@||xfreehd.com^$generichide! Checksum: 2fS3M/TWWWD0HyXZUF9hew
-@@||xfreehd.com^$generichide! Checksum: FQR8Zq9BMbmzt+iWbM13hg
+@@||xfreehd.com^$generichide! Checksum: lpokNNvGAK8PHEeLERU1wg
+@@||xfreehd.com^$generichide! Checksum: p5kjGg1sBcRIBjoMYLGTiw
 @@||xgp.pl/wp-content/plugins/real-cookie-banner-pro/public/dist/*.pro.js
 @@||xhamster*.*/*/ads$xmlhttprequest,~third-party
 @@||xhcdn.com/*/fonts$font
