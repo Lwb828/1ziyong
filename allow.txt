@@ -1,5 +1,5 @@
-! Version: 2024-10-09 20:31:52（北京时间） 
-! Total count: 14129
+! Version: 2024-10-10 09:14:31（北京时间） 
+! Total count: 14131
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -2746,6 +2746,7 @@
 @@||canliplayer.com/fireplayer/$stealth=referrer
 @@||capi.connatix.com/core/pls?v=$domain=loot.tv
 @@||capitolbroadcasting.blueconic.net^$image,script,xmlhttprequest,domain=wral.com
+@@||capo4play.com/capo.php?player=$stealth=referrer
 @@||captcha-api.yandex.ru^$stealth
 @@||captcha-delivery.com^$stealth
 @@||captcha.qq.com^*&refer=http
@@ -10364,6 +10365,7 @@
 @@||proton.me^$generichide
 @@||protopage.com^$generichide
 @@||proxy.ads.canalplus-bo.net/web/undefined/v1/adserver/info/?asset=*&channel=$xmlhttprequest,domain=www.mycanal.fr
+@@||pruefernavi.de/vendor/elasticsearch/elastic-apm-rum.umd.min.js$~third-party
 @@||prussiabier.activehosted.com/proc.php?$domain=loja.prussiabier.com.br
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
 @@||przegladpiaseczynski.pl/wp-content/uploads/*-300x250-$image,~third-party
@@ -12222,6 +12224,7 @@
 @@||streamtape.*/ad.js
 @@||streamwish.com/js/dnsads.js?ads
 @@||streanplay.cc^$stealth
+@@||strimov.site/embed$stealth=referrer
 @@||strims.in/live/*.php$stealth=referrer
 @@||stripe.com/*?*referrer=$removeparam
 @@||stripe.com^$domain=pay.openai.com
@@ -13875,8 +13878,8 @@
 @@||xfinity.com/stream/js/api/fingerprint.js$domain=xfinity.com
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||xfinity.com^$stealth
-@@||xfreehd.com^$generichide! Checksum: /HMJ4TxEOFntdyAgStwHKQ
 @@||xfreehd.com^$generichide! Checksum: Ea0FM5XONaT7p46Q/1ac0w
+@@||xfreehd.com^$generichide! Checksum: oKUH15pg9xkC/3M7XdBEBQ
 @@||xgp.pl/wp-content/plugins/real-cookie-banner-pro/public/dist/*.pro.js
 @@||xhamster*.*/*/ads$xmlhttprequest,~third-party
 @@||xhcdn.com/*/fonts$font
@@ -13932,7 +13935,6 @@
 @@||yandex.ru/metrika/tag.js$script,domain=kuchenland.ru
 @@||yandex.ru/metrika/watch.js$domain=alean.ru|anoncer.net|nabortu.ru|samozapis-spb.ru|tv.yandex.ru|tvrain.ru
 @@||yandex.ru/metrika/watch.js$domain=anoncer.net
-@@||yandex.ru/user-id$stealth
 @@||yandex.ru/watch/$xmlhttprequest,domain=anoncer.net
 @@||yandex.ru/webvisor/$xmlhttprequest,domain=anoncer.net
 @@||yandex.st/swfobject^
