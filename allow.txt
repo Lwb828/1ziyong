@@ -1,5 +1,5 @@
-! Version: 2024-10-12 20:29:17（北京时间） 
-! Total count: 14138
+! Version: 2024-10-13 09:19:54（北京时间） 
+! Total count: 14139
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -7827,6 +7827,7 @@
 @@||kfcorder.com.tw/web/Script/Analytics.js
 @@||kfcorder.com.tw^*/Advert
 @@||kh.google.com/rt/earth/$stealth,xmlhttprequest
+@@||kickasssubtitles.com/js/fuckadblock.js
 @@||kickedface.com^$generichide
 @@||kifir2.kir.hu^$stealth=dpi
 @@||kilimall.co.tz/sensorsdata.min.js$~third-party
@@ -13885,8 +13886,8 @@
 @@||xfinity.com/stream/js/api/fingerprint.js$domain=xfinity.com
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||xfinity.com^$stealth
-@@||xfreehd.com^$generichide! Checksum: gwyJtCQNMzW5Y/1BuxUygQ
-@@||xfreehd.com^$generichide! Checksum: mFze6msrflzUT2M5eeeoNA
+@@||xfreehd.com^$generichide! Checksum: VEs6kGDRluT8QrJ8kzT8Mw
+@@||xfreehd.com^$generichide! Checksum: j+jnGgQEVtL03tKw8ESghw
 @@||xgp.pl/wp-content/plugins/real-cookie-banner-pro/public/dist/*.pro.js
 @@||xhamster*.*/*/ads$xmlhttprequest,~third-party
 @@||xhcdn.com/*/fonts$font
