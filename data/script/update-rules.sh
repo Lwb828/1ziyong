@@ -18,7 +18,7 @@ rules=(
 "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt"
  "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt"
   "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist/easylist_adservers_popup.txt"
-  "https://cdn.jsdelivr.net/gh/damengzhu/abpmerge@main/abpmerge.txt"
+  "https://raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt"
 
 "https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/adguard.txt"
 ""
