@@ -16,8 +16,8 @@ echo '下载规则'
 rules=(
  
 "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt"
- "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt"
-  "https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt"
+ "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt"
+  "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist/easylist_adservers_popup.txt"
   "https://cdn.jsdelivr.net/gh/damengzhu/abpmerge@main/abpmerge.txt"
 
 ""
