@@ -20,6 +20,7 @@ rules=(
   "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist/easylist_adservers_popup.txt"
   "https://cdn.jsdelivr.net/gh/damengzhu/abpmerge@main/abpmerge.txt"
 
+"https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/adguard.txt"
 ""
  )
 
