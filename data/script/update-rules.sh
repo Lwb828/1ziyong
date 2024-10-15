@@ -21,6 +21,9 @@ rules=(
   "https://raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt"
 
 "https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall.txt"
+
+"https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
+
 ""
  )
 
