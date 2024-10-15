@@ -24,6 +24,10 @@ rules=(
 
 "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt"
 
+"https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt"
+
+"https://anti-ad.net/adguard.txt"
+
 ""
  )
 
