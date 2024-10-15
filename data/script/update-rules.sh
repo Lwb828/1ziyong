@@ -20,7 +20,7 @@ rules=(
   "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist/easylist_adservers_popup.txt"
   "https://raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt"
 
-"https://raw.githubusercontent.com/PhoenixLjw/AdRules/main/adguard.txt"
+"https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall.txt"
 ""
  )
 
