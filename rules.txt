@@ -1,5 +1,5 @@
-! Version: 2024-10-16 15:20:59（北京时间） 
-! Total count: 121587
+! Version: 2024-10-16 20:32:34（北京时间） 
+! Total count: 121589
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
 /.*\.a\.market\.xiaomi\.com/
@@ -860,6 +860,8 @@ up.woozooo.com##.ves
 userstyles.org###top_android_button
 userstyles.org##.android_button_banner
 userstyles.org##.android_button_button
+v.ifeng.com##div[class^="index_container"]
+v.ifeng.com##section[class^="index_hot"]
 v.qq.com###pc_client > .quick_link
 v.qq.com##.svg_icon_client.svg_quick_icon
 v.qq.com##.svg_icon_client.svg_quick_icon > path:nth-of-type(1)
