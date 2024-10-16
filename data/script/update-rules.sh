@@ -17,7 +17,6 @@ rules=(
  
 "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt"
   "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist/easylist_adservers_popup.txt"
-  "https://github.com/Cats-Team/AdRules/blob/refs%2Fheads%2Fscript/rules%2FjiekouAD.txt"
 
 "https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall.txt"
 
