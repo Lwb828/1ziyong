@@ -1,5 +1,5 @@
-! Version: 2024-10-18 09:15:25（北京时间） 
-! Total count: 15717
+! Version: 2024-10-18 20:31:48（北京时间） 
+! Total count: 15718
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -2694,6 +2694,7 @@
 @@||broncos.com.au^$generichide
 @@||browser-intake-datadoghq.com^$domain=pluto.tv
 @@||browser.360.cn^$important
+@@||browser.covatic.io/sdk/v1/bauer.js$script,domain=hellorayo.co.uk
 @@||browser.events.data.msn.com^$important
 @@||browser.sentry-cdn.com/*/bundle.min.js$domain=freebitz.xyz
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
