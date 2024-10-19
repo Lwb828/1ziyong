@@ -1,5 +1,5 @@
-! Version: 2024-10-19 09:14:16（北京时间） 
-! Total count: 121617
+! Version: 2024-10-19 20:30:01（北京时间） 
+! Total count: 121625
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
 /.*\.a\.market\.xiaomi\.com/
@@ -629,12 +629,9 @@ m.thepaper.cn##.moblink_btn-650-white
 m.thepaper.cn##a[data-statclick="downloadApp"]
 m.thepaper.cn##div[class^="index_footer_banner"]
 m.thepaper.cn##li.icon_openapp
-m.toutiao.com###root > div > div.bgwhite.android:nth-child(2) > div.article-container:nth-child(2) > div.fold-btn-container > div.fold-btn:last-child > div.fold-btn-btn:last-child
-m.toutiao.com###root > div > div.top-banner-container:first-child
-m.toutiao.com###root > div > div:last-child > div:first-child
-m.toutiao.com###root > div > div:nth-child(3)
-m.toutiao.com###root > div > div:nth-child(3) > div:first-child
-m.toutiao.com##.fold-btn-btn
+m.toutiao.com##.m-bottom-container
+m.toutiao.com##.m-index-tag
+m.toutiao.com##.open
 m.tv.sohu.com##.btn-xz-app
 m.tv.sohu.com##.js-app-topbanner.actv-banner
 m.v.qq.com##.at-app-banner
@@ -16363,7 +16360,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.fyber.com^
 ||api.g1.junfull.com^
 ||api.g2.junfull.com^
-||api.g3ll3rt.com^
 ||api.gameads.io^
 ||api.gameanalytics.com^
 ||api.gameofwhales.com^
@@ -20091,7 +20087,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||baidu.dengzhoull.com^
 ||baidu.dsp.tansuotv.com^
 ||baidu.greenxf.cn^
-||baidu.honker.inf^
 ||baidu.jz5u.net^
 ||baidu.tlssyg.com^
 ||baidu1.cardbaobao.com^
@@ -20173,6 +20168,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bakabok.com^
 ||bakabok.com^$popup
 ||bakatvackzat.com^
+||bakdiba8.pivldo.pro^
 ||bakeronerousfollowing.com^
 ||bakertangiblebehaved.com^
 ||bakeryunprofessional.com^
@@ -21173,6 +21169,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||beklinkor.com^
 ||bekmhvbb.xyz^
 ||bekrookodilechan.com^
+||bel-post-24.click^
 ||belamicash.com^
 ||belatedsafety.pro^
 ||belavoplay.com^
@@ -21215,6 +21212,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||belovedfrolic.com^
 ||belovedset.com^
 ||belovedset.com^$popup
+||belpost24news.click^
 ||belsouque.com^
 ||belstat.be^
 ||belstat.com^
@@ -22202,6 +22200,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||blazonstowel.com^
 ||blbesnuff.digital^
 ||blciqbk.icu^
+||bld.mobi^
 ||bldr.mkt.samsung.com^
 ||ble.ubm-licensing.com^
 ||bleachbubble.com^
@@ -22678,6 +22677,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bodis.com^
 ||bodlediarch.shop^
 ||bodrumshuttle.net^$popup
+||bodwordsieving.click^
 ||bodyignorancefrench.com^
 ||bodytasted.com^
 ||bodziecruchu.click^
@@ -23105,6 +23105,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||braddumacar.eccocar.com^
 ||bradleyscannertortoise.com^
 ||bradleysolarconstant.com^
+||bradsc.recompensacliente.xyz^
 ||bradscorecompensascliente.programarecompensas.site^
 ||braflipperstense.com^
 ||brafsc.top^
@@ -26215,7 +26216,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||check-out-this.site^$popup
 ||check-packages.pl^
 ||check-point-verify.com^
-||check-sp1.com^
 ||check-system.online^
 ||check-this-match.com^$popup
 ||check-tl-ver-12-3.com^
@@ -34379,6 +34379,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||digitalthrottle.com^
 ||digitalunion.cn^
 ||digitalworkplace.ricoh.fr^
+||digitinddex.pro^
 ||digitru.st^
 ||dignifiedclipbum.com^
 ||dignityhourmulticultural.com^
@@ -35886,6 +35887,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||download.56.com^
 ||download.88kwp.com^
 ||download.adsage.com^
+||download.all-instructions.com^
+||download.all-instructions.org^
 ||download.apps.co.pl^
 ||download.backpackergame.com^
 ||download.bav.baidu.com^
@@ -35909,7 +35912,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||download.cudo.org^
 ||download.dackinc.com^
 ||download.dnv.com^
-||download.doumaibiji.cn^
 ||download.file.co.pl^
 ||download.filmfanatic.com^
 ||download.forfreeminecraft.com^
@@ -35926,6 +35928,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||download.inboxace.com^
 ||download.innit.com^
 ||download.innovare.no^
+||download.instructionclub.com^
 ||download.joingofree.com^
 ||download.jword.jp^
 ||download.kesh5.co.il^
@@ -35988,7 +35991,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||downloadmobile.pro^
 ||downloadoffice2010.org^$popup
 ||downloads.advancedtech.com^
-||downloads.agrawalcomputers.com^
 ||downloads.coface.com^
 ||downloads.larivieracasino.com^
 ||downloads.mcgladrey.com^
@@ -36339,6 +36341,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||droppingforests.com^
 ||droppingprofessionmarine.com^
 ||dropsclank.com^
+||dropshippingdeal.pro^
 ||dropsyworked.click^
 ||drownbossy.com^
 ||drowrenomme.com^
@@ -39054,6 +39057,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||elsewherebuckle.com^
 ||elsewherebuckle.com^$popup
 ||elsewhereopticaldeer.com^
+||elta-postal.click^
 ||eltbbvcqgnkc.com^
 ||eltex.co.jp^
 ||elthamely.com^
@@ -40546,6 +40550,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||events-api.gazetadopovo.com.br^
 ||events-api.otherlevels.com^
 ||events-api.soundcloud.com^
+||events-api.towneers.prod.data.krmt.io^
 ||events-collector-api.viacom.tech^
 ||events-drcn.op.dbankcloud.cn^
 ||events-endpoint.pointandplace.com^
@@ -41345,7 +41350,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||facebook-ads.hara.vn^
 ||facebook-ads.pl^
 ||facebook-my-share-live-location.000.pe^
-||facebook.check-protect-account.me^
 ||facebookane.click^
 ||faceit.bitaccept.pro^
 ||faceit.eloconnect.pro^
@@ -42068,6 +42072,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fessoovy.com^
 ||festaporno.com^
 ||festivalflabbergasteddeliquencydeliquency.com^
+||festivepresents.click^
 ||festivityratfun.com^
 ||festtube.com^
 ||festusthedrag.com^
@@ -43879,6 +43884,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fsccafstr.com^
 ||fsd2.digital^
 ||fsdf45.fun^
+||fsdjhg43546fdgdfhgs.pagnoadvogados.com.br^
 ||fse.net.anwalt.de^
 ||fsegfy.lepoint.fr^
 ||fseotgcigbrq.com^
@@ -48845,7 +48851,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||helmregardiso.com^
 ||heloisessa.com^
 ||helove.xyz^
-||help-ads-page.vercel.app^
 ||help-advertisesupportpages.com^
 ||help-center-ad-appeal.vercel.app^
 ||help-center-for-business-open-appeal.mkt5support.cyou^
@@ -48876,6 +48881,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||hemblx.vans.cl^
 ||hembrandsteppe.com^
 ||hemcpjyhwqu.com^
+||hemecoups.click^
 ||hemhiveoccasion.com^
 ||hemineedunks.com^
 ||hemnes.win^
@@ -51103,6 +51109,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||idevaffiliate.com^
 ||idffhq.cn^
 ||idg1.idgarages.com^
+||idgps.pro^
 ||idgptg.esm-computer.de^
 ||idiafix.com^
 ||idianw.warmteservice.nl^
@@ -52498,6 +52505,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||imtmp.net^
 ||imtoken8.cc^
 ||imtwjwoasak.com^
+||imurakasahachi.alksdkalshhh.sbs^
 ||imusye.xyz^
 ||imvjcds.com^
 ||imwxsu.xyz^
@@ -55335,6 +55343,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||janzoz.1001pneus.fr^
 ||jaomlf.giftmall.co.jp^
 ||japanbros.com^
+||japegr.click^
 ||japfg-trending-content.uc.r.appspot.com^
 ||japheth.com.cn^
 ||japps.cn^
@@ -56988,6 +56997,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||jysocexrxbodh.com^
 ||jystea.com^
 ||jytbxzil.com^
+||jytrfds.uppopsjssiidd.click^
 ||jyuicr.codemonkey.com^
 ||jyuirxswk.com^
 ||jyumzv.dcshoes.com.br^
@@ -57491,6 +57501,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||keywordstrategy.org^
 ||keyxel.com^
 ||kezytpdsxmw.com^
+||kf.japegr.click^
 ||kf.qingwk.com^
 ||kfareputfeab.org^
 ||kfbdnyeelfxctc.com^
@@ -59435,6 +59446,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||legumelin.pro^
 ||legxrhrrb.xyz^
 ||lehechapunevent.com^
+||lehmergambits.click^
 ||lehoacku.net^
 ||lehtymns.com^
 ||leidad.xyz^
@@ -70987,6 +70999,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||mytiris.com^
 ||mytopf.com^
 ||mytrack.pro^
+||mytruckadvisor.com^
 ||myunderthfe.info^
 ||myunion1.qm120.com^
 ||myunion1.tupians.com^
@@ -75319,6 +75332,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||openmsf.3g.qq.com^
 ||openrcv.baidu.com^
 ||opensdk.wlanbanlv.com^
+||opensea-pro.io^
 ||opensharecount.com^
 ||openshop.m-shop.me^
 ||openslowlypoignant.com^
@@ -77616,6 +77630,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pdbu.net^
 ||pdcnxobcv.com^
 ||pddcohvfyhrhk.com^
+||pdf-0198-2930-adobe.com^
 ||pdf.didgigo.com^
 ||pdfexpert.cc^
 ||pdfsearchhq.com^
@@ -77728,6 +77743,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||peemee.com^
 ||peenuteque.net^
 ||peep1alea.com^
+||peepaltreeadvertising.com^
 ||peepholelandreed.com^
 ||peepholelandreed.com^$popup
 ||peephoogruku.net^
@@ -78549,6 +78565,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pingclock.net^
 ||pingdom.net^
 ||pinger.ads.nexage.com^
+||pingerswrier.click^
 ||pingfore*.*^
 ||pinghenghr.com^
 ||pingil.com^
@@ -81710,10 +81727,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-00a2ad7fd61a4ece8d6a0dd5f113b614.r2.dev^
 ||pub-01c0ddcad0924cda83a1bce4fc1ecdf7.r2.dev^
 ||pub-0259917d32254fe8ad9ed6707a70637d.r2.dev^
-||pub-02c7a3badd434dd2a98a765f8b773218.r2.dev^
 ||pub-02e50e21a32c4827adaaec2353ad80e2.r2.dev^
 ||pub-03ad3ea0ed214f3f848fbd0103b943c7.r2.dev^
-||pub-042beab565ca415f95ad4dc390bd6f1a.r2.dev^
 ||pub-05123ead8ec64d368b382b2391a70102.r2.dev^
 ||pub-0568129964e24610ad1baab03a22c542.r2.dev^
 ||pub-0578d2c4a7ad450998a26a8955349d53.r2.dev^
@@ -81734,7 +81749,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-0ae61dadb93e41c59c66ee77901c984f.r2.dev^
 ||pub-0b316cc45e6a4c88ade025b013d98aee.r2.dev^
 ||pub-0c3fe4af774040a4990d7d9a310bad99.r2.dev^
-||pub-0d5ddc9ad1bc4a5a99e80f27804ebf06.r2.dev^
 ||pub-0dc0250fcf9649d88a2b5ce2d7bdad17.r2.dev^
 ||pub-0f129597b1c54dd9b9d80e64ad0fdb84.r2.dev^
 ||pub-0f5daa1b964b4e6dad68f5c409ee56b5.r2.dev^
@@ -81759,13 +81773,11 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-1838a3297d9f406395fecd08ad9c402a.r2.dev^
 ||pub-189e0e506ca446d8ad9c6d6e69b86119.r2.dev^
 ||pub-19040af821834fad9b8a5c3503892296.r2.dev^
-||pub-1928a4c961774b91ad404094fecbb39f.r2.dev^
 ||pub-1936b1d3ad084d3db021f7b5754f052d.r2.dev^
 ||pub-19adc4e57069479caeb411abf55506e5.r2.dev^
 ||pub-19c2161efc7448cead48a7d569d4a0c1.r2.dev^
 ||pub-19f20319cadf4858a2d2cf5a1d6a27cb.r2.dev^
 ||pub-1b02ab4f79ad472395a5a9dd0d119890.r2.dev^
-||pub-1b0adb2146a640a0b0ec2645f84b6a9a.r2.dev^
 ||pub-1b16693a293141dcad49ef0d67a93a77.r2.dev^
 ||pub-1b39f72729884926bead5824a75c8a28.r2.dev^
 ||pub-1b7e8a96f72d45b6b8ead08a2f28011c.r2.dev^
@@ -81867,7 +81879,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-3e390ead569840acaffaf2acd0b66945.r2.dev^
 ||pub-3fba3571e3b04110bd32a77adc9df677.r2.dev^
 ||pub-40ad58af455047d9a464b18a5f622876.r2.dev^
-||pub-415f8cda93ad4afd81feeffd1422d486.r2.dev^
 ||pub-41f881ffc83d42f09702daada7e4f356.r2.dev^
 ||pub-42b627251ba440edadc80d69aff74da0.r2.dev^
 ||pub-42db9f2561544c5bbe4187e9def7ad82.r2.dev^
@@ -81907,13 +81918,11 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-4ed99dbad1724716b54d21009d4482e4.r2.dev^
 ||pub-4f7caf5d0ca34235adaad28638873447.r2.dev^
 ||pub-50137e365ae14a91ad215a40f880bad1.r2.dev^
-||pub-502474bc7aed47108fb22f94d1f1ad41.r2.dev^
 ||pub-5079b5acdf2a4092ad1b3562b2636b1e.r2.dev^
 ||pub-50f6be4f4c494888b25f632fad312d3b.r2.dev^
 ||pub-523306eec0da44b380100aead59b3de7.r2.dev^
 ||pub-5287bb05bc8149adadd508ff20a600e4.r2.dev^
 ||pub-529eadd53e464b79a8e42aaf8c437ef2.r2.dev^
-||pub-5318ffd0fada44dd97326dbd4ce89ac7.r2.dev^
 ||pub-54701d048f8b4ad7844d091579a3a0f8.r2.dev^
 ||pub-5540d9e7137b40c3ae57c5ad36961566.r2.dev^
 ||pub-55d4e66ad88746a881ca38372f04d03d.r2.dev^
@@ -81937,7 +81946,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-5d859230e81d4a1aa86902c12fead26f.r2.dev^
 ||pub-5da7b747093444f7a636eabd697e1ad5.r2.dev^
 ||pub-5dc5806732424ad28ad160813d2f8b04.r2.dev^
-||pub-5dc92b5b68ad40d481c518eadc9c2247.r2.dev^
 ||pub-5e3f711a3b6d4d1d9f04d1b2e999ad29.r2.dev^
 ||pub-5e7b760310a04267b4eed646a0aad480.r2.dev^
 ||pub-5e86a1f01e5a4476812e4d108add0587.r2.dev^
@@ -82007,12 +82015,10 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-7c1217086cad471a8c5ba4722ebf7501.r2.dev^
 ||pub-7cc571585b9d44abadb858fe5b0ba8ab.r2.dev^
 ||pub-7cdc7603ad49449094bb0225fda114bd.r2.dev^
-||pub-7d82d1cd57dd4921ac729acada129895.r2.dev^
 ||pub-7d88b6b0c4104f668ad26af4218835f4.r2.dev^
 ||pub-7dcf3f68279c48d487e72ad644e6ace0.r2.dev^
 ||pub-7dd8303b4d3b4f0eafee2ad71414a43a.r2.dev^
 ||pub-7efca994ada4435b9ad96f851c4665d6.r2.dev^
-||pub-7f6bbc19606c42748c89217fad1aad78.r2.dev^
 ||pub-8085f0eb1d86410b82a93ad6867aa0d6.r2.dev^
 ||pub-8096fad52b1245db89c562ae1a44e8c3.r2.dev^
 ||pub-82055e80a0ad4851af69c30204b263ca.r2.dev^
@@ -82038,7 +82044,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-8969d92044964ea79ad44f5a4bc62d63.r2.dev^
 ||pub-8a8ad399f4264bf38f48c230fff96aff.r2.dev^
 ||pub-8aef51f76f7a4fd6ad6aef7e3b637881.r2.dev^
-||pub-8b1d5ccc246f4c3897ad1718a1b19d65.r2.dev^
 ||pub-8b61ad4cb0674663a2e4dd1b222ecb7b.r2.dev^
 ||pub-8b8de6dbc21b4bb49ceaead3297322f4.r2.dev^
 ||pub-8bd9e752ad464dd8bafa1310dca095af.r2.dev^
@@ -82059,7 +82064,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-9323aad9744b43db9b470f6ab7e07386.r2.dev^
 ||pub-945293ef7a9047adb26d2ddd47a2d837.r2.dev^
 ||pub-94a7b8da1a6c48fcadb0ac5db316b0da.r2.dev^
-||pub-94d2d3adb1e4490c85da3c7cf9f819fb.r2.dev^
 ||pub-95c5ead8d67f460ca228805103b5d21e.r2.dev^
 ||pub-96a9b92a22ad474fab6d77f05f7664f9.r2.dev^
 ||pub-96b99d18d22c4bc6ada5d843556e5b44.r2.dev^
@@ -82123,7 +82127,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-ad482e1cc0bc4424979be44cc79f1279.r2.dev^
 ||pub-ad67c7c38742462bb848b6da99cc0fd9.r2.dev^
 ||pub-ad961fc311f24bea9daef5a210bb5231.r2.dev^
-||pub-ade1944d43cb44a5b635c09dbd9d978c.r2.dev^
 ||pub-ade4660d6ecb44219beeb591977d69a2.r2.dev^
 ||pub-aded733e25664d3988308cc84cad968a.r2.dev^
 ||pub-adf6b8b7a5a34f78b8f5e90a6f0af7df.r2.dev^
@@ -82135,7 +82138,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-b0aad93c643a480b833e41b1569e83e0.r2.dev^
 ||pub-b1172bcfe649426dadb6a4112e0feb98.r2.dev^
 ||pub-b1c4a4dad63849e4b7ebefa563ea89ff.r2.dev^
-||pub-b275aabb34a145adb372ae7c47b240b0.r2.dev^
 ||pub-b2820eacb9064ead8a40f281e028172d.r2.dev^
 ||pub-b2d2d07591334d3194472ad3f45bd772.r2.dev^
 ||pub-b303031f384d420da1f10ad28443418a.r2.dev^
@@ -82158,7 +82160,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-bad46fd90bd14dae8d48c13ca2274cbf.r2.dev^
 ||pub-bad64a4a41c54041b5a27e514d127172.r2.dev^
 ||pub-bb32416e948549f19ca5ead06c8413dd.r2.dev^
-||pub-bc1e99c17d21413c8c62ead228907d1f.r2.dev^
 ||pub-bc5cb15dd31e4f07ada632ffafcb6ec6.r2.dev^
 ||pub-bc913ad4eea644849b0a3bec6b515044.r2.dev^
 ||pub-bcdbacad5ee743ab82a804cbaba17a4d.r2.dev^
@@ -82166,7 +82167,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-bdc7ec182e8e47849a4d9d595627bad1.r2.dev^
 ||pub-bdcfad837fd9402b94071809dbe170d9.r2.dev^
 ||pub-bdf913b484ee47ada4b17bba407ca857.r2.dev^
-||pub-bf57aad8a6734b43a311cdd0b2ff0a0b.r2.dev^
 ||pub-bfa996da206341bf95ad2ae06c6571cc.r2.dev^
 ||pub-bfad8b0edfb44ccd9b8256b560fbf5ae.r2.dev^
 ||pub-c066aa95c2374fd5b076cb04ade69803.r2.dev^
@@ -82191,7 +82191,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-c8d8d5bfcc8541dcbadc96539fef71be.r2.dev^
 ||pub-c9fd0c6d0aa14f789ad377e73ce19b59.r2.dev^
 ||pub-ca1f7c0d107c4fe5a4f42bfad0c9003a.r2.dev^
-||pub-ca2862c8007542608fd2077ee72ad97b.r2.dev^
 ||pub-ca81d9c09b8543a5a010a062d9fcad1f.r2.dev^
 ||pub-cab7df3468754c5981fad1ab8646d25d.r2.dev^
 ||pub-cad2d3edf5e948278442235816bc8dad.r2.dev^
@@ -82200,6 +82199,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-cc9ff32a9bd94eb89d5db36420d39ad4.r2.dev^
 ||pub-cd0a553f0736441ca4ad01e063a989cf.r2.dev^
 ||pub-cd0bac01771b4d378a7f68e9add9e293.r2.dev^
+||pub-cd60dd802e1d493db03ad631609f8a2e.r2.dev^
 ||pub-cd787ee9304f49bc9fef8adf0b5ff10d.r2.dev^
 ||pub-d03020d720764470b7ead4614fc42cc9.r2.dev^
 ||pub-d0840cf749644fddbad6f3d6ac097e87.r2.dev^
@@ -82231,7 +82231,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-d94a2ac4aa004ad2a84e79ecfa0116b2.r2.dev^
 ||pub-d99482a6cd354defb811ad7877f90aac.r2.dev^
 ||pub-d9bad9516fdd4c359715c09bc7ed8d47.r2.dev^
-||pub-da245c1b4b044adb8d9b1e58b246fab7.r2.dev^
 ||pub-daa1ad81c6eb4d1c9f85f20c42899ac2.r2.dev^
 ||pub-dad4a688fbfe4556a78378eab7651684.r2.dev^
 ||pub-dad5144323dd4384b4198a74448f2cc7.r2.dev^
@@ -82287,7 +82286,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-f1faa50f71fb4832b9623930aad7e7aa.r2.dev^
 ||pub-f350397a253c48a5aa1ad4e92dc5f4e9.r2.dev^
 ||pub-f419ec2689914ea88e3d5c1ad314d04d.r2.dev^
-||pub-f45e45e8e9ba47b0ad46da61ac392406.r2.dev^
 ||pub-f488d77bc04a4676ad79ee159fe7d8c5.r2.dev^
 ||pub-f4972ad67efc4e3ab3ef742af07f6a20.r2.dev^
 ||pub-f510dead7bd44b899148afbc5aa29e07.r2.dev^
@@ -82649,6 +82647,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pushads.biz^
 ||pushads.io^
 ||pushadv.biz^
+||pushadvert.bid^
 ||pushaffiliate.net^
 ||pushagim.com^
 ||pushails.com^
@@ -82778,7 +82777,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pushsight.com^
 ||pushspring.com^
 ||pushstack.it^
-||pushtan-check.com^
 ||pushtide.com^
 ||pushtoast-a.akamaihd.net^
 ||pushtorm.net^
@@ -86148,6 +86146,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||rhubarbsuccessesshaft.com^
 ||rhudsplm.com^
 ||rhudsplm.com^$popup
+||rhumbslauders.click^
 ||rhvdsplm.com^
 ||rhvdsplm.com^$popup
 ||rhvsujcakbmdpkh.com^
@@ -87041,6 +87040,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||rthmhocfdb.com^
 ||rtihookier.top^
 ||rtk.io^
+||rtlog.isnssdk.com^
 ||rtlog.vidown.cn^
 ||rtm-tracking.zozo.jp^
 ||rtmark.net^
@@ -90066,6 +90066,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sehiba.com^
 ||sehlicegxy.com^
 ||seibertspart.com^
+||seichesditali.click^
 ||seisorreem.com^
 ||seitentipp.com^
 ||seitwert.de^
@@ -90819,6 +90820,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||share-hg658767.pages.dev^
 ||share-hunt.onxmaps.com^
 ||share-idi.dailyrounds.org^
+||share-link.shop^
 ||share-local.sparemin.com^
 ||share-server.com^
 ||share-staging.perchwell.com^
@@ -96717,7 +96719,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sprawyrozwiazanie.click^
 ||spread.epoolers.com^
 ||spreadable.com.cn^
-||spreadsheetse.top^
 ||spreadsheetst.top^
 ||spreadsheetsw.top^
 ||spreadsheetsy.top^
@@ -102279,6 +102280,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||tazagdv.com^
 ||tazeeabroose.shop^
 ||tazichoothis.com^
+||tazkiaonu.click^
 ||tazm9p7tso.trade^
 ||taznfx.renters.pl^
 ||tb.code.twyxi.com^
@@ -102621,6 +102623,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||teixeiraadvocaciaespecializada.com^
 ||tejia.gaibang.fun^
 ||tejia.taobao.com^
+||tekbotavi.pro^
 ||tekmhvbb.xyz^
 ||teknologia.co^
 ||teknosa.api.useinsider.com^
@@ -109282,7 +109285,9 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||update-billingmembership-prime.work.gd^
 ||update-ebill.com^
 ||update-expressvpn.com^
+||update-helfer.online^
 ||update-id.info^
+||update-il.life^
 ||update-info.centrumconsumer.live^
 ||update-information.zzux.com^
 ||update-it-now.com^
@@ -109304,7 +109309,10 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||update-skype.freehostia.com^
 ||update-trackhk.net^
 ||update-your-pc.info^
+||update-za.guru^
+||update-za.info^
 ||update-za.life^
+||update-za.run^
 ||update-za.top^
 ||update.123juzi.net^
 ||update.360safe.com^
@@ -110371,6 +110379,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||varechphugoid.com^
 ||variabilityproducing.com^
 ||variabilityproducing.com^$popup
+||variable-love.pro^
 ||variableexternal.com^
 ||variablespestvex.com^
 ||variablevisualforty.com^
@@ -111041,6 +111050,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vidverto.io^
 ||vidzi.tv^
 ||viegade01.wt-eu02.net^
+||viennafeedman.click^
 ||viensvoircesite.com^
 ||vietcredit.click^
 ||vieva.xyz^
@@ -111083,6 +111093,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||viewtraff.com^
 ||viewyentreat.guru^
 ||vighooss.net^
+||vigilantprinciple.pro^
 ||viglink.com^
 ||vigorouslyflamboyant.com^
 ||vigourmotorcyclepriority.com^
@@ -112487,6 +112498,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||waatch.standaard.be^
 ||waati.quechoisir.org^
 ||waawuu.highfashionhome.com^
+||wabblydungari.click^
 ||wabhrkynybk.com^
 ||wabsgz.studocu.com^
 ||wachipho.net^
@@ -114334,6 +114346,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wirtualnatv.click^
 ||wirtualneinfo.click^
 ||wirtualneinfo24h.click^
+||wirtualnewspl.click^
 ||wirtualnyportal.click^
 ||wirtualnyswiat.click^
 ||wirypaste.com^
@@ -115380,7 +115393,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www-172.aig.com^
 ||www-61677.com^
 ||www-777563.com^
-||www-ad3455c0.adventuresofhotrodtodd.com^
 ||www-banner.chat.ru^
 ||www-ebis.384.co.jp^
 ||www-google-analytics.l.google.com^
@@ -115430,7 +115442,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.aadvantagepanelsandfence.com^
 ||www.aam.bartoszews.pro^
 ||www.aata.ero-advertising.com^
-||www.ab3aad2010.com^
 ||www.abroad-advisors.com^
 ||www.abtd-txt.click^
 ||www.acc.eligibility.2dadc428c7a061f729458acc01304c8f.ml^
@@ -115659,7 +115670,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.api.appfacebook.pl^
 ||www.api.axiatraders.com^
 ||www.api.chiyouup.com^
-||www.api.coupontopay.com^
 ||www.api.imap.contoh.ilmubaru.com^
 ||www.api.myeforsa.pl^
 ||www.api.pc-cloud.org^
@@ -115698,7 +115708,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.awazne-tvn24.adsraja.com^
 ||www.az2.expensivesurvey.click^
 ||www.azaleaadventure.cam^
-||www.aztv.pro^
 ||www.b2bleadsadda.com^
 ||www.b8358c79.google-comsearchclientfirefoxqtranslate.pages.dev^
 ||www.backendbadshah.com^
@@ -115992,7 +116001,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.deltanews.click^
 ||www.delyqoyutii.pro^
 ||www.denucu.photonads.com^
-||www.dephospimtic.pro^
 ||www.derzhava.click^
 ||www.deta.ero-advertising.com^
 ||www.dia-traffic.com^
@@ -116044,6 +116052,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.dravor-investing.pro^
 ||www.drawermop.click^
 ||www.dropped-click.com^
+||www.dropshippingdeal.pro^
 ||www.dsads123a.is-best.net^
 ||www.dsmthreads.com^
 ||www.dtta.ero-advertising.com^
@@ -116138,6 +116147,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.featheredendoplasm.pro^
 ||www.fehajuy5.pro^
 ||www.felisinvest.pro^
+||www.festivepresents.click^
 ||www.fetchingball.click^
 ||www.feyads.com^
 ||www.fhatfee.ero-advertising.com^
@@ -116278,7 +116288,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.gwnv-msg.click^
 ||www.gyhsok-invest.pro^
 ||www.gysebyeotae.pro^
-||www.halfetrere.pro^
 ||www.hallmarkedsilvered.pro^
 ||www.hamdrik-investing.pro^
 ||www.hamptonroadsrenovations.com^
@@ -116299,7 +116308,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.heartixxay.click^
 ||www.heatermelt.click^
 ||www.helmetstrap.click^
-||www.help-ads-page.vercel.app^
 ||www.help-advertisesupportpages.com^
 ||www.help-center-ad-appeal.vercel.app^
 ||www.help-center-for-business-open-appeal.mkt5support.cyou^
@@ -116679,6 +116687,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.mybb.ero-advertising.com^
 ||www.mykagye2.pro^
 ||www.mylottoadserv.com^
+||www.mytruckadvisor.com^
 ||www.myzen.click^
 ||www.n149adserv.com^
 ||www.nachosesterraines.pro^
@@ -116735,7 +116744,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.nodice.click^
 ||www.noisermaker.click^
 ||www.nolimits.globalinvest365.click^
-||www.nomade7.online^
 ||www.nomadsachel.cfd^
 ||www.nota.click^
 ||www.notedfork.click^
@@ -116866,6 +116874,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.payperclickadvertising.org.uk^
 ||www.paypooli.click^
 ||www.pebasae2.pro^
+||www.peepaltreeadvertising.com^
 ||www.perchswing.click^
 ||www.perieratklx.click^
 ||www.persgroepadvertising.nl^
@@ -116996,7 +117005,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.pub-084b3f5fad054fc19288ebbc38842b00.r2.dev^
 ||www.pub-31aadd3780c04103b31b8436ebf6ceea.r2.dev^
 ||www.pub-368d09cc17f04491afadb947700d6af6.r2.dev^
-||www.pub-4370269ad5cb442fa4cbcca4c36a2870.r2.dev^
 ||www.pub-4bc4acf6f4d84b4594c07ad16d6724bd.r2.dev^
 ||www.pub-576ada2cc7034e3ca22a1db3ac0b98f8.r2.dev^
 ||www.pub-90ae189b0d0e40c7b7d60ba30773ad8b.r2.dev^
@@ -117162,6 +117170,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.sexyads.net^
 ||www.sezudya.pro^
 ||www.share-hg658767.pages.dev^
+||www.share-link.shop^
 ||www.share-server.com^
 ||www.share.polinvst.com^
 ||www.shop-click-drive.com^
@@ -117261,7 +117270,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.support-for-business-open-case-appeal-id-216.vercel.app^
 ||www.support-for-business-open-cases-appeal-id-220.vercel.app^
 ||www.supportedpooled.pro^
-||www.supportforbusinesss.click^
 ||www.surfingedatmosphereed.pro^
 ||www.surfingedatmospherees.pro^
 ||www.surfingedplaneed.pro^
@@ -117378,7 +117386,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.traffic-c.com^
 ||www.traffic-on-steroids.com^
 ||www.trafficads.com^
-||www.trafficheads.net^
 ||www.trafficnetworkads24.com^
 ||www.tragicznedni.click^
 ||www.traveladvertising.com^
@@ -117407,7 +117414,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.twoj-pupil.click^
 ||www.twoja-konsola.click^
 ||www.twomillennialdads.com^
-||www.twoubleerdo.pro^
 ||www.txthelj.click^
 ||www.tybocie3.pro^
 ||www.typo3.ero-advertising.com^
@@ -117551,6 +117557,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.wirtualnaonline.click^
 ||www.wirtualnapl.click^
 ||www.wirtualnapolska.click^
+||www.wirtualnewspl.click^
 ||www.wks.ero-advertising.com^
 ||www.wogikeu4.pro^
 ||www.wohivyazyu.pro^
@@ -120447,6 +120454,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||zagwozdkaspoleczna.click^
 ||zagyjnn.cn^
 ||zahlen.olereissmann.de^
+||zaibja9.pivldo.pro^
 ||zaicasoawoul.com^
 ||zaigaphy.net^
 ||zaihxti.com^
