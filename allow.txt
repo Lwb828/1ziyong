@@ -1,5 +1,5 @@
-! Version: 2024-10-20 09:21:19（北京时间） 
-! Total count: 15720
+! Version: 2024-10-20 20:30:50（北京时间） 
+! Total count: 15722
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -12016,6 +12016,7 @@
 @@||resources.crowdtwist.com/fan_club/clients/$domain=myperks.catchow.com
 @@||responder.wt-safetag.com/resp/api/get/$script,domain=myhermes.de
 @@||rest.edit.site/geoip-service/geoip$domain=systemshouse.com
+@@||restapi.amap.com^$important
 @@||restorbio.com^$generichide
 @@||retailmenot.com/__wsm.gif$ping,~third-party,xmlhttprequest
 @@||retronetwork.net/images/*_banner.gif
@@ -13955,6 +13956,7 @@
 @@||thechive.com^$generichide
 @@||thechive.files.wordpress.com/*?quality=*&strip=info
 @@||thecollector.com^$stealth=dpi
+@@||thedailybeast.com/pf/resources/js/ads/arcads.js$~third-party
 @@||thefastlaneforum.com/community/js/*/adblocker-leader.js
 @@||thefightingcock.co.uk^$generichide
 @@||thefoodstorydotcom.wpcomstaging.com^$generichide
