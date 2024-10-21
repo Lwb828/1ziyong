@@ -1,4 +1,4 @@
-! Version: 2024-10-21 09:17:08（北京时间） 
+! Version: 2024-10-21 20:33:00（北京时间） 
 ! Total count: 15721
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -2028,6 +2028,7 @@
 @@||app.adjust.net.in/*?campaign=*&redirect=
 @@||app.appsflyer.com/*?af_ios_url=https*shopee.co
 @@||app.appsflyer.com/id*&*navigate_url*shopee.co
+@@||app.bilibili.com^$important
 @@||app.chat.xiaomi.net^$document
 @@||app.clarity.so^$~third-party
 @@||app.clickfunnels.com/assets/lander.js$script,domain=propanefitness.com
@@ -9562,7 +9563,6 @@
 @@||mssl.fwmrm.net/p/release/latest-JS/adm/prd/AdManager.js$domain=funimation.com
 @@||mstm.motorsport.com/mstm.js
 @@||mstory.me^$generichide
-@@||msubload.com/sub/$xmlhttprequest
 @@||mtlblog.com^$generichide
 @@||mtled-novels.com^$generichide
 @@||mtouch.facebook.com/ads/api/preview/$domain=business.facebook.com
