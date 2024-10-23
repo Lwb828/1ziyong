@@ -1,5 +1,5 @@
-! Version: 2024-10-23 09:15:03（北京时间） 
-! Total count: 15726
+! Version: 2024-10-23 20:32:26（北京时间） 
+! Total count: 15724
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -1258,7 +1258,7 @@
 @@||ads2.contentabc.com/ads?spot_id=$domain=8muses.com,xmlhttprequest
 @@||ads2.filescreed.buzz^$xmlhttprequest,domain=techcyan.com
 @@||ads2.opensubtitles.org/*www/delivery/afr.php?
-@@||ads3.xumo.com^$domain=2vnews.com|redbox.com
+@@||ads3.xumo.com^$domain=2vnews.com
 @@||adsads.host-cdn.net/banners/$domain=maxstream.video
 @@||adsafeprotected.com/iasPET.$script,domain=independent.co.uk|reuters.com|wjs.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com|wjs.com
@@ -2370,7 +2370,6 @@
 @@||banner.infoey.com/adbanner.png$domain=bazadecrypto.com
 @@||banner.infoey.com/adbanner.png$domain=bchtechnologies.com
 @@||banner.infoey.com/adbanner.png$domain=phineypet.com
-@@||banner.yt^$image,domain=socialblade.com
 @@||banners.s1.citilink.ru^$image,domain=citilink.ru
 @@||bannersnack.com/banners/$document,subdocument,domain=adventcards.co.uk|charitychristmascards.org|christmascardpacks.co.uk|kingsmead.com|kingsmeadcards.co.uk|nativitycards.co.uk|printedchristmascards.co.uk
 @@||baozhang.baidu.com^
@@ -11498,7 +11497,6 @@
 @@||porn.com^$generichide
 @@||pornbimbo.com/player/player_ads.html
 @@||pornbraze.com/advertisement.js
-@@||pornbraze.com^$generichide
 @@||porndish.com^$generichide
 @@||porngun.net^$generichide
 @@||pornhub.*/*?*&ajax=$xmlhttprequest
