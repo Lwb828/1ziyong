@@ -1,5 +1,5 @@
-! Version: 2024-10-22 20:32:47（北京时间） 
-! Total count: 15727
+! Version: 2024-10-23 09:15:03（北京时间） 
+! Total count: 15726
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -495,8 +495,6 @@
 @@www.any.gs$urlblock
 @@yandex.*/user-id?$stealth=referrer|searchqueries
 @@|abtest3-misc-lf.zijieapi.com^
-@@|api*-normal-lf.fqnovel.com^
-@@|api*-normal.fqnovel.com^
 @@|api.iplay.163.com
 @@|blob:https://www.twitch.tv
 @@|data:text^$popup,domain=box.com|clker.com|labcorp.com
@@ -527,13 +525,10 @@
 @@|steamgamesales.com^$urlblock
 @@|tnc3-aliec2.snssdk.com^
 @@|v*-fq-tts.fqnovelvod.com^
-@@|v*-novelapp.fqnovelvod.com^
 @@|ws://*$websocket,domain=flirt4free.com
 @@||*.alipay.com^$important
 @@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
 @@||*.img.mobile.sina.cn^$important
-@@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
 @@||*.market.mi-img.com^$important
 @@||*.market.xiaomi.com^$important
@@ -542,7 +537,6 @@
 @@||*.php?id=$subdocument,stealth=referrer,domain=dubznetwork.com
 @@||*.twimg.com^$important
 @@||*.video.xiaomi.com^$important
-@@||*.y.qq.com^$important
 @@||*optout$domain=smartadserver.com
 @@||*optout$domain=youronlinechoices.com
 @@||*status$domain=youronlinechoices.com
@@ -4247,6 +4241,7 @@
 @@||davidgalaxia.com^$generichide
 @@||daviruzsystems.com^$generichide
 @@||daxab.com/player/$stealth
+@@||daxiaamu.com^$generichide
 @@||dayanzai.me/image/ad/$image
 @@||dayoadetiloye.com^$generichide
 @@||dayoftheweek.org^$generichide
@@ -4287,6 +4282,7 @@
 @@||decomaniacos.es^$generichide
 @@||decompiler.com/javascripts/ads-prebid/prebid-ad*.js
 @@||decorardicas.com.br^$stealth
+@@||decrypt.day^$generichide
 @@||deep-vision.cloud/graphql$stealth=3p-auth,domain=doveze.cz
 @@||deepbrid.com/backend-dl/app/views/site/default/ads/advertisement.js
 @@||deezer.com^$generichide
@@ -7389,7 +7385,7 @@
 @@||identity.oraclecloud.com//sso/v*/sdk/authenticate$stealth,domain=v2.ereg.ets.org
 @@||identitytoolkit.googleapis.com^$stealth=referrer
 @@||idm.hit.gemius.pl/gplayer.js$domain=muratorplus.pl
-@@||idm.hit.gemius.pl/gplayer.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl|vibefm.pl|urzadzamy.pl
+@@||idm.hit.gemius.pl/gplayer.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl|vibefm.pl|urzadzamy.pl|muratordom.pl
 @@||idmsa.apple.com/appleauth/$stealth,domain=icloud.com|icloud.com.cn
 @@||idos.idnes.cz^$csp
 @@||idsly.com^$generichide
@@ -7670,7 +7666,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=pogo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=poki-gdn.com|repuls.io
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=popcorntv.it
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl|vibefm.pl|urzadzamy.pl|mediateka.pl
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl|vibefm.pl|urzadzamy.pl|mediateka.pl|muratordom.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=poszkole.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=primarygames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=proper.io
@@ -9518,7 +9514,7 @@
 @@||mpsnare.iesnare.com/snare.js$domain=rossmann.de
 @@||mpsnare.iesnare.com/snare.js$domain=samsung.com
 @@||mpsnare.iesnare.com/snare.js$domain=welcome.cryptothrills.io
-@@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|ringcentral.com|screwfix.com|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
+@@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|ringcentral.com|screwfix.com|secure.coventrybuildingsociety.co.uk|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
 @@||mpt.gov.by^$stealth=dpi
 @@||mpush-api.aliyun.com^$important
 @@||mraw*.cyou^$image,stealth=referrer,domain=manhwa-raw.com
@@ -10393,6 +10389,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=darkwiki.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dausel.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=deblocker.merkulov.design
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=decrypt.day
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=deezloaded.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=di.fm
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=digiclown.com|sattanewss.com|djflpduniya.com
@@ -11032,6 +11029,7 @@
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_$script,domain=rjno1.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=codingnepalweb.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=copyseeker.net
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=decrypt.day
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=filecr.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=production-api.androidacy.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=toolxox.com
@@ -13838,6 +13836,7 @@
 @@||teams.live.com^$generichide
 @@||teams.live.com^$important
 @@||teams.microsoft.com/dialin-cdn-root/*/aria-web-telemetry-$~third-party
+@@||teams.microsoft.com/v*/?meetingjoin=$stealth=webrtc
 @@||teams.microsoft.com^$generichide
 @@||teamxmanga.com^$generichide
 @@||tech*.techradar.ink/*/?se=*&listing=$stealth=referrer
