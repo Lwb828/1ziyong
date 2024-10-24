@@ -1,5 +1,5 @@
-! Version: 2024-10-24 09:15:21（北京时间） 
-! Total count: 15724
+! Version: 2024-10-24 20:32:29（北京时间） 
+! Total count: 15726
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -3168,6 +3168,7 @@
 @@||cdn.jsdelivr.net^$script,domain=movieffm.net
 @@||cdn.jsdelivr.net^$script,domain=yemancomic.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
+@@||cdn.kaizenplatform.net^$script,domain=navi.onamae.com
 @@||cdn.krxd.net/amp/remote.min.js$domain=static.telegraph.co.uk
 @@||cdn.krxd.net/controltag/*.js$domain=video.foxnews.com|video.foxbusiness.com
 @@||cdn.lib.getjad.io/library/$domain=purepeople.com
@@ -8900,6 +8901,7 @@
 @@||maclife.vn^$generichide
 @@||macrumors.com/2021/*-ad-$domain=macrumors.com
 @@||macwelt.de^$generichide
+@@||madeformed.com^$stealth=ip
 @@||madtrx.fun^$generichide
 @@||maedchen.de/sites/default/files/google_tag/google_tag_manager_fuersie/google_tag.script.js
 @@||magdyman.com^$generichide
