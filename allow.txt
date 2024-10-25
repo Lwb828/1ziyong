@@ -1,5 +1,5 @@
-! Version: 2024-10-25 09:16:01（北京时间） 
-! Total count: 15728
+! Version: 2024-10-25 20:32:16（北京时间） 
+! Total count: 15730
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -6596,6 +6596,7 @@
 @@||googletagmanager.com/gtm.js$domain=nunnbush.com
 @@||googletagmanager.com/gtm.js$domain=nykaa.com
 @@||googletagmanager.com/gtm.js$domain=online-shop.mb.softbank.jp
+@@||googletagmanager.com/gtm.js$domain=online.ysroad.co.jp
 @@||googletagmanager.com/gtm.js$domain=onlineshop.ocn.ne.jp
 @@||googletagmanager.com/gtm.js$domain=orami.co.id
 @@||googletagmanager.com/gtm.js$domain=oresundsbron.com
@@ -8330,6 +8331,7 @@
 @@||karte.io/libs/tracker.$domain=zf1.tohoku-epco.co.jp
 @@||karte.io/libs/tracker.$domain=zf1.tohoku-epco.co.jp|zozo.jp
 @@||karte.io/libs/tracker.$domain=zozo.jp
+@@||karte.io^$domain=online.ysroad.co.jp
 @@||karwan.tv^$generichide
 @@||kaspersky.co$content
 @@||kaspersky.com/advert/
