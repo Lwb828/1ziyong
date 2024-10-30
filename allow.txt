@@ -1,5 +1,5 @@
-! Version: 2024-10-29 20:33:01（北京时间） 
-! Total count: 15736
+! Version: 2024-10-30 09:16:09（北京时间） 
+! Total count: 15738
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -530,6 +530,7 @@
 @@||*.alipay.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.img.mobile.sina.cn^$important
+@@||*.in-addr.arpa^$important
 @@||*.lol.qq.com^$important
 @@||*.market.mi-img.com^$important
 @@||*.market.xiaomi.com^$important
@@ -2120,6 +2121,7 @@
 @@||ariba.com/*/ad/
 @@||arkadiumhosted.com/API/$generichide
 @@||arkforum.de^$generichide
+@@||arldeemix.com^$generichide
 @@||arlnigh.me/*.m3u8$stealth
 @@||armyranger.com^$generichide
 @@||arnhemland-safaris.com/images/made/$image,~third-party
@@ -7910,7 +7912,6 @@
 @@||imtt.dd.qq.com^$important
 @@||imwx.com/jsRollup?$script,domain=weather.com
 @@||imydl.com^$generichide
-@@||in-addr.arpa^$important
 @@||in-page-push.com^$script,domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
 @@||in-trend.biz^$generichide
 @@||in.gr^$generichide
@@ -13109,6 +13110,7 @@
 @@||sp0.baidu.com/*/finance.pae.baidu.com/vapi/async$domain=baidu.com
 @@||sp1.baidu.com/*/gettts?$media
 @@||sp1.baidu.com^$important
+@@||space.bilibili.com^$important
 @@||spanish.visorsmr.com^$generichide
 @@||spanishdict.com^$generichide
 @@||spankbang.com^*/prebid-ads.js$domain=spankbang.com
