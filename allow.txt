@@ -1,5 +1,5 @@
-! Version: 2024-10-30 09:16:09（北京时间） 
-! Total count: 15738
+! Version: 2024-10-30 20:32:59（北京时间） 
+! Total count: 15740
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -1136,6 +1136,7 @@
 @@||ads-api.twitter.com/*/accounts/$domain=analytics.twitter.com
 @@||ads-api.twitter.com/*/apps?app_store_identifiers=$domain=analytics.twitter.com
 @@||ads-api.twitter.com/|$xmlhttprequest,domain=techacrobat.com
+@@||ads-api.twitter.com^$domain=ads.twitter.com|analytics.twitter.com
 @@||ads-api.twitter.com^$domain=camcam.cc|euskalnews.tv|studybullet.com|e-kitapstore.com|studybullet.com|zapcourses.com|eventiavversinews.it|sysguides.com|branditechture.agency|cizgifilmizle.info|kawaguchimaeda.com|coursesdaddy.com|maos4alaw.online
 @@||ads-api.twitter.com^$domain=eurekaddl.skin
 @@||ads-i.org/images/ads3.jpg$~third-party
@@ -1241,6 +1242,7 @@
 @@||ads.tiktok.com^$popup
 @@||ads.tiktok.com^$~third-party
 @@||ads.twitter.com/favicon.ico
+@@||ads.twitter.com^$domain=ads.twitter.com|analytics.twitter.com
 @@||ads.twitter.com^$popup
 @@||ads.viralize.tv/d-vast/$domain=automoto.it|moto.it
 @@||ads.viralize.tv/display/$domain=automoto.it|moto.it
