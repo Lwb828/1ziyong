@@ -1,5 +1,5 @@
-! Version: 2024-10-31 09:16:41（北京时间） 
-! Total count: 15731
+! Version: 2024-10-31 20:32:26（北京时间） 
+! Total count: 15735
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -5163,6 +5163,8 @@
 @@||feedly.com/i/^$jsinject
 @@||feilusw.com/search.html$genericblock,generichide
 @@||feldherr.com^$stealth
+@@||feliz-web.data.tm-awx.com/smile-web.min.js$domain=dailystar.co.uk
+@@||feliz.data.tm-awx.com/smile-web-v2/rootEvent$domain=dailystar.co.uk
 @@||feliz.data.tm-awx.com/smile-web-v2/rootEvent$domain=mirror.co.uk
 @@||fembed9hd.com^$subdocument,domain=gogohd.net
 @@||fengkongcloud.com/fpv2.js
@@ -9040,6 +9042,7 @@
 @@||mathworks.com^$stealth
 @@||matomo.miraheze.org/matomo.js$script,~third-party
 @@||matomo.moeci.com/matomo.js$domain=moeci.com
+@@||matrix.redditspace.com^$stealth=3p-auth
 @@||matystudios.github.io/banner_ad.png$domain=serialyzdarma.eu
 @@||matzoo.pl/*/adsbygoogle.js
 @@||mawsueaa.com^$generichide
@@ -14391,6 +14394,7 @@
 @@||ttkdex.com^$generichide
 @@||ttkdex.com^*ad$~third-party
 @@||ttorial.com^$generichide
+@@||tts.carbonatixaudio.com^$stealth=referrer
 @@||ttsfree.com/adex.js
 @@||ttsfree.com^$generichide
 @@||ttsmp3.com^$generichide
