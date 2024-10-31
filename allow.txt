@@ -1,5 +1,5 @@
-! Version: 2024-10-30 20:32:59（北京时间） 
-! Total count: 15740
+! Version: 2024-10-31 09:16:41（北京时间） 
+! Total count: 15731
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -1285,7 +1285,6 @@
 @@||adservice.google.com.tr/adsid/integrator.js$domain=playhub.com
 @@||adservice.google.com/adsid/integrator.js$domain=943thex.com
 @@||adservice.google.com/adsid/integrator.js$domain=961thebreeze.com
-@@||adservice.google.com/adsid/integrator.js$domain=fileflares.com
 @@||adservice.google.com/adsid/integrator.js$domain=logi.im
 @@||adservice.google.com/adsid/integrator.js$domain=next-episode.net
 @@||adservice.google.com/adsid/integrator.js$domain=soranews24.com
@@ -4931,7 +4930,6 @@
 @@||ensighten.com^*/serverComponent.php?$script
 @@||ensonhaber.com/assets/html/*.html$xmlhttprequest,elemhide,jsinject,extension
 @@||ensonhaber.com^$generichide
-@@||entervideo.net/watch^
 @@||entitlements.jwplayer.com^$xmlhttprequest,domain=iheart.com
 @@||eolinker.com^$generichide
 @@||ephoto360.com/js/blockadblock.js
@@ -5203,9 +5201,6 @@
 @@||filecity.co.kr^$stealth=dpi
 @@||filecr.com/wp-content/plugins/holdback/$script,stylesheet
 @@||filedown.org^$generichide
-@@||fileflares.com/*ads.js$~third-party
-@@||fileflares.com/advertisements.js
-@@||fileflares.com^$generichide
 @@||filegage.com/popads.js
 @@||filejoker.net^$image,~third-party
 @@||filelions.*/js/boxad.js
@@ -5728,7 +5723,6 @@
 @@||getjad.io/library/$script,domain=gamepro.de
 @@||getjad.io/prebid/$script,domain=gamepro.de
 @@||getlec.blogspot.com^$generichide
-@@||getlink.pw^$generichide
 @@||getpaidtoshare.money^$generichide
 @@||getpasteleaks.link/js/prebid-ads.js
 @@||getpcapps.com^$generichide
@@ -6239,6 +6233,7 @@
 @@||googleads.g.doubleclick.net/pagead/js/adsbygoogle.js$domain=sportshub.to
 @@||googleads.g.doubleclick.net/pagead/js/adsbygoogle.js$xmlhttprequest,domain=werfgt.fun
 @@||googleads.g.doubleclick.net^$domain=fplstatistics.com
+@@||googleads.g.doubleclick.net^|$xmlhttprequest,domain=getexploits.com
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$domain=mako.co.il
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.js$domain=rmfmaxxx.pl
 @@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video$domain=ulifestyle.com.hk
@@ -8386,7 +8381,6 @@
 @@||kickass.com.se^$generichide
 @@||kickcharm.com^$generichide
 @@||kickedface.com^$generichide
-@@||kiemlua.com^$generichide
 @@||kienthucrangmieng.com^$generichide
 @@||kifir2.kir.hu^$stealth=dpi
 @@||kiiw.icu^$generichide
@@ -10465,14 +10459,14 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=foodbusinessnews.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forexit.online
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forexlap.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forexwaw.club|forex-articles.com|try2link.com|world-trips.net|forex-gold.net|forexrw7.com|fx-22.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forexwaw.club|forex-articles.com|try2link.com|forex-gold.net|forexrw7.com|fx-22.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forja.me
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forum.release-apk.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forum.release-apk.com,stealth,important
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forums-fastunlock.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=fox.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebinchecker.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebnbcoin.com|exotictgirl.blogspot.com|bospedia.com|rockmods.net|aiimsneetshortnotes.com|arabseed.onl|poppamr.com|adnit.xyz|miuiku.com|tatangga.com|flash-firmware.blogspot.com|ghostsnet.com|rezkozpatch.xyz|rumahit.id|sekilastekno.com|romfirmware.com|orirom.com|gsmfirmware.net|akwam.*|health-and.me|fc-lc.com|fc.lc|note1s.com|paste1s.com|playstore.pw|yoshare.net|pes-patches.com|1shorten.com|publicananker.com|ipacrack.com|codevn.net|traffic1s.com|adnews.me|eg-akw.com|ak4eg.*|xn--mgba7fjn.*|akw.to|mawsueaa.com|ak4ar.*|anhdep24.com|nguyenvanbao.com|akw-cdn1.link|akw.mov|ak.sv|akw.cam|indokontraktor.com|shahee4u.cam|batch-kun.com|shi4u.cam|shed4u.cam|shhid4u.cam|shed4u1.cam|shahid4u.*|shed4u1.com|neosatsu.com|shiid4u.cam
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freebnbcoin.com|exotictgirl.blogspot.com|bospedia.com|rockmods.net|aiimsneetshortnotes.com|arabseed.onl|poppamr.com|adnit.xyz|miuiku.com|tatangga.com|flash-firmware.blogspot.com|ghostsnet.com|rezkozpatch.xyz|rumahit.id|sekilastekno.com|romfirmware.com|orirom.com|gsmfirmware.net|akwam.*|health-and.me|fc-lc.com|fc.lc|note1s.com|paste1s.com|playstore.pw|yoshare.net|pes-patches.com|publicananker.com|ipacrack.com|codevn.net|traffic1s.com|adnews.me|eg-akw.com|ak4eg.*|xn--mgba7fjn.*|akw.to|mawsueaa.com|ak4ar.*|anhdep24.com|nguyenvanbao.com|akw-cdn1.link|akw.mov|ak.sv|akw.cam|indokontraktor.com|shahee4u.cam|batch-kun.com|shi4u.cam|shed4u.cam|shhid4u.cam|shed4u1.cam|shahid4u.*|shed4u1.com|neosatsu.com|shiid4u.cam
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freecoursesonline.me
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freeiptvgen.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freemagazines.top
@@ -10977,7 +10971,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=zippyshare.day
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=zsexf.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,script,domain=aoutoqw.xyz
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?$domain=fileflares.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?$domain=production-api.androidacy.com,stealth=referrer
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$domain=btcpany.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$domain=linkneverdie.net
@@ -11217,7 +11210,6 @@
 @@||pdrnetwork.112.2o7.net/b/ss/pdrnetworkpdrnetprod/
 @@||pe.com^$generichide
 @@||peacocktv.com^$generichide
-@@||peliculasmegahdd.net^$generichide
 @@||pendo.io/agent/static/$script,domain=recruiting.adp.com
 @@||pengantartidurkuh.blogspot.com^$generichide
 @@||pennbookcenter.com^$generichide
@@ -13999,7 +13991,6 @@
 @@||thelibrarydigital.blogspot.com^$generichide
 @@||them4ufree.com/*/player.php?$popup
 @@||themanwiththehat.de^$generichide
-@@||themarker.com/dclk/dfp/test/
 @@||themarker.com/htz/js/advertisement.js
 @@||themarker.com/logger/p.gif?$image,xmlhttprequest
 @@||themarker.com/logger/p.gif?*=COMMENTS$xmlhttprequest
