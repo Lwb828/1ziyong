@@ -1,4 +1,4 @@
-! Version: 2024-10-31 20:32:26（北京时间） 
+! Version: 2024-11-01 09:21:23（北京时间） 
 ! Total count: 15735
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -246,7 +246,7 @@
 @@/favicon.ico$domain=avaxhome.co
 @@/favicon.ico$domain=lubetube.com
 @@/favicon.ico$third-party,domain=thehouseofportable.com
-@@/favicon.ico^$domain=dot.ro|rockfile.co|tamiltunes.live|cmacapps.com|itavisen.no|sankakucomplex.com|clubedohardware.com.br|torrenting.com|who-called.co.uk
+@@/favicon.ico^$domain=dot.ro|tamiltunes.live|cmacapps.com|itavisen.no|sankakucomplex.com|clubedohardware.com.br|torrenting.com|who-called.co.uk
 @@/favicon.ico^$domain=hackintosh.zone
 @@/fingerprint.$domain=abchina.com
 @@/fingerprint2.js$domain=fangcloud.com|fx678.com|gxpf.cn|hnair.com|pop-fashion.com
@@ -6164,6 +6164,7 @@
 @@||google.*/imgres?
 @@||google.*/mapmaker/gen_204?$subdocument,xmlhttprequest
 @@||google.com.tr/ads/publisher/partners/static/*/index.min.$domain=google.com.tr
+@@||google.com/adsense/domains/caf.js$domain=wotaku.moe
 @@||google.com/adsense/search/ads.js$domain=news.biglobe.ne.jp
 @@||google.com/adsense/start/images/favicon.ico
 @@||google.com/afs/ads?q=*adsafe$domain=wanted.de
@@ -8404,7 +8405,6 @@
 @@||kinja.com/api/profile/accountwithtoken$stealth
 @@||kinogo.*/*.flv$stealth
 @@||kiplinger.112.2o7.net^
-@@||kissanime.to/ads/madads.aspx
 @@||kisscartoon.ac/ajax/$popup
 @@||kisscartoon.ac/cdn-cgi/l/chk_jschl?jschl_vc=$popup
 @@||kisscartoon.ac/themes/vast/videojs.ads.min.js
@@ -10689,7 +10689,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=repo.hackyouriphone.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rimworldbase.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rjno1.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rockfile.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rockradio.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rodude.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rollingstone.it
@@ -11010,7 +11009,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=emurom.net
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=happyfor.win
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=kadinlarkulubu.com
-@@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=rockfile.co
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=safelink.miuipedia.com
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=samnaprawiam.com
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=searchftps.net
@@ -12065,7 +12063,6 @@
 @@||robot-forum.com^$generichide
 @@||robuxgen.online^$generichide
 @@||rocket.chat^
-@@||rockfile.co^$generichide
 @@||rockitecn.nohup.it/*/js/*.js$domain=rockit.it
 @@||rocku.space^$generichide
 @@||rodjulian.com^$generichide
@@ -13680,6 +13677,7 @@
 @@||sync.maxthon.com$document
 @@||sync.opera.com/api/sync/$stealth
 @@||synchrobox.adswizz.com/register2.php$script,domain=player.amperwave.net|tunein.com
+@@||syndicatedsearch.goog^$domain=wotaku.moe|syndicatedsearch.goog
 @@||syndication.exosrv.com/splash.php$domain=vqtube.com|taxi69.com
 @@||synology-forum.de^$generichide
 @@||syri.net/uploads/syri.net/images/*/300x150_*.jpg
@@ -14752,6 +14750,7 @@
 @@||v2cross.com^$generichide
 @@||v2rayssr.com/wp-content/plugins/dh-anti-adblocker/public/js/prebid-ads.js
 @@||v2rayssr.com^$generichide
+@@||v3-novelapp.fqnovelvod.com^$important
 @@||v3-ppx.ixigua.com^$important
 @@||v4u6i8r9.stackpathcdn.com/wp-banners.js
 @@||v6-nimg.ws.126.net^
@@ -15337,6 +15336,7 @@
 @@||wwe.com/sites/all/modules/wwe/wwe_analytics/s_wwe_code.js
 @@||wwo.wps.cn^$important
 @@||www-daftarharga.blogspot.com^$generichide
+@@||www-env.dropbox-dns.com^$important
 @@||www.123pan.com^$important
 @@||www.alidns.com^$important
 @@||www.api.hybrid.intl.xiaomi.com^$document
