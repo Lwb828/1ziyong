@@ -1,5 +1,5 @@
-! Version: 2024-11-01 09:21:23（北京时间） 
-! Total count: 15735
+! Version: 2024-11-01 20:31:20（北京时间） 
+! Total count: 15738
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -10114,6 +10114,7 @@
 @@||openap-alps.51y5.net^$important
 @@||opencloud.wostore.cn^$important
 @@||opendrive.online^$generichide
+@@||openfpcdn.io/botd/v1$script,domain=collinsdictionary.com
 @@||openfpcdn.io/fingerprintjs$domain=linkneverdie.net
 @@||openfpcdn.io/fingerprintjs$script,redirect=noopjs,domain=linkneverdie.net
 @@||openfpcdn.io/fingerprintjs/$domain=uslugaplus.com
@@ -13936,6 +13937,7 @@
 @@||test.profitsfly.com/wp-content/uploads/*/bg-h2-pattern.png$domain=starkroboticsfrc.com|cryptednews.space|seoliv.com|waezg.xyz|blackwoodacademy.org|lifgam.online|crypto-radio.eu|tiktokcounter.net
 @@||testufo.com/*.html$jsinject,elemhide
 @@||testufo.com/*.html$jsinject,elemhide,extension
+@@||testufo.com^$generichide
 @@||tetris.com/play-tetris-content/ads.js
 @@||teutorrent.com^$generichide
 @@||texasroadhouse.com/common/javascript/google-analytics.js
@@ -14707,6 +14709,7 @@
 @@||v.fwmrm.net/ad/g/*Nelonen$script
 @@||v.fwmrm.net/ad/g/1$domain=bold.dk
 @@||v.fwmrm.net/ad/g/1$domain=dplay.se
+@@||v.fwmrm.net/ad/g/1$domain=embed.viaplay.com
 @@||v.fwmrm.net/ad/g/1$domain=medialaancdn.be
 @@||v.fwmrm.net/ad/g/1$domain=player.theplatform.com
 @@||v.fwmrm.net/ad/g/1$domain=stream.nbcsports.com
