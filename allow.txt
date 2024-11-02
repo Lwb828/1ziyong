@@ -1,5 +1,5 @@
-! Version: 2024-11-02 09:14:13（北京时间） 
-! Total count: 15735
+! Version: 2024-11-02 20:29:57（北京时间） 
+! Total count: 15745
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -1574,6 +1574,7 @@
 @@||amazoncustomerservice.d2.sc.omtrdc.net^$domain=amazon.es
 @@||amc-widgets.crowdtwist.com/widgets/t/account-
 @@||amdc.m.taobao.com^
+@@||amdc.m.taobao.com^$document
 @@||amdcopen.m.taobao.com^$important
 @@||amebame.com/pub/ads/$image,domain=abema.tv|ameba.jp|ameblo.jp
 @@||america.cgtn.com^$generichide
@@ -3623,6 +3624,7 @@
 @@||click.appcast.io/track^$domain=neuvoo.co.uk
 @@||click.linksynergy.com^
 @@||click.mz.simba.taobao.com^
+@@||click.mz.simba.taobao.com^$document
 @@||click.simba.taobao.com^$important
 @@||click.uol.com.br^$domain=uol.com.br
 @@||clickhouse.xyz^$generichide
@@ -4784,6 +4786,7 @@
 @@||ecmb.bdimg.com^$document
 @@||ecmb.bdimg.com^$important
 @@||eco.taobao.com^
+@@||eco.taobao.com^$document
 @@||eco.taobao.com^$important
 @@||ecombdapi.com^$important
 @@||ecombdimg.com^
@@ -4944,6 +4947,7 @@
 @@||erovoice.us^$generichide
 @@||erpsoftwarelink.blogspot.com^$generichide
 @@||err.taobao.com^
+@@||err.taobao.com^$document
 @@||erreguete.gal^$generichide
 @@||escapegames24.com^$generichide
 @@||esia.gosuslugi.ru^$stealth
@@ -9335,6 +9339,7 @@
 @@||mimaletadepeliculas.blogspot.com^$generichide
 @@||mimaletamusical.blogspot.com^$generichide
 @@||mime.baidu.com^
+@@||mime.baidu.com^$document
 @@||minecraft-forum.net/v/adblock-detection-master/advert.js
 @@||minecraftbuildinginc.com/wp-content/themes/*/js/advertisement.js
 @@||minemods.com.br^$generichide
@@ -14411,6 +14416,7 @@
 @@||tui.click^$generichide
 @@||tumkarikaturler.com^$generichide
 @@||tunein.com/api/v1/comscore$~third-party
+@@||tunion-api.m.taobao.com^$document
 @@||tunovelaligera.com^$generichide
 @@||turbo.az^$stealth
 @@||turing.captcha.gtimg.com^$important
@@ -14524,6 +14530,7 @@
 @@||udoyoshi.com^$generichide
 @@||udp2p.com^$generichide
 @@||udpolimenew.baidu.com^
+@@||udpolimenew.baidu.com^$document
 @@||ue.flipboard.com/usage?data=
 @@||uee.me^$important
 @@||ufonaut.000webhostapp.com/advertisement.js$domain=filmux.org
@@ -15508,6 +15515,8 @@
 @@||xzeepb2clookuppsta001.blob.core.windows.net/comed/src/js/google-analytics.js$domain=secure1.comed.com
 @@||xzz.xiaomin.tech^$important
 @@||ya.ru/user-id?$subdocument,stealth=referrer
+@@||ya.ru^$extension="AdGuard Extra (Beta)"
+@@||ya.ru^$extension="AdGuard Extra"
 @@||yabs.yandex.ru$domain=yandex.by|yandex.com.tr|yandex.kz|yandex.ru
 @@||yacine-tv.com^$generichide
 @@||yads.c.yimg.jp/js/yads-async.js$domain=kobe-np.co.jp|yahoo.co.jp
@@ -15671,6 +15680,7 @@
 @@||zappos.com/js/trackingPixel/mercentTracker.js
 @@||zazhipu.com^
 @@||zconfig.alibabausercontent.com^
+@@||zconfig.alibabausercontent.com^$document
 @@||zcteam.id^$generichide
 @@||zdbb.net/edaa^$domain=youronlinechoices.com
 @@||zdbb.net/r/?*&mailing
