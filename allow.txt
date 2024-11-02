@@ -1,5 +1,5 @@
-! Version: 2024-11-01 20:31:20（北京时间） 
-! Total count: 15738
+! Version: 2024-11-02 09:14:13（北京时间） 
+! Total count: 15735
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -1795,6 +1795,7 @@
 @@||api-js.datadome.co/js/$domain=account.samsung.com
 @@||api-js.datadome.co/js/$domain=sso.garena.com
 @@||api-js.datadome.co/js/|$stealth,domain=auth.garena.com
+@@||api-maps.yandex.$stealth=referrer
 @@||api-maps.yandex.ru/services/startup/$stealth
 @@||api-mg2.db-ip.com^$xmlhttprequest,domain=journal-news.com
 @@||api-public.stoerungsauskunft.de/api$stealth
@@ -2689,7 +2690,6 @@
 @@||brm-core-0.brsrvr.com/api/*/core$domain=dollargeneral.com
 @@||brm-core-0.brsrvr.com/api/*/core/?account_id=$domain=m.toysrus.com
 @@||brn-ads.sa.cz/www/delivery/*.php?zoneid=$domain=studentagency.eu
-@@||broadbandforum.co$generichide
 @@||broadcastlv.chat.bilibili.com^
 @@||brocardi.it^$generichide
 @@||broccoli.uc.cn^$important
@@ -5010,7 +5010,6 @@
 @@||exbulletin.com/wp-content/plugins/ad-inserter/*/*.js
 @@||exbulletin.com/wp-content/plugins/ad-inserter/images/ads.png
 @@||exbulletin.com^$generichide
-@@||exe.io/js/prebid-ads.js
 @@||executivetraveller.com^$generichide
 @@||exee.app^$stealth
 @@||exiledros.net^$generichide
@@ -6310,7 +6309,7 @@
 @@||googletagmanager.com/gtag/js$domain=diudemy.com
 @@||googletagmanager.com/gtag/js$domain=duplichecker.com
 @@||googletagmanager.com/gtag/js$domain=earnhub.net
-@@||googletagmanager.com/gtag/js$domain=eririo.club|freshi.site|exe.app|exey.io|linkpoi.me
+@@||googletagmanager.com/gtag/js$domain=eririo.club|freshi.site|exe.app|linkpoi.me
 @@||googletagmanager.com/gtag/js$domain=faucetofbob.xyz
 @@||googletagmanager.com/gtag/js$domain=filmomaniak.pl
 @@||googletagmanager.com/gtag/js$domain=game3rb.com
@@ -6324,7 +6323,7 @@
 @@||googletagmanager.com/gtag/js$domain=kaft.com
 @@||googletagmanager.com/gtag/js$domain=klix.ba
 @@||googletagmanager.com/gtag/js$domain=lightrun.com
-@@||googletagmanager.com/gtag/js$domain=linkpoi.me|exey.io|eririo.club|freshi.site|exe.app|eio.io
+@@||googletagmanager.com/gtag/js$domain=linkpoi.me|exey.io|eririo.club|freshi.site
 @@||googletagmanager.com/gtag/js$domain=ln24.be
 @@||googletagmanager.com/gtag/js$domain=m.hkgolden.com
 @@||googletagmanager.com/gtag/js$domain=mall.heiwa.jp
@@ -10359,7 +10358,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bowfile.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=boyhoodmovies.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=breatheheavy.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=broadbandforum.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=calculate.plus
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=calculator-online.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=calculatored.com
@@ -10441,7 +10439,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eviltranslator.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ewrc.cz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=examsnet.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=exey.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=exiledros.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=exuce.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=faqwiki.us
@@ -10512,6 +10509,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=heidisql.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hentaigasm.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hentaihaven.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hentaipig.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hindustantimes.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hiraethtranslation.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=howdy.id
@@ -11030,7 +11028,6 @@
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_$script,domain=panel.waifly.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=ff14angler.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads*.js$domain=forum.release-apk.com,important,stealth
-@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl*.js$domain=exey.io
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_$script,domain=rekidai-info.github.io
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_$script,domain=rjno1.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=codingnepalweb.com
