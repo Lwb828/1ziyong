@@ -1,5 +1,5 @@
-! Version: 2024-11-03 20:29:18（北京时间） 
-! Total count: 117949
+! Version: 2024-11-04 09:17:16（北京时间） 
+! Total count: 117950
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -101234,6 +101234,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||toolughitilagu.com^
 ||toomanyalts.com^
 ||toonujoops.net^
+||toonujoops.net^$popup
 ||toopsoug.net^
 ||toopsoug.net^$popup
 ||toothacheformer.com^
