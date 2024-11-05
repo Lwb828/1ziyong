@@ -1,5 +1,5 @@
-! Version: 2024-11-04 20:33:29（北京时间） 
-! Total count: 15752
+! Version: 2024-11-05 09:14:05（北京时间） 
+! Total count: 15751
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -2554,6 +2554,7 @@
 @@||biopills.net/wp-content/plugins/ad-inserter/images/ads.png
 @@||biopills.net^$generichide
 @@||bioskopkaca21.com^$generichide
+@@||birdflock.unipus.cn/ufe/third/sensorsdata/*/sensorsdata.min.js$domain=ucloud.unipus.cn
 @@||birdload.com/*/js/advertisement.js
 @@||birdurls.com^$generichide
 @@||bishalghale.com.np^$stealth=referrer
@@ -3526,8 +3527,6 @@
 @@||chatzy.com/?jsonp:$script
 @@||cheaterboss.com^$generichide
 @@||cheatglobal.com^$generichide
-@@||cheatsquad.gg/javascript/ad*.js
-@@||cheatsquad.gg^$generichide
 @@||check-plagiarism.com^$generichide
 @@||check.ddos-guard.net/check.js
 @@||check.ddos-guard.net/check.js$script
@@ -12196,6 +12195,7 @@
 @@||s.nitropay.com/ads-*.js$domain=dankmemer.lol
 @@||s.nitropay.com/ads-*.js$domain=soccerguru.live
 @@||s.nitropay.com/ads-*.js$domain=th.gl
+@@||s.nitropay.com/ads-437.js$domain=wago.io
 @@||s.ntv.io/serve/load.js$domain=bloomberg.com
 @@||s.ntv.io/serve/load.js$domain=titantv.com
 @@||s.optnx.com^
@@ -14153,7 +14153,6 @@
 @@||tokyoghoulre.net^$generichide
 @@||tollypics.com^$generichide
 @@||tom.moonicorn.network/channel/list$domain=adex.network
-@@||tomato.to^$generichide
 @@||tomshw.it^$generichide
 @@||tongji.cn^
 @@||tongji.edu.cn^
