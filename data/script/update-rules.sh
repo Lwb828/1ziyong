@@ -31,7 +31,7 @@ rules=(
 
 allow=(
 
-"https://raw.githubusercontent.com/qq5460168/666/master/allow.txt"
+"https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt"
 
 #good白名单
 "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt"
