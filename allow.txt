@@ -1,5 +1,5 @@
-! Version: 2024-11-05 09:14:05（北京时间） 
-! Total count: 15751
+! Version: 2024-11-05 18:24:22（北京时间） 
+! Total count: 15752
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -1074,6 +1074,7 @@
 @@||adm.fwmrm.net^*/TremorAdRenderer.$object,domain=go.com
 @@||adm.fwmrm.net^*/videoadrenderer.$object,domain=cnbc.com|go.com|nbc.com|nbcnews.com
 @@||admedia.com/images/cross_channel_arrows.png$domain=weather2day.co.il
+@@||admin.corrata.com/console/dcconsolews/event-log?$~third-party
 @@||admin.mailchimp.com^
 @@||admin.mailchimp.com^$extension
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
