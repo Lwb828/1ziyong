@@ -30,12 +30,12 @@ rules=(
  )
 
 allow=(
-  "https://raw.githubusercontent.com/qq5460168/-/main/white.txt"
+
+
 #good白名单
 "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt"
 
- "https://github.com/Lwb828/1ziyong/master/data%2Frules%2Fwhitelist.txt"
- 
+ ""
 )
 
 for i in "${!rules[@]}" "${!allow[@]}"
