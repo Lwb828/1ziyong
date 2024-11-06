@@ -1,5 +1,5 @@
-! Version: 2024-11-05 20:30:18（北京时间） 
-! Total count: 15752
+! Version: 2024-11-06 09:13:50（北京时间） 
+! Total count: 15745
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -543,6 +543,7 @@
 @@||*optout$domain=youronlinechoices.com
 @@||*status$domain=youronlinechoices.com
 @@||000714.xyz^
+@@||011st.com^$stealth=dpi
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
 @@||07c225f3.online^$stealth=referrer
@@ -1666,7 +1667,6 @@
 @@||anhdep24.com^$generichide
 @@||anhuinews.com/zhuyeguanli/2020ad/xidad.jpg
 @@||ani-*.xyz/*.html$stealth,domain=aniwatch.me
-@@||ani-ost.info^$generichide
 @@||ani.gamer.com.tw^$generichide
 @@||ani4u.org^$generichide
 @@||anibatch.me^$generichide
@@ -2624,6 +2624,7 @@
 @@||bloominc.jp/adtool/$~third-party
 @@||blowxtube.com^$generichide
 @@||bludvfilmes.com^$generichide
+@@||bluearchive.nexon.com^$stealth=ip
 @@||blueconic.net/bostonglobemedia.js$domain=bostonglobe.com
 @@||blueconic.net/capitolbroadcasting.js$script,domain=wral.com
 @@||bluedollar.net/*/adserver$domain=bluedollar.net
@@ -5416,7 +5417,6 @@
 @@||freetutorials.eu^$generichide
 @@||freetutorials.se^$generichide
 @@||freetutorials.us^$generichide
-@@||freetutorialsus.com^$generichide
 @@||freetutsdownload.net^$generichide
 @@||freeupload.info/assets/js/advertisement.js$domain=fstore.biz
 @@||freeview.com.au/media/*/freeview-plus-web-ad-template_
@@ -7115,7 +7115,6 @@
 @@||hesgoal.com/advertisement.js
 @@||hesgoal.com^$generichide
 @@||heute.de/zdf/flash/eplayer/player.swf?*/cgi-bin/ivw/
-@@||hexafile.net^$generichide
 @@||heyapakabar.com^$generichide
 @@||hgtv.ca^$generichide
 @@||hh010.com^$generichide
@@ -8362,7 +8361,6 @@
 @@||kdocs.cn^$important
 @@||kdpic.pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
 @@||kdpic.pchome.com.tw/img/js/xpcadshow.js$script,domain=10co.xyz|10co.me
-@@||kdslife.com/ui/css/share2.
 @@||ke1.nl^$generichide
 @@||keep.google.com^$jsinject
 @@||keepkoding.com^$generichide
@@ -10485,7 +10483,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freeopenvpn.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freepremiumcourse.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freethesaurus.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=freetutorialsus.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=fshost.me
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ftuapps.dev
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=fullboys.com
@@ -11274,7 +11271,6 @@
 @@||piccool.com/2home/phpAdsNew/
 @@||pichive.online^$subdocument,xmlhttprequest,stealth=referrer
 @@||picmix.com/js/fuckadblock.js
-@@||picrelated.com^$generichide
 @@||picros.com^$generichide
 @@||pics.porn300.com^
 @@||picsearch.com/js/comscore.js$domain=dn.se
@@ -11645,7 +11641,6 @@
 @@||proton.me^$cookie
 @@||proton.me^$generichide
 @@||protopage.com^$generichide
-@@||proxoexploits.com^$generichide
 @@||proxyfilm.shop^$generichide
 @@||prscripts.com/pub.js$domain=pornve.com
 @@||prueba.pixelshost.com^$generichide
@@ -11883,7 +11878,6 @@
 @@||rapidstream.co/js/pop.js
 @@||rapidvid.net/vod/$stealth=referrer
 @@||rappers.in/js/antiadblock.js
-@@||raptu.com/e/$generichide
 @@||rat.rakuten.co.jp^$app=jp.co.rakuten.pay
 @@||ratatype.com^$generichide
 @@||ratemyprofessors.com/assets/libs/adFrame_ads-*.js
@@ -14599,7 +14593,6 @@
 @@||uop.quark.cn
 @@||up-load.io/*/img/*.png#
 @@||up-load.io^$generichide
-@@||up-to-down.net^$generichide
 @@||up.cm.ksmobile.com^$important
 @@||up4ever.download^$domain=up-4ever.net
 @@||upage.imtt.qq.com^$important
