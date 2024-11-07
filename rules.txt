@@ -1,5 +1,5 @@
-! Version: 2024-11-06 20:32:21（北京时间） 
-! Total count: 114647
+! Version: 2024-11-07 09:14:18（北京时间） 
+! Total count: 114644
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -29466,6 +29466,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cuberoot.co^
 ||cubeuptownpert.com^
 ||cubeworld-download.org^
+||cubiclerunner.com^$popup
 ||cubicnought.com^
 ||cucaftultog.net^
 ||cucaido.abphotos.link^
@@ -45811,7 +45812,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||h2sry.site^
 ||h353.ncadvertiser.com^
 ||h5.analytics.126.net^
-||h5.gdt.qq.com^
 ||h5.hpplay.com.cn^
 ||h5.isnssdk.com^
 ||h5.jiumaster.com^
@@ -48331,7 +48331,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||i889l.tentaklsistem.click^
 ||i8xkjci7nd.com^
 ||i9.pro^
-||i98jio988ui.world^popup
+||i98jio988ui.world^$popup
 ||i99i.org^
 ||i9klo.com^
 ||i9w8p.pw^
@@ -66796,8 +66796,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||mtrs.fluor.com^
 ||mtrs.fluorconstructors.com^
 ||mtrs.fluoruniversity.com^
-||mtt.eve.mdt.qq.com^
-||mtt.str.mdt.qq.com^
 ||mttpsy6666.cc^
 ||mttvhsmbtnmse.xyz^
 ||mtty-cdn.mtty.xin^
@@ -71770,7 +71768,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||otf.msn.com^
 ||oth.eve.mdt.qq.com^
 ||oth.str.mdt.qq.com^
-||oth.update.mdt.qq.com^
 ||othanasis.openapp.link^
 ||other.v.duowan.com^
 ||otherofherlittl.com^
