@@ -1,5 +1,5 @@
-! Version: 2024-11-09 09:12:26（北京时间） 
-! Total count: 15729
+! Version: 2024-11-09 20:28:23（北京时间） 
+! Total count: 15727
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -5344,6 +5344,7 @@
 @@||fox-url.com^$generichide
 @@||foxnews.com^$generichide
 @@||fp-it.fengkongcloud.com^
+@@||fp-upload.dun.163.com^$document
 @@||fp.tongdun.net^
 @@||fplay.online/log_event$~third-party,xmlhttprequest
 @@||fplstatistics.com^$generichide
@@ -8563,8 +8564,6 @@
 @@||lecturel.com^$generichide
 @@||ledevoir.com^$stealth=ip
 @@||leechall.com^$generichide
-@@||leechall.download/js/adsbygoogle.js
-@@||leechall.download^$generichide
 @@||leechpremium.link^$generichide
 @@||leechpremium.net^$generichide
 @@||leerolymp.com/_nuxt/300-250.$script,~third-party
@@ -10565,7 +10564,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=laksa19.github.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=laptrinhx.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=lascimmiapensa.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=leechall.download
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=leechpremium.link
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=leechpremium.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=leet365.cc

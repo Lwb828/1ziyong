@@ -1,5 +1,5 @@
-! Version: 2024-11-09 09:12:26（北京时间） 
-! Total count: 115275
+! Version: 2024-11-09 20:28:23（北京时间） 
+! Total count: 115276
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -113,6 +113,7 @@
 @@||file.xmpush.xiaomi.com^$document
 @@||flash.sec.intl.miui.com^$document
 @@||flash.sec.miui.com^$document
+@@||fp-upload.dun.163.com^$document
 @@||ftp.bmp.ovh^
 @@||future.biz.weibo.com^
 @@||game.res.meizu.com^$document
