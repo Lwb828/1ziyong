@@ -1,5 +1,5 @@
-! Version: 2024-11-08 20:31:35（北京时间） 
-! Total count: 15725
+! Version: 2024-11-09 09:12:26（北京时间） 
+! Total count: 15729
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -3674,6 +3674,7 @@
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
 @@||cloudflare.com/analytics?$domain=cloudflare.com
 @@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|injora.com|kiichin.com|myair.resmed.com|twgtea.com
+@@||cloudflare.com^$script,domain=happymh.com
 @@||cloudflare.com^$script,domain=rule34hentai.net
 @@||cloudflare.com^$script,stylesheet,domain=canyoublockit.com
 @@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl
@@ -7396,6 +7397,7 @@
 @@||iejima.org/ad-banner/$image,~third-party
 @@||ienohikari.net/ad/common/$~third-party
 @@||ienohikari.net/ad/img/$~third-party
+@@||ietheivaicai.com^$important
 @@||ievaphone.com/public/javascripts/ads.js
 @@||iface2.iqiyi.com^$important
 @@||ifdreamscametrue.com^$generichide
@@ -10537,7 +10539,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=itscybertech.com|premiumebooks.*
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jarochos.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=javball.com|idol69.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=javsunday.com|555fap.com|kin8-av.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=javsunday.com|kin8-av.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jazzradio.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=joblo.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=joktop.com
@@ -12915,6 +12917,7 @@
 @@||skycloud-exploit.weebly.com^$generichide
 @@||skydrivesync.policies.live.net^
 @@||skypng.com/public/js/prebid-ads.js
+@@||skyscanner.co.kr/*/xhr/assets/js/bundle$stealth=useragent
 @@||slack.com^$generichide
 @@||slashlook.com/_resource/js/_js_ads.min.js
 @@||slave.kbjfree.com^|$xmlhttprequest,domain=kbjfree.com
@@ -14573,6 +14576,7 @@
 @@||unpkg.com/swiper*.js$domain=faselhd.cafe
 @@||unpkg.com/vue-recaptcha@*/dist/vue-recaptcha.js$domain=vidoza.net
 @@||unpkg.com/web-vitals/dist/web-vitals.base.iife.js$script,domain=wpolityce.pl
+@@||unpkg.com^$script,domain=happymh.com
 @@||unpkg.com^$script,domain=vidsrc.stream
 @@||unreshiramor.com/*/|$domain=disneyplayvn.net
 @@||uop.quark.cn
