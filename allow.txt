@@ -1,5 +1,5 @@
-! Version: 2024-11-10 09:18:41（北京时间） 
-! Total count: 15729
+! Version: 2024-11-10 20:28:41（北京时间） 
+! Total count: 15787
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=stfly.cc
@@ -985,6 +985,7 @@
 @@||ad.doubleclick.net/favicon.ico$domain=freewarefiles.com
 @@||ad.doubleclick.net/favicon.ico$domain=tracker.gg
 @@||ad.doubleclick.net/searchads/link/click?
+@@||ad.doubleclick.net^$document
 @@||ad.ettoday.net/msg_liveshow.php^$domain=ettoday.net
 @@||ad.jp^
 @@||ad.kazakinfo.com^
@@ -3365,6 +3366,7 @@
 @@||cdn.wazimo.com/engine/static/*/images/$domain=lastnighton.com
 @@||cdn.wazimo.com/media/images/$domain=lastnighton.com
 @@||cdn.wazimo.com/media/images/$domain=showsnob.com
+@@||cdn.webclicks24.com^$document
 @@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
 @@||cdn.witchhut.com/network-js/witch-afg/ima3.js$domain=friv-2017.com
 @@||cdn.witchhut.com/network-js/witch-afg/ima3.js$domain=witchhut.com
@@ -3618,18 +3620,70 @@
 @@||cleverpush.com/channel/$script,domain=bsdex.de|heise.de
 @@||cleverpush.com/sdk/$script,domain=heise.de
 @@||cleviationly.com/adServe/aff?*mydealz*&dlink=$popup,domain=mydealz.de
+@@||click*.taobao.com^$document
+@@||click-trk.com^$document
+@@||click.*.experian.com^$document
 @@||click.accesstrade.vn/adv.php?url=
+@@||click.aliexpress.com^$document
 @@||click.aliyun.com^$important
+@@||click.allkeyshop.com^$document
+@@||click.alternate.de^$document
 @@||click.appcast.io/track^$domain=neuvoo.co.uk
+@@||click.appcast.io^$document
+@@||click.chp.kohls.com^$document
+@@||click.cptrack.de^$document
+@@||click.discord.com^$document
+@@||click.dji.com^$document
+@@||click.e.krogermail.com^$document
+@@||click.e.lowes.com^$document
+@@||click.e.safelite.com^$document
+@@||click.e.sees.com^$document
+@@||click.em.blizzard.com^$document
+@@||click.em.samsclub.com^$document
+@@||click.email.jcpenney.com^$document
+@@||click.email.newegg.com^$document
+@@||click.email.sonos.com^$document
+@@||click.emcom.bankofamerica.com^$document
+@@||click.fidelityinvestments.com^$document
+@@||click.holidayinnclubemail.com^$document
+@@||click.icptrack.com^$document
+@@||click.instantink.hpsmart.com^$document
+@@||click.justwatch.com^$document
+@@||click.klarna.de^$document
+@@||click.landsend.com^$document
 @@||click.linksynergy.com^
+@@||click.linksynergy.com^$document
+@@||click.mail.macmillan.com^$document
+@@||click.mailing.ticketmaster.com^$document
+@@||click.mc.crimsontrace.com^$document
+@@||click.member.americanexpress.com^$document
+@@||click.members.nra.org^$document
+@@||click.microsoft*.com^$document
+@@||click.mlsend.com^$document
+@@||click.myctm.canadiantire.ca^$document
 @@||click.mz.simba.taobao.com^
 @@||click.mz.simba.taobao.com^$document
+@@||click.o.delta.com^$document
+@@||click.pstmrk.it^$document
+@@||click.redditmail.com^$document
+@@||click.royalcaribbeanmarketing.com^$document
+@@||click.s.kohls.com^$document
 @@||click.simba.taobao.com^$important
+@@||click.snapshat.com^$document
 @@||click.uol.com.br^$domain=uol.com.br
+@@||click.zoom.us^$document
+@@||clickcease.com^$document
+@@||clickdimensions.com^$document
 @@||clickhouse.xyz^$generichide
+@@||clickiocdn.com^$document
+@@||clicks.aweber.com^$document
+@@||clicks.pipaffiliates.com^$document
+@@||clicks.trx-hub.com^$document
 @@||clickscoin.com^$generichide
+@@||clickserve.dartsearch.net^$document
 @@||clickswin.tvchoicemagazine.co.uk/assets/advertisement/ads-*.js$domain=tvchoicemagazine.co.uk
 @@||clicktale.net/wrb.js$domain=microsoft.com
+@@||clicktale.net^$document
 @@||client-uc.heytapmobi.com^$important
 @@||client-uc.heytapmobi.com^$important,document
 @@||client.falixnodes.net^$generichide
@@ -8006,6 +8060,7 @@
 @@||integrate2cloudapps.com/wp-content/uploads/*/*-480x120$image
 @@||integration.plarium.com^$stealth
 @@||intercelestial.com^$generichide
+@@||intercom-clicks.com^$document
 @@||interest.mix.sina.com.cn^$important
 @@||interia.hit.gemius.pl/hitredir/$domain=interia.pl
 @@||interia.hit.gemius.pl/redot.gif?$domain=m.interia.pl
@@ -8423,6 +8478,7 @@
 @@||kk665403.pixnet.net^$generichide
 @@||klartext-ne.de^$generichide
 @@||klaviyo.com/ajax/subscriptions/subscribe$domain=productionmusiclive.com
+@@||klclick*.com^$document
 @@||kledgeb.blogspot.com^$generichide
 @@||kleinanzeigen.de/*.html?keywords=*&categoryId=*&adType=
 @@||kleinanzeigen.de/s-suchanfrage.html
@@ -11221,6 +11277,7 @@
 @@||perrzo.com/protocols$stealth=referrer
 @@||perrzo.com^$generichide
 @@||persianhive.com/wp-content/plugins/wp-adblock-dedect/js/dedect.js
+@@||personaclick.com^$document
 @@||pes-patch.com^$generichide
 @@||pes.social^$generichide
 @@||pesfreedownloads.com^$generichide
@@ -13793,6 +13850,7 @@
 @@||tapewithadblock.org^$generichide
 @@||tapisa.online^$generichide
 @@||taplytics.com^$domain=royalbank.com
+@@||target.clickfunnels.com^$document
 @@||target.microsoft.com/rest/$xmlhttprequest,domain=microsoft.com
 @@||target.my.com/media/js/app/ads.js^
 @@||target.my.com^$~third-party,document
