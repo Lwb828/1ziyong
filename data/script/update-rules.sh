@@ -26,15 +26,19 @@ rules=(
 
 "https://anti-ad.net/adguard.txt"
 
+"https://raw.githubusercontent.com/loveqqzj/AdGuard/master/Mobile.txt" #loveqqzj
+
 ""
  )
 
 allow=(
 
-"https://ghproxy.net/https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt"
+"https://raw.githubusercontent.com/qq5460168/dangchu/main/T%E7%99%BD%E5%90%8D%E5%8D%95.txt" #T白名单
 
 #good白名单
 "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt"
+
+"https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt" #喵二白名单
 
  ""
 )
