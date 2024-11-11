@@ -38,7 +38,9 @@ allow=(
 #good白名单
 "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt"
 
-"https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt" #喵二白名单
+  "https://file-git.trli.club/file-hosts/allow/Domains"#冷漠
+
+"https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt"
 
  ""
 )
