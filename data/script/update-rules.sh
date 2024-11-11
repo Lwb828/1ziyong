@@ -7,8 +7,8 @@ echo '创建临时文件夹'
 mkdir -p ./tmp/
 
 #添加补充规则
-#cp ./data/rules/adblock.txt ./tmp/rules01.txt
-#cp ./data/rules/whitelist.txt ./tmp/allow01.txt
+cp ./data/rules/adblock.txt ./tmp/rules01.txt
+cp ./data/rules/whitelist.txt ./tmp/allow01.txt
 
 cd tmp
 
@@ -35,8 +35,7 @@ allow=(
 
 "https://raw.githubusercontent.com/qq5460168/dangchu/main/T%E7%99%BD%E5%90%8D%E5%8D%95.txt" #T白名单
 
-#good白名单
-"https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt"
+   "https://raw.githubusercontent.com/user001235/112/main/white.txt" #浅笑
 
   "https://file-git.trli.club/file-hosts/allow/Domains"#冷漠
 
