@@ -1,5 +1,5 @@
-! Version: 2024-11-11 15:35:00（北京时间） 
-! Total count: 1452
+! Version: 2024-11-11 15:41:51（北京时间） 
+! Total count: 1448
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -936,8 +936,6 @@
 @@|zen-core-cn.allawntech.com^
 @@|zhuti.xiaomi.com^
 @@|zm.outer.hoopchina.com^
-@@||*.f.360.cn^
-@@||*.meizu.com^
 @@||*ad*.ksyungslb.com^
 @@||*m.chenzhongtech.com^
 @@||17u.cn^
@@ -1275,7 +1273,6 @@
 @@||p*.toutiaoimg.com^
 @@||p.qlogo.cn^$document
 @@||p1-dcd.byteimg.com^
-@@||p2-lm.adukwai.com^
 @@||p3-cpay.byteimg.com^
 @@||p3-dcd-sign.byteimg.com^
 @@||p3-dcd.byteimg.com^
@@ -1342,7 +1339,6 @@
 @@||scan.call.f.360.cn^
 @@||sdk.live.360.cn^
 @@||sdkapi.sms.mob.com^
-@@||sdkconf.avlyun.com^
 @@||sdkconfig.ad.xiaomi.com^$important
 @@||search.kuwo.cn^
 @@||settings-win.data.microsoft.com^

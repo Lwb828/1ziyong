@@ -1,5 +1,5 @@
-! Version: 2024-11-11 15:35:00（北京时间） 
-! Total count: 115779
+! Version: 2024-11-11 15:41:51（北京时间） 
+! Total count: 115778
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -25825,7 +25825,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||chenggao.cn^
 ||chengjie168.com.cn^
 ||chengzijianzhan.cc^
-||chengzijianzhan.com^
 ||chenshengyu.cn^
 ||chenyanjiao.cn^
 ||chenyayun.com.cn^
