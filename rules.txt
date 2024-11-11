@@ -1,5 +1,5 @@
-! Version: 2024-11-11 09:15:41（北京时间） 
-! Total count: 115648
+! Version: 2024-11-11 14:36:56（北京时间） 
+! Total count: 115769
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -332,6 +332,9 @@ acfun.cn##.app-guide
 acfun.cn##.download-app
 amap.com##.app-download-panel
 amap.com##.app_download_box
+avmoo.sbs###movie-share
+avmoo.sbs##.visible-xs-block.pt-10.text-center
+avmoo.sbs##h4
 baidu.com###header > div:last-child
 baidu.com###login-wraps > a.index-banner.square-banner-bgicon
 baidu.com###s-hotsearch-wrapper
@@ -382,6 +385,7 @@ bilibili.com##.open-btn
 bilibili.com##a[href="//app.bilibili.com"]
 bilibili.com#?#.van-popover__reference:contains(下载)
 bing.com###TopApp
+bing.com###bnp_container
 bing.com###id_mobile
 c.m.163.com##.commentBar
 c.m.163.com##.fixedOpenNewsapp
@@ -391,6 +395,7 @@ c.m.163.com##.qr
 chinaso.com###Fixed_app
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
+cn.torrentkitty.app###note
 cnbeta.com##DIV[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
 coolapk.com##.mobile-header-content
 csdn.net###csdn-toolbar > div.toolbar-advert:first-child > a.toolbar-advert-default:first-child
@@ -406,6 +411,7 @@ ctrip.com###fl_wrap_default
 ctrip.com##.set-phone.set-list > .nav-myctrip.person-text
 daily.zhihu.com##.Daily
 daily.zhihu.com##.active
+dama.lu##.tool-box
 dangdang.com###fix_erweima
 dangdang.com##.bottom_fixed
 dangdang.com##.code2s
@@ -416,6 +422,7 @@ dangdang.com##.panel
 dangdang.com##.side_bar_code
 detail.mall.meizu.com##.app detail
 detail.mall.meizu.com##.bnr-link
+dgtle.com##.footer-abox
 discord.com##div[class*=notice]
 doc.mbalib.com###viewer > div.doc-ad
 douban.com##.lnk-doubanapp
@@ -450,9 +457,28 @@ finance.sina.com.cn#?#.clearfix.tech-quotation:contains(下载客户端)
 fm.douban.com##.left
 fr.hujiang.com###regModule
 fr.hujiang.com###uzt-mask
+fuliba123.net##.auto-ad-url
+fuliba2023.net###focusslide
+fuliba2023.net###respond
+fuliba2023.net##.branding.branding-black
+fuliba2023.net##.post-actions
+fuliba2023.net##.relates-imagetext
+fuliba2023.net##.sidebar
+fuliba2023.net##blockquote
 gome.com.cn###gome-aside-app
 gome.com.cn###gome-aside-app-code
 gome.com.cn###gome-phone
+google.com###belowsb
+google.com###bres
+google.com###fbar
+google.com###footer
+google.com###sfooter
+google.com##.DExtrc
+google.com##.NFQFxe.EfDVh.mod
+google.com##.ads
+google.com##.adsbygoogle
+google.com##.fbar
+google.com##.g.kno-result.rQUFld.mnr-c.g-blk
 gwdang.com###tool-menu > li.fl.item:nth-of-type(2)
 gwdang.com##.qr-area
 h5.m.taobao.com##[style*="top: 0rem"]
@@ -472,6 +498,8 @@ huya.com##.wrap-income.chat-wrap-panel
 huya.com##div[class*="NavDownload"]
 i.ifeng.com##div[class^=content-]>div[class^=link-]
 i.ifeng.com#?#div[class^=list-]:contains(APP)
+icon-icons.com##.bsa-placeholder.fondo-blanco
+iconfinder.com###banner_upgrade_prompt
 ifanr.com##.bottom-clap-scroll-down.js-bottom-clap.bottom-clap-wrapper
 ifanr.com##.js-download-link-another
 ifanr.com##.popup,.popup-top
@@ -496,6 +524,8 @@ ifeng.com##div[class^="share_box"]
 ifeng.com##div[class^="silde_box"]
 ifeng.com##header:contains(立即打开)
 ifeng.com##header[class*="headerIn"]
+iplaysoft.com##.related_posts
+iplaysoft.com##.wwads-cn.wwads-horizontal
 iqiyi.com##.header_app.iqiyi-h5-empty
 iqiyi.com##.hotWords-wrap
 iqiyi.com##.m-iqyGuide-layer
@@ -520,8 +550,50 @@ item.jd.com##[href="#none"] > .tab-ico
 item.m.jd.com###imk2FixedBottom
 item.m.jd.com###jdLive > .icon
 item.m.jd.com##.J_ping.mhistory-layer__btn
+ithome.com###bd-share-box
+ithome.com###hd_float
+ithome.com###hd_float1
+ithome.com###ruanmei-apps
+ithome.com###wapddfda21
+ithome.com##.-hongbao-conrainer.bb.t-1
+ithome.com##.AdblockBanner
+ithome.com##.brand-column-lapin
+ithome.com##.bx-recom2
+ithome.com##.con-recom
+ithome.com##.down-app-box
 ithome.com##.down_app
+ithome.com##.footer-box
+ithome.com##.ft-item.news-collect.news-collect-gray
+ithome.com##.ft-item.news-share
+ithome.com##.ft-item.tie-collect.tie-collect-gray
+ithome.com##.ft-item.tie-share
+ithome.com##.grade
+ithome.com##.hot-app
+ithome.com##.lapin
+ithome.com##.news-content-befor-promote
+ithome.com##.open-app
+ithome.com##.open-app-a
+ithome.com##.open-app-banner
+ithome.com##.rds
+ithome.com##.related_buy
+ithome.com##.relevant-news
+ithome.com##.rm-modal-bg
+ithome.com##.rm-modal-body
+ithome.com##.rm-modal1-bg
+ithome.com##.rm-modal1-body
 iyingdi.com##.downLoadApp
+javbus.com###related-waterfall
+javbus.com##.col-xs-12.col-md-4.text-center.ptb10
+javbus.com##h4
+javdb.com##.modal-button
+javdb.com##.moj-content
+javdb.com##nav.app-desktop-banner
+javdb.com##nav.sub-header
+javlibrary.com###middlebanner11
+javlibrary.com###sidebanner11
+javlibrary.com###topbanner11
+javlibrary.com##.about
+javlibrary.com##.socialmedia
 jd.com###J_mobile > DIV.dt.mobile_txt:first-child
 jd.com###J_mobile > DIV.mobile_static:nth-child(2)
 jd.com###toolbar-qrcode
@@ -563,6 +635,9 @@ ke.com##.app-down
 ke.com##.app_content
 ke.com##.app_daoliu_layer
 ke.com##.download
+limbopro.xyz###a_d_sider
+limbopro.xyz###disqus_thread
+limbopro.xyz##.grecaptcha-badge
 live.bilibili.com##div.pointer:contains(下载客户端)
 m.163.com##.floatMenu-backflow
 m.163.com##.floatMenu-logo
@@ -804,6 +879,17 @@ pingwest.com##article[class*="item bd"]
 pingwest.com##section[class*=download-app-tip]
 pingwest.com##section[class*=options]
 pingwest.com#?#a[href="https://s.growingio.com/LWqRgA"]:contains(打开APP)
+pixiv.net##._floated-bottom-bar
+pixiv.net##.ad-frame-container
+pixiv.net##.banner-ad-footer-scale
+pixiv.net##.fanbox-container
+pixiv.net##.premium-lead
+pixiv.net##.premium-lead-new-t-info-home-top
+pixiv.net##.premium-lead-t-footer
+pixiv.net##li.platform-pc
+pixiv.net##ul.pixiv.tri
+pornhub.com##.premiumAdvertWrapper
+pornhub.com##.premiumPromoBannerWrapper
 qdaily.com##.app
 qdaily.com##.clearfix.com-header-brief
 qq.com##+js(json-prune, ad)
@@ -838,6 +924,11 @@ sina.cn#?#article.single-pic.article:contains(APP专享)
 sina.com.cn##.part-a-l > .mod-02
 sina.com.cn##.tn-nav > div.tn-title:nth-of-type(4) > .tn-tab > i
 sinadaxue.cn##.fixed-tips.app-tips
+sis001.com###ad_mobileFullscreen
+sis001.com###ad_mobileHeader
+sis001.com###ad_mobileHeaderSlide
+sis001.com##.navbar-fixed-bottom
+sis001.com##.overlay.active
 sm.cn###index_banner
 sm.cn###index_hot_news
 smzdm.com###elevator > LI:first-child
@@ -848,12 +939,23 @@ smzdm.com###index-elevator > li:nth-of-type(2)
 smzdm.com##.J_copy.btn-open-app
 smzdm.com##.J_ota
 smzdm.com##.btn-open-app-b.btn-open-app
+smzdm.com##.foot-banner
+smzdm.com##.foot-banner.haojia-coupon
 smzdm.com##.footer-banner
 smzdm.com##.footer-floating-layer
 smzdm.com##.footer-new-guide
+smzdm.com##.footer-wrap.fixed-bottom
+smzdm.com##.hot-list-wrap
+smzdm.com##.hot-price-layer-box
 smzdm.com##.logo-download
+smzdm.com##.module-card-wrap
+smzdm.com##.module-like-wrap
+smzdm.com##.module-title
 smzdm.com##.new-zone
+smzdm.com##.red-btn.J_ota
+smzdm.com##.scroll-top.has-download
 smzdm.com##.see-all
+smzdm.com##.swiper-container-ios
 smzdm.com##.top-applink
 smzdm.com##a[class^="fixed-logo"]
 sogou.com###right
@@ -861,6 +963,10 @@ sogou.com###vl
 sogou.com##.erwm-box
 sohu.com##.download-app
 sohu.com##.phone-scan
+sspai.com###btn-call-app
+sspai.com##.is-shown.open-in-app-button
+sspai.com##.recommend-card
+sukebei.nyaa.si##.servers-cost-money1
 suning.com###sn-sidebar-change-code
 suning.com###sn-sidebar-change-code > IMG.tab-tip-code-warp-img
 suning.com###sn-sidebar-change-redpacket
@@ -1060,6 +1166,8 @@ y.qq.com##.top_bar
 y.qq.com##.top_box
 y.qq.com##.top_operation_bar__btn
 y.qq.com##.top_operation_box
+yjys.top###ad-float
+yjys.top###ad-index
 you.163.com###j-yx-cp-m-siteNav > DIV.yx-cp-row > DIV.yx-cp-siteNav-r:last-child > DIV.yx-cp-siteNavItem:last-child > DIV.yx-cp-siteNavItemHd.pipe:first-child
 you.163.com###j-yx-fixedtoolDownloadlink
 you.163.com##.downloadAppBtn.w-button-ghost.w-button-xl.w-button.btn
@@ -1081,13 +1189,19 @@ zhidao.baidu.com##.daily-header-download
 zhidao.baidu.com##.icon-bdad
 zhidao.baidu.com##.singin-bubble
 zhidao.baidu.com##.zhidao-app.menu-right-list-item
+zhihu.com##.Banner.Card, .shameimaru-section, .Banner-image, .Banner-image
 zhihu.com##.Button--blue.Button--primary.css-mqjss2.Button
 zhihu.com##.Card Banner
+zhihu.com##.Card.HotQuestions
+zhihu.com##.Card.RelatedReadings
 zhihu.com##.CommentsForOia > .Button--blue.Button--primary.Button
 zhihu.com##.ContentItem-more
 zhihu.com##.DownloadGuide
+zhihu.com##.HotBanner
 zhihu.com##.HotQuestions
 zhihu.com##.HotQuestions-bottomButton
+zhihu.com##.KfeCollection-VipRecommendCard
+zhihu.com##.Kok-mobile.Kok.Lottie
 zhihu.com##.MBannerAd
 zhihu.com##.MHotFeedAd
 zhihu.com##.MobileAppHeader-downloadLink
@@ -1100,6 +1214,7 @@ zhihu.com##.ViewAllInappButton
 zhihu.com##.ZVideo-sideColumn
 zhihu.com##OpenInAppButton OpenInApp is-shown
 zhihu.com##div.ModalWrap-item:nth-of-type(2)
+zhihu.com##div[data-za-detail-view-path-is_ad]
 zhihu.com#?#button:contains(App)
 zhipin.com##.jconfirm-white.jconfirm
 zhipin.com##.siderbar-app
@@ -114950,7 +115065,11 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||zhibo128x1.xyz^
 ||zhichangwo.com^
 ||zhidian3g.cn^
+||zhihu-web-analytics.zhihu.com/
 ||zhihu-web-analytics.zhihu.com^
+||zhihu.com/api/v4/alter_banners/
+||zhihu.com/api/v4/banners/
+||zhihu.com/commercial_api/banners_
 ||zhihu.xmcimg.com^
 ||zhihucloud.xyz^
 ||zhihuiduijian.com^
@@ -115631,6 +115750,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 36kr.com##.phone
 36kr.com##.show.article-top-swiper-goapp
 36kr.com##.slide-in.suction-bottom > .kr-mobile-goapp
+51.ruyo.net###calendar-3
+51.ruyo.net###recent-posts-4
 127.0.0.1 116.205.193.167
 127.0.0.1 123.56.23.22
 127.0.0.1 182.254.116.116
