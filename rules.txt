@@ -1,5 +1,5 @@
-! Version: 2024-11-11 20:32:15（北京时间） 
-! Total count: 115779
+! Version: 2024-11-12 09:13:23（北京时间） 
+! Total count: 115782
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -868,7 +868,6 @@ news.qq.com##.godown.qqcom_fb-item
 note.youdao.com##.top-btns
 oneplusbbs.com###bbsRegisterGuide
 oneplusbbs.com##li[style*="position: relative; border: 0px;"]
-p
 pingwest.com##.article-bottom-bd
 pingwest.com##.bd-right
 pingwest.com##.bd.item
@@ -8251,6 +8250,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adblock-360.com^$popup
 ||adblock-guru.com^
 ||adblock-guru.com^$popup
+||adblock-offer-download.com^$popup
 ||adblock-one-protection.com^$popup
 ||adblock-pro.org^
 ||adblock-zen-download.com^
@@ -50633,6 +50633,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||indir.boowetr.com^
 ||indir.pembepanjur.com^
 ||indirads.org^
+||indiscreetarcadia.com^$popup
 ||indiscreetjobroutine.com^
 ||indisputablegailyatrocity.com^
 ||indisputableulteriorraspberry.com^
@@ -53159,6 +53160,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||jalbcmc.click^
 ||jaletemetia.com^
 ||jalewaads.com^
+||jalopeffray.top^$popup
 ||jalopymisly.click^
 ||jambosaettled.click^
 ||jambosmodesty.com^
@@ -55917,6 +55919,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||kuqaneu4.pro^
 ||kuqgrelpiamw.com^
 ||kuqi.com^
+||kurdirsojougly.net^$popup
 ||kuresdd.top^
 ||kurjutodbxca.com^
 ||kurlipush.com^
