@@ -1,5 +1,5 @@
-! Version: 2024-11-15 20:33:11（北京时间） 
-! Total count: 116067
+! Version: 2024-11-16 09:17:46（北京时间） 
+! Total count: 116076
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -12775,6 +12775,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adx-t.com^$popup
 ||adx.36kr.com^
 ||adx.adk2x.com^
+||adx.admaster.com.cn^
 ||adx.adnxs.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
@@ -26699,6 +26700,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||clickad.pl^
 ||clickadilla.com^
 ||clickadin.com^
+||clickadsource.com^$popup
 ||clickadu.com^
 ||clickadv.it^
 ||clickadvisor.click^
@@ -39364,6 +39366,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||euw.adserver.snapads.com^
 ||euz.net^
 ||ev-dating.com^
+||ev.ads.pointroll.com^
 ||ev.api.bdg.com^
 ||ev.moneymade.io^
 ||ev.stellarlabs.ai^
@@ -42650,6 +42653,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fumeiti.cc^
 ||fumeuprising.com^
 ||fumiad.dxys.pro^
+||fun-adx.admaster.com.cn^
 ||fun-comu.click^
 ||fun-hits.com^
 ||fun-mobi.pl^
@@ -52592,6 +52596,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||iphufr.circleline.com^
 ||iphumiki.com^
 ||ipinfo.info^
+||ipinyou.cm.admaster.com.cn^
 ||ipinyou.com.cn^
 ||ipinyou.com^
 ||ipipipi.inventnamb.click^
@@ -80634,6 +80639,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||reachforce.com^
 ||reachjunction.com^
 ||reachlocalservices.com^
+||reachmax-cm.admaster.com.cn^
 ||reachmax.cn^
 ||reachmode.com^
 ||reachpane.com^
@@ -91315,6 +91321,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sohu-dtv.m.cn.miaozhen.com^
 ||sohu.husenfood.com^
 ||sohulink.cc^
+||sohutv.cm.admaster.com.cn^
 ||sohutv.m.cn.miaozhen.com^
 ||soicos.com^
 ||soil5hear.com^
@@ -107521,6 +107528,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wall.vgr.com^
 ||wallacehoneycombdry.com^
 ||wallacelaurie.com^
+||walle.bayescom.com^
 ||walledup.pro^
 ||wallet.advcash.com^
 ||wallet.chain.com^
@@ -114547,6 +114555,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||yovoads.com^
 ||yoxeha.afloral.com^
 ||yoyadsdom.com^
+||yoyi-cm.admaster.com.cn^
 ||yoyi.com.cn^
 ||yoyi.tv^
 ||yoyue.net^
