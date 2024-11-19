@@ -1,5 +1,5 @@
-! Version: 2024-11-18 20:35:06（北京时间） 
-! Total count: 116177
+! Version: 2024-11-19 09:19:27（北京时间） 
+! Total count: 116179
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -77589,6 +77589,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||profitabledisplayformat.com^
 ||profitabledisplaynetwork.com^
 ||profitableexactly.com^
+||profitableexactly.com^$popup
 ||profitablefearstandstill.com^
 ||profitablegate.com^
 ||profitablegate.com^$popup
@@ -92405,6 +92406,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||spuezain.com^
 ||spuncomplaintsapartment.com^
 ||spunkycash.com^
+||spunorientation.com^$popup
 ||spuppeh.com^
 ||spuppeh.com^$popup
 ||spuriousair.com^
