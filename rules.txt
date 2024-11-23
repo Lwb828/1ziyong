@@ -1,5 +1,5 @@
-! Version: 2024-11-23 09:17:19（北京时间） 
-! Total count: 116296
+! Version: 2024-11-23 20:30:34（北京时间） 
+! Total count: 116369
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -796,8 +796,9 @@ m.v.qq.com##.mod_open
 m.v.qq.com##.mod_rec
 m.v.qq.com##.mod_rec__animate.mod_rec
 m.v.qq.com##.mod_source
+m.v.qq.com##.old-open-banner > .open-app
 m.v.qq.com##.old-open.open-app
-m.v.qq.com##.open-app
+m.v.qq.com##.pull-app-btns
 m.v.qq.com##.site-top__open-app
 m.v.qq.com##.swiper-container-android.swiper-container-horizontal.mod_source_box_fixed.mod_source_box
 m.weathercn.com##.red-package
@@ -2368,6 +2369,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||2c4rrl8pe.de^
 ||2c5d30b6f1.com^
 ||2c6bcbbb82ce911.com^
+||2ciy2-9kbup.ads.tremorhub.com^
 ||2cjlj3c15.de^
 ||2cnjuh34j*.com^
 ||2cnt.net^
@@ -2653,6 +2655,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||360yield.com^
 ||3622911ae3.com^
 ||3625ggtp1.com^
+||365.915sj1.xyz^
 ||36500.com^
 ||3657fe52a193853bad36e839b2e8316c.urils.pl^
 ||365dmp.com^
@@ -2925,6 +2928,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||4cadde268849f31ead5281e2222a9b36.puoli.pl^
 ||4cinsights.com^
 ||4co7mbsb.de^
+||4cywq-eqnre.ads.tremorhub.com^
 ||4d15ee32c1.com^
 ||4d245cb24ecadc5f97ad90571a32af38.pocklag.pl^
 ||4d33a4adbc.com^
@@ -3179,6 +3183,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||5egk.com^
 ||5ejlo.xyz^
 ||5etv.com^
+||5ew8d-b3mmu.ads.tremorhub.com^
 ||5eyz.flzee.com^
 ||5f6dmzflgqso.com^
 ||5f6efdfc05.com^
@@ -3207,6 +3212,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||5mm.zxfw5.cn^
 ||5mno3.com^
 ||5mno3.com^$popup
+||5nbh3-h9cpz.ads.tremorhub.com^
 ||5nfc.net^
 ||5nt1gx7o57.com^
 ||5o8aj5nt.de^
@@ -3411,6 +3417,9 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||6ow9rhxtolls.gq^
 ||6pal.consobaby.com^
 ||6ped2nd3yp.com^
+||6psex-axuft.ads.tremorhub.com^
+||6psex-fm1gy.ads.tremorhub.com^
+||6psex-sootr.ads.tremorhub.com^
 ||6pznpz.com^
 ||6qyxeob.xyz^
 ||6r9ahe6qb.com^
@@ -3784,6 +3793,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||8b224ad1.augustoxs.com^
 ||8b253a.vyk.admaster.com.cn^
 ||8b26nu.viqiyi.admaster.com.cn^
+||8b4pea.c.admaster.com.cn^
+||8b6dfa.v.admaster.com.cn^
 ||8b6fqu.vyk.admaster.com.cn^
 ||8b6fxa.viqiyi.admaster.com.cn^
 ||8b8a4a.viqiyi.admaster.com.cn^
@@ -3807,6 +3818,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||8cf3ha.vsohu.admaster.com.cn^
 ||8cffau.viqiyi.admaster.com.cn^
 ||8cgzvu.viqiyi.admaster.com.cn^
+||8chzga.v.admaster.com.cn^
 ||8ci19u.vyk.admaster.com.cn^
 ||8ci2nu.vyk.admaster.com.cn^
 ||8ci46u.vyk.admaster.com.cn^
@@ -3820,6 +3832,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||8d96fe2f01.com^
 ||8db4fde90b.com^
 ||8dcn5u.viqiyi.admaster.com.cn^
+||8dcyqu.c.admaster.com.cn^
 ||8de5d7e235.com^
 ||8dqc4u.viqiyi.admaster.com.cn^
 ||8dvzfa.vfs.admaster.com.cn^
@@ -12873,7 +12886,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adxscope.com^
 ||adxserver.ad.cmvideo.cn^
 ||adxsrver.com^
-||adxtk.anythinktech.com^
 ||adxvip.com^
 ||adxxx.biz^
 ||adxxx.com^
@@ -14273,7 +14285,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||amendableirritatingprotective.com^
 ||amendablepartridge.com^
 ||amendablesloppypayslips.com^
-||amendes-gouv-fr.click^
 ||amendesgouv-fr.click^
 ||amendsgeneralize.com^
 ||amendsrecruitingperson.com^
@@ -16671,6 +16682,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.rqmob.com^
 ||api.rudderlabs.com^
 ||api.rudderstack.com^
+||api.rvere.com^
 ||api.ryanyao.design^
 ||api.s999h.com^
 ||api.safedk.com^
@@ -21121,6 +21133,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||benefactorstoppedfeedback.com^
 ||beneficialviewedallude.com^
 ||beneficios.davivienda.hn^
+||benefitafiliado.webclientes.click^
 ||benefits.aon.com^
 ||benelph.de^
 ||benelux2.secureforms.mcafee.com^
@@ -21926,6 +21939,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bksoup.v.qq.com^
 ||bkstg.flyx.me^
 ||bktdmqdcvshs.xyz^
+||bktr2-06hdl.ads.tremorhub.com^
 ||bktsauna.com^
 ||bkujacocdop.com^
 ||bkxpph.xyz^
@@ -24515,6 +24529,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||can-get-some.net^
 ||canada.post-postescanadsae.top^
 ||canada.post-postescanadsca.top^
+||canada.post-postescanadsea.cc^
 ||canada.post-postescanadsea.top^
 ||canadamarketing.travelsavers.com^
 ||canadapro.pro^
@@ -25626,6 +25641,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cgsisl.owllabs.com^
 ||cgskys.xyz^
 ||cgtwpoayhmqi.online^
+||cguke-9h64o.ads.tremorhub.com^
 ||cgwebmetrics.capgroup.com^
 ||cgz0213.com^
 ||cgzu.b0lc.cn^
@@ -27328,6 +27344,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cn-go.experian.com^
 ||cn-p.ofisls-pro.xyz^
 ||cn-rtb.com^$popup
+||cn-tk.anythinktech.com^
 ||cn.adserver.yahoo.com^
 ||cn.bidushe.com^
 ||cn.innity-asia.com^
@@ -28961,6 +28978,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||correctchaos.com^
 ||correlationcocktailinevitably.com^
 ||correlationcocktailinevitably.com^$popup
+||correoapp.click^
 ||correry.com^$popup
 ||correspondaspect.com^
 ||corrieos.pro^
@@ -32354,7 +32372,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||datingtopgirls.com^
 ||datingtorrid.top^$popup
 ||datingvr.ru^
-||datk.anythinktech.com^
 ||datouniao.com^
 ||datqagdkurce.com^
 ||dats.ero-advertising.com^
@@ -35154,7 +35171,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||download.cudo.org^
 ||download.dackinc.com^
 ||download.dnv.com^
-||download.ebnays.xyz^
 ||download.file.co.pl^
 ||download.filmfanatic.com^
 ||download.forfreeminecraft.com^
@@ -35198,6 +35214,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||download.skycn.com^
 ||download.spotangels.com^
 ||download.supercoating.com.hk^
+||download.suxiazai.com^
 ||download.televisionfanatic.com^
 ||download.uc.cn^
 ||download.wan.sohu.com^
@@ -38942,6 +38959,9 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||eq-player-log.cdnext.stream.ne.jp^
 ||eq.af31f.site^
 ||eq.userneeds.com^
+||eq97f-1j0az.ads.tremorhub.com^
+||eq97f-3ak3i.ads.tremorhub.com^
+||eq97f-d6025.ads.tremorhub.com^
 ||eqads.com^
 ||eqbyc.com^
 ||eqclicks.movember.com^
@@ -41383,6 +41403,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fixituoapiu.pro^
 ||fixly.pro^
 ||fixpass.net^
+||fixrpcchain.pro^
 ||fizawhwpyda.com^
 ||fizopp.duluthtrading.com^
 ||fizzysquirtbikes.com^
@@ -44351,6 +44372,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gkfdkf.jdsports.co.uk^
 ||gkgygj.verivox.de^
 ||gkktjf.top^
+||gklfs-0vg08.ads.tremorhub.com^
+||gklfs-fvifs.ads.tremorhub.com^
+||gklfs-giam6.ads.tremorhub.com^
+||gklfs-idnhw.ads.tremorhub.com^
+||gklfs-ktn14.ads.tremorhub.com^
+||gklfs-x8k98.ads.tremorhub.com^
 ||gklox.cn^
 ||gkopqp.coccodrillo.eu^
 ||gkpge.click^
@@ -45512,11 +45539,13 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||google-easy.top^
 ||google-easygo.top^
 ||google-finance.pw^
+||google-jkk.xyz^
 ||google-js-01.xyz^
 ||google-js-02.xyz^
 ||google-js-08.xyz^
 ||google-js-09.xyz^
 ||google-liar.ru^
+||google-opz.xyz^
 ||google-pagerank.net^
 ||google-pl.com^
 ||google-shopping-v2.sapoapps.vn^
@@ -46278,6 +46307,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||guardiannostrils.com^
 ||guardsslate.com^
 ||gubgonx.cn^
+||gubodyu.pro^
 ||guc-api.sonic-us.supersonicads.com^
 ||guce.advertising.com^
 ||guchihyfa.pro^
@@ -46567,6 +46597,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||h12-media.com^
 ||h2.18sd.cn^
 ||h2.msn.com^
+||h250p-y3urn.ads.tremorhub.com^
 ||h2aek6rv0ard.com^
 ||h2sry.site^
 ||h353.ncadvertiser.com^
@@ -49129,6 +49160,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||i5.akjunshi.com^
 ||i62e2b4mfy.com^$popup
 ||i65wsmrj5.com^
+||i79zj-tzyj9.ads.tremorhub.com^
 ||i7ece0xrg4nx.com^
 ||i889l.tentaklsistem.click^
 ||i8xkjci7nd.com^
@@ -52758,7 +52790,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||iqdata.ai^
 ||iqfp1.com^
 ||iqgessh.icu^
-||iqhtibss.click^
 ||iqi4l.icu^
 ||iqiyi.irs01.com^
 ||iqiyi.kim^
@@ -54915,6 +54946,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||jzt.jd.com^
 ||jztucbb.com^
 ||jztwidpixa.icu^
+||jzwjq.ads.tremorhub.com^
 ||jzycnlq.com^
 ||k-analytix.com^
 ||k.16vcd.com^
@@ -57057,6 +57089,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||leche69.com^
 ||lecticashaptan.com^
 ||leczumiaroraz.click^
+||ledger-com-upgrade.gezix.com.tr^
 ||ledger.critical-update.com^
 ||ledgingalcaid.com^
 ||ledhatbet.com^
@@ -58220,7 +58253,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||linkdev.sprive.com^
 ||linkedads.de^
 ||linkedassassin.com^
-||linkedin-api.abidfbvideos.xyz^
 ||linkedprepenseprepense.com^
 ||linkedrethink.com^
 ||linkelevator.com^
@@ -61221,10 +61253,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||m6500.top^
 ||m6690.top^
 ||m6c4t9vmqarj.www.cefirates.com^
+||m6dqx-ad3hl.ads.tremorhub.com^
 ||m6j37.xyz^
 ||m6r.eu^
 ||m73lae5cpmgrv38.com^
 ||m73lae5cpmgrv38.com^$popup
+||m7hdh-2damu.ads.tremorhub.com^
 ||m7i1k.fun^
 ||m8oxd.xyz^
 ||m9w6ldeg4.xyz^
@@ -63305,6 +63339,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||marketo.com^
 ||marketo.net^
 ||marketperf.com^
+||marketplace-center-checkitem-supp0rt-now-business.click^
 ||marketreports.autovistagroup.com^
 ||marketresearch.jacksonhealthcare.com^
 ||marketsfocus.click^
@@ -63607,6 +63642,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||mb4a.com^
 ||mb57.com^
 ||mb57.com^$popup
+||mb9eo-7w62j.ads.tremorhub.com^
+||mb9eo-nkrlx.ads.tremorhub.com^
 ||mbads.paas.cmbchina.com^
 ||mbadv.nan.co.jp^
 ||mbai.cn^
@@ -72720,6 +72757,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||oryginalnepismo.click^
 ||oryginalnosc.click^
 ||oryhic.xyz^
+||oryj8-jzbmc.ads.tremorhub.com^
 ||os-mon.zijieapi.com^
 ||os.efax.es^
 ||os.efax.nl^
@@ -73592,6 +73630,14 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||p4.tribution.mobi^
 ||p40rlh4k.xyz^
 ||p45m0.icu^
+||p4dt2-0pwq8.ads.tremorhub.com^
+||p4dt2-4nrdw.ads.tremorhub.com^
+||p4dt2-8d2sv.ads.tremorhub.com^
+||p4dt2-980w2.ads.tremorhub.com^
+||p4dt2-9fzxj.ads.tremorhub.com^
+||p4dt2-hr9oj.ads.tremorhub.com^
+||p4dt2-scyd6.ads.tremorhub.com^
+||p4dt2-uma55.ads.tremorhub.com^
 ||p4p.sina.com.cn^
 ||p4psearch.china.alibaba.com^
 ||p4talparad1se.xyz^
@@ -74445,6 +74491,11 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pc.uf.ksosoft.com^
 ||pc.videoclick.baidu.com^
 ||pc.yingshi.tcclick.1kxun.mobi^
+||pc031-edgup.ads.tremorhub.com^
+||pc051-k4snh.ads.tremorhub.com^
+||pc083-0qo9e.ads.tremorhub.com^
+||pc083-aipdx.ads.tremorhub.com^
+||pc083-ii06c.ads.tremorhub.com^
 ||pc1.da.mgtv.com^
 ||pc180101.com^
 ||pc1ads.com^
@@ -74902,6 +74953,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pg-ad-b2.ws.126.net^
 ||pg.xdrig.com^
 ||pg2bk.icu^
+||pg308-zmbra.ads.tremorhub.com^
 ||pgaictlq.xyz^
 ||pgammedia.com^
 ||pgapyygfpg.com^
@@ -75958,6 +76010,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||playboykangaroo.com^
 ||playboykinky.com^
 ||playboywere.com^
+||playbuzzmm.ads.tremorhub.com^
+||playbuzzmobileweb.ads.tremorhub.com^
 ||playcvn.com^
 ||playdraught.com^
 ||player-metrics.instaread.co^
@@ -76720,6 +76774,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||post-e.pro^
 ||post-postescanadsae.top^
 ||post-postescanadsca.top^
+||post-postescanadsea.cc^
 ||post-redirecting.com^
 ||post-redirecting.com^$popup
 ||post.carte-gr.total.fr^
@@ -78394,7 +78449,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-267e75099df1409cb8ac9c2adf802a43.r2.dev^
 ||pub-271f8cf435184b4aaad9058343044657.r2.dev^
 ||pub-27f0b504aa994d468bdcf9ad03c10f7a.r2.dev^
-||pub-28e6b3104e7749e982ad1a03bd5fa839.r2.dev^
 ||pub-2a2af4adff814e44ad26d01b7fba6c43.r2.dev^
 ||pub-2b8283ead0624d4c98c14477e61f039e.r2.dev^
 ||pub-2baec7fbe55e462d9ff048f145ad9186.r2.dev^
@@ -78524,7 +78578,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pub-883105de8ad341fb988006e263e9639b.r2.dev^
 ||pub-892c2501da2d4112ad3e57b5bbf7c8e9.r2.dev^
 ||pub-8961c2ca10324fafb04ad839e8d2f531.r2.dev^
-||pub-8aef51f76f7a4fd6ad6aef7e3b637881.r2.dev^
 ||pub-8b8de6dbc21b4bb49ceaead3297322f4.r2.dev^
 ||pub-8e20f8260b254ad59d64a80110de865e.r2.dev^
 ||pub-8e7157b0700244e6ade8ab30856d76fe.r2.dev^
@@ -79262,6 +79315,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||px.ucweb.com^
 ||px.wp.pl^
 ||px2.moatads.com^
+||px2ii-ufb66.ads.tremorhub.com^
 ||px2m.moatads.com^
 ||px3792.com^
 ||pxaction.com^
@@ -79361,6 +79415,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||q.skiplino.com^
 ||q.tubetruck.com^
 ||q.vlion.cn^
+||q017o-d42by.ads.tremorhub.com^
+||q017o-jh7o1.ads.tremorhub.com^
 ||q02orc.cn^
 ||q0losid.com^
 ||q1-tdsge.com^
@@ -81297,6 +81353,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||region1.analytics.google.com^
 ||region1.google-analytics.com^
 ||regionads.ru^
+||regional.ads.tremorhub.com^
 ||regionalanglemoon.com^
 ||regioncolonel.com^
 ||regioninaudibleafforded.com^
@@ -86437,6 +86494,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||settings-win-ppe.data.microsoft.com^
 ||settings.data.glbdns2.microsoft.com^
 ||settingsfd-geo.trafficmanager.net^
+||settingupadvertisingpages.online^
 ||settledapproximatesuit.com^
 ||settledchagrinpass.com^
 ||settleshoes.com^
@@ -87806,6 +87864,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||slb.sxuantang.com^
 ||slb.upshengyi.com^
 ||slbunz.casamundo.fr^
+||slckg-2p3vy.ads.tremorhub.com^
+||slckg-4znyf.ads.tremorhub.com^
+||slckg-kqe2e.ads.tremorhub.com^
+||slckg-lyoc5.ads.tremorhub.com^
+||slckg-nugvu.ads.tremorhub.com^
+||slckg-qrmhc.ads.tremorhub.com^
 ||slcmvgr.icu^
 ||sleazysoundbegins.com^
 ||sledczapomylka.click^
@@ -98214,6 +98278,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||teixeiraadvocaciaespecializada.com^
 ||tejia.gaibang.fun^
 ||tejia.taobao.com^
+||tekbotavi.pro^
 ||tekmhvbb.xyz^
 ||teknologia.co^
 ||teknosa.api.useinsider.com^
@@ -105047,7 +105112,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||usp1.baidu.com^
 ||usps.advancedtrack.top^
 ||usps.com-trackadv.top^
-||usps.update.packages.win^
 ||uspsdkxcm.top^
 ||uspsnadv.top^
 ||usr.interactiveone.com^
@@ -105447,6 +105511,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||v4-lm.adukwai.com^
 ||v4.cnzz.com^
 ||v4dwkcv.com^
+||v4r9z-3jgr1.ads.tremorhub.com^
+||v4r9z-fjydq.ads.tremorhub.com^
 ||v5-ad.ixigua.com^
 ||v5.cnzz.com^
 ||v5ad.com^
@@ -105994,7 +106060,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vestalsabuna.shop^
 ||vestigeencumber.com^
 ||vestryvestrystick.pro^
-||vestuarycompanys.click^
 ||vesuvinaqueity.top^
 ||vetoembrace.com^
 ||vetoembrace.com^$popup
@@ -106305,6 +106370,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vigilantprinciple.pro^
 ||viglink.com^
 ||vigorouslyflamboyant.com^
+||vigorouslymicrophone.com^$popup
 ||vigourmotorcyclepriority.com^
 ||vigsole.com^
 ||vihqpr.xyz^
@@ -107319,6 +107385,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vtodss.livenation.com^
 ||vtracker.net^
 ||vtracy.de^
+||vtrdn-wjdav.ads.tremorhub.com^
 ||vtrtl.de^
 ||vtsgaqnfvzcyu.ru^
 ||vttics.world.co.jp^
@@ -109343,6 +109410,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||winsimpleprizes.life^
 ||winsimpleprizes.life^$popup
 ||winslinks.com^
+||winsyourgoals.click^
 ||winternewsnow.name^
 ||winterolivia.com^
 ||wintjaywolf.org^
@@ -109900,6 +109968,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wpcdn1.herokuapp.com^
 ||wpcjyxwdsu.xyz^
 ||wpcnzz.com^
+||wpd83hnc3nrk4ip539dadd7j.gameignighter.com^
 ||wpdstat.com^
 ||wpe-client02-vm4.net.mydays.de^
 ||wpe.red^
@@ -110800,7 +110869,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.bupyryi3.pro^
 ||www.businessandtrading.pro^
 ||www.buttonpush.click^
-||www.buxi.pro^
 ||www.buycheapadvertising.com^
 ||www.buylike.pro^
 ||www.bycotyi4.pro^
@@ -111277,6 +111345,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.grumpilyi.keratinizes.click^
 ||www.gsraf.gradspeeches.com^
 ||www.gualomomento.click^
+||www.gubodyu.pro^
 ||www.gulijeopoe.pro^
 ||www.gulojyi1.pro^
 ||www.gusoqau.pro^
@@ -112200,6 +112269,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.servedby-buysellads.com^
 ||www.service-vinted-pro.eu^
 ||www.sesewua5.pro^
+||www.settingupadvertisingpages.online^
 ||www.setytio5.pro^
 ||www.seure-update.fartit.com^
 ||www.sevynyetox.pro^
@@ -112600,6 +112670,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.wiki.ero-advertising.com^
 ||www.winads.cn^
 ||www.windhawkadvisors.com^
+||www.winsyourgoals.click^
 ||www.wirtaspin-investing.pro^
 ||www.wirtualaktual.click^
 ||www.wirtualnaczytac.click^
@@ -112621,6 +112692,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.woweffect.click^
 ||www.wowjest.click^
 ||www.wowsoul.click^
+||www.wpd83hnc3nrk4ip539dadd7j.gameignighter.com^
 ||www.wqeruytbnmjklofgh.pro^
 ||www.wracam.click^
 ||www.wraproads.online^
@@ -113017,6 +113089,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wzyjup.patch.com^
 ||wzzhvn.hammer.de^
 ||wzzlnld.xyz^
+||x-api-shoulei.xunlei.com^
 ||x-c.eu^
 ||x-ip-adv.com^
 ||x-jmezfjpjt.today^
