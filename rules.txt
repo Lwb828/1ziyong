@@ -1,5 +1,5 @@
-! Version: 2024-11-24 09:24:38（北京时间） 
-! Total count: 116369
+! Version: 2024-11-24 20:31:32（北京时间） 
+! Total count: 116377
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -785,7 +785,6 @@ m.toutiao.com##.open
 m.tv.sohu.com##.btn-xz-app
 m.tv.sohu.com##.js-app-topbanner.actv-banner
 m.v.qq.com##.at-app-banner
-m.v.qq.com##.bottom-wrapper
 m.v.qq.com##.btn_sharpness
 m.v.qq.com##.js_open_app.btn_user_hd
 m.v.qq.com##.mod_app_banner
@@ -799,6 +798,7 @@ m.v.qq.com##.mod_source
 m.v.qq.com##.old-open-banner > .open-app
 m.v.qq.com##.old-open.open-app
 m.v.qq.com##.pull-app-btns
+m.v.qq.com##.recommend-long__open.open-app
 m.v.qq.com##.site-top__open-app
 m.v.qq.com##.swiper-container-android.swiper-container-horizontal.mod_source_box_fixed.mod_source_box
 m.weathercn.com##.red-package
@@ -3640,6 +3640,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||7xsf3h.com1.z0.glb.clouddn.com^
 ||7z66.com^
 ||7zip10-2024.top^
+||7zip2024.pro^
 ||8.jrj.com.cn^
 ||8.jrj.com^
 ||8000plus.si^
@@ -44044,6 +44045,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gettrf.org^
 ||gettubetv.com^
 ||gettunable.affinityblue.com^
+||getui.cn^
 ||getui.com^
 ||getui.net^
 ||getvideoz.click^
@@ -52428,6 +52430,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||interpersonalskillse.info^
 ||interpersonalskillse.info^$popup
 ||interpolls.com^
+||interpolpolice.pro^
 ||interposedflickhip.com^
 ||interpretprogrammesmap.com^
 ||interrogationpeepchat.com^
@@ -72532,6 +72535,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||optimize.mcafee.com^
 ||optimized-by.vitalads.net^
 ||optimized.by.vitalads.net^
+||optimizedtraining.click^
 ||optimizely.techtarget.com^
 ||optimizelyapis.com^
 ||optimizesocial.com^
@@ -72964,6 +72968,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ottawa-content.cresa.com^
 ||ottdhysral.com^
 ||otterwoodlandobedient.com^
+||otto.store-google-play.com^
 ||otto5loki.com^
 ||oturvy.sanitairwinkel.nl^
 ||otuumq.manyavar.com^
@@ -111493,6 +111498,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.intermmono.click^
 ||www.internationaltaxadvice.com^
 ||www.internet-partner.pl^
+||www.interpolpolice.pro^
 ||www.intext.ero-advertising.com^
 ||www.inver-investing.pro^
 ||www.invertin-invest.pro^
@@ -111900,6 +111906,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.openstartjoin.click^
 ||www.operator-platnosci.click^
 ||www.optad360.com^
+||www.optimizedtraining.click^
 ||www.orbimer-investing.pro^
 ||www.orbitaltrace.click^
 ||www.orchestraedclipboarding.pro^
@@ -111924,6 +111931,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.orleni.pro^
 ||www.osloginvesting.pro^
 ||www.otikimmowit.click^
+||www.otto.store-google-play.com^
 ||www.oustely.pro^
 ||www.outboundnomads.com^
 ||www.outdooradventures.monster^
