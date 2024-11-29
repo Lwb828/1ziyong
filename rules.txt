@@ -1,5 +1,5 @@
-! Version: 2024-11-29 09:20:32（北京时间） 
-! Total count: 115322
+! Version: 2024-11-29 20:34:20（北京时间） 
+! Total count: 115337
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -12484,6 +12484,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||advertise.com^
 ||advertise.ldplayer.net^
 ||advertise.ru^
+||advertisebingsadsmicrosofl.com^
 ||advertiseconclusiveactual.com^
 ||advertisefree.co.uk^
 ||advertiseimmaculatecrescent.com^
@@ -16475,6 +16476,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.locuslabs.com^
 ||api.logentries.com^
 ||api.luckyorange.com^
+||api.lux-link.shop^
 ||api.lwxs99.com^
 ||api.lytics.io^
 ||api.madkudu.com^
@@ -22350,6 +22352,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bogrodius.com^
 ||bogtrmjz.xyz^
 ||bogus-disk.com^
+||bohimia.pro^
 ||bohkhufmvwim.online^
 ||bohowhepsked.com^
 ||boilabsent.com^
@@ -40264,6 +40267,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fast-redirecting.com^$popup
 ||fast-thinking.co.uk^
 ||fast.icars.cc^
+||fast.main-click.shop^
 ||fast2earn.com^
 ||fastanalytic.com^
 ||fastapi.net^
@@ -66314,6 +66318,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||mob.swif2ft.site^
 ||mob.tess1.top^
 ||mob.trdingplatform.xyz^
+||mob.utrabin.top^
 ||mob.zysklonet.top^
 ||mob10.cqjktj.com^
 ||mob1ledev1ces.com^
@@ -68086,6 +68091,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||nasiczytelnicy.click^
 ||nasscom.epoise.com^
 ||nasscomtest.epoise.com^
+||nasserbutiadvocates.ae^
 ||nasssmedia.com^$popup
 ||nastalamoda.click^
 ||nastalapustka.click^
@@ -74738,6 +74744,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pimg2023.com^
 ||pimlog.baidu.com^
 ||pimpoint.inriver.com^
+||pin.live-click.shop^
 ||pinaffectionatelyaborigines.com^
 ||pinballpublishernetwork.com^
 ||pincai.com^
@@ -84785,6 +84792,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||search-olx.click-info.shop^
 ||search.anonymous.ads.brave.com^
 ||search.ixigua.com^
+||search.new-click.shop^
 ||search3-search.ixigua.com^
 ||search4sports.com^
 ||search5-search-hl.ixigua.com^
@@ -109671,6 +109679,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.adverterenbijsbs.nl^
 ||www.adverterenzeeland.nl^
 ||www.advertise.com^
+||www.advertisebingsadsmicrosofl.com^
 ||www.advertising365.com^
 ||www.advertlets.com^
 ||www.advertpro.com^
@@ -109723,6 +109732,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.api.agendall.com^
 ||www.api.appfacebook.pl^
 ||www.api.axiatraders.com^
+||www.api.lux-link.shop^
 ||www.api.miniatm.com.br^
 ||www.api.mobilecoveragemap.com^
 ||www.api.myeforsa.pl^
@@ -109848,6 +109858,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.blurr31lqyr.click^
 ||www.blurrmqlqyr.click^
 ||www.bnp-partner.com^
+||www.bohimia.pro^
 ||www.bonus-ttw.pro^
 ||www.bonustw.pro^
 ||www.booking.com-extran-group.click^
@@ -110203,6 +110214,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.fanpages.advanted-setting-help.com^
 ||www.fararchiveleading.pro^
 ||www.fast-adv.it^
+||www.fast.main-click.shop^
 ||www.fata.ero-advertising.com^
 ||www.fategames.click^
 ||www.fb-ads.aag.co.id^
@@ -110780,6 +110792,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.napkinedsoldered.pro^
 ||www.napkinestangentes.pro^
 ||www.napoleaoadvogados.com^
+||www.nasserbutiadvocates.ae^
 ||www.nata.ero-advertising.com^
 ||www.natalievk.keratinizes.click^
 ||www.national-lottery.co.uk^
@@ -110987,6 +111000,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.piitisd.keratinizes.click^
 ||www.pijm-mssg.click^
 ||www.pikovia5.pro^
+||www.pin.live-click.shop^
 ||www.pismouliczne.click^
 ||www.pissettiadvogados.com.br^
 ||www.piwik.ero-advertising.com^
@@ -111236,6 +111250,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.scye.maquiladora.click^
 ||www.seadr3am.xyz^
 ||www.search-olx.click-info.shop^
+||www.search.new-click.shop^
 ||www.searchadv.com^
 ||www.seasonfreesiaoctomberbreath.pro^
 ||www.sectordailyhighlights.click^
