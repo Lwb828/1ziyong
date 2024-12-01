@@ -1,5 +1,5 @@
-! Version: 2024-11-30 20:31:23（北京时间） 
-! Total count: 115365
+! Version: 2024-12-01 09:40:32（北京时间） 
+! Total count: 115368
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -7262,6 +7262,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.dongdong.madserving.com^
 ||ad.doorigo.co.kr^
 ||ad.doubanio.com^
+||ad.doubleclick.net^
 ||ad.doublemax.net^
 ||ad.douga-kan.com^
 ||ad.download.cnet.com^
@@ -8347,6 +8348,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adc-js.nine.com.au^
 ||adc-serv.net^
 ||adc-teasers.com^
+||adc.hpplay.cn^
 ||adc01.media-rep.com^
 ||adc02.media-rep.com^
 ||adc03.media-rep.com^
@@ -11205,6 +11207,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adsdk.vrvm.com^
 ||adsdk.yandex.ru^
 ||adsdot.ph^
+||adse.test.ximalaya.com^
 ||adse.wsa.ximalaya.com^
 ||adse.ximalaya.com^
 ||adsearch.adkontekst.pl^
