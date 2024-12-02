@@ -1,5 +1,5 @@
-! Version: 2024-12-01 20:32:06（北京时间） 
-! Total count: 1448
+! Version: 2024-12-02 09:23:15（北京时间） 
+! Total count: 1449
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1103,6 +1103,7 @@
 @@||dns9.quad9.net^$document
 @@||dnscheck.tools^
 @@||douyinstatic.com^
+@@||download.falco.org^
 @@||download.uc.cn^
 @@||dp.push.dc.360.cn^
 @@||dragate-cn.dc.heytapmobi.com^$important,document
