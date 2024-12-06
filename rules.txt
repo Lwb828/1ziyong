@@ -1,5 +1,5 @@
-! Version: 2024-12-05 20:35:23（北京时间） 
-! Total count: 115822
+! Version: 2024-12-06 09:21:21（北京时间） 
+! Total count: 115806
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.[a-zA-Z0-9.-]skwai\.com/
@@ -7685,7 +7685,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.shuoshuomi.com^
 ||ad.si.doubleclick.net^
 ||ad.sigortagundem.biz^
-||ad.simflight.com^
 ||ad.simgames.net^
 ||ad.simpledesign.ltd^
 ||ad.sina.com.cn^
@@ -10417,7 +10416,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.queendom.com^
 ||ads.quoka.de^
 ||ads.racunalniske-novice.com^
-||ads.radialserver.com^
 ||ads.radio1.lv^
 ||ads.ramsalt.com^
 ||ads.ratemyprofessors.com^
@@ -12274,7 +12272,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adv.bokra.net^
 ||adv.cityads.com^
 ||adv.consadbg.com^
-||adv.cooperhosting.net^
 ||adv.dailyissue.co.kr^
 ||adv.donejty.pl^
 ||adv.dontcrack.com^
@@ -12519,7 +12516,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||advertica.com^
 ||adverticum.com^
 ||adverticum.net^
-||adverticus.de^
 ||advertise.baicizhan.com^
 ||advertise.baicizhan.org^
 ||advertise.bingads.microsoft.com^
@@ -22669,6 +22665,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bourrepardale.com^
 ||boustahe.com^
 ||boustahe.com^$popup
+||bousyapinoid.top^$popup
 ||bouteesh.com^
 ||boutique.ricoh.fr^
 ||bouwehee.xyz^
@@ -43017,6 +43014,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gafmajosxog.com^
 ||gagdungeon.com^
 ||gagebonus.com^
+||gagheroinintact.com^$popup
 ||gaghygienetheir.com^
 ||gagxsbnbu.xyz^
 ||gagysn.floward.com^
@@ -110326,8 +110324,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.browa.bipinates.click^
 ||www.bsnnes.click^
 ||www.bsnnes.pro^
-||www.bst.chori3oiwtb.click^
-||www.bst.co3mpo1kraj.click^
 ||www.btw.ero-advertising.com^
 ||www.bulletads.com^
 ||www.bulletinquantumflow.click^
@@ -110399,12 +110395,10 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.check.whozyourdoula.com^
 ||www.checkedmixes.pro^
 ||www.chengzijianzhan.com^
-||www.chestingruined.pro^
 ||www.chestpark.click^
 ||www.chocoadventurejoy631.sbs^
 ||www.chocosmileadventure149.sbs^
 ||www.chocosparkadventure480.sbs^
-||www.chori3oiwtb.click^
 ||www.christianbusinessadvertising.com^
 ||www.christiepointadvocates.com^
 ||www.cicaryu0.pro^
@@ -110440,7 +110434,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.commanzibw.click^
 ||www.commbank-info-update.com^
 ||www.complimentaryesspathiphyllum.pro^
-||www.compoqkraj.click^
 ||www.confirm.offer-click.shop^
 ||www.confirm.view-click.shop^
 ||www.connect-hub2fa.pro^
@@ -110577,7 +110570,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.dropped-click.com^
 ||www.dropshippingdeal.pro^
 ||www.dsads123a.is-best.net^
-||www.dsmthreads.com^
 ||www.dtta.ero-advertising.com^
 ||www.dudewio0.pro^
 ||www.dunawea7.pro^
@@ -110911,7 +110903,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.idlvwi-gpps.click^
 ||www.idspaces.ero-advertising.com^
 ||www.ieucb.gradspeeches.com^
-||www.igloofloor.click^
 ||www.ikasgok-invest.pro^
 ||www.imads.ero-advertising.com^
 ||www.imaginative-trade7.com^
@@ -111082,7 +111073,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.levitateleads.com^
 ||www.lewetoy6.pro^
 ||www.lforen-cloud-trace.com^
-||www.liftptxk.click^
 ||www.ligamentedverbenaed.pro^
 ||www.lightvisit.click^
 ||www.lilypiu3.pro^
@@ -111289,7 +111279,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.nfladvancedmetrics.com^
 ||www.ngads.com^
 ||www.nggrskio.pro^
-||www.nice-bit-mine.pro^
 ||www.nidaciy6.pro^
 ||www.nikeshi.click^
 ||www.nisawer-invest.pro^
@@ -111644,7 +111633,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.relevance.enzymeadvisinggroup.com^
 ||www.remonstrateincarcerateremainderar.pro^
 ||www.renatobritoadvogados.com^
-||www.rep1gnzzss.click^
 ||www.replenishremonstratehallucinateis.pro^
 ||www.replyesspathiphyllum.pro^
 ||www.replyingmilkweed.pro^
@@ -111773,7 +111761,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.smart-company-365.com^
 ||www.smart-enterprise-365.com^
 ||www.smartadserver.com^
-||www.smokeingblowes.pro^
 ||www.smokeingfeasted.pro^
 ||www.sms-check.info^
 ||www.sms-olx.dns-live.shop^
@@ -111886,7 +111873,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.szybka7demka24h7.click^
 ||www.szybkozobacz.click^
 ||www.t-analytics.com^
-||www.t2ogradshowcase.com^
 ||www.tadveen.org^
 ||www.tahatch.click^
 ||www.tak-jest.click^
@@ -111926,7 +111912,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.thegroup.click^
 ||www.thejugaadstudio.com^
 ||www.thevapeadvisor.com^
-||www.thirst7bvqz.click^
 ||www.thor.muchflaw.click^
 ||www.threadss.info^
 ||www.threadstheme.com^
@@ -112250,7 +112235,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.zertlik-investing.pro^
 ||www.zilygau1.pro^
 ||www.ziposya7.pro^
-||www.zirkonvin.click^
 ||www.zoitalbok.click^
 ||www.zoligon-invest.pro^
 ||www.zolinton-invest.pro^
