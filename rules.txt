@@ -1,9 +1,8 @@
-! Version: 2024-12-11 09:22:07（北京时间） 
-! Total count: 116880
+! Version: 2024-12-11 20:35:39（北京时间） 
+! Total count: 116892
 #微信广告奖励
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
-/.*\.[a-zA-Z0-9.-]skwai\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
 /.*\.log\.aliyuncs\.com/
@@ -12,7 +11,6 @@
 /[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com/
 /[a-zA-Z0-9.-]*-ad\.wtzw\.com/
 /[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com/
-/[a-zA-Z0-9.-]*-lm\.adkwai\.com/
 /[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /^https?:\/\/(35|104)\.(\d){1,3}\.(\d){1,3}\.(\d){1,3}\//$popup,third-party
@@ -8482,6 +8480,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adcs-ue.myappsget.com^
 ||add.sina.com.cn^
 ||addabai.com^
+||addata.jd.com^
 ||adddumbestbarrow.com^
 ||addefenderplus.info^
 ||addelive.com^
@@ -17997,6 +17996,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||appc.baidu.cn^
 ||appc.baidu.com^
 ||appcast.io^
+||appcfg.v.qq.com^
 ||appchannel.html5.qq.com^
 ||appcloud.appyreward.com^
 ||appcloud2.in.zhihu.com^
@@ -18772,6 +18772,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||asparagusinterruption.com^
 ||asparaguspallorspoken.com^
 ||asparaguspopcorn.com^
+||aspect-upush.umeng.com^
 ||aspectsofcukorp.com^
 ||asperencium.com^
 ||asperityhorizontally.com^
@@ -25184,6 +25185,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ccaahdancza.com^
 ||ccaas.avaya.com^
 ||ccb.uncle-ad.com^
+||ccc-x.jd.com^
 ||ccc.sys.intl.xiaomi.com^
 ||ccc.sys.miui.com^
 ||ccccc66kkkkk.com^
@@ -42804,6 +42806,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||frompilis.com^
 ||front.aid-ad.jp^
 ||frontcognizance.com^
+||frontend-perf-service.e.kuaishou.com^
 ||fronthlpr.com^
 ||fronthlpr.com^$popup
 ||frontier-toutiao.snssdk.com^
@@ -43172,6 +43175,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fxadviceformeandyou.com^
 ||fxdepo.com^
 ||fxfezg.bodylab24.de^
+||fxgate.baidu.com^
 ||fxgkktj.icu^
 ||fxipca.americanexpress.ca^
 ||fxipreferral.americanexpress.com^
@@ -55928,6 +55932,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||klikadvertising.com^
 ||klikalneteksty.click^
 ||kliksaya.com^
+||klink.volceapplog.com^
 ||klipmart.com^
 ||kliqz.com^
 ||klixfeed.com^
@@ -59307,9 +59312,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||log-pq.shopfully.cloud^
 ||log-report.com^
 ||log-sdk.gifshow.com^
+||log-sdk.ksapisrv.com^
 ||log-stats.weathercn.com^
 ||log-upload-os.hoyoverse.com^
 ||log-upload.mihoyo.com^
+||log-verify.dutils.com^
+||log-verify.hiaiabc.com^
 ||log.*.hunantv.com^
 ||log.120ask.com^
 ||log.ad.xiaomi.com^
@@ -60121,6 +60129,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lugansk-info.ru^
 ||luggagebuttonlocum.com^
 ||luhhcodutax.com^
+||luimg.baidu.com^
 ||lujaqg.e-blooming.com^
 ||lujcig.modaforyou.pl^
 ||lukeaccesspopped.com^
@@ -72624,6 +72633,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||open.play.cn^
 ||open.rolls-item.com^
 ||open.snssdk.com.bytedns.net^
+||open.snssdk.com^
 ||open.speeko.co^
 ||open.swapu.app^
 ||open.talk.igexin.com^
@@ -105340,6 +105350,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ural-volga.pro^
 ||uralweb.ru^
 ||uranismunshore.com^
+||uranus.jd.com^
 ||uranus.sogou.com^
 ||uranus.sohu.com^
 ||urauvipsidu.com^
@@ -110013,6 +110024,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wl.eastlady.cn^
 ||wl.hd.sohu.com^
 ||wl.houyi.baofeng.net^
+||wl.jd.com^
 ||wl.uqwjdhgv.top^
 ||wl.xsoftmall.com^
 ||wlaczamyslenie.click^
