@@ -1,5 +1,5 @@
-! Version: 2024-12-12 20:35:42（北京时间） 
-! Total count: 116867
+! Version: 2024-12-13 09:23:02（北京时间） 
+! Total count: 116868
 #淘宝
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
@@ -23390,6 +23390,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||broadboundary.com^
 ||broadcastbed.com^
 ||broaddoor.com^
+||broadensilkslush.com^$popup
 ||broadliquorsecretion.com^
 ||broadsheetblaze.com^
 ||broadsheetcounterfeitappeared.com^
