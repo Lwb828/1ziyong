@@ -1,5 +1,5 @@
-! Version: 2024-12-14 20:31:54（北京时间） 
-! Total count: 1450
+! Version: 2024-12-15 09:27:44（北京时间） 
+! Total count: 1453
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1075,6 +1075,8 @@
 @@||clickserve.dartsearch.net^$document
 @@||clicktale.net^$document
 @@||client-uc.heytapmobi.com^$important,document
+@@||clientlog*music.163.com^$document
+@@||clientlog3.music.163.com^$document
 @@||cloudcontrol.live.360.cn^
 @@||cm-10-*.getui.com^
 @@||cn.pornhub.com^$document
@@ -1109,6 +1111,7 @@
 @@||dp.push.dc.360.cn^
 @@||dragate-cn.dc.heytapmobi.com^$important,document
 @@||dragate.dc.oppomobile.com^$important,document
+@@||du.163.com^$document
 @@||dw.iask.com.cn^
 @@||dxcloud.episerver.net^
 @@||ecma.bdimg.com^$document
