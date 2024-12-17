@@ -1,5 +1,5 @@
-! Version: 2024-12-16 20:36:28（北京时间） 
-! Total count: 1487
+! Version: 2024-12-17 09:21:58（北京时间） 
+! Total count: 1497
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -958,6 +958,7 @@
 @@||ad.doubleclick.net^$document
 @@||ad.jp^
 @@||ad.jp^$document
+@@||ad.mcloud.139.com^$document
 @@||ad.ourgame.com^$document
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
@@ -978,6 +979,7 @@
 @@||ali.static.yximgs.com^
 @@||alimama.com^$document
 @@||alissl.ucdl.pp.uc.cn^$document
+@@||als.baidu.com^$document
 @@||amdc.m.taobao.com^$document
 @@||ap6.ssl.msdk.qq.com^$document
 @@||api-cn.store.heytapmobi.com^$document
@@ -1009,6 +1011,8 @@
 @@||appdownload.alicdn.com^$document
 @@||aq.qq.com^$document
 @@||assistant.miui.com^
+@@||audid-api-sg.taobao.com^$document
+@@||audid-api.taobao.com^$document
 @@||auth.zijieapi.com^
 @@||autocomplete.clearbit.com^
 @@||aweme.snssdk.com^
@@ -1018,12 +1022,14 @@
 @@||bgp.video-upload-v*.lf.bytelb.net^
 @@||bj.bcebos.com^$document
 @@||bkimg.cdn.bcebos.com^$document
+@@||browser.pipe.aria.microsoft.com^$document
 @@||bs-origin.pull.yximgs.com^
 @@||bytedanceapi.com^
 @@||byteimg.com.queniusy.com^
 @@||c.gj.qq.com^$document
 @@||c.pc.qq.com^$document
 @@||c.youdao.com^$document
+@@||c1.skype.com^$document
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
 @@||cdn.bootcdn.net^$document
 @@||cdn.webclicks24.com^$document
@@ -1141,6 +1147,8 @@
 @@||epochtimes.com^
 @@||ereg.adobe.com^$document
 @@||err.taobao.com^$document
+@@||events.data.microsoft.com^$document
+@@||evtubescms.phncdn.com^$document
 @@||f-cashloan.snssdk.com^
 @@||f-cpay.snssdk.com^
 @@||f10.baidu.com^$document
@@ -1184,6 +1192,7 @@
 @@||iflow-api.uc.cn^$document
 @@||iflow.uc.cn^$document
 @@||iflow.uczzd.cn^$document
+@@||imasdk.googleapis.com^$document
 @@||img*.funshion.com^
 @@||img.funshion.com^
 @@||img.ssl.msdk.qq.com^$document
@@ -1261,6 +1270,7 @@
 @@||mm3.365dmp.com^$document
 @@||mmstat.com^$document
 @@||mmstat.com^$important
+@@||mobile.pipe.aria.microsoft.com^$document
 @@||mobile.twitter.com^$document
 @@||mobilist.kuwo.cn^
 @@||mon.isnssdk.com^$document
