@@ -1,5 +1,5 @@
-! Version: 2024-12-17 20:35:26（北京时间） 
-! Total count: 1497
+! Version: 2024-12-18 09:18:53（北京时间） 
+! Total count: 1503
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1185,10 +1185,13 @@
 @@||haohuo.snssdk.com^$document
 @@||hot.browser.intl.miui.com^$document
 @@||hot.browser.miui.com^$document
+@@||i*.snssdk.com^$document
 @@||i.snssdk.com^$document
 @@||i2.y.qq.com^
 @@||ib.snssdk.com^
+@@||ib.snssdk.com^$document
 @@||ic.snssdk.com^
+@@||ic.snssdk.com^$document
 @@||iflow-api.uc.cn^$document
 @@||iflow.uc.cn^$document
 @@||iflow.uczzd.cn^$document
@@ -1211,6 +1214,7 @@
 @@||k.sinaimg.cn^$document
 @@||klclick*.com^$document
 @@||knowsex.net^
+@@||l.qq.com^$document
 @@||lf*-baike.searchpstatp.com^
 @@||lf*-cdn-tos.bytegoofy.com^
 @@||lf*-dy-cdn-tos.bytegecko.com^
@@ -1252,6 +1256,7 @@
 @@||mangabz.com^
 @@||mangacopy.com^
 @@||market.xiaomi.com^$document
+@@||mcs.snssdk.com^$document
 @@||mdevstat.qqlive.qq.com^$document
 @@||mdm.openapi.360.cn^
 @@||me-api.jd.com^$document
@@ -1467,6 +1472,7 @@
 @@||v16m-default.akamaized.net^
 @@||vas.snssdk.com^
 @@||vcs-quality.zijieapi.com^
+@@||vcs.snssdk.com^$document
 @@||vcs.zijieapi.com^
 @@||vd.l.qq.com^$document
 @@||verify.snssdk.com^$document
