@@ -1,5 +1,5 @@
-! Version: 2024-12-18 09:18:53（北京时间） 
-! Total count: 1503
+! Version: 2024-12-18 20:34:24（北京时间） 
+! Total count: 1505
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1385,6 +1385,7 @@
 @@||sax.sina.com.cn^
 @@||sax.sina.com.cn^$document
 @@||scan.call.f.360.cn^
+@@||sdk-api.beizi.biz^$document
 @@||sdk.live.360.cn^
 @@||sdkapi.sms.mob.com^
 @@||sdkapi.sms.mob.com^$document
@@ -1477,6 +1478,7 @@
 @@||vd.l.qq.com^$document
 @@||verify.snssdk.com^$document
 @@||vip1.kuwo.cn^
+@@||w1.kskwai.com^$app=com.smile.gifmaker
 @@||we.tl^
 @@||wechat.ishare.iask.com.cn^
 @@||wgo.mmstat.com^
