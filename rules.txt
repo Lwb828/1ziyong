@@ -1,5 +1,5 @@
-! Version: 2024-12-21 09:14:26（北京时间） 
-! Total count: 115700
+! Version: 2024-12-21 20:29:20（北京时间） 
+! Total count: 115762
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -12709,15 +12709,31 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adx-drcn.op.hihonorcloud.com^
 ||adx-dre.op.hicloud.com^
 ||adx-exchange.toast.com^
+||adx-f.ads.heytapmobi.com^
+||adx-f.ads.heytapmobile.com^
+||adx-id.ads.heytapmobi.com^
+||adx-id.ads.heytapmobile.com^
+||adx-id.ads.oppomobile.com^
+||adx-in.ads.heytapmobi.com^
 ||adx-in.ads.heytapmobile.com^
+||adx-in.ads.oppomobile.com^
+||adx-kh.ads.heytapmobile.com^
+||adx-mm.ads.heytapmobile.com^
+||adx-my.ads.heytapmobile.com^
 ||adx-open-service.youku.com^
 ||adx-os-req.anythinktech.com^
 ||adx-os.anythinktech.com^
 ||adx-os.bridgeoos.com^
 ||adx-os.toponadss.com^
+||adx-ph.ads.heytapmobile.com^
 ||adx-sg-req.bridgeoos.com^
+||adx-sg.ads.heytapmobi.com^
+||adx-sg.ads.heytapmobile.com^
 ||adx-static.ksosoft.com^
 ||adx-t.com^$popup
+||adx-th.ads.heytapmobile.com^
+||adx-tw.ads.heytapmobile.com^
+||adx-vn.ads.heytapmobile.com^
 ||adx.36kr.com^
 ||adx.adk2x.com^
 ||adx.admaster.com.cn^
@@ -16871,6 +16887,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||apks.webxiaobai.top^
 ||aplobv.xexymix.com^
 ||aplombwealden.shop^
+||aplpost-pl.click^
 ||aplysialors.click^
 ||apm-engine.meteor.com^
 ||apm-volcano.zuoyebang.com^
@@ -20657,7 +20674,14 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bdad.123pan.cn^
 ||bdamcsv.top^
 ||bdapi-ads.realmemobile.com^
+||bdapi-id.ads.heytapmobi.com^
+||bdapi-id.ads.heytapmobile.com^
+||bdapi-id.ads.oppomobile.com^
 ||bdapi-in-ads.realmemobile.com^
+||bdapi-in.ads.heytapmobi.com^
+||bdapi-in.ads.heytapmobile.com^
+||bdapi-in.ads.oppomobile.com^
+||bdapi.ads.heytapmobi.com^
 ||bdapi.ads.oppomobile.com^
 ||bdasd.chdbook.cn^
 ||bdasd.wmxa.cn^
@@ -26236,6 +26260,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cjxomyilmv.com^
 ||cjzrfxs.xyz^
 ||ck-cdn.com^
+||ck.ads.heytapmobi.com^
 ||ck.ads.oppomobile.com^
 ||ck.connatix.com^
 ||ck.houyi.baofeng.net^
@@ -26262,6 +26287,17 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ckywou.com^
 ||cl-997764a8.gcdn.co^
 ||cl-ad.x-flow.app^
+||cl-data-f.ads.heytapmobi.com^
+||cl-data-f.ads.heytapmobile.com^
+||cl-data-id.ads.heytapmobi.com^
+||cl-data-id.ads.heytapmobile.com^
+||cl-data-in.ads.heytapmobi.com^
+||cl-data-in.ads.heytapmobile.com^
+||cl-data-my.ads.heytapmobile.com^
+||cl-data-sg.ads.heytapmobi.com^
+||cl-data-sg.ads.heytapmobile.com^
+||cl-data-vn.ads.heytapmobile.com^
+||cl-data.ads.heytapmobi.com^
 ||cl.canva.com^
 ||cl.he9630.com^
 ||cl.inhaabit.com^
@@ -31598,6 +31634,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dartextremely.com^
 ||dartledbailed.click^
 ||dartsearch-cn.net^
+||darvin-ec.ads.heytapmobi.com^
 ||darvongasps.shop^
 ||darvorn.com^
 ||darwinpoems.com^
@@ -31635,8 +31672,10 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||data-data-vac.com^
 ||data-dynamic.net^
 ||data-ero-advertising.com^
+||data-f.ads.oppomobile.com^
 ||data-failover.eroadvertising.com^
 ||data-id.ads.oppomobile.com^
+||data-in.ads.oppomobile.com^
 ||data-ingenuity.com^
 ||data-insight365.com^
 ||data-ipv6.flurry.com^
@@ -31672,6 +31711,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||data.ad-score.com^
 ||data.adlermode.com^
 ||data.admin-updates.airmiles.ca^
+||data.ads.heytapmobi.com^
 ||data.ads.oppomobile.com^
 ||data.adsrvr.org^
 ||data.aem-sites-internal.adobe.com^
@@ -41038,6 +41078,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||filashouphem.com^
 ||filasofighit.com^
 ||filasseseeder.com^
+||file-download.bytez.cloud^
 ||file-download.estudiosparrow.com^
 ||file-download.importadorachr.cl^
 ||file.autoads.asia^
@@ -48953,7 +48994,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||i.rttd.io^
 ||i.shelf.im^
 ||i.smartnews-ads.com^
-||i.snssdk.com^
 ||i.spyn.co^
 ||i.ssix.io^
 ||i.temiz.co^
@@ -84100,6 +84140,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sape.ru^
 ||sapfailedfelon.com^
 ||sapha.com^
+||sapi.ads.oppomobile.com^
 ||sapi.sina.cn^
 ||sapi.tremendous.com^
 ||saplvvogahhc.xyz^
@@ -90683,6 +90724,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sms-check.info^
 ||sms-olx.dns-live.shop^
 ||sms-pro.pw^
+||sms-sg.ads.heytapmobile.com^
 ||sms.3.se^
 ||sms.ads.heytapmobi.com^
 ||sms.ads.oppomobile.com^
@@ -94557,6 +94599,22 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||stfynw.esprit.be^
 ||stg-bnc-papago.naver.com^
 ||stg-data-collector.playbuzz.com^
+||stg-data-f.ads.heytapmobi.com^
+||stg-data-f.ads.heytapmobile.com^
+||stg-data-id.ads.heytapmobi.com^
+||stg-data-id.ads.heytapmobile.com^
+||stg-data-in.ads.heytapmobi.com^
+||stg-data-in.ads.heytapmobile.com^
+||stg-data-kh.ads.heytapmobile.com^
+||stg-data-mm.ads.heytapmobile.com^
+||stg-data-my.ads.heytapmobile.com^
+||stg-data-ph.ads.heytapmobile.com^
+||stg-data-ru.ads.heytapmobile.com^
+||stg-data-sg.ads.heytapmobi.com^
+||stg-data-sg.ads.heytapmobile.com^
+||stg-data-th.ads.heytapmobile.com^
+||stg-data-tw.ads.heytapmobile.com^
+||stg-data-vn.ads.heytapmobile.com^
 ||stg-data.ads.heytapmobi.com^
 ||stg-deeplink.ring.md^
 ||stg8.com^
@@ -96225,6 +96283,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||t-dsp.pinduoduo.com^
 ||t-e.flyme.cn^
 ||t-flow.flyme.cn^
+||t-id.ads.heytapmobile.com^
+||t-in.ads.heytapmobile.com^
 ||t-l.play.aiseet.atianqi.com^
 ||t-l.play.cp81.ott.cibntv.net^
 ||t-pan.triodos.com^
@@ -108607,6 +108667,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wifescamara.click^
 ||wifescamara.click^$popup
 ||wifeverticallywoodland.com^
+||wifi.ads.oppomobile.com^
 ||wifi.com^
 ||wifi33.com^
 ||wifiads.cleverads.vn^
@@ -110064,6 +110125,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.api.webhop.me^
 ||www.api.wutensor.com^
 ||www.api.xibitrs.com^
+||www.aplpost-pl.click^
 ||www.aponia.wildcatler.click^
 ||www.appeal-open-case.appealforpages3z.one^
 ||www.appeal-open-case.updateappealv8.biz^
