@@ -1,5 +1,5 @@
-! Version: 2024-12-24 09:15:37（北京时间） 
-! Total count: 115410
+! Version: 2024-12-24 20:32:04（北京时间） 
+! Total count: 115419
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -3936,6 +3936,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||a-delivery.rmbl.ws^
 ||a-dxk.play.api.3g.youku.com^
 ||a-i-ad.com^
+||a-iad3.1rx.io^
 ||a-m-s.adnonstop.com^
 ||a-m-s.poco.cn^
 ||a-mo.net^
@@ -24938,7 +24939,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cdn-channels-pixel.ex.co^
 ||cdn-code.host^
 ||cdn-creatives-highwinds-prd.unityads.unity3d.com^
-||cdn-downloads.com^
 ||cdn-f.adsmoloco.com^
 ||cdn-haokanapk.baidu.com^
 ||cdn-html.adsfactor.net^
@@ -25044,6 +25044,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cdn.holmesmind.com^
 ||cdn.hot-mob.com^
 ||cdn.hpplay.com.cn^
+||cdn.iads.unity3d.com^
 ||cdn.iclicash.com^
 ||cdn.img.kachapt.cn^
 ||cdn.img.liuxingyul.cn^
@@ -25653,6 +25654,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||check-packages.pl^
 ||check-point-verify.com^
 ||check-product-error-now.online^
+||check-tcp.rayjump.com^
 ||check-tl-ver-12-3.com^
 ||check-tl-ver-12-3.com^$popup
 ||check-tl-ver-12-8.top^
@@ -48779,6 +48781,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||i-mobile.co.jp^
 ||i-pko-oix.keylink.click^
 ||i-ready.curriculumassociates.com^
+||i-sdk.mediation.unity3d.com^
 ||i-svzgrtibs.rocks^
 ||i.adsame.com^
 ||i.airtel.in^
@@ -53079,6 +53082,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||jambwe.transsibinfo.com^
 ||jamminds.com^$popup
 ||jams.wiki^
+||jamspeed.pro^
 ||jamstech.store^$popup
 ||jan19.zhiyueit.com^
 ||janapi.jd.com^
@@ -81247,6 +81251,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||restrictionsvan.com^
 ||restroomcalf.com^
 ||restructureinvention.com^
+||restyj.pro^
 ||resultedinncreas.com^
 ||resulticks.com^
 ||resultlinks.com^
@@ -84524,6 +84529,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sdk-android.ad.smaato.net^
 ||sdk-api-v1.singular.net^
 ||sdk-api.justtrack.io^
+||sdk-api.maticooads.com^
 ||sdk-assets-zy8pe3h4v8msjk6x2sq4.stackpathdns.com^
 ||sdk-assets.localytics.com^
 ||sdk-b.apptornado.com^
@@ -102160,6 +102166,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||trzymajnewsa.click^
 ||trzymamystraz.click^
 ||ts-update.com^
+||ts.amazon-adsystem.com^
 ||ts.delfi.lt^
 ||ts.popsugar.com^
 ||ts.syst-pltrade4.site^
@@ -110628,6 +110635,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.jabiciy9.pro^
 ||www.jade0ewel.xyz^
 ||www.jahazii7.pro^
+||www.jamspeed.pro^
 ||www.jarads.sa.com^
 ||www.jasmin2forer.click^
 ||www.javonbake.click^
@@ -111296,6 +111304,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.replyingmilkweed.pro^
 ||www.replyingspathiphyllum.pro^
 ||www.resilienceprozone.click^
+||www.restyj.pro^
 ||www.retirementadvisorinsights.com^
 ||www.reusableperiodpads.com^
 ||www.revilowet.click^
