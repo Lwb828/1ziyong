@@ -1,5 +1,5 @@
-! Version: 2024-12-25 09:14:37（北京时间） 
-! Total count: 115402
+! Version: 2024-12-25 20:31:11（北京时间） 
+! Total count: 115410
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -487,6 +487,7 @@ douyu.com##.Header-download-wrap
 douyu.com##.is-mask.MedalUserGuide
 douyu.com##div[class*=LiveRoomDianzan]
 douyu.com##div[class^="code_box"]
+dtimg.com^
 egame.qq.com###inner-container
 egame.qq.com##.left-menu-footer
 egame.qq.com##.live-list-guess
@@ -29110,6 +29111,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cpaway.com^
 ||cpayard.com^$popup
 ||cpays.com^
+||cpc-service-square.aiclk.com^
 ||cpc.88rpg.net^
 ||cpc.9v.cn^
 ||cpc.cc^
@@ -58795,6 +58797,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||logoshejishi.mairuan.com^
 ||logql.yahoo.co.jp^
 ||logr-ingest.com^
+||logrcv.aiclk.com^
 ||logresempales.shop^
 ||logrocket.io^
 ||logs-api.shoprunner.com^
@@ -72324,6 +72327,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||osrxzucira.com^
 ||oss-asq-static.11222.cn^
 ||oss.cdn.adintl.cn^
+||oss.cdn.aiclk.com^
 ||ossfloetteor.com^
 ||ossfloetteor.com^$popup
 ||ossgogoaton.com^
@@ -81310,6 +81314,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||reusable-flex.com^
 ||reusableperiodpads.com^
 ||rev-stripe.com^
+||rev.aiclk.com^
 ||rev.frankspeech.com^
 ||rev2pub.com^
 ||rev4rtb.com^
@@ -100528,6 +100533,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||trace.zhiyan.tencent-cloud.net^
 ||tracead.com^
 ||traceless.me^
+||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
 ||tracemyip.org^
 ||tracenieswiadomosci.click^
@@ -103908,6 +103914,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||update.wtag.adaptv.advertising.com^
 ||update.yams-com.top^
 ||update.yobox.cloud^
+||update0.aiclk.com^
 ||updateadvancedgreatlytheproduct.vip^
 ||updatecenter.qq.com^
 ||updatecompletelyfreetheproduct.vip^
@@ -104288,6 +104295,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||uspse.click^
 ||uspssadsg.cfd^
 ||uspsu.click^
+||usr-api.aiclk.com^
 ||usr.interactiveone.com^
 ||usris.gradspeeches.com^
 ||usrkrz.zdravcity.ru^
