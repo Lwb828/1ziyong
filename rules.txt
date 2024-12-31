@@ -1,5 +1,5 @@
-! Version: 2024-12-30 20:32:04（北京时间） 
-! Total count: 115594
+! Version: 2024-12-31 09:14:59（北京时间） 
+! Total count: 115601
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -924,6 +924,7 @@ news.qq.com##.download-banner-wrap
 news.qq.com##.download-content.mr28.download-wrapper
 news.qq.com##.godown.qqcom_fb-item
 note.youdao.com##.top-btns
+ns
 oneplusbbs.com###bbsRegisterGuide
 oneplusbbs.com##li[style*="position: relative; border: 0px;"]
 pingwest.com##.article-bottom-bd
@@ -2754,7 +2755,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||4-72comcncnx.click^
 ||4-72comcno.click^
 ||4-72comcnzon.click^
-||4-72comco.click^
 ||4.adsco.re^
 ||4.afs.googleadservices.com^
 ||4008813318.com.cn^
@@ -10174,7 +10174,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.oxyshop.cz^
 ||ads.oyungemisi.com^
 ||ads.p.veruta.com^
-||ads.page-communitys-pravite.com^
 ||ads.panoramtech.net^
 ||ads.paper.li^
 ||ads.par.vip.prod.criteo.com^
@@ -16242,6 +16241,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.bitmango.com^
 ||api.bitp.it^
 ||api.bizographics.com^
+||api.blinkmuse.com^
 ||api.bluecore.com^
 ||api.boclinkads.com^
 ||api.boomtrain.com^
@@ -24393,7 +24393,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||canadapostpostescanada0.top^
 ||canadapostpostescanada1.top^
 ||canadapostpostescanada2.top^
-||canadapostpostescanada3.top^
 ||canadapostpostescanada4.top^
 ||canadapostpostescanada5.top^
 ||canadapostpostescanada6.top^
@@ -25992,6 +25991,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||christians.lifeway.com^
 ||christiantop1000.com^
 ||christiepointadvocates.com^
+||chrome-browser-download.com^
 ||chronicads.com^
 ||chronicle.medal.tv^
 ||chroniclesugar.com^
@@ -38002,7 +38002,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||elsbfby.com^
 ||elsewherebuckle.com^$popup
 ||elsewhereopticaldeer.com^
-||elta-couriergr.click^
 ||elte-coukier.click^
 ||eltex.co.jp^
 ||elthamely.com^
@@ -39586,7 +39585,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||evri.mapuok.click^
 ||evri.pa-cake.click^
 ||evri.paco-kg-e.click^
-||evri.pea-ok.click^
 ||evri.pintoresteg.click^
 ||evri.poa-kut.click^
 ||evri.poessge.click^
@@ -40182,6 +40180,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||facebook.locationactor.click^
 ||facebookane.click^
 ||facebookk-mobice.click^
+||faceebook-mobile.click^
 ||faceit.bitaccept.pro^
 ||faceit.eloconnect.pro^
 ||faceit.live-elo.pro^
@@ -44138,6 +44137,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||girnalnemean.com^
 ||girtijoo.com^
 ||gishejuy.com^
+||gishpurer.shop^$popup
 ||gismoarette.top^
 ||gitajwl.com^
 ||gitcrumbs.com^
@@ -47116,6 +47116,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||heloisessa.com^
 ||helove.xyz^
 ||help-advertisesupportpages.com^
+||help-case3523.click^
 ||help-center-for-business-open-appeal.mkt5support.cyou^
 ||help-center-for-business-open-case.mkt6support.cyou^
 ||help-center-for-business-open-case.reappeal.cyou^
@@ -48855,7 +48856,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||i-ready.curriculumassociates.com^
 ||i-sdk.mediation.unity3d.com^
 ||i-svzgrtibs.rocks^
-||i-update.top^
 ||i.adsame.com^
 ||i.airtel.in^
 ||i.americanblinds.com^
@@ -64071,6 +64071,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||messengerreinsomething.com^
 ||messiahstickvestry.pro^
 ||messsomehow.com^
+||messyadvance.com^
 ||messyoranges.com^
 ||mestmoanful.shop^
 ||mestreqa.com^
@@ -64087,6 +64088,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||meta.video.qiyi.com^
 ||meta4-group.com^
 ||metaadvertisingsupportsolution.com^
+||metaauth.click^
 ||metabet.api.areyouwatchingthis.com^
 ||metabet.static.api.areyouwatchingthis.com^
 ||metadsp.co.uk^
@@ -65639,6 +65641,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||meubonus.com^
 ||mevarabon.com^
 ||mevarabon.com^$popup
+||meverdal.click^
 ||mewgzllnsp.com^
 ||mewrutx.top^
 ||mews2ruck.com^
@@ -68616,6 +68619,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||nefdcnmvbt.com^
 ||negationomitor.com^
 ||negative-might.pro^
+||negative-speed.pro^
 ||neglectblessing.com^
 ||negligentpatentrefine.com^
 ||negolist.com^
@@ -69405,7 +69409,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||nkewdzp.com^
 ||nkfinsdg.com^
 ||nkfith.xyz^
-||nkibxs.click^
 ||nkjkvn.xyz^
 ||nkljaxdeoygatfw.xyz^
 ||nkmsite.com^
@@ -76485,7 +76488,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||postm7ofzdo.click^
 ||postmodernism.click^
 ||postnrdse.click^
-||postofficecon.click^
 ||postquare.com^
 ||postrachdnia.click^
 ||postrelease.com^
@@ -79397,6 +79399,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||quartermedia-ad-service.net^
 ||quartic.pl^
 ||quaruzon.com^
+||quasaha.click^
 ||quasarcouhage.top^
 ||quaternnerka.com^
 ||quatrefeuillepolonaise.xyz^
@@ -79656,6 +79659,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||r-ad.linkshare.jp^
 ||r-ad.ne.jp^
 ||r-dev.urbansitter.net^
+||r-glement-n-cessaire-votre-statut-mohammad7935salimi959894.codeanyapp.com^
 ||r-gpasegz.vip^
 ||r-q-e.com^
 ||r-tb.com^
@@ -80459,6 +80463,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||recyclingproverbintroduce.com^
 ||red-bees.com^
 ||red-direct-n.com^$popup
+||red-just-fit.click^
 ||red-shell.speedrun.com^
 ||red-track.xyz^
 ||redadisappoi.info^
@@ -94423,6 +94428,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||steinfqwe6782beck.com^
 ||steinsala.viessmann.lu^
 ||stel.telegraaf.nl^
+||stella-nova.click^
 ||stellar-dating2.fun^
 ||stellarmingle.store^$popup
 ||stellaservice.com^
@@ -105161,7 +105167,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vd.l.qq.com^
 ||vda.17173.com^
 ||vdacon-pts.click^
-||vdaconza.click^
 ||vdapprecv.app.cntvwb.cn^
 ||vdbaa.com^
 ||vdcom-za.click^
@@ -105312,6 +105317,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vereforhedidno.info^
 ||vergi-gwc.com^$popup
 ||verifiablevolume.com^
+||verification.cretxet.click^
 ||verification.jiguang.cn^
 ||verified-download.com^
 ||verifier.live^
@@ -109968,6 +109974,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.api.agendall.com^
 ||www.api.appfacebook.pl^
 ||www.api.axiatraders.com^
+||www.api.blinkmuse.com^
 ||www.api.lux-link.shop^
 ||www.api.miniatm.com.br^
 ||www.api.mobilecoveragemap.com^
