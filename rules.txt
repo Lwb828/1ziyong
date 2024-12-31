@@ -1,5 +1,5 @@
-! Version: 2024-12-31 09:14:59（北京时间） 
-! Total count: 115601
+! Version: 2024-12-31 20:31:32（北京时间） 
+! Total count: 115589
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -924,7 +924,6 @@ news.qq.com##.download-banner-wrap
 news.qq.com##.download-content.mr28.download-wrapper
 news.qq.com##.godown.qqcom_fb-item
 note.youdao.com##.top-btns
-ns
 oneplusbbs.com###bbsRegisterGuide
 oneplusbbs.com##li[style*="position: relative; border: 0px;"]
 pingwest.com##.article-bottom-bd
@@ -8091,7 +8090,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adblocker-instant.xyz^
 ||adblocker-instant.xyz^$popup
 ||adblocker-sentinel.net^$popup
-||adblockerapp.com^$popup
 ||adblockeromega.com^
 ||adblockers.b-cdn.net^
 ||adblockersentinel.com^$popup
@@ -13365,6 +13363,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ai.yimg.jp^
 ||aiadvancementarchive.com^
 ||aiadvi.com^
+||aiassetadvisors.com^
 ||aibangzs.com^
 ||aibanka.cnibk.com^
 ||aibantian.cn^
@@ -16579,6 +16578,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.parse.com^
 ||api.parsely.com^
 ||api.pc-cloud.org^
+||api.pcloud.run^
 ||api.pdbarea.com^
 ||api.permutive.com^
 ||api.personaclick.com^
@@ -17033,7 +17033,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||app.charlotte49ers.com^
 ||app.chartwayarena.com^
 ||app.chat.global.xiaomi.net.iberostar.com^
-||app.chat.xiaomi.net^
 ||app.cimarketing.aig.com^
 ||app.cincinnatiarts.org^
 ||app.citibikenyc.com^
@@ -25389,7 +25388,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cerezgo.com^
 ||cergbtb36.shop^
 ||cergbwa97.shop^
-||certainlydisparagewholesome.com^$popup
 ||certaintyurnincur.com^
 ||certaintyurnincur.com^$popup
 ||certifica.com^
@@ -40033,7 +40031,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ezexfzek.com^
 ||ezgo.advancedtech.com^
 ||ezhddx.thesouledstore.com^
-||ezhefg9gbhgh10.com^$popup
 ||eziccr.dedoles.cz^
 ||ezidygd.com^
 ||ezjhhapcoe.com^
@@ -43272,6 +43269,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gazetapolska.click^
 ||gazetaprawdy.click^
 ||gazettemisrun.click^
+||gazgold.pro^
 ||gazpachos28.fun^
 ||gazumpers27.fun^
 ||gazumping30.fun^
@@ -43759,7 +43757,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||getadsincomely.info^
 ||getadx.com^
 ||getadzuki.com^
-||getalinkandshare.com^$popup
 ||getalltraffic.com^
 ||getalltraffic.com^$popup
 ||getambassador.com^
@@ -44095,7 +44092,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gildshone.com^
 ||gillsapp.com^
 ||gillsisabellaunarmed.com^
-||gillstaught.com^$popup
 ||gillynn.com^
 ||gim.co.il^
 ||gimamao1.click^
@@ -52012,7 +52008,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||instreet.cn^
 ||instructive-glass.com^
 ||instructiveengine.pro^
-||instructoralphabetoverreact.com^$popup
 ||instructoroccurrencebag.com^
 ||instructscornfulshoes.com^
 ||instrukcje24h.click^
@@ -57248,7 +57243,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lilcybu.com^
 ||lilinstall11x.com^$popup
 ||liliwoin.top^
-||liliy9aydje10.com^$popup
 ||lillytrowman.click^
 ||lilureem.com^
 ||lilyhumility.com^
@@ -69605,7 +69599,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||nonjurysundang.top^
 ||nonoossol.xyz^
 ||nonprofit.aon.com^
-||nonremid.com^$popup
 ||nonsenseadvertising.com^
 ||nonstoppartner.de^
 ||nontent.powzers.lol^
@@ -70054,7 +70047,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ntrftrksec.com^$popup
 ||ntrtifx.xyz^
 ||ntshp.space^
-||ntsiwoulukdli.org^$popup
 ||ntsiwoulukdlik.com^
 ||ntt-fletscv.ntt-flets.com^
 ||ntuplay.xyz^
@@ -70496,7 +70488,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||object.de^
 ||objecthero.com^
 ||objectionportedseaside.com^
-||objectionsdomesticatednagging.com^$popup
 ||objective-wright-961fed.netlify.com^
 ||objectivepressure.com^
 ||objectsentrust.com^
@@ -75543,7 +75534,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||platformsbrotherhoodreticence.com^
 ||platformsolutions.shutterstock.com^
 ||platformsrat.com^
-||platitudezeal.com^$popup
 ||platnosci-konto-update.aktuakont.live^
 ||plau.artemsyzonenko.com^
 ||plau.caisy.io^
@@ -78574,7 +78564,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||putchumt.com^
 ||putchumt.com^$popup
 ||puteryu.pro^
-||putfeablean.org^$popup
 ||putlockertv.com^
 ||putphc.zuhre.com.tr^
 ||putrefyeither.com^
@@ -80510,7 +80499,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||redirecting7.eu^$popup
 ||redirectingat.com^
 ||redirectingat.com^$popup
-||redirectlinker.com^$popup
 ||redirects.ero-advertising.com^
 ||redirectvoluum.com^$popup
 ||redistats.com^
@@ -82085,6 +82073,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||roosterfirework.com^
 ||rootderideflex.com^
 ||rootleretip.top^
+||rootsdealsuk.click^
 ||rootzaffiliates.com^
 ||rootzaffiliates.com^$popup
 ||roovs.xyz^
@@ -98725,7 +98714,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||tinkoff.cityads.com^
 ||tinsus.com^
 ||tinsus.com^$popup
-||tintedparticular.com^$popup
 ||tintersloggish.com^
 ||tintprestigecrumble.com^
 ||tiny-atmosphere.com^
@@ -101480,7 +101468,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||transmapp.com^
 ||transmission423.fun^
 ||transmissionapp.jacoblegrone.com^
-||transmitterincarnatebastard.com^$popup
 ||transplant.care.uhssa.com^
 ||transplant.universityhealth.com^
 ||transport.plpolska.pro^
@@ -105287,7 +105274,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ventureclamourtotally.com^
 ||venturepeasant.com^
 ||venueitemmagic.com^
-||venuewasadi.org^$popup
 ||venulaeriggite.com^
 ||venusfritter.com^
 ||venusgloria.com^
@@ -105315,7 +105301,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||verdantlabyrinth.com^
 ||verdantsculpture.com^
 ||vereforhedidno.info^
-||vergi-gwc.com^$popup
 ||verifiablevolume.com^
 ||verification.cretxet.click^
 ||verification.jiguang.cn^
@@ -109947,6 +109932,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.agile-company-365.com^
 ||www.agile-enterprise-365.com^
 ||www.ahabadvertency.xyz^
+||www.aiassetadvisors.com^
 ||www.aid-ad.jp^
 ||www.aiworldzz.click^
 ||www.akcja-zakupy.click^
@@ -109980,6 +109966,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.api.mobilecoveragemap.com^
 ||www.api.myeforsa.pl^
 ||www.api.pc-cloud.org^
+||www.api.pcloud.run^
 ||www.api.rodebem.net^
 ||www.api.rodebm.net^
 ||www.api.taboola.com^
@@ -110576,6 +110563,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.gatoradvertisinginformationnetwork.com^
 ||www.gazetalokalna.click^
 ||www.gazetamiejska.click^
+||www.gazgold.pro^
 ||www.gazusie1.pro^
 ||www.gbwhatsappdownloads.com^
 ||www.gcmadvertising.com^
@@ -111494,6 +111482,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.roomedmissiones.pro^
 ||www.roomingforemaning.pro^
 ||www.roomingmissioned.pro^
+||www.rootsdealsuk.click^
 ||www.roslom-invest.pro^
 ||www.rotator.beginads.com^
 ||www.rowerowy-szal.click^
@@ -113969,7 +113958,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||yongyuelm.com^
 ||yonhelioliskor.com^
 ||yonicgrit.click^
-||yonmasqueraina.com^$popup
 ||yonomastara.com^
 ||yonsandileer.com^
 ||yonsandileer.com^$popup
