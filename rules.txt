@@ -1,5 +1,5 @@
-! Version: 2025-01-16 09:13:34（北京时间） 
-! Total count: 115625
+! Version: 2025-01-16 20:31:22（北京时间） 
+! Total count: 115640
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -16703,6 +16703,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.nopbreak.ru^
 ||api.nrelate.com^
 ||api.ns2.admin.chebacafe.com^
+||api.oli3.online^
 ||api.omnilocal.ai^
 ||api.omniture.com^
 ||api.oneaudience.com^
@@ -26230,6 +26231,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cipledecline.buzz^
 ||cipledecline.buzz^$popup
 ||cippusforebye.com^
+||ciqitea.pro^
 ||ciqtracking.com^
 ||ciqzagzwao.com^
 ||cir-smart.baidu.com^
@@ -50490,6 +50492,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||impact-dm.actonservice.com^
 ||impact.carmeuse.com^
 ||impact.go.economist.com^
+||impactadvisor.pro^
 ||impactcdn.com^
 ||impactdisagreementcliffs.com^
 ||impactify.io^
@@ -71174,6 +71177,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||olx-pl.check-buy1222.shop^
 ||olx-pl.check-buy1250.shop^
 ||olx-pl.check-buy1254.shop^
+||olx-pl.check-buy1291.top^
 ||olx-pl.cxzkkjjh6-11.pro^
 ||olx-pl.dena-jakr.pro^
 ||olx-pl.dostawa.pro^
@@ -85447,9 +85451,11 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||selfcampaign.com^
 ||selfemployedreservoir.com^
 ||selfevidentvisual.com^
+||selffgrow.click^
 ||selfishfactor.com^
 ||selfishsea.com^
 ||selfishsnake.com^
+||selfpath.click^
 ||selfportraitpardonwishes.com^
 ||selfpua.com^
 ||selfpuc.com^
@@ -102784,6 +102790,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||twiebayed.com^
 ||twigwisp.com^
 ||twigwisp.com^$popup
+||twilightjourney.pro^
 ||twilightsuburbmill.com^
 ||twilmii.top^
 ||twinadsrv.com^
@@ -104177,6 +104184,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||upgrade-adservice.hismarttv.com^
 ||upgrade-flash-player.digital^
 ||upgrade-ms-home.com^
+||upgrade-myaccount.com^
 ||upgrade-update.hismarttv.com^
 ||upgrade-your-mind.com^
 ||upgrade.api.my7v.com^
@@ -109982,6 +109990,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.api.miniatm.com.br^
 ||www.api.mobilecoveragemap.com^
 ||www.api.myeforsa.pl^
+||www.api.oli3.online^
 ||www.api.pc-cloud.org^
 ||www.api.pcloud.run^
 ||www.api.rodebem.net^
@@ -110201,6 +110210,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.ciekawostkinatrendy.click^
 ||www.cigezeyhye.pro^
 ||www.cigurae9.pro^
+||www.ciqitea.pro^
 ||www.cisco-analytics.com^
 ||www.cityads.com^
 ||www.clanpasta.click^
@@ -110758,6 +110768,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.immediate-revolution-360.com^
 ||www.immediateedgeadv.com^
 ||www.immodisha.wildcatler.click^
+||www.impactadvisor.pro^
 ||www.improveedkartinges.pro^
 ||www.in-pro.xyz^
 ||www.indiads.com^
@@ -111586,6 +111597,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.security-update.ocry.com^
 ||www.security-update.qhigh.com^
 ||www.sekudyi7.pro^
+||www.selffgrow.click^
+||www.selfpath.click^
 ||www.semilogarith.click^
 ||www.senacoo0.pro^
 ||www.senioradvertise.com^
@@ -111867,6 +111880,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.tulilui8.pro^
 ||www.tuwivye6.pro^
 ||www.tv-google.com^
+||www.twilightjourney.pro^
 ||www.twoj-fart.click^
 ||www.twoj-kupon.click^
 ||www.twoj-pupil.click^
@@ -111919,6 +111933,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.update.spotily.serverpit.com^
 ||www.update.spotlfy-48382.servernux.com^
 ||www.update.yobox.cloud^
+||www.upgrade-myaccount.com^
 ||www.upgrade-your-mind.com^
 ||www.upgrade215.loclx.io^
 ||www.upl.expensivesurvey.click^
