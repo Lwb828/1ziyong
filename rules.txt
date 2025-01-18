@@ -1,5 +1,5 @@
-! Version: 2025-01-18 09:11:24（北京时间） 
-! Total count: 115677
+! Version: 2025-01-18 20:28:12（北京时间） 
+! Total count: 115680
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -74,6 +74,7 @@
 @@||api.sec.intl.miui.com^$document
 @@||api.sec.miui.com^$document
 @@||api.twitter.com^$document
+@@||api.union.vip.com^$document
 @@||api.unipay.qq.com^$document
 @@||app.adjust.com^
 @@||app.adjust.com^$document
@@ -16883,6 +16884,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.uca.cloud.unity3d.com^
 ||api.ujian.cc^
 ||api.umbel.com^
+||api.union.vip.com/*/advert
 ||api.union.vip.com^
 ||api.uniplayad.com^
 ||api.unthem.com^
@@ -49717,6 +49719,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||image.thermoscientific.com^
 ||image.ttyouma.cn^
 ||image.upages.cn^
+||imageads.codoon.com^
 ||imageads.sexmoney.com^
 ||imageadvantage.net^
 ||imagedvdreview.analytics.qlook.net^
