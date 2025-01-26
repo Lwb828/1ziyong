@@ -1,5 +1,5 @@
-! Version: 2025-01-26 09:16:05（北京时间） 
-! Total count: 116028
+! Version: 2025-01-26 20:28:05（北京时间） 
+! Total count: 116030
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -38398,6 +38398,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||email-test.wirexapp.com^
 ||email-tw.americanexpress.com^
 ||email.aceleration.click^
+||email.advantages.best^
 ||email.agfuse.com^
 ||email.apexauctions.com^
 ||email.app.theiconic.com.au^
@@ -110837,6 +110838,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.eloninvesting.pro^
 ||www.elonmsk.pro^
 ||www.email.aceleration.click^
+||www.email.advantages.best^
 ||www.email.authenticatoin.click^
 ||www.emails.departsment.click^
 ||www.emonitoring-polska.click^
