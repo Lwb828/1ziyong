@@ -1,5 +1,5 @@
-! Version: 2025-01-30 09:12:43（北京时间） 
-! Total count: 116150
+! Version: 2025-01-30 20:31:27（北京时间） 
+! Total count: 116152
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -48600,6 +48600,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||hottraffic.nl^
 ||hotwire-widget.dailywire.com^
 ||hotwords.com^
+||hotxpromo.com^$popup
 ||houbliu.top^
 ||houdodoo.net^
 ||houfopsichoa.com^
@@ -48908,6 +48909,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||huceeckeeje.com^
 ||hucupei5.pro^
 ||hudhno.jdsports.es^
+||hue4c.com^$popup
 ||hueads.com^
 ||hueads.com^$popup
 ||hueadsortb.com^
