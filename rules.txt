@@ -1,5 +1,5 @@
-! Version: 2025-01-31 09:14:02（北京时间） 
-! Total count: 116175
+! Version: 2025-01-31 20:31:09（北京时间） 
+! Total count: 116180
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -448,6 +448,8 @@ c.m.163.com##.fixedOpenNewsapp
 c.m.163.com##.js-open-newsapp.s-top > .s-btn
 c.m.163.com##.openNewsapp
 c.m.163.com##.qr
+chat.deepseek.com##div:has(> .ds-icon + span)
+chat.deepseek.com##div:has(> .ds-icon[style*="width: 28px"][style*="height: 28px"])
 chinaso.com###Fixed_app
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
@@ -677,9 +679,6 @@ jianshu.com##div[aria-label="抽奖关闭"]
 jianshu.com##div[class$="_0"]
 jianshu.com##div[class^=baidu-app-download]
 jianshu.com#?#div[role="button"]:contains(抽奖)
-jikipedia.com##.components-container
-jikipedia.com##.cursor.link.app-link
-jikipedia.com##.download-link
 jingyan.baidu.com##.fresh-share-exp-e
 jingyan.baidu.com##.task-panel-entrance
 jr.jd.com###app-jr
@@ -692,6 +691,7 @@ ke.com##.app-down
 ke.com##.app_content
 ke.com##.app_daoliu_layer
 ke.com##.download
+kimi.moonshot.cn##.app-download
 limbopro.xyz###a_d_sider
 limbopro.xyz###disqus_thread
 limbopro.xyz##.grecaptcha-badge
@@ -1095,6 +1095,8 @@ tmall.com##.mui-mbarp-qrcode-hd-d.mui-mbarp-qrcode-hd
 tmall.com##.mui-mbarp-qrcode-tip
 tmall.com##.sn-mobile
 tmall.com##div[style*="z-index: 99999; display: block;"]
+tongyi.aliyun.com##div[class^="downloadWrap"]
+tongyi.aliyun.com##li:has(> i > svg[data-spm-anchor-id])
 up.woozooo.com##.ves
 userstyles.org###top_android_button
 userstyles.org##.android_button_banner
@@ -1195,6 +1197,8 @@ xiaohongshu.com##.user-notes-clo-layout-container.user-notes-box
 xiaohongshu.com##.wx-open-launch-app-container
 xiaomiyoupin.com##.fixed-nav > li:nth-of-type(2)
 xiaomiyoupin.com##.site-item.m-download.fl
+xinghuo.xfyun.cn##div[class*="download_btn"]
+xinghuo.xfyun.cn##div[class*="jump_btn"]:contains(下载APP)
 xw.qq.com###opeApp
 xw.qq.com###recommend-modules
 xw.qq.com###taskTips
@@ -1241,6 +1245,7 @@ youku.com##.callEnd_fixed_box
 youku.com##.downloadApp.icon
 youku.com##div[class*="Corner-container"]
 youku.com##div[class^="clip"]
+yuanbao.tencent.com##.icon-yb-downapp
 yystv.cn##.fixed-container
 yystv.cn##.flex-box.flex.top-nav-download
 yystv.cn##li:nth-of-type(7) > [href="/app/download"]
