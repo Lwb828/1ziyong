@@ -1,5 +1,5 @@
-! Version: 2025-02-02 20:27:43（北京时间） 
-! Total count: 116305
+! Version: 2025-02-03 09:14:53（北京时间） 
+! Total count: 116304
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -23721,7 +23721,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bulkyfriend.com^
 ||bull3t.co^
 ||bullads.net^
-||bullads.net^$popup
 ||bulldogcpi.com^
 ||bulletinquantumflow.click^
 ||bulletinwarmingtattoo.com^
