@@ -1,5 +1,5 @@
-! Version: 2025-02-04 09:14:02（北京时间） 
-! Total count: 116304
+! Version: 2025-02-04 20:32:22（北京时间） 
+! Total count: 116305
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -388,6 +388,7 @@ acfun.cn##.app-guide
 acfun.cn##.download-app
 amap.com##.app-download-panel
 amap.com##.app_download_box
+an.com##.talion-nav-footer
 avmoo.sbs###movie-share
 avmoo.sbs##.visible-xs-block.pt-10.text-center
 avmoo.sbs##h4
