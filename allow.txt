@@ -1,5 +1,5 @@
-! Version: 2025-02-07 09:15:22（北京时间） 
-! Total count: 1506
+! Version: 2025-02-07 20:31:41（北京时间） 
+! Total count: 1508
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1007,6 +1007,7 @@
 @@||app.adjust.com^$document
 @@||app.chat.xiaomi.net^$document
 @@||app.home.360.cn^
+@@||app.powerbi.com^
 @@||app.toutiao.com^
 @@||appconf.heytapdownload.com^$document
 @@||appdownload.alicdn.com^$document
@@ -1453,6 +1454,7 @@
 @@||tracker.ai.xiaomi.com^$document
 @@||tracker.eu.org^
 @@||tracking-protection.cdn.mozilla.net^
+@@||tracking.doordash.com^
 @@||tracking.epicgames.com^
 @@||trackings.post.japanpost.jp^
 @@||ttwid.bytedance.com^
