@@ -1,5 +1,5 @@
-! Version: 2025-02-11 20:32:38（北京时间） 
-! Total count: 116770
+! Version: 2025-02-12 09:15:02（北京时间） 
+! Total count: 116775
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -29958,7 +29958,9 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cryptomcw.com^
 ||cryptonoter.com^
 ||cryptopotato.net^
+||cryptopuffs.io^$popup
 ||cryptowallet24.pro^
+||cryptowheel.net^$popup
 ||cryptvalue.com^
 ||crystal-blocker.com^$popup
 ||crystalapp.miguvideo.com^
@@ -63754,6 +63756,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||masklink.org^$popup
 ||maskone.maskproj.click^
 ||masonopen.com^
+||masonrycruor.shop^$popup
 ||masoweinfo24.click^
 ||masowemediowe.click^
 ||masqueradeentrustveneering.com^
@@ -76692,6 +76695,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||poarigkurihka.pro^
 ||poasotha.com^
 ||poavoabe.net^
+||poawooptugroo.com^$popup
 ||pobierzteraz.mobi^
 ||pobliba.info^
 ||pobsedrussakro.net^
@@ -81685,6 +81689,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||reonews.pl^
 ||reopensnews.com^
 ||reople.co.kr^
+||reorganizeache.com^$popup
 ||reorganizeglaze.com^
 ||rep0pkgr.com^
 ||rep1gnzzss.click^
