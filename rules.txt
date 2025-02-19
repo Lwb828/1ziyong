@@ -1,5 +1,5 @@
-! Version: 2025-02-19 09:15:42（北京时间） 
-! Total count: 114774
+! Version: 2025-02-19 20:30:26（北京时间） 
+! Total count: 114777
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -25544,6 +25544,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||chefattend.com^
 ||chefishoani.com^
 ||chekrilsoumpoab.net^
+||chekrilsoumpoab.net^$popup
 ||cheksoam.com^
 ||chelonebarpost.com^
 ||chelsea.clicks.hqo.co^
@@ -28578,6 +28579,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||corruptsolitaryaudibly.com^
 ||cors.hot-mob.com^
 ||cortellisconnections.thomsonreuters.com^
+||corupaylogged.shop^$popup
 ||corusads.dserv.ca^
 ||corveseiren.com^
 ||cos1999.top^
@@ -103833,6 +103835,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||usherhaze.click^
 ||ushoofop.com^
 ||usingageghoaft.net^
+||usingageghoaft.net^$popup
 ||usingantecedent.com^
 ||usingde.com^
 ||usingyourcard.americanexpress.co.uk^
