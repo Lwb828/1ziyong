@@ -1,4 +1,4 @@
-! Version: 2025-02-24 20:34:04（北京时间） 
+! Version: 2025-02-25 09:17:24（北京时间） 
 ! Total count: 116338
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
@@ -85044,7 +85044,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||servicing.unitedautocredit.net^
 ||serving-ad.tv24.vn^
 ||serving-sys.com^
-||serving-sys.com^$popup
 ||serving.ad.org.vn^
 ||servingcdn.net^
 ||servingserved.com^
@@ -113880,6 +113879,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||xppedxgjxcajuae.xyz^
 ||xps.huk.de^
 ||xps.huk24.de^
+||xpvv0rkn.fun^$popup
 ||xpxsfejcf.com^
 ||xpygen.unger-fashion.com^
 ||xpzswr.shasa.com^
