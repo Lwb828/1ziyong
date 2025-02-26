@@ -1,5 +1,5 @@
-! Version: 2025-02-26 09:17:10（北京时间） 
-! Total count: 1501
+! Version: 2025-02-26 20:33:33（北京时间） 
+! Total count: 1503
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1098,6 +1098,8 @@
 @@||client-uc.heytapmobi.com^$important,document
 @@||clientlog*music.163.com^$document
 @@||clientlog3.music.163.com^$document
+@@||clientlogdep.music.163.com^document
+@@||clientlogsf.music.163.com^$document
 @@||cloudcontrol.live.360.cn^
 @@||cm-10-*.getui.com^
 @@||cn.pornhub.com^$document
