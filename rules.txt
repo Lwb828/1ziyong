@@ -1,5 +1,5 @@
-! Version: 2025-02-27 09:17:29（北京时间） 
-! Total count: 117118
+! Version: 2025-02-27 20:33:26（北京时间） 
+! Total count: 117120
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -40355,6 +40355,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||faukoochoogroo.net^
 ||faultycanvas.com^
 ||faultyfowl.com^
+||faunugraipt.com^$popup
 ||fauphoaglu.net^
 ||fausamoawhisi.net^
 ||fauseepetoozuk.xyz^
@@ -115541,6 +115542,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||yomxt.icu^
 ||yonabrar.com^
 ||yonazurilla.com^
+||yonbearticor.com^$popup
 ||yonelectrikeer.com^
 ||yong.chazidian.com^
 ||yongv.com^
