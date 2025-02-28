@@ -1,5 +1,5 @@
-! Version: 2025-02-28 09:17:49（北京时间） 
-! Total count: 117014
+! Version: 2025-02-28 20:32:49（北京时间） 
+! Total count: 117017
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -37373,6 +37373,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||effectiveperformancenetwork.com^
 ||effectiveperformancenetwork.com^$popup
 ||effectiveratecpm.com^
+||effectiveratecpm.com^$popup
 ||effectscouncilman.com^
 ||effectuallylazy.com^
 ||effegybat.click^
@@ -47675,6 +47676,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||hoachalaide.net^
 ||hoadaphagoar.net^
 ||hoadaphagoar.net^$popup
+||hoalaicheey.com^$popup
 ||hoanoola.net^
 ||hoardjan.com^
 ||hoardpastimegolf.com^
@@ -67953,6 +67955,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||natychmiastoweinfo.click^
 ||naubme.info^
 ||naucaish.net^
+||naugaugair.com^$popup
 ||naughtyadserve.com^
 ||naughtynotice.pro^
 ||naukawiedza.click^
