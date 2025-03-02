@@ -1,5 +1,5 @@
-! Version: 2025-03-02 09:21:52（北京时间） 
-! Total count: 1503
+! Version: 2025-03-02 20:29:26（北京时间） 
+! Total count: 1505
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1176,6 +1176,8 @@
 @@||game.res.meizu.com^$document
 @@||gecko.zijieapi.com^
 @@||gia.jd.com^$document
+@@||gips1.baidu.com^$document
+@@||gips2.baidu.com^$document
 @@||gitee.com^
 @@||gitee.io^
 @@||gk.sina.cn^
