@@ -1,5 +1,5 @@
-! Version: 2025-03-04 09:18:39（北京时间） 
-! Total count: 123241
+! Version: 2025-03-04 20:34:06（北京时间） 
+! Total count: 123242
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -30040,6 +30040,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||client-logger.beta.salemove.com^
 ||client-logger.salemove.com^
 ||client-metrics.chess.com^
+||client.app.coc.10086.cn^
 ||client.aps.amazon-adsystem.com^
 ||client.perimeterx.net^
 ||client.rave-api.com^
