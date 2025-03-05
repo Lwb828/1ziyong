@@ -1,5 +1,5 @@
-! Version: 2025-03-04 20:34:06（北京时间） 
-! Total count: 1505
+! Version: 2025-03-05 09:19:38（北京时间） 
+! Total count: 1511
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1263,6 +1263,7 @@
 @@||mangacopy.com^
 @@||market.xiaomi.com^$document
 @@||mcs.snssdk.com^$document
+@@||mcs.zijieapi.com^$document
 @@||mdevstat.qqlive.qq.com^$document
 @@||mdm.openapi.360.cn^
 @@||me-api.jd.com^$document
@@ -1370,6 +1371,7 @@
 @@||quoracdn.net^
 @@||qwhdcdn.cmcc-cs.cn^
 @@||qzonestyle.gtimg.cn^
+@@||rcs.cmpassport.com^$document
 @@||register*mi.com^
 @@||register.xmpush.xiaomi.com^$document
 @@||report.passport.360.cn^
@@ -1387,7 +1389,11 @@
 @@||s.yimg.com^
 @@||samsungknox.com^
 @@||saveu*-normal-lf.zijieapi.com^
+@@||saveu*.zijieapi.com^$document
 @@||saveu.zijieapi.com^
+@@||saveu.zijieapi.com^$document
+@@||saveu3-normal-lq.zijieapi.com^$document
+@@||saveu5-normal-lq.zijieapi.com^$document
 @@||sax.sina.com.cn^
 @@||sax.sina.com.cn^$document
 @@||scan.call.f.360.cn^
