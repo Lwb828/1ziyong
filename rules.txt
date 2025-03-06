@@ -1,4 +1,4 @@
-! Version: 2025-03-05 20:36:00（北京时间） 
+! Version: 2025-03-06 09:18:48（北京时间） 
 ! Total count: 123175
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
@@ -329,6 +329,8 @@
 @@||soup.v.qq.com^$document
 @@||sp0.baidu.com^$document
 @@||sp2.baidu.com^$document
+@@||srv.sec.intl.miui.com^$document
+@@||srv.sec.miui.com^$document
 @@||ss.phncdn.com^$document
 @@||ssl-cdn.static.browser.mi-img.com^$document
 @@||ssl.msdk.qq.com^$document
@@ -13391,7 +13393,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adskp.org^
 ||adskpak.com^
 ||adskpak.com^$popup
-||adsks.io^
 ||adslanding.com^
 ||adslidango.com^
 ||adslivecorp.com^
@@ -14461,7 +14462,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||advertising.yahoo.com^
 ||advertising.yahooinc.com^
 ||advertising.yandex.ru^
-||advertising.yandex.uluphill.com^
 ||advertising365.com^
 ||advertisingagencyinfaridabad.com^
 ||advertisingbait.postaffiliatepro.com^
@@ -17135,6 +17135,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||analytics.mindjolt.com^
 ||analytics.ml.homedepot.ca^
 ||analytics.mlstatic.com^
+||analytics.mng.ninlaunches.appsflyersdk.com^
 ||analytics.mobadme.jp^
 ||analytics.mobiedu.vn^
 ||analytics.mobile-cdn.walmart.com.akadns.net^
@@ -22739,7 +22740,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||b42rracj.com^
 ||b43.dcntr-ads.com^
 ||b43ad69b542.johncornell.com^
-||b45.dcntr-ads.com^
 ||b46.oss-cn-hongkong.aliyuncs.com^
 ||b477.life^
 ||b4xuj.zzhhts.com^
@@ -37660,6 +37660,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||diva.adsndtrackify.xyz^
 ||divavillage.advertserve.com^
 ||dive4.click^
+||dive77kt.com^$popup
 ||divehope.com^
 ||divekcl7q9fxi.cloudfront.net^
 ||divergeimperfect.com^
@@ -44492,7 +44493,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fengying5.com^
 ||fengyx.com^
 ||fenixm.com^
-||fenlandbaitsandleads.com^
 ||fenomeninformacyjny.click^
 ||fenoofaussut.net^
 ||fenqihome.com^
@@ -56049,6 +56049,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||int.dpool.sina.com.cn^
 ||int.gen.adsrvr.org^
 ||intab.fun^$popup
+||intadx.com^
 ||intake-analytics.wikimedia.org^
 ||intake-lr.com^
 ||inte.sogou.com^
@@ -60169,6 +60170,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||l7u3kf.cn^
 ||l936.expressnews.com^
 ||l9bdhcgihw.neihanw.com^
+||la-appsflyersdk.com^
 ||la-la-moon.com^
 ||la-la-sf.com^
 ||la.idgenterprise.com^
@@ -61102,7 +61104,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lf29-common-ckv-tos.pstatp.com^
 ||lf3-ad-platform.byteadverts.com^
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
-||lf3-ad-union-sdk.uinoa-personal-identify-prod.sense360eng.com^
 ||lf3-common-ckv-tos.pstatp.com^
 ||lf3-sf-be-pack-sign.pglstatp-toutiao.com^
 ||lf30-common-ckv-tos.pstatp.com^
@@ -77789,7 +77790,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||padspms.com^
 ||padssup.com^
 ||padsthai.com^
-||padstm.com^
 ||padsw.polaeva.fun^
 ||padtue.xyz^
 ||padv.co.il^
@@ -81900,7 +81900,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||profitsence.com^
 ||profitsfly.com^
 ||profitshare.ro^
-||profiwww.doubleadserve.com^
 ||profoundbagpipeexaggerate.com^
 ||profoundflourishing.com^
 ||profs-mastr.ofishlprog3.click^
@@ -87662,6 +87661,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||s.qtad.qingting.fm^
 ||s.qzkxt.com^
 ||s.repguard.uk^
+||s.richaudience.cappsflyersdk.com^
 ||s.rocoads.net^
 ||s.rosettastone.co.uk^
 ||s.rosettastone.com^
@@ -117375,6 +117375,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.encyclopediacriminalleads.com^
 ||www.energydrinkadverts.com^
 ||www.enjoyadsplatform.com^
+||www.enue.appsflyersdk.com^
 ||www.eonads.com^
 ||www.epargnez.adp.ca^
 ||www.epe.whkiyvzt.click^
@@ -117479,7 +117480,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.fireworkadservices1.com^
 ||www.firstclick.pro^
 ||www.fiscalfocus.click^
-||www.fivetrafficroads.com^
 ||www.fixly.pro^
 ||www.fizzymingle.pro^
 ||www.flagads.net^
@@ -117903,6 +117903,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.instinctiveads.com^
 ||www.insulevel24.pro^
 ||www.insurads.com^
+||www.intadx.com^
 ||www.intelligenceadx.com^
 ||www.inter1ads.com^
 ||www.interactiveads.ai^
@@ -117989,7 +117990,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.k9offh-upqs.click^
 ||www.kagurmicro.pro^
 ||www.kaivina25.click^
-||www.kajads.com^
 ||www.kajnicte.click^
 ||www.kds.ero-advertising.com^
 ||www.kefereo4.pro^

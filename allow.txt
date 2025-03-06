@@ -1,5 +1,5 @@
-! Version: 2025-03-05 20:36:00（北京时间） 
-! Total count: 1511
+! Version: 2025-03-06 09:18:48（北京时间） 
+! Total count: 1513
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1422,6 +1422,8 @@
 @@||sp0.baidu.com^$document
 @@||sp2.baidu.com^$document
 @@||speed.live.360.cn^
+@@||srv.sec.intl.miui.com^$document
+@@||srv.sec.miui.com^$document
 @@||ss.phncdn.com^$document
 @@||ssl-cdn.static.browser.mi-img.com^$document
 @@||ssl.msdk.qq.com^
