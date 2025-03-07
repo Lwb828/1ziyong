@@ -1,5 +1,5 @@
-! Version: 2025-03-06 20:34:12（北京时间） 
-! Total count: 1513
+! Version: 2025-03-07 09:20:17（北京时间） 
+! Total count: 1516
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -997,6 +997,7 @@
 @@||api.ke.com^
 @@||api.m.jd.com^$document
 @@||api.miui.security.xiaomi.com^$document
+@@||api.neixin.cn^$document
 @@||api.open.uc.cn^$document
 @@||api.sec.intl.miui.com^$document
 @@||api.sec.miui.com^$document
@@ -1399,6 +1400,7 @@
 @@||scan.call.f.360.cn^
 @@||sdk-api.beizi.biz^$document
 @@||sdk.live.360.cn^
+@@||sdk.ptqy.gitv.tv^$document
 @@||sdkapi.sms.mob.com^
 @@||sdkapi.sms.mob.com^$document
 @@||sdkconfig.ad.xiaomi.com^$important
@@ -1442,6 +1444,7 @@
 @@||store.meizu.com^$document
 @@||succeedscene.com^
 @@||sugar.zhihu.com^$document
+@@||sugs.m.sm.cn^$document
 @@||survey.feelgood.cn^
 @@||t.uc.cn^$document
 @@||t7z.cupid.iqiyi.com^$document
