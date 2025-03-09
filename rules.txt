@@ -1,5 +1,5 @@
-! Version: 2025-03-09 09:09:19（北京时间） 
-! Total count: 119570
+! Version: 2025-03-09 20:24:24（北京时间） 
+! Total count: 119572
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -1091,6 +1091,7 @@ tieba.baidu.com##.post-cut-guide
 tieba.baidu.com##.post-page-entry-btn
 tieba.baidu.com##.recommend-list
 tieba.baidu.com##.recommend-title
+tieba.baidu.com##.tbui_fbar_down.tbui_aside_fbar_button
 tieba.baidu.com##.top-guide-wrap.top-guide
 tieba.baidu.com##div[class*="appPromote"]
 tieba.baidu.com##div[class*="fixed-nav-bar nav-bar-wrapper"]
@@ -28560,6 +28561,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||chalconvex.top^
 ||chalkedretrieval.com^
 ||chalkoil.com^
+||chalkplayground.co^$popup
 ||challenge.cityads.com^
 ||challengeh.carte-gr.total.fr^
 ||challengers-tv.pro^
