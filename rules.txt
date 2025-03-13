@@ -1,5 +1,5 @@
-! Version: 2025-03-13 09:19:48（北京时间） 
-! Total count: 118900
+! Version: 2025-03-13 20:34:45（北京时间） 
+! Total count: 118901
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -117159,6 +117159,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||yezilm.com^
 ||yezztf.pinkelephant.co.kr^
 ||yf5.voyage-prive.at^
+||yf9pkk1q.com^$popup
 ||yfanads.cn^
 ||yfanads.com^
 ||yfaqgk.xyz^
