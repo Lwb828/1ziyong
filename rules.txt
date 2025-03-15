@@ -1,5 +1,5 @@
-! Version: 2025-03-15 09:18:02（北京时间） 
-! Total count: 118527
+! Version: 2025-03-15 20:30:33（北京时间） 
+! Total count: 118532
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -8413,6 +8413,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adashx.ut.amap.com^
 ||adashx.ut.ele.me^
 ||adashx.ut.taobao.com^
+||adashx.ut.uc.cn^
 ||adashx.ut.youku.com^
 ||adashx4ae.ut.taobao.com^
 ||adashx4yt.m.taobao.com^
@@ -20467,6 +20468,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||applixir.com^
 ||applk.cn^
 ||applocalads.site^
+||applog-perf.uc.cn^
 ||applog.lc.quark.cn^
 ||applog.musical.ly^
 ||applog.reader.qq.com^
@@ -49012,8 +49014,10 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gzzbb.net^
 ||gzzkjdam.cn^
 ||gzzuwo.com^
+||h-adashx.ut.amap.com^
 ||h-adashx.ut.ele.me^
 ||h-adashx.ut.taobao.com^
+||h-adashx.ut.uc.cn^
 ||h-adashx.ut.youku.com^
 ||h-adashx4ae.ut.taobao.com^
 ||h-adashx4yt.ut.taobao.com^
@@ -84734,6 +84738,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||rzuokcobzru.com^
 ||rzzlhfx.com^
 ||s-ad.rmp.rakuten.co.jp^
+||s-adashx.ut.uc.cn^
 ||s-adobe.wacoal.jp^
 ||s-adobeanalytics.vice.com^
 ||s-ads.innovid.com.edgekey.net^
