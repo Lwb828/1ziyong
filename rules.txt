@@ -1,5 +1,5 @@
-! Version: 2025-03-18 09:19:42（北京时间） 
-! Total count: 118692
+! Version: 2025-03-18 20:35:04（北京时间） 
+! Total count: 118705
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -14510,6 +14510,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adw.gomtv.com^
 ||adw.heraldm.com^
 ||adw.sapo.pt^
+||adw9.com^$popup
 ||adwadvert.com.ua^
 ||adwalte.info^
 ||adwasu.wasu.tv^
@@ -21945,6 +21946,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||aws.dsp.madserving.com^
 ||awsclic.com^$popup
 ||awsexam.quantresear.ch^
+||awsmads.com^
 ||awstaticdn.net^
 ||awstats.cloud^
 ||awsurveys.com^
@@ -28299,6 +28301,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cheerycraze.com^
 ||cheerysavouryridge.com^
 ||cheerysequelhoax.com^
+||cheerytwist.pro^
 ||cheese.guac.live^
 ||cheesoulairs.xyz^
 ||cheesydrinks.com^
@@ -49849,6 +49852,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||heroesdom.com^
 ||heroinalerttactical.com^
 ||heromainland.com^
+||herpeesaco.pro^
 ||herpes2.pa-ruit.jp^
 ||herringgloomilytennis.com^
 ||herringlife.com^
@@ -53107,6 +53111,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||impatientlyastonishing.com^
 ||impavidmarsian.com^
 ||impeccablewriter.com^
+||impelmordi.pro^
 ||impendtewter.com^
 ||imperativetheirs.com^
 ||imperfectinstrument.com^
@@ -57208,6 +57213,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||jyvkwqjremjbj.top^
 ||jyvyfuu4.pro^
 ||jywczbx.com^
+||jyxocou.pro^
 ||jyxzrb.xyz^
 ||jyyqzt.sledstore.se^
 ||jyyzvb.careerindex.jp^
@@ -57516,6 +57522,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||keedaipa.xyz^
 ||keefeezo.net^
 ||keefeezo.net^$popup
+||keefoocauby.com^$popup
 ||keegoagrauptach.net^
 ||keen-slip.com^
 ||keenmagwife.live^
@@ -81376,6 +81383,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||quadran.eu^
 ||quagfa.com^
 ||quaintborder.com^
+||quaintbreeze.pro^
 ||quaintcan.com^
 ||quaintlake.com^
 ||quaintmembershipprobably.com^
@@ -113099,6 +113107,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.avsads.com^
 ||www.awazne-tvn24.adsraja.com^
 ||www.awmads.com^
+||www.awsmads.com^
 ||www.axungspifl.pro^
 ||www.ayads.co^
 ||www.ayads.io^
@@ -113300,6 +113309,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.cheerfulechoes.pro^
 ||www.cheerfulexpressions.pro^
 ||www.cheerfulpulse.pro^
+||www.cheerytwist.pro^
 ||www.chengzijianzhan.com^
 ||www.cherryzap.pro^
 ||www.chocoadventurejoy631.sbs^
@@ -113873,6 +113883,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.hedyluy3.pro^
 ||www.hehaway3.pro^
 ||www.hekinay2.pro^
+||www.herpeesaco.pro^
 ||www.hgads.com^
 ||www.hibaryu8.pro^
 ||www.hidewui3.pro^
@@ -113958,6 +113969,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.immediate-revolution-360.com^
 ||www.immediateedgeadv.com^
 ||www.impactadvisor.pro^
+||www.impelmordi.pro^
 ||www.improperadvantages.com^
 ||www.imyanmarads.com^
 ||www.in-appadvertising.com^
@@ -114072,6 +114084,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.jupiteringarounding.pro^
 ||www.jusomuu6.pro^
 ||www.juvocao9.pro^
+||www.jyxocou.pro^
 ||www.kagurmicro.pro^
 ||www.kds.ero-advertising.com^
 ||www.kefereo4.pro^
@@ -114119,7 +114132,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.lead-analytics-1000.com^
 ||www.leadboltads.net^
 ||www.leadgidads.ru^
-||www.leadingimproveballast.pro^
 ||www.leads.goldenshovel.com^
 ||www.leads.su^
 ||www.leadsafehousing.org^
@@ -114233,7 +114245,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.maralgel.pro^
 ||www.markadver.com^
 ||www.marketplaceadsonline.com^
-||www.markettadvisor.buzz^
 ||www.marklokdinvest.pro^
 ||www.marsads.com^
 ||www.massage-corp.space^
@@ -114683,6 +114694,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.qomubaa4.pro^
 ||www.qovaluo3.pro^
 ||www.qqads.com^
+||www.quaintbreeze.pro^
 ||www.qualityadverse.com^
 ||www.qualityleadskeitaro.website^
 ||www.quedsadsast.com^
@@ -115243,7 +115255,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.vobarokinvesting.pro^
 ||www.vofolie.pro^
 ||www.voiceads.cn^
-||www.volitionads.com^
 ||www.volkin-invest.pro^
 ||www.voltasfond.pro^
 ||www.vonanyu5.pro^
@@ -115251,7 +115262,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.vrheads.com^
 ||www.vrtzads.com^
 ||www.vsiogladko.pro^
-||www.vudicuy3.pro^
 ||www.vyfolao5.pro^
 ||www.vyk.admaster.com.cn^
 ||www.wado2023.org^
@@ -115332,6 +115342,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.wx.idealnalfigura.com^
 ||www.wx.zzti.skin^
 ||www.wxadserve.xyz^
+||www.wyhicuu.pro^
 ||www.wypad3k0.blogspot.com^
 ||www.wytecui6.pro^
 ||www.x2tesla-event.pro^
@@ -115359,6 +115370,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.xujamye3.pro^
 ||www.xuporea4.pro^
 ||www.xynter-invest.pro^
+||www.xyvifii.pro^
 ||www.y-ads.net^
 ||www.yachtadve.xyz^
 ||www.yachtdivis.pro^
@@ -115399,7 +115411,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.zeusadx.com^
 ||www.zexawai0.pro^
 ||www.zifowua6.pro^
-||www.zilygau1.pro^
 ||www.zingylingo.pro^
 ||www.zipahei1.pro^
 ||www.zirelo-rokise.pro^
@@ -115615,6 +115626,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wyeczfx.com^
 ||wyelmp.vidaxl.si^
 ||wyglyvaso.com^
+||wyhicuu.pro^
 ||wyhifdpatl.com^
 ||wyisloe.top^
 ||wylmzwklklywm.top^
@@ -116646,6 +116658,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||xysefte.icu^
 ||xysgfqnara.xyz^
 ||xytcboyz.icu^
+||xyvifii.pro^
 ||xywlapi.cc^
 ||xyxgbs.lezhin.com^
 ||xyxy01.com^
