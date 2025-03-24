@@ -1,5 +1,5 @@
-! Version: 2025-03-24 09:22:32（北京时间） 
-! Total count: 110217
+! Version: 2025-03-24 20:36:04（北京时间） 
+! Total count: 110269
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -1065,6 +1065,7 @@ taobao.com##.show.J_TWeiTaoPopup.weitao-popup
 taobao.com##.smartbanner-wrapper
 taobao.com#?#button:contains(打开手机淘宝)
 taptap.com##.open-app-button
+tb.voiceads.cn^
 tech.sina.com.cn##.zc-app
 tech.sina.com.cn##.zc-app-btn.right-bar-btn
 thepaper.cn###QRcode
@@ -6214,6 +6215,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||abtaurosa.club^
 ||abtest-ch.snssdk.com^
 ||abtest.alibaba.com^
+||abtest.mistat.xiaomi.com^
 ||abtfliping.top^
 ||abtrcker.com^
 ||abtrcker.com^$popup
@@ -6302,6 +6304,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||access.iprolive.com^
 ||access.sunpower.com^
 ||access.vidox.net^
+||access1.tpns.tencent.com^
 ||access2.ipro.net^
 ||accesshomeinsurance.co^
 ||accesshomeinsurance.co^$popup
@@ -7893,7 +7896,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad39.checkm8.com^
 ||ad39digital.checkm8.com^
 ||ad3digital.checkm8.com^
-||ad3g.com^
 ||ad4.ad-srv.net^
 ||ad4.adfarm1.adition.com^
 ||ad4.api.ero-advertising.com^
@@ -9627,6 +9629,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.bigchurch.com^
 ||ads.bigfoot.com^
 ||ads.biggerboat.com^
+||ads.bighappy.co^
 ||ads.bigrebelads.com^
 ||ads.bing.com^
 ||ads.bingads.microsoft.com^
@@ -10602,6 +10605,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.senmanga.com^
 ||ads.seovietnam.pro^
 ||ads.servebom.com^
+||ads.servedxk.com^
 ||ads.servenobid.com^
 ||ads.service.kugou.com^
 ||ads.serving-sys.cn^
@@ -10721,6 +10725,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.taigamengay.biz^
 ||ads.talkbusiness.net^
 ||ads.talkingpointsmemo.com^
+||ads.talkscreativity.com^
 ||ads.tapdaq.com^
 ||ads.tapnative.com^
 ||ads.tarrobads.com^
@@ -14188,6 +14193,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||aiia.xin^
 ||aiieer.mangnut2.com^
 ||aiiirwciki.com^
+||aikanvod.miguvideo.com^
 ||aikat-vim.com^
 ||aikhra.londonclub.sk^
 ||aikkits.com^
@@ -14864,6 +14870,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||amcmuhu.com^
 ||amdahlryes.com^
 ||amdc.alipay.com^
+||amdc.m.taobao.com^
 ||amdcopen.m.taobao.com^
 ||amelatrina.com^
 ||amelatrina.com^$popup
@@ -16555,6 +16562,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.aimtell.com^
 ||api.aio.media^
 ||api.airbrake.io^
+||api.airpush.com^
 ||api.aixifan.com^
 ||api.aklamio.com^
 ||api.albacross.com^
@@ -16632,6 +16640,9 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.betlv.com^
 ||api.bidmachine.io^
 ||api.bigmobileads.com^
+||api.bilibili.com/pgc/season/player/cards
+||api.bilibili.com/x/v2/dm/ad
+||api.bilibili.com/x/vip/ads
 ||api.bingads.microsoft.com^
 ||api.birdmedia.com^
 ||api.bitmango.com^
@@ -16943,6 +16954,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.logg9r.io^
 ||api.luckyorange.com^
 ||api.lumex.space^
+||api.lumiapps.io^
 ||api.lunamedia.io^
 ||api.lux-link.shop^
 ||api.lytics.io^
@@ -17302,6 +17314,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.tvpage.com^
 ||api.tw06.xlmc.sec.miui.com^
 ||api.twibida.com^
+||api.twyne.io^
 ||api.tx4.pw.adn.cloud^
 ||api.u-launcher.com^
 ||api.uca.cloud.unity3d.com^
@@ -17598,6 +17611,10 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||app.bible.com^
 ||app.biblelens.com^
 ||app.bikeep.com^
+||app.bilibili.com/x/v2/feed/index?$replace=/ad_info//
+||app.bilibili.com/x/v2/splash/list
+||app.bilibili.com/x/v2/splash/show
+||app.bilibili.com/x/v2/view?$replace=/ad_info//
 ||app.bimbaylola.com^
 ||app.bloombergconnects.org^
 ||app.bluehens.com^
@@ -20979,6 +20996,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bcc-ads.com^
 ||bcdllh.esprit.co.uk^
 ||bcdn-god.we-stats.com^
+||bce.baidu.com^
 ||bce.bj.ad.track.66mobi.com^
 ||bcfeedback.taobao.com^
 ||bcfgwi.skidxb.com^
@@ -30282,6 +30300,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||d1.adsplay.net^
 ||d1.cnr.cn^
 ||d1.handdiy.com^
+||d1.music.126.net^
 ||d1.showself.com^
 ||d1.sina.com.cn^
 ||d1.sinaimg.cn^
@@ -34624,7 +34643,10 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dotui.cn^
 ||dotyruntchan.com^
 ||dotyruntchan.com^$popup
+||douban.com/*/*_ads
+||douban.com/api/v2/home_ads
 ||douban.com/count/
+||douban.com/v2/app_ads
 ||double-check.com^
 ||double.net^
 ||doubleadsclick.com^
@@ -34951,6 +34973,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dradvice.in^$popup
 ||draftbeware.com^
 ||draftedorgany.com^
+||dragate-cn.dc.heytapmobi.com^
 ||dragdisrespectmeddling.com^
 ||dragfault.com^$popup
 ||dragzebra.com^
@@ -35308,6 +35331,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dtylhedgelnham.com^
 ||dtyry4ejybx0.cloudfront.net^
 ||dtzrrz.green-japan.com^
+||du.163.com^
 ||du.biqukan.com^
 ||du.jd.com^
 ||du002iv2rxh4h.cloudfront.net^
@@ -36678,6 +36702,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||eco.hn765f.xyz^
 ||eco.myt7th.xyz^
 ||eco.qasdw3.xyz^
+||eco.taobao.com^
 ||eco.vng25.xyz^
 ||ecollector-advancelocal.sophi.io^
 ||ecomadserver.com^
@@ -38332,6 +38357,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||eredrubygsworlo.com^
 ||eredthechildre.info^
 ||ereflewoverthecit.info^
+||ereg.adobe.com^
 ||eremployeesihighl.com^
 ||erenchinterried.pro^
 ||ereportz.com^
@@ -39021,6 +39047,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||evt.24.com^
 ||evt.houzz.com^
 ||evt.mxplay.com^
+||evtubescms.phncdn.com^
 ||evtwkkh.com^
 ||evupmg.olehenriksen.com^
 ||evushuco.com^
@@ -40166,6 +40193,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fewkittens.com^
 ||fewrfie.com^$popup
 ||fex.bdstatic.com^
+||fexclick.baidu.com^
 ||fexyop.com^
 ||feyauknalyticafr.com^
 ||ff.doubleclick.net^
@@ -43593,6 +43621,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||glxtest.site^
 ||glzsji.nordman.ru^
 ||gm.gds.mmstat.com^
+||gm.mmstat.com^
 ||gm.mob.com^
 ||gm.uc003.com^
 ||gm99.com^
@@ -49092,6 +49121,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||img1.mini.cache.wps.cn^
 ||img1.pszyzxh.org^
 ||img11.biyan8.com^
+||img14.360buyimg.com^
 ||img16.diyifanwen.com^
 ||img18.com^
 ||img2.578965.com^
@@ -50772,6 +50802,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||interestsmoke.com^
 ||interestsubsidereason.com^
 ||interface*.music.163.com/eapi/ad
+||interface.music.163.com/eapi/ad
+||interface3.music.163.com/eapi/ad
 ||interfacemotleyharden.com^
 ||interference350.fun^
 ||intergi.com^
@@ -51266,6 +51298,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||is-log.furunavi.jp^
 ||is-tracking-pixel-api-prod.appspot.com^
 ||is.lg.com^
+||is.snssdk.com^
 ||is02041qqp.xyz^
 ||is02050qqp.xyz^
 ||is686.com^
@@ -54386,6 +54419,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||l.player.ooyala.com^
 ||l.post2b.com^
 ||l.prk.bz^
+||l.qq.com^
 ||l.redcross.or.ke^
 ||l.rovo.co^
 ||l.siply.in^
@@ -56508,6 +56542,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||live-a-live.com^
 ||live-api.immomo.com^
 ||live-api.oncustomer.asia^
+||live-trace.bilibili.com^
 ||live.alljobs.co.il^
 ||live.comunicaciones.jetstereo.com^
 ||live.cxo.name^
@@ -61210,6 +61245,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||mathtag.com^
 ||mathtype.cn^
 ||maticalmasterouh.info^
+||maticooads.com^
 ||matildawu.online^
 ||matildawu.online^$popup
 ||matiro.com^
@@ -66429,6 +66465,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||news-info.gcgfinancial.com^
 ||news-jelafa.com^
 ||news-jivera.com^
+||news-l.play.aiseet.atianqi.com^
 ||news-l.play.cp81.ott.cibntv.net^
 ||news-l.play.ott.video.qq.com^
 ||news-log.lsttnews.com^
@@ -70069,6 +70106,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||p-advg.com^
 ||p-analytics.life^
 ||p-digital-server.com^
+||p-l.play.aiseet.atianqi.com^
 ||p-log.ykimg.com^
 ||p-ozlugxmb.top^
 ||p-td.com^
@@ -77413,6 +77451,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||resolution.taxdefensenetwork.com^
 ||resolve.umeng.com^
 ||resolver.msg.global.xiaomi.net.iberostar.com^
+||resolver.msg.xiaomi.net^
 ||reson8.com^
 ||resonance.pk^
 ||resonantbrush.com^
@@ -80884,6 +80923,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sdk-ab-config.qquanquan.com^
 ||sdk-analytics.inlocomedia.com^
 ||sdk-android.ad.smaato.net^
+||sdk-api-sg.maticooads.com^
+||sdk-api-us.maticooads.com^
 ||sdk-api-v1.singular.net^
 ||sdk-api.justtrack.io^
 ||sdk-api.maticooads.com^
@@ -81009,7 +81050,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sdk.moneyoyo.com^
 ||sdk.n-analytics.io^
 ||sdk.native123.com^
-||sdk.navnow.xyz^
 ||sdk.ocmhood.com^
 ||sdk.open.amp.igexin.com^
 ||sdk.open.extension.getui.com^
@@ -81070,7 +81110,10 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sdkclick.com^
 ||sdkclick.mobile.sina.cn^
 ||sdkconf.avlyun.com^
+||sdkconfig.ad.global.xiaomi.com^
+||sdkconfig.ad.india.xiaomi.com^
 ||sdkconfig.ad.intl.xiaomi.com^
+||sdkconfig.ad.rus.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 ||sdkconfig.play.aiseet.atianqi.com^
 ||sdkconfig.video.qq.com^
@@ -86942,6 +86985,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sofaitdoo-sofascore.adsbynimbus.com^
 ||sofinpushpile.com^
 ||sofinpushpile.com^$popup
+||sofire.baidu.com^
 ||sofire.bdstatic.com^
 ||sofire.terabox.app^
 ||soflopxl.com^
@@ -87473,6 +87517,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||soundingdisastereldest.com^
 ||soundingthunder.com^
 ||soundstocking.com^
+||soup.v.qq.com^
 ||soupilique.xyz^
 ||souptightswarfare.com^
 ||soupytry.pro^
@@ -87556,6 +87601,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sp.wndoor.com^
 ||sp.wvoil.com^
 ||sp.yixui.com^
+||sp0.baidu.com^
 ||sp3.cndm.com^
 ||spa-tracker.spapi.io^
 ||spa.admissions.ucdenver.edu^
@@ -89393,6 +89439,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||static.popads.net^
 ||static.premiumads.com.br^
 ||static.pureadsltd.com^
+||static.res.qq.com^
 ||static.rongkao.com^
 ||static.sellbuyshop.cn^
 ||static.sf-ads.io^
@@ -89435,6 +89482,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||statics.adanxing.com^
 ||statics.woozooo.com^
 ||staticsfs.host^
+||staticsns.cdn.bcebos.com^
 ||statictapcdn-a.akamaihd.net^
 ||staticxx.facebook.com^
 ||statigr.am^
@@ -91080,6 +91128,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sufferinguniversalbitter.com^
 ||sufferlatitude.com^
 ||suffixinstitution.com^
+||sugar.zhihu.com^
 ||sugarcurtain.com^
 ||sugardistanttrunk.com^
 ||sugarfriction.com^
@@ -96702,6 +96751,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||tracker.keywordintent.com^
 ||tracker.leadsius.com^
 ||tracker.marinsoftware.com^
+||tracker.maticooads.com^
 ||tracker.mca-analytics.com^
 ||tracker.mrpfd.com^
 ||tracker.mspy.com^
@@ -103334,6 +103384,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||web.care.sheppardpratt.org^
 ||web.care.uhssa.com^
 ||web.care.wakemed.org^
+||web.cdn.openinstall.io^
 ||web.cellfun.mobi^
 ||web.collaboration-access.com^
 ||web.collisionservices.com^
@@ -109433,6 +109484,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||zcnmjb.icu^
 ||zcnnn.com^
 ||zcode7.me^
+||zconfig.alibabausercontent.com^
 ||zcoptry.com^
 ||zcoup.com^
 ||zcrddj.icu^
