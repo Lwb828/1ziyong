@@ -1,5 +1,5 @@
-! Version: 2025-04-03 20:36:29（北京时间） 
-! Total count: 109072
+! Version: 2025-04-04 09:23:07（北京时间） 
+! Total count: 109075
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -1567,6 +1567,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||10c26a1dd6.com^
 ||10desires.com^
 ||10gtest.bj2cu.u3.ucweb.com^
+||10k8ovyv.art^$popup
 ||10nvejhblhha.com^
 ||10q6e9ne5.de^
 ||10sn95to9.de^
@@ -3137,6 +3138,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||626uc.com^
 ||62842068.xyz^
 ||62a77005fb.com^
+||62ad.com^$popup
 ||62ca04e27a.com^
 ||62zd0.icu^
 ||63-217-112-145.static.pccwglobal.net.iberostar.com^
@@ -9210,6 +9212,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads-bilek.com^
 ||ads-bitcoin.com^
 ||ads-brand-postback.unityads.unity3d.com^
+||ads-buf-nfl.yinzcam.com^
 ||ads-by.madadsmedia.com^
 ||ads-by.yieldselect.com^
 ||ads-cdn.fptplay.net^
@@ -13137,7 +13140,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||advertwizard.com^
 ||adverty.com^
 ||adverum.lt^
-||adverweb.cjenm.com^
 ||advfeeds.com^
 ||advg.agency^
 ||advg.jp^
@@ -33622,6 +33624,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dita6jhhqwoiz.cloudfront.net^
 ||ditdotsol.com^
 ||dithodackee.com^
+||ditingdecording.info^$popup
 ||ditwrite.com^
 ||divatea.pro^
 ||divavillage.advertserve.com^
