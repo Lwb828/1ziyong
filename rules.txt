@@ -1,5 +1,5 @@
-! Version: 2025-04-07 09:23:48（北京时间） 
-! Total count: 109007
+! Version: 2025-04-07 20:36:30（北京时间） 
+! Total count: 109030
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -6796,6 +6796,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad-plus.cn^
 ||ad-plus.com.tr^
 ||ad-renderer-assets.ads.sportradar.com^
+||ad-resources.brandcdn.com^
 ||ad-reward.play.aiseet.atianqi.com^
 ||ad-ru-01.p.adserv.ai^
 ||ad-ru-02.p.adserv.ai^
@@ -9781,6 +9782,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.co.com^
 ||ads.cobrad.com^
 ||ads.cocomobi.com^
+||ads.coingecko.com^
 ||ads.collegclub.com^
 ||ads.collegemix.com^
 ||ads.colombiaonline.com^
@@ -10512,7 +10514,9 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.pro-market.net^
 ||ads.proboards.com^
 ||ads.proc.cc^
+||ads.prod.webservices.mozgcp.net^
 ||ads.prod.wifog.com^
+||ads.production-public.tubi.io^
 ||ads.production.travelaudience.com^
 ||ads.profitsdeluxe.com^
 ||ads.profootballtalk.com^
@@ -12490,6 +12494,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adsrv.ea.com^
 ||adsrv.eacdn.com^
 ||adsrv.fashion.bg^
+||adsrv.hh.ru^
 ||adsrv.hpg.com.br^
 ||adsrv.iol.co.za^
 ||adsrv.keycaptcha.com^
@@ -15272,6 +15277,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||analytics.fsoft.com.vn^
 ||analytics.fuckingawesome.com^
 ||analytics.futuro360.com^
+||analytics.gadventures.com^
 ||analytics.gamedatacrunch.com^
 ||analytics.gameforge.de^
 ||analytics.gamesdrive.net^
@@ -16548,6 +16554,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.autoads.asia^
 ||api.autocompleteplus.com^
 ||api.autopilothq.com^
+||api.avo.app^
 ||api.avocet.io^
 ||api.aws.parking.godaddy.com^
 ||api.axept.io^
@@ -16649,6 +16656,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.crazyrocket.io^
 ||api.crispadvertising.com^
 ||api.crittercism.com^
+||api.crm.mandmdirect.com^
 ||api.csxsyp.cn^
 ||api.cupid.iqiyi.com^
 ||api.cupid.ptqy.gitv.tv^
@@ -16741,6 +16749,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.fyber.com^
 ||api.g1.junfull.com^
 ||api.g2.junfull.com^
+||api.gadgetgine.xyz^
 ||api.game-sdk.com^
 ||api.gameads.io^
 ||api.gameanalytics.com^
@@ -16776,6 +16785,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.hk.goforandroid.com^
 ||api.hoisin.hw.coocaatv.com^
 ||api.home.skysrt.com^
+||api.honeygain.com^
 ||api.hookupers.com^
 ||api.houston.advgo.net^
 ||api.htp.ad-scope.com.cn^
@@ -16814,6 +16824,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.inwemo.com^
 ||api.iperceptions.com^
 ||api.ipinfodb.com^
+||api.iproyal.com^
 ||api.ipstack.com^
 ||api.iris.tv^
 ||api.itaoxiaoshuo.com^
@@ -16824,6 +16835,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.jcpclick.com^
 ||api.jeeng.com^
 ||api.jetgadget.me^
+||api.jetgadget.xyz^
 ||api.jialiangad.com^
 ||api.jietuhb.com^
 ||api.joinmassive.com^
@@ -16993,11 +17005,13 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.parking.godaddy.com^
 ||api.parse.com^
 ||api.parsely.com^
+||api.pawns.app^
 ||api.pbbl.co^
 ||api.pbxai.com^
 ||api.pcloud.run^
 ||api.pcpitstop.com^
 ||api.pdbarea.com^
+||api.peer2profit.global^
 ||api.permutive.app^
 ||api.permutive.com^
 ||api.personaclick.com^
@@ -17013,7 +17027,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.playit2019.com^
 ||api.playtomic.com^
 ||api.plyair.com^
-||api.policeel.com^
 ||api.poll.aiseet.atianqi.com^
 ||api.popads.net^
 ||api.popcash.net^
@@ -17275,6 +17288,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.w.inmobi.com^
 ||api.wapa.taobao.com^
 ||api.waptest.taobao.com^
+||api.wavebrowser.co^
 ||api.webengage.com^
 ||api.webhop.me^
 ||api.webpush.jp^
@@ -18822,6 +18836,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||asacdn.com^
 ||asadcdn.com^
 ||asadirectrestof.com^
+||asadventure.tt.omtrdc.net^
 ||asafesite.com^
 ||asajojgerewebnew.com^
 ||asamgd.rossmann.de^
@@ -26624,6 +26639,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||clientsdk.bright-sdk.com^
 ||clientsdk.lum-sdk.io^
 ||clientsdk.luminati.io^
+||clientsdk.luminatinet.com^
 ||clientservices.googleapis.com^
 ||clifads.com^
 ||cliffestablishedcrocodile.com^
@@ -39387,7 +39403,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fast.icars.cc^
 ||fast.main-click.shop^
 ||fast2earn.com^
-||fastadsonline.com^
 ||fastanalytic.com^
 ||fastapi.net^
 ||fastcache.com.cn^
@@ -48378,6 +48393,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||imeijiajia.com^
 ||imeto.site^
 ||imetrix.it^
+||img-1000736.ad-score.com^
 ||img-ad-nex.com^
 ||img-ad.oupeng.com^
 ||img-bss.csdn.net^
@@ -60419,6 +60435,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||marrowleaves.com^
 ||marryingsakesarcastic.com^
 ||mars.jd.com^
+||mars.prod.ads.prod.webservices.mozgcp.net^
 ||marsads.com^
 ||marshagalea.com^
 ||marshalcurve.com^
@@ -61827,6 +61844,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||metrics.comparethemarket.com^
 ||metrics.confectionerynews.com^
 ||metrics.consumerreports.org^
+||metrics.consumersadvocate.org^
 ||metrics.contractingbusiness.com^
 ||metrics.conveniencestore.co.uk^
 ||metrics.converse.com^
@@ -64355,6 +64373,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||msads.net^
 ||msadsense.com^
 ||msadsscale.azureedge.net^
+||msadsscale.microsoft.com^
 ||msafoy.eyebuydirect.com^
 ||msbainfo.fbe.hku.hk^
 ||msclick2.kuwo.cn^
@@ -68781,6 +68800,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ositracker.com^
 ||osjpyw.dico.com.mx^
 ||oskiwood.com^
+||osm-ads-aka.delivery.roku.com^
 ||osmosedshrined.top^
 ||osnksi.czytam.pl^
 ||ospartners.xyz^
@@ -73004,6 +73024,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||prod-m-node-2111.ssp.advertising.com^
 ||prod-m-node-3111.ssp.advertising.com^
 ||prod-sponsoredads.mkt.zappos.com^
+||prod.ads.prod.webservices.mozgcp.net^
 ||prod.adspsp.com^
 ||prod.cm.publishers.advertising.a2z.com^
 ||prod.entry.video-ads.a2z.com^
@@ -81643,6 +81664,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||shlyapapodplesk.site^
 ||shoabibs.xyz^
 ||shoadessuglouz.net^
+||shoagloumtoamir.net^$popup
 ||shoarsaiglep.net^
 ||shoathuftussux.net^
 ||shocked-failure.com^
@@ -98631,6 +98653,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||unifiedwfo.verintsystemsinc.com^
 ||unifini.de^
 ||uniformadvantage.demdex.net^
+||uniformadvantage.tt.omtrdc.net^
 ||uniformadvantage3283141z.btttag.com^
 ||unifyaddition.com^
 ||unimhk.com^
