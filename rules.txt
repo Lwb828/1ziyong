@@ -1,5 +1,5 @@
-! Version: 2025-04-15 09:24:25（北京时间） 
-! Total count: 109447
+! Version: 2025-04-15 20:35:57（北京时间） 
+! Total count: 109455
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -6697,7 +6697,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad-display.diwodiwo.xyz^
 ||ad-display.wikawika.xyz^
 ||ad-distributorsstore.top^
-||ad-download.hismarttv.com^
 ||ad-drcn.dt.dbankcloud.cn^
 ||ad-drcn.dt.dbankcloud.com^
 ||ad-drcn.dt.hihonorcloud.cn^
@@ -6742,7 +6741,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad-im-cmg.streamguys1.com^
 ||ad-image.val.jp^
 ||ad-img.ve.vc^
-||ad-imp.hismarttv.com^
 ||ad-indicator.com^
 ||ad-info.val.jp^
 ||ad-interceptor.6cloud.fr^
@@ -21464,6 +21462,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||beqcoabc.com^
 ||beqioy.promessedefleurs.com^
 ||beqnnobwt.com^
+||berapt-medii.com^$popup
 ||berateveng.ru^
 ||berchchisel.com^
 ||bereaveconsciousscuffle.com^
@@ -21956,6 +21955,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bincatracs.com^
 ||bincatracs.com^$popup
 ||binderyvisage.shop^
+||bindirect.click^$popup
 ||bineukdwithme.com^
 ||bineukdwithmef.info^
 ||bineukdwithmef.org^
@@ -32898,6 +32898,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||deteql.net^
 ||determineworse.com^
 ||detestgaspdowny.com^
+||dethijohoagra.com^$popup
 ||dethrobdur.pro^
 ||detmir-stats.ru^
 ||detnmz.cuteness.com^
@@ -41968,6 +41969,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gaming-adult.com^
 ||gaming-adult.com^$popup
 ||gamingadlt.com^
+||gamingadlt.com^$popup
 ||gamingonline.top^
 ||gamingonline.top^$popup
 ||gammachug.com^
@@ -45352,6 +45354,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||hauchiwu.com^$popup
 ||haughtydistinct.com^
 ||haughtysafety.com^
+||haugloosigliwha.net^$popup
 ||hauhws.asgoodasnew.de^
 ||hauixd.halistores.com^
 ||hauledforewordsentimental.com^
@@ -56387,6 +56390,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||locdrop.query.yahoo.com^
 ||lockdowncautionmentally.com^
 ||locked-link.com^
+||locked-link.com^$popup
 ||lockeddippickle.com^
 ||lockerantiquityelaborate.com^
 ||lockerdome.com^
@@ -63280,6 +63284,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||mickosijacm.net^
 ||micodigo.com^
 ||micpn.com^
+||micro-xdb.com^
 ||micro.workplaceinvesting.fidelity.com^
 ||microad-cn.com^
 ||microad.co.jp^
@@ -64475,6 +64480,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||mqabjtgli.xyz^
 ||mqaoweu.icu^
 ||mqcoycx.icu^
+||mqdownload.com^$popup
 ||mqesfg.bpm-power.com^
 ||mqhaxf.keds.com^
 ||mqhuzk.soffadirekt.se^
@@ -71081,6 +71087,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pgssjxz.com^
 ||pgssl.com^
 ||pgt1.voyage-prive.es^
+||pguzquckxbb.com^$popup
 ||pgyfzyv.top^
 ||ph-ad01.focalink.com^
 ||ph-ad02.focalink.com^
@@ -101494,6 +101501,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vpxzunvaldxcp.world^
 ||vpydjogaytpg.xyz^
 ||vq1qi.pw^
+||vq4b0q.fun^$popup
 ||vqaj6smlmtpym.top^
 ||vqbidy.benetton.com^
 ||vqbzpv.xyz^
