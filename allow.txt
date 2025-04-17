@@ -1,5 +1,5 @@
-! Version: 2025-04-16 20:36:19（北京时间） 
-! Total count: 1516
+! Version: 2025-04-17 09:22:46（北京时间） 
+! Total count: 1529
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -952,6 +952,8 @@
 @@||ad-log-upload.mihoyo.com^
 @@||ad-putting.gw.zt-express.com^
 @@||ad.10010.com^$document
+@@||ad.12306.cn^$document
+@@||ad.3.cn^$document
 @@||ad.alimama.com^$document
 @@||ad.azure.com^
 @@||ad.cityu.edu.hk^
@@ -961,8 +963,17 @@
 @@||ad.mcloud.139.com^$document
 @@||ad.ourgame.com^$document
 @@||ad.siemens.com.cn^
+@@||ad.thsi.cn^$document
+@@||ad.vivo.com.cn^$document
+@@||ad4.on.cc^$document
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
+@@||addon.dismall.com^$document
+@@||adjs.8591.com.tw^$document
+@@||adnet.qq.com^$document
+@@||adnxs.com^$document
+@@||adobedtm.com^$document
 @@||ads.com^$document
+@@||ads.lingxing.com^$document
 @@||ads.privacy.qq.com^
 @@||ads.privacy.qq.com^$document
 @@||ads.taboola.com^
@@ -981,6 +992,7 @@
 @@||alissl.ucdl.pp.uc.cn^$document
 @@||als.baidu.com^$document
 @@||amdc.m.taobao.com^$document
+@@||android.push.126.net^$document
 @@||ap6.ssl.msdk.qq.com^$document
 @@||api-cn.store.heytapmobi.com^$document
 @@||api-cn.theme.heytapmobi.com^$document
@@ -1192,6 +1204,7 @@
 @@||haohuo.snssdk.com^$document
 @@||hot.browser.intl.miui.com^$document
 @@||hot.browser.miui.com^$document
+@@||httpdns.push.oppomobile.com^$document
 @@||i*.snssdk.com^$document
 @@||i.snssdk.com^$document
 @@||i2.y.qq.com^
