@@ -1,5 +1,5 @@
-! Version: 2025-04-19 09:19:48（北京时间） 
-! Total count: 115274
+! Version: 2025-04-19 20:31:45（北京时间） 
+! Total count: 115275
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -41959,6 +41959,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fouwheepoh.com^
 ||fouwheepoh.com^$popup
 ||fouwiphy.net^
+||fovcy1jg.pro^$popup
 ||fovdvoz.com^
 ||fovissstejavercancun.com^
 ||fox-news-checker.cc^
