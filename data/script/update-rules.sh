@@ -16,7 +16,7 @@ echo '下载规则'
 rules=(
  
 "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt"
-  "https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easylist/easylist_adservers_popup.txt"
+  "http://rssv.cn/adguard/api.php?type=black"晴雅
 
 "https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall.txt"
 
