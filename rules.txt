@@ -1,5 +1,5 @@
-! Version: 2025-04-21 09:26:46（北京时间） 
-! Total count: 111654
+! Version: 2025-04-21 20:35:20（北京时间） 
+! Total count: 111666
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -6237,6 +6237,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||accuserutility.com^
 ||accustomedinaccessible.com^
 ||acczutxti.com^
+||acd.op.hicloud.com^
+||acd.op.hihonorcloud.com^
 ||acdcdn.com^
 ||acdf115.cn^
 ||acdfwe113.cn^
@@ -13113,12 +13115,14 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn^
 ||adx-dra.op.dbankcloud.com^
 ||adx-dra.op.hicloud.com^
+||adx-dra.op.hihonorcloud.com^
 ||adx-drcn.op.dbankcloud.cn^
 ||adx-drcn.op.dbankcloud.com^
 ||adx-drcn.op.hihonorcloud.cn^
 ||adx-drcn.op.hihonorcloud.com^
 ||adx-dre.op.dbankcloud.com^
 ||adx-dre.op.hicloud.com^
+||adx-dre.op.hihonorcloud.com^
 ||adx-drru.op.dbankcloud.ru^
 ||adx-event.tradplusad.com^
 ||adx-exchange.toast.com^
@@ -38555,6 +38559,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||events.ocdn.eu^
 ||events.oddo-bhf.com^
 ||events.onet.pl^
+||events.op.hicloud.com^
+||events.op.hihonorcloud.com^
 ||events.paramount.tech^
 ||events.pella.com^
 ||events.practo.com^
@@ -67983,6 +67989,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||oovoonganeegry.xyz^
 ||oowkzpjo-o.click^
 ||op.88dush.com^
+||op.hicloud.com^
+||op.hihonorcloud.com^
 ||op00.biz^
 ||op00w.baiyangzs.com^
 ||op01.biz^
@@ -79912,6 +79920,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sdkoptedge.chinanetcenter.com^
 ||sdkpay.uu.cc^
 ||sdkrec.tf.360.cn^
+||sdkserver-drcn.op.dbankcloud.cn^
+||sdkserver-drcn.op.hihonorcloud.com^
 ||sdksitter.m.sjzhushou.com^
 ||sdksp.video.qq.com^
 ||sdktmp.hubcloud.com.cn^
@@ -98756,6 +98766,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||updservice.site^
 ||upeayz.eksisozluk.com^
 ||uperitrigo.pro^
+||upfile-drcn.platform.hicloud.com^
+||upfile-drcn.platform.hihonorcloud.com^
 ||upfmqr.carmensteffens.com.br^
 ||upgazsoffi.pro^
 ||upghnqupibm.com^
