@@ -1,5 +1,5 @@
-! Version: 2025-04-20 20:31:56（北京时间） 
-! Total count: 111653
+! Version: 2025-04-21 09:26:46（北京时间） 
+! Total count: 111654
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -16261,6 +16261,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.aff-online.com^
 ||api.affinesystems.com^
 ||api.affmates.com^
+||api.aftership-pixel.com^
 ||api.agoda.com.edgekey.net^
 ||api.agrantsem.com^
 ||api.ahjinshu.com^
@@ -18757,6 +18758,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||asia-comort-stsdk.vivoglobal.com^
 ||asia-exstsdk.vivoglobal.com^
 ||asia-monitor-stsdk.vivoglobal.com^
+||asia-news-abroad-backstage-interface.vivoglobal.com^
 ||asia-onrt-stsdk.vivoglobal.com^
 ||asia-ort-stsdk.vivoglobal.com^
 ||asia-pnrt-stsdk.vivoglobal.com^
@@ -98413,7 +98415,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||unifiedwfo.verintsystemsinc.com^
 ||unifini.de^
 ||unifopersp.pro^
-||uniformadvantage.demdex.net^
 ||uniformadvantage3283141z.btttag.com^
 ||unifyaddition.com^
 ||unimhk.com^
