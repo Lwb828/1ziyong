@@ -1,5 +1,5 @@
-! Version: 2025-04-22 09:23:20（北京时间） 
-! Total count: 111664
+! Version: 2025-04-22 20:35:50（北京时间） 
+! Total count: 111663
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -74835,7 +74835,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||r.refinedads.com^
 ||r.rover.com^
 ||r.sportsie.com^
-||r.stripe.com^
 ||r.teads.tv.edgekey.net^
 ||r.teads.tv^
 ||r.wallstrads.com^
