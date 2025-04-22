@@ -1,5 +1,5 @@
-! Version: 2025-04-21 20:35:20（北京时间） 
-! Total count: 111666
+! Version: 2025-04-22 09:23:20（北京时间） 
+! Total count: 111664
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -9472,7 +9472,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.boylesports.com^
 ||ads.brabys.com^
 ||ads.brand.net^
-||ads.brandadvance.co.uk^
 ||ads.brandcdn.com^
 ||ads.brazzers.com^
 ||ads.bridgebase.com^
@@ -11975,7 +11974,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adservice.google.lt^
 ||adservice.google.lu^
 ||adservice.google.lv^
-||adservice.google.md^
 ||adservice.google.me^
 ||adservice.google.mg^
 ||adservice.google.mk^
