@@ -1,5 +1,5 @@
-! Version: 2025-04-23 09:23:39（北京时间） 
-! Total count: 1529
+! Version: 2025-04-23 20:36:29（北京时间） 
+! Total count: 1530
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1201,6 +1201,7 @@
 @@||guid.tpns.tencent.com^$document
 @@||gw.shouji.360.cn^$document
 @@||h5.hpplay.com.cn^
+@@||h5vv6.video.qq.com^
 @@||haohuo.snssdk.com^$document
 @@||hot.browser.intl.miui.com^$document
 @@||hot.browser.miui.com^$document
