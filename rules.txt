@@ -1,5 +1,5 @@
-! Version: 2025-04-24 09:23:45（北京时间） 
-! Total count: 115239
+! Version: 2025-04-24 20:37:25（北京时间） 
+! Total count: 115247
 /.*\.*\.shouji\.sogou\.com/
 /.*\.a\.market\.xiaomi\.com/
 /.*\.data\.hicloud\.com/
@@ -13812,6 +13812,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||agmtrk.com^
 ||agn.aty.cp45.ott.cibntv.net^
 ||agn.aty.snmsohu.aisee.tv^
+||agn.aty.sohu.com^
 ||agnes.waz.de^
 ||agnqolfmjebpk.icu^
 ||agoniaffia.pro^
@@ -78893,6 +78894,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||rprinc6etodn9kunjiv.com^
 ||rps-p2.rockpapershotgun.com^
 ||rps-uk.rockpapershotgun.com^
+||rps.hpplay.cn^
 ||rpsukimsjy.com^
 ||rpt-gdt.play.t002.ottcn.com^
 ||rpt.gdt.qq.com^
@@ -80103,6 +80105,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||saametrics.vaisala.com^
 ||saas-eue-1.com^
 ||saas-euw-1.com^
+||saas.hpplay.cn^
 ||saas.stratitude.com^
 ||saat.dow.com^
 ||saawsedge.com^
@@ -92045,6 +92048,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sv-api-lottery.headlines.pw^
 ||sv-static-lottery.headlines.pw^
 ||sv-static1-lottery.headlines.pw^
+||sv-video.play.aiseet.atianqi.com^
 ||sv.adintl.cn^
 ||sv2.biz^
 ||sv2fo.icu^
@@ -93144,6 +93148,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||t7baxp1xmw00.boxoffice.adventuretix.com^
 ||t7cp4fldl.com^
 ||t7t.icu^
+||t7z.cupid.iqiyi.com^
 ||t7z.cupid.iqiyi.com^$app=com.qiyi.video
 ||t7z.cupid.ptqy.gitv.tv^
 ||t8.mailperformance.com^
@@ -102095,6 +102100,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vczfcmaxnqkby.club^
 ||vd-test.net.anwalt.de^
 ||vd.l.qq.com^
+||vd6.l.qq.com^
 ||vda.17173.com^
 ||vdapprecv.app.cntvwb.cn^
 ||vdbaa.com^
@@ -102404,6 +102410,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vhzivz.xyz^
 ||vi-serve.com^
 ||vi.adviso.ca^
+||vi.l.qq.com^
 ||vi.xiaohongshu.com^
 ||vi1.ku6img.net^
 ||vi12x.xcle.cn^
@@ -102710,6 +102717,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||viperishly.com^
 ||vipfanyongwang.com^
 ||vipgogo123.site^
+||vipgslb.hpplay.cn^
 ||viphirsaick.net^
 ||vipicmou.net^
 ||vipvps.shop^
