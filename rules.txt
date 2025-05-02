@@ -1,5 +1,5 @@
-! Version: 2025-05-02 09:24:51（北京时间） 
-! Total count: 126904
+! Version: 2025-05-02 20:36:50（北京时间） 
+! Total count: 126906
 /.*\.*\.shouji\.sogou\.com/
 /.*\.1rtb\.com/
 /.*\.a\.market\.xiaomi\.com/
@@ -449,6 +449,7 @@ baike.baidu.com##.wgt-baikeapp-promote-container
 baike.baidu.com##a[onclick="page.Mixedor.mixedOpen(this,0)"]
 baike.baidu.com##div[style="height: 57px;"]
 bbs.meizu.cn##.download
+bbs.oneplus.com##.oneplus-app
 bilibili.com###app > DIV.bili-header-m.report-wrap-module:first-child > DIV.nav-menu:first-child > DIV.nav-wrapper.clearfix.bili-wrapper:last-child > DIV.nav-con.fl:first-child > UL > LI.nav-item.mobile:last-child
 bilibili.com###fixed_app_download
 bilibili.com###openAppBtn
@@ -724,6 +725,7 @@ ke.com##.app_content
 ke.com##.app_daoliu_layer
 ke.com##.download
 kimi.moonshot.cn##.app-download
+lenovo.com.cn##.downloadBar
 lianjia.com##.app_daoliu_layer
 limbopro.xyz###a_d_sider
 limbopro.xyz###disqus_thread
@@ -830,7 +832,6 @@ m.ke.com##div.lj-track:nth-of-type(12)
 m.ke.com##div.lj-track:nth-of-type(14)
 m.ke.com##div.lj-track:nth-of-type(9)
 m.lenovo.com.cn##.bottomOpenAppBtn
-m.lenovo.com.cn##.downloadBar
 m.lianjia.com##.agent_download_head.arrow.agent_download.lazyload_ulog.flexbox.pictext
 m.lianjia.com##.contact_agent.fixed_bar
 m.lianjia.com##.download_fixed
@@ -962,6 +963,7 @@ news.qq.com##.godown.qqcom_fb-item
 note.youdao.com##.top-btns
 oneplusbbs.com###bbsRegisterGuide
 oneplusbbs.com##li[style*="position: relative; border: 0px;"]
+opposhop.cn##.oc-hairline--bottom.welcome-wrapper
 pingwest.com##.article-bottom-bd
 pingwest.com##.bd-right
 pingwest.com##.bd.item
