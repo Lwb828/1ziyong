@@ -1,5 +1,5 @@
-! Version: 2025-05-08 20:36:57（北京时间） 
-! Total count: 126018
+! Version: 2025-05-09 09:25:51（北京时间） 
+! Total count: 126208
 /.*\.*\.shouji\.sogou\.com/
 /.*\.1rtb\.com/
 /.*\.a\.market\.xiaomi\.com/
@@ -1320,7 +1320,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||*serror*.wo.com.cn^
 ||*tsdk.vivo.com.cn^
 ||*us*watcab*.blob.core.windows.net^
-||0-bloghkgadv.app.salemove.com^
 ||0.myikas.com^
 ||0.net.easyjet.com^
 ||0.r.msn.com^
@@ -1573,7 +1572,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||10523745.xyz^
 ||105app.com^
 ||10614305.xyz^
-||10721270040975459695.clickadsource.com^
 ||10753990.xyz^
 ||107788.com^
 ||107e9a08a8.com^
@@ -1611,13 +1609,11 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||116b.com^
 ||11778562.xyz^
 ||1178.shucong.com^
-||11858269336465553194.clickadsource.com^
 ||1187531871.rsc.cdn77.org^
 ||1188.com^
 ||11903284876278921130.clickadsource.com^
 ||11909f2c84.com^
 ||11959579.fun.joyrun.com^
-||11971611834075625469.clickadsource.com^
 ||11b5e84fb9.com^
 ||11b6n4ty2x3.taxliencode.com^
 ||11bet.mobi^
@@ -1648,7 +1644,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||122.14.229.147^
 ||122.14.229.148^
 ||122.14.229.149^
-||12204316961620566670.clickadsource.com^
 ||1221e236c3f8703.com^
 ||1227101010.rtb.monetixads.com^
 ||12291.com^
@@ -1683,8 +1678,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||124.225.195.107^
 ||125.net.jumia.co.ke^
 ||12547597667495560033.clickadsource.com^
-||12621321491963258105.clickadsource.com^
-||12853905400123762258.clickadsource.com^
 ||12915784.care.sanvello.com^
 ||12915784.help.sanvello.com^
 ||12aksss.xyz^
@@ -1699,7 +1692,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||131377.com^
 ||13199960a1.com^
 ||132.red-81-42-249.staticip.rima-tde.net^
-||13280105768603269481.clickadsource.com^
 ||132ffebe8c.com^
 ||133u.com^
 ||133uu.com^
@@ -1721,10 +1713,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||1438976156.recolution.de^
 ||143nchrtl3.com^
 ||144.dragonparking.com^
-||14645390654271350360.clickadsource.com^
-||14742186774102616.clickadsource.com^
 ||147ad.com^
-||14852615765326677500.clickadsource.com^
 ||148dfe140d0f3d5e.com^
 ||1495039.com^
 ||14cpoff22.de^
@@ -1743,7 +1732,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||1531317231.rsc.cdn77.org^
 ||154.22.214.2^
 ||1548164934.rsc.cdn77.org^
-||1550531396331120997.clickadsource.com^
 ||1558334541.rsc.cdn77.org^
 ||155game.com^
 ||15752525.xyz^
@@ -1753,13 +1741,10 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||15gifts.com^
 ||15gtest.bj2cu.u3.ucweb.com^
 ||15tianqi.com^
-||16090732959583582691.clickadsource.com^
 ||16134024.artcollection.io^
 ||161779.publy.co^
 ||16211973.xyz^
-||16246854347766306036.clickadsource.com^
 ||16327739.xyz^
-||16366904638220832332.clickadsource.com^
 ||163ren.com^
 ||164de830.live^
 ||165tchuang.com^
@@ -1768,10 +1753,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||1675450967.rsc.cdn77.org^
 ||168.it168.com^
 ||1680660.com^
-||16837878733925677501.clickadsource.com^
 ||168ad.cc^
 ||16972675.xyz^
-||16978596462823377570.clickadsource.com^
 ||16ao.mathon.fr^
 ||16gtest.bj2cu.u3.ucweb.com^
 ||16i6nuuc2ej.koelewijn.nl^
@@ -1787,7 +1770,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||17199874.xyz^
 ||171c856581.com^
 ||17282.org^
-||17332991161170041804.clickadsource.com^
 ||1736253261.rsc.cdn77.org^
 ||173726e958.com^
 ||176.net.jumia.ma^
@@ -1808,7 +1790,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||17zhaole.com^
 ||17zheng.cn^
 ||18.afs.googleadservices.com^
-||18.xml.adx1.com^
 ||180.xdwan.com^
 ||18052925.im.intermiles.com^
 ||181m2fscr.de^
@@ -1841,7 +1822,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||1909a8.satofull.jp^
 ||190b1f9880.com^
 ||19199675.xyz^
-||1931692502615362679.clickadsource.com^
 ||1933000.com^
 ||19515bia.de^
 ||19706903.xyz^
@@ -2074,7 +2054,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||22media.world^
 ||23.231.151.252^
 ||230.sub-166-166-188.myvzw.com^
-||2303691116750554320.clickadsource.com^
 ||2325fdrf.fun^
 ||233wo.com^
 ||2341.a.dlads.cn^
@@ -2134,7 +2113,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||24x7adservice.com^
 ||24x7support.top^
 ||2501may2024.com^
-||2505686097337204921.clickadsource.com^
 ||250f0ma86.de^
 ||2514june2024.com^
 ||2516june2024.com^
@@ -2268,6 +2246,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||2nn7r6bh1.de^
 ||2o7.net^
 ||2om93s33n.de^
+||2onby-0sdqy.ads.tremorhub.com^
+||2onby-yck3w.ads.tremorhub.com^
 ||2p1kreiqg.de^
 ||2parale.ro^
 ||2pc6q54ga.de^
@@ -2369,8 +2349,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||32.huanqiu.com^
 ||321naturelikefurfuroid.com^
 ||3221dkf7m2.com^
-||3227844672357481761.clickadsource.com^
 ||322927.com^
+||323-aad-113.mktoresp.com^
 ||324.com^
 ||3240.ads.stickyadstv.com^
 ||32414.com^
@@ -2413,7 +2393,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||35baba.cn^
 ||35kds.com^
 ||35volitantplimsoles5.com^
-||35y9sib5uxq3hladrdzcme2hnhwvvyyueftekulxee9eccf5bb70ccadsac.d.aa.online-metrix.net^
 ||360-g.cn^
 ||360.anatic.net^
 ||360.cn^
@@ -2606,7 +2585,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||42ye.com^
 ||431.red^
 ||43242.zh1144.com^
-||4329499939065703919.clickadsource.com^
 ||4336wang.cn^
 ||433bcaa83b.com^
 ||4399stat.5054399.com^
@@ -2673,7 +2651,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||49333767.xyz^
 ||49453k0l.vr.loveota.com^
 ||49453k0l.vs.loveota.com^
-||4962088227708553900.clickadsource.com^
 ||49706204.xyz^
 ||49709796.xyz^
 ||49766251.xyz^
@@ -2724,7 +2701,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||4gu.fun^
 ||4h44.com^
 ||4hfchest5kdnfnut.com^
-||4hllz-5imgf.ads.tremorhub.com^
 ||4i1.icu^
 ||4iazoa.xyz^
 ||4ir17.icu^
@@ -2916,7 +2892,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||58xwz.cn^
 ||590578zugbr8.com^
 ||591520.xyz^
-||5947780087265195611.clickadsource.com^
 ||595image.com^
 ||59644010.xyz^
 ||59768910.xyz^
@@ -3061,7 +3036,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||6615338.cn^
 ||663008888.com^
 ||6633626959526236232.clickadsource.com^
-||663908926757064541.clickadsource.com^
 ||6651tp.com^
 ||6657e4f5c2.com^
 ||666579.xyz^
@@ -3102,7 +3076,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||68aq8q352.com^
 ||68d6b65e65.com^
 ||68yscw.com^
-||6922404545524890011.clickadsource.com^
 ||699bfcf9d9.com^
 ||69oxt4q05.com^
 ||69v.club^
@@ -3159,6 +3132,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||6u2h.cn^
 ||6uc.cc^
 ||6ujk8x9soxhm.com^
+||6uxx3e.skadsdkless.appsflyersdk.com^
 ||6v4.cn^
 ||6v41p4bsq.com^
 ||6vhao.kkcaicai.com^
@@ -3199,7 +3173,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||72hdgb5o.de^
 ||73.sinawap.com^
 ||730fcb332f.com^
-||7310370459817446602.clickadsource.com^
 ||73336zubo25326.com^
 ||73503921.xyz^
 ||73508.com^
@@ -3417,7 +3390,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||86-a-adm.one^
 ||86.cc^
 ||86124673.xyz^
-||8614302272482952643.clickadsource.com^
 ||86165466.xyz^
 ||861ht.com^
 ||86222538.xyz^
@@ -3474,7 +3446,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||8961.jianbihua.com^
 ||89871256.xyz^
 ||8989u.com^
-||8991233813308036309.clickadsource.com^
 ||899v.com^
 ||89kvh.cn^
 ||8ab16250fe.com^
@@ -3638,7 +3609,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||9421d59b1d.com^
 ||94444717.xyz^
 ||94597672.xyz^
-||9465186192086508832.clickadsource.com^
 ||94782806.xyz^
 ||94789b3f8f.com^
 ||94ab.com^
@@ -6079,7 +6049,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||abridgesynchronizepleat.com^
 ||abririspi.pro^
 ||abroad-ad.kingsoft-office-service.com^
-||abroad-adv.360os.com^
 ||abroad-sdk-push.dutils.com^
 ||abrogfurna.pro^
 ||abrorkhonskij.pro^
@@ -6652,7 +6621,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad-bg.adwo.com^
 ||ad-blacklist.p24.hu^
 ||ad-brix.com^
-||ad-builder-assets.fresh8.co^
 ||ad-cache.dopool.com^
 ||ad-cdn.bilgin.pro^
 ||ad-cdn.qingting.fm^
@@ -6668,6 +6636,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad-configurator.6cloud.fr^
 ||ad-count.adwo.com^
 ||ad-count.jp^
+||ad-courier.com^
 ||ad-creative.projectcarmen.com^
 ||ad-creative.pstatic.net^
 ||ad-cupid.com^
@@ -6734,7 +6703,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad-m.asia^
 ||ad-mapps.com^
 ||ad-maven.com^
-||ad-maven.fs.ak-is2.net^
 ||ad-maven.xml-eu.ak-is2.net^
 ||ad-maven.xml.ak-is2.net^
 ||ad-maven.xs.ak-is2.net^
@@ -6754,8 +6722,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad-plus.cn^
 ||ad-plus.com.tr^
 ||ad-r.soulapp.cn^
-||ad-renderer-assets.ads.sportradar.com^
-||ad-reward.play.aiseet.atianqi.com^
 ||ad-ru-01.p.adserv.ai^
 ||ad-ru-02.p.adserv.ai^
 ||ad-ru-03.p.adserv.ai^
@@ -6820,6 +6786,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad-tech.ru^
 ||ad-test.mediav.com^
 ||ad-thd-east.tagdelivery.com^
+||ad-tools.kargo.com^
 ||ad-track.de^
 ||ad-track.jp^
 ||ad-u.com^
@@ -6887,7 +6854,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.adamexam.com^
 ||ad.adapter.kaffnet.com^
 ||ad.adc-serv.net^
-||ad.adcharriot.com^
 ||ad.adfurikun.jp^
 ||ad.adhouyi.cn^
 ||ad.adinc.kr^
@@ -6935,7 +6901,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.afftrck.com^
 ||ad.afy11.net^
 ||ad.agilemedia.jp^
-||ad.aginomoto.com^
 ||ad.agrantsem.com^
 ||ad.aim-universe.co.jp^
 ||ad.allboxing.ru^
@@ -7032,6 +6997,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.centrum.cz^
 ||ad.cgi.cz^
 ||ad.ch.doubleclick.net^
+||ad.charltonmedia.com^
 ||ad.chatpad.jp^
 ||ad.chieuhoa.com^
 ||ad.choiceradio.com^
@@ -7040,6 +7006,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.choingay11b.vin^
 ||ad.choiyo88.co^
 ||ad.cibleclick.com^
+||ad.citynews.it^
 ||ad.cl.doubleclick.net^
 ||ad.clickhere.ru^
 ||ad.clickotmedia.com^
@@ -7159,7 +7126,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.genybet.fr^
 ||ad.ghfusion.com^
 ||ad.giaitriwin79.club^
-||ad.global^
 ||ad.gmw.cn^
 ||ad.go.com^
 ||ad.gogox.com^
@@ -7512,7 +7478,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.smaclick.com^
 ||ad.smartclip.net^
 ||ad.smv.to^
-||ad.snappea.com^
 ||ad.snaptube.app^
 ||ad.sohu.com^
 ||ad.soicos.com^
@@ -7583,6 +7548,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.val.jp^
 ||ad.valuecalling.com^
 ||ad.ve.doubleclick.net^
+||ad.vic-m.co^
 ||ad.video-mech.ru^
 ||ad.video.51togic.com^
 ||ad.vidoomy.com^
@@ -7964,6 +7930,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad5.checkm8.com^
 ||ad5.contentabc.com^
 ||ad5.fpa.ero-advertising.com^
+||ad5.koreadaily.com^
 ||ad5.lbn.ru^
 ||ad5.on.cc^
 ||ad5.speedbit.com^
@@ -8069,6 +8036,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adapi.tuyensinh247.com^
 ||adapi.yynetwk.com^
 ||adappi.co^
+||adaptabledormouse.pro^
 ||adaptablefulmar.pro^
 ||adaptationmargarineconstructive.com^
 ||adaptationshookbeings.com^
@@ -8114,6 +8082,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adat.videa.hu^
 ||adatrix.com^
 ||adavideo.baidu.com^
+||adaydealbais.pro^
 ||adb-analytics.live-now.com^
 ||adb-secured.kijk.nl^
 ||adb.fling.com^
@@ -9153,12 +9122,11 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads-2474j.iionads.com^
 ||ads-2474q.iionads.com^
 ||ads-24752.iionads.com^
+||ads-2476a.iionads.com^
 ||ads-2476b.iionads.com^
-||ads-2476c.iionads.com^
 ||ads-24777.iionads.com^
 ||ads-2477p.iionads.com^
 ||ads-24789.iionads.com^
-||ads-2478p.iionads.com^
 ||ads-2479l.iionads.com^
 ||ads-2479t.iionads.com^
 ||ads-58hnjs.rtb.admanmedia.com^
@@ -9213,6 +9181,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads-delivery.gunosy.com^
 ||ads-dev.ad4game.com^
 ||ads-dev.pinterest.com^
+||ads-dev.sportradar.com^
 ||ads-dpgmediabe.adhese.com^
 ||ads-drcn.platform.dbankcloud.cn^
 ||ads-drcn.platform.dbankcloud.com^
@@ -9256,8 +9225,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads-media-cdn.tenmax.io^
 ||ads-mediafin.adhese.com^
 ||ads-metadata-prod.zeustechnology.com^
-||ads-nd8ga.ortb.adelement.com^
-||ads-nd8iv.ortb.adelement.com^
 ||ads-nd8lj.ortb.adelement.com^
 ||ads-nd920.ortb.adelement.com^
 ||ads-nd9kh.ortb.adelement.com^
@@ -9290,10 +9257,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads-sdk.mattel163.com^
 ||ads-sdk.nianticlabs.com^
 ||ads-sdk.upltv.com^
-||ads-secondary-conversion.unityads.unity3d.com^
 ||ads-secure.videohub.tv^
 ||ads-server.mxplay.com^
-||ads-service.tiktok.com^
 ||ads-sg.tiktok.com^
 ||ads-shopping.shouqianba.com^
 ||ads-showheroes.adhese.com^
@@ -9373,8 +9338,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.adamoads.com^
 ||ads.adap.tv^
 ||ads.adaptv.advertising.com^
-||ads.adbeat.club^
-||ads.adbeat.xyz^
 ||ads.adbottw.net^
 ||ads.adbroker.de^
 ||ads.adcorps.com^
@@ -9402,6 +9365,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.admaru.com^
 ||ads.admarvel.com^
 ||ads.admatrix.vn^
+||ads.admaxim.com^
 ||ads.admaximize.com^
 ||ads.administrator.de^
 ||ads.admized.com^
@@ -9683,7 +9647,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.chumcity.com^
 ||ads.cinemaden.com^
 ||ads.cineville.nl^
-||ads.citadelcenter.net^
 ||ads.citymagazine.rs^
 ||ads.citymagazine.si^
 ||ads.ck101.com^
@@ -9808,6 +9771,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.dygdigital.com^
 ||ads.dynamic-media.org^
 ||ads.e-planning.net^
+||ads.eabids.com^
 ||ads.eagletribune.com^
 ||ads.easy-ads.com^
 ||ads.easy-forex.com^
@@ -10103,7 +10067,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.joemonster.org^
 ||ads.jokaroo.com^
 ||ads.jossip.com^
-||ads.jp2.vip.prod.criteo.com^
 ||ads.juicyads.com^
 ||ads.juicyads.me^
 ||ads.justhungry.com^
@@ -10170,7 +10133,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.lovercash.com^
 ||ads.loveshack.org^
 ||ads.lucidmedia.com^
-||ads.luffy.my.id^
 ||ads.lycos.com^
 ||ads.lzjl.com^
 ||ads.ma7.tv^
@@ -10254,6 +10216,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.mrgreen.com^
 ||ads.mrskin.com^
 ||ads.msn.com^
+||ads.mtgroup.kr^
 ||ads.mtv.uol.com.br^
 ||ads.multimania.lycos.fr^
 ||ads.museum.or.jp^
@@ -10295,6 +10258,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.newsminerextra.com^
 ||ads.newsobserver.com^
 ||ads.newsquest.co.uk^
+||ads.newtarget.com^
 ||ads.newtention.net^
 ||ads.nexage.com^
 ||ads.nextday.media^
@@ -10443,6 +10407,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.proboards.com^
 ||ads.proc.cc^
 ||ads.prod.wifog.com^
+||ads.production.travelaudience.com^
 ||ads.profitsdeluxe.com^
 ||ads.profootballtalk.com^
 ||ads.program3.com^
@@ -10603,7 +10568,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.spacenine.biz^
 ||ads.sparkflow.net^
 ||ads.speakol.com^
-||ads.specialadves.com^
 ||ads.specificclick.com^
 ||ads.specificmedia.com^
 ||ads.speead.jp^
@@ -10612,6 +10576,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.sport1.bg^
 ||ads.sportradar.com^
 ||ads.sportslocalmedia.com^
+||ads.spotify.com^
 ||ads.sprintrade.com^
 ||ads.spymac.net^
 ||ads.stackoverflow.com^
@@ -11148,7 +11113,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads2.haber3.com^
 ||ads2.helpos.com^
 ||ads2.hsoub.com^
-||ads2.imv.az^
 ||ads2.jenite.bg^
 ||ads2.mediaarmor.com^
 ||ads2.medianord.de^
@@ -11551,7 +11515,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adsby.klikki.com^
 ||adsbydelema.com^
 ||adsbynimbus.com^
-||adsc.beytoote.com^
 ||adsc.wasu.tv^
 ||adscads.de^
 ||adscale-emea.adnxs.com^
@@ -12057,7 +12020,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adservice.google.com.cu^
 ||adservice.google.com.cy^
 ||adservice.google.com.do^
-||adservice.google.com.ec^
 ||adservice.google.com.eg^
 ||adservice.google.com.et^
 ||adservice.google.com.gh^
@@ -12156,6 +12118,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adservice.google.tt^
 ||adservice.google.vu^
 ||adservice.google.ws^
+||adservice.hani.co.kr^
 ||adservice.kugou.com^
 ||adservice.sigmob.cn^
 ||adservice.tohsoft.com^
@@ -12203,7 +12166,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adsfileretry.service.kugou.com^
 ||adsfit.offerstrack.net^
 ||adsflame.com^
-||adsfloow.net^
 ||adsforallmedia.com^
 ||adsfs-id.heytapimg.com.akamaized.net^
 ||adsfs-id.heytapimg.com^
@@ -12247,7 +12209,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adsilo.pro^
 ||adsimg.kompas.com^
 ||adsimg.vevorstatic.com^
-||adsimilate.com^
 ||adsin.zhangyoubao.com^
 ||adsinimages.com^
 ||adsino24.com^
@@ -12289,6 +12250,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adsmart.net^
 ||adsmart.yicha.cn^
 ||adsmartgetqtt.guangtuikeji.com^
+||adsmartgo.com^
 ||adsmartracker.com^
 ||adsmatcher.com^
 ||adsmeasurement.com^
@@ -12373,7 +12335,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adspend.space^
 ||adsperfection.g2afse.com^
 ||adspi.xyz^
-||adspire.io^
 ||adspirit.de^
 ||adspirit.net^
 ||adsplay.in^
@@ -12475,7 +12436,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adstax-match.adrtx.net^
 ||adstdg.net^
 ||adstean.com^
-||adstella-cdn.relevant-digital.com^
 ||adsteroid.pro^
 ||adsterra.com^
 ||adsterratech.com^
@@ -12559,6 +12519,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adsxtits.com^
 ||adsxtits.pro^
 ||adsxyz.com^
+||adsy-system.com^
 ||adsymptotic.com^
 ||adsync.tech^
 ||adsyndication.msn.com^
@@ -12769,7 +12730,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adv.anhsangvacuocsong.vn^
 ||adv.aport.ru^
 ||adv.app.qq.com^
-||adv.aryel.io^
 ||adv.autosurf.vn^
 ||adv.axiatraders.com^
 ||adv.bandi.so^
@@ -12824,6 +12784,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adv.noblepoker.com^
 ||adv.p2pbg.com^
 ||adv.pdbox.co.kr^
+||adv.presscommtech.com^
 ||adv.publy.net^
 ||adv.pushtimize.com^
 ||adv.r7.com^
@@ -12902,7 +12863,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||advantagespire.com^
 ||advantic01.webtrekk.net^
 ||advantixmarketing.re.getclicky.com^
-||advanzia.containers.piwik.pro^
 ||advapi.ahtv.cn^
 ||advapi.joyplus.tv^
 ||advapikj.joyplus.tv^
@@ -12934,6 +12894,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adventureinnmoab.world^
 ||adventurerarmory.com^
 ||adventures-from-home.com^
+||adventures-nacho-social.com^
 ||adventurostravel.com^
 ||adventurousamount.com^
 ||adventurouscomprehendhold.com^
@@ -13061,7 +13022,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||advertising.bbcworldwide.com^
 ||advertising.christiansunite.com^
 ||advertising.com^
-||advertising.comcasttechnologysolutions.com^
 ||advertising.dclux.com^
 ||advertising.dushu.io^
 ||advertising.embarcaderopublishing.com^
@@ -13114,12 +13074,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adverts.creativemark.co.uk^
 ||adverts.ecn.co.uk^
 ||adverts.freeloader.com^
+||advertsdata.com^
 ||advertserve.com^
 ||advertsight.com^
 ||advertsource.co.uk^
 ||advertstream.com^
 ||adverttise.com^
-||adverttise.xml.ak-is2.net^
 ||advertur.ru^
 ||advertwizard.com^
 ||adverty.com^
@@ -13135,6 +13095,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||advice-ads.s3.amazonaws.com^
 ||advice.pgs.io^
 ||adviceforemost.com^
+||adviceth.api.useinsider.com^
 ||advideo.dsp.yandexadexchange.net^
 ||advideo.movad.net^
 ||advideo.ru^
@@ -13288,7 +13249,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adx-dre.op.hihonorcloud.com^
 ||adx-drru.op.dbankcloud.ru^
 ||adx-emea.adnxs.com^
-||adx-eu-imp.aarki.net^
 ||adx-event.tradplusad.com^
 ||adx-exchange.toast.com^
 ||adx-f.ads.heytapmobi.com^
@@ -13308,7 +13268,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adx-linode.dable.io^
 ||adx-mm.ads.heytapmobile.com^
 ||adx-my.ads.heytapmobile.com^
-||adx-o-asia-imp.aarki.net^
 ||adx-o-imp.aarki.net^
 ||adx-o-west-imp.aarki.net^
 ||adx-open-service.youku.com^
@@ -13443,6 +13402,9 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adx.yixin.im^
 ||adx.zuoyebang.com^
 ||adx01.groovinads.com^
+||adx01.videonow.ru^
+||adx02.videonow.ru^
+||adx03.videonow.ru^
 ||adx1.com^
 ||adx1js.s3.amazonaws.com^
 ||adx2.adform.com^
@@ -13705,6 +13667,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||affiliatesensor.com^
 ||affiliateservices.net^
 ||affiliatestonybet.com^
+||affiliatesys.ads-tracking.com^
 ||affiliatewindow.com^
 ||affiliation.planethoster.info^
 ||affiliatly.com^
@@ -14770,6 +14733,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||amateurporn.net^
 ||amattepush.com^
 ||amavalet.com^
+||amaze.hamptonroads.myactivechild.com^
 ||amazicapar.pro^
 ||amazingairplane.com^
 ||amazingcounters.com^
@@ -14987,7 +14951,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||amyludisme.pro^
 ||amz-ad.a8.net^
 ||amzrjywmzllvm.top^
-||an.adsterra.com^
 ||an.avast.com^
 ||an.avast.ru^
 ||an.biocoop.cn^
@@ -15143,6 +15106,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||analytics.adpost.org^
 ||analytics.adsum.io^
 ||analytics.adultswim.co.uk^
+||analytics.advalo.com^
 ||analytics.agenedia.com^
 ||analytics.agoda.com^
 ||analytics.airindia.com^
@@ -15894,7 +15858,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||anatomyabdicatenettle.com^
 ||anatoponte.pro^
 ||anattospursier.com^
-||anbycustoadvertis.org^
 ||ancalfulpige.co.in^
 ||ancamcdu.com^
 ||anceenablesas.com^
@@ -16451,7 +16414,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api-ad-extra.kajicam.com^
 ||api-ad-product.huxiu.com^
 ||api-ad.kajicam.com^
-||api-ads.percycle.com^
 ||api-ads.tiantianqutao.com^
 ||api-adservices.apple.com^
 ||api-analytics-bootstrap.metaps.com^
@@ -16558,10 +16520,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.99vn.bet^
 ||api.a.mts.ru^
 ||api.abcsinsights.com^
+||api.abtasty.com^
 ||api.accelerator.intl.miui.com^
 ||api.accengage.com^
 ||api.accengage.net^
 ||api.accesstrade.net^
+||api.acxiom.com^
 ||api.ad-locus.com^
 ||api.ad-platform.jmty.jp^
 ||api.ad-stir.com^
@@ -16612,7 +16576,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.adrenalads.com^
 ||api.adriver.ru^
 ||api.adrtx.net^
-||api.ads.citadelcenter.net^
 ||api.ads.flurry.com^
 ||api.ads.newsdigest.jp^
 ||api.ads.tvb.com^
@@ -16674,8 +16637,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.amplitude.com^
 ||api.amplitudeexperiment.com^
 ||api.analytics.cruisebound.com^
-||api.analytics.gothamsports.com^
 ||api.analytics.omgpop.com^
+||api.analytics.pigment.app^
 ||api.analytics.redbubble.com^
 ||api.anastasiadate.com^
 ||api.android.dianru.com^
@@ -16696,6 +16659,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.appmetrica.yandex.ru^
 ||api.appodeal.com^
 ||api.appodealx.com^
+||api.appprodeu.platform.navify.com^
+||api.appproduk.platform.navify.com^
 ||api.appprodus.platform.navify.com^
 ||api.apps.sina.cn^
 ||api.appsee.com^
@@ -16730,6 +16695,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.bailingjiankang.com^
 ||api.baimless.com^
 ||api.bam-x.com^
+||api.bannerflow.com^
 ||api.baomoi.com^
 ||api.bayimob.com^
 ||api.bbs.miui.com^
@@ -16758,7 +16724,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.bluerunningshadow.com^
 ||api.boclinkads.com^
 ||api.boomtrain.com^
-||api.boorantech.com^
 ||api.botman.ninja^
 ||api.bounceexchange.com^
 ||api.boxever.com^
@@ -16785,10 +16750,10 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.c.avazunativeads.com^
 ||api.cactusglobal.io^
 ||api.callget.cn^
-||api.calltrackingmetrics.com^
 ||api.campaigns.notino.com^
 ||api.caroda.io^
 ||api.cazamba.com^
+||api.cf.mparticle.com^
 ||api.chartbeat.com^
 ||api.cheatsheet.me^
 ||api.cherry.tv^
@@ -16816,6 +16781,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.connecto.io^
 ||api.content-ad.net^
 ||api.content.ad^
+||api.convrse.media^
 ||api.cooladata.com^
 ||api.coolguang.com^
 ||api.counterapi.dev^
@@ -16878,6 +16844,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.e.kuaishou.cn^
 ||api.e.kuaishou.com^
 ||api.e.mi.com^
+||api.e.oasisfashion.com^
 ||api.eaglem.net^
 ||api.eagllwin.com^
 ||api.ecomsend.com^
@@ -16896,8 +16863,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.eu-west4gcp1.pubnative.net^
 ||api.eu.adopexchange.com^
 ||api.eu.amplitude.com^
-||api.eu.hismarttv.com^
-||api.eu1.anywhere.navify.com^
 ||api.eu1.exponea.com^
 ||api.eum-appdynamics.com^
 ||api.europe.bidtellect.com^
@@ -16916,9 +16881,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.feedad.com^
 ||api.feedback.us1.app.pendo.io^
 ||api.ffbbbdc6d3c353211fe2ba39c9f744cd.com^
-||api.find-ip.net^
 ||api.flat-ads.com^
-||api.flipdesk.jp^
 ||api.flocktory.com^
 ||api.flurry.com^
 ||api.flygame.io^
@@ -17078,6 +17041,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.madkudu.com^
 ||api.magmamobile.com^
 ||api.manager.atf-tagmanager.de^
+||api.manager1.userzoom.com^
 ||api.mantis-intelligence.com^
 ||api.mapps.uve.weibo.com^
 ||api.maropost.com^
@@ -17144,7 +17108,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.myendpoint.io^
 ||api.mythad.com^
 ||api.mywavehome.net^
-||api.najva.com^
 ||api.nanigans.com^
 ||api.nas.nct.vn^
 ||api.native-track.com^
@@ -17297,7 +17260,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.ril.com^
 ||api.rlcdn.com^
 ||api.rnet.plus^
-||api.rodebm.net^
 ||api.rollbar.com^
 ||api.rqmob.com^
 ||api.rtvrapi.com^
@@ -17343,13 +17305,13 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.sky88.com^
 ||api.sky88.fun^
 ||api.skyworthiot.com^
+||api.slackplane.com^
 ||api.smart-sense.org^
 ||api.smartechmetrics.com^
 ||api.smartico.ai^
 ||api.smartnews-ads.com^
 ||api.smartocto.com^
 ||api.smbeat.jp^
-||api.smi.expert^
 ||api.sms.intl.miui.com^
 ||api.snmi.cn^
 ||api.so.lianmeng.360.cn^
@@ -17386,7 +17348,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.swypeconnect.com^
 ||api.synerise.com^
 ||api.taboola.com^
-||api.taboola.sve.cc^
 ||api.tads.me^
 ||api.taggrs.io^
 ||api.takeads.com^
@@ -17425,7 +17386,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.trackpush.com^
 ||api.tracksummer.com^
 ||api.trackuity.com^
-||api.tradplus.com^
 ||api.tradplusad.com^
 ||api.trafficstars.com^
 ||api.transfer.search.miui.com^
@@ -17465,12 +17425,11 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.uniplayad.com^
 ||api.uniqodo.com^
 ||api.unthem.com^
+||api.upliftads.io^
 ||api.uprivaladserver.net^
 ||api.urioy.com^
 ||api.us-east-1.aiv-delivery.net^
-||api.us-east4gcp1.pubnative.net^
 ||api.us-west-2.aiv-delivery.net^
-||api.us1.anywhere.navify.com^
 ||api.usabilla.com^
 ||api.usebutton.com^
 ||api.useinsider.com^
@@ -17511,7 +17470,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.wapa.taobao.com^
 ||api.waptest.taobao.com^
 ||api.webengage.com^
-||api.webhop.me^
 ||api.webpush.jp^
 ||api.websecure1.com^
 ||api.webshield.protected.net^
@@ -17712,7 +17670,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||app-test.utlob.com^
 ||app-uat.latrobehealth.com.au^
 ||app-uat.navyhealth.com.au^
-||app.0-bloghkgadv.app.salemove.com^
 ||app.1112.com^
 ||app.12thman.com^
 ||app.12thmanfoundation.com^
@@ -18507,7 +18464,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||app16.ads.justpremium.com^
 ||app2.10090dfs.com^
 ||app2.220cordncode.com^
-||app2.responsiveads.com^
 ||app2up.info^
 ||appad-api-01.perfectcorp.com^
 ||appad02.mbsp.jp^
@@ -18754,7 +18710,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||apps.zingeroo.com^
 ||apps1cdn.com^
 ||appsecurezomation.carte-gr.total.fr^
-||appserver.frequencyads.com^
 ||appsflyer*.*^
 ||appsget.monster^
 ||appshake.adspirit.de^
@@ -18787,6 +18742,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||apqcjj.celford.com^
 ||apqmxf.curama.jp^
 ||apress.efscle.com^
+||apreyrubri.pro^
 ||apricotpony.pro^
 ||aprilads.space^
 ||apritvun.com^
@@ -19256,7 +19212,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||asg.faperoni.com^
 ||asg.irontube.net^
 ||asg.sdtraff.com^
-||asg1.hostadsmarkets.com^
 ||asgadmp.cc^
 ||asgadsts.cc^
 ||asgclick.com^
@@ -19416,7 +19371,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||assets.258ydh.com^
 ||assets.adspruce.com^
 ||assets.adstage.io^
-||assets.adv.aryel.io^
 ||assets.buysellads.com^
 ||assets.channelplay.in^
 ||assets.cntdy.mobi^
@@ -19460,6 +19414,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||assithgibed.shop^
 ||assitscapp.pro^
 ||asslakothchan.com^
+||asslfeqadv.com^
 ||assoc-amazon.*^
 ||assoc-msdk-us.amazon-adsystem.com^
 ||assocdispa.pro^
@@ -19532,6 +19487,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||astriaffab.pro^
 ||astribomir.pro^
 ||astricontr.pro^
+||astriruffi.pro^
 ||astro-way.com^
 ||astrokompas.com^
 ||astrologybacklightsinless.com^
@@ -20155,11 +20111,13 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||avxonsp.icu^
 ||aw.dw.impact-ad.jp^
 ||aw.mic.mob.com^
+||awa-apne1-1.advanced-web-analytics.com^
 ||awa-civ-useast1-1.advanced-web-analytics.com^
 ||awa-eucn1-1.advanced-web-analytics.com^
 ||awa-eucn1-2.advanced-web-analytics.com^
 ||awa-eucn1-3.advanced-web-analytics.com^
 ||awa-euwest1-1.advanced-web-analytics.com^
+||awa-euwest1-vip.advanced-web-analytics.com^
 ||awa-useast1-1.advanced-web-analytics.com^
 ||awa-useast1-4.advanced-web-analytics.com^
 ||awa-useast1-bofa.advanced-web-analytics.com^
@@ -20681,6 +20639,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||b1.engdvd.com^
 ||b1.xiao84.com^
 ||b10.justacdn.net^
+||b1028as.adspirit.de^
 ||b116785e75.com^
 ||b1181fb1.site^
 ||b17.lynow.cn^
@@ -21193,6 +21152,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bannibilke.pro^
 ||bannieres-a-gogo.com^
 ||bannisterflaskputdown.com^
+||banotia9.pro^
 ||bans.bride.ru^
 ||banstat.nadavi.net^
 ||banteroatresurface.com^
@@ -21206,6 +21166,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bapages.carte-gr.total.fr^
 ||baphullpet.com^
 ||bapi.tads.me^
+||bapolue7.pro^
 ||bappaads.xml.ak-is2.net^
 ||baptisttop1000.com^
 ||baptizespadeaccompanying.com^
@@ -21365,6 +21326,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bawovzjweqhi.com^
 ||bax.xiawu.com^
 ||baxdcynptb.xyz^
+||baxetuy6.pro^
 ||baxf.m.shuhuangge.org^
 ||baxt.mobi^
 ||bay.xiawu.com^
@@ -21518,7 +21480,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bdad.123pan.cn^
 ||bdamcsv.top^
 ||bdapi-ads.realmemobile.com^
-||bdapi-f.ads.heytapmobile.com^
 ||bdapi-id-ads.realmemobile.com^
 ||bdapi-id.ads.heytapmobi.com^
 ||bdapi-id.ads.heytapmobile.com^
@@ -21777,6 +21738,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||beetleend.com^
 ||beevakum.net^
 ||beewhoapuglih.net^
+||bef.blogads.com^
 ||beffamodul.pro^
 ||beffeoverc.pro^
 ||befilarsen.pro^
@@ -22061,6 +22023,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bet3000partners.com^
 ||bet36500050.com^
 ||bet365affiliates.com^
+||beta-ara.paa-reporting-advertising.amazon^
 ||beta-link.liilix.com^
 ||beta-s.206ads.com^
 ||beta.ads.cc^
@@ -22126,6 +22089,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bevanloung.pro^
 ||beveledetna.com^
 ||bevelerimps.com^
+||bevicaa2.pro^
 ||bewailindigestionunhappy.com^
 ||bewailknotcorruption.com^
 ||bewarevampiresister.com^
@@ -22269,7 +22233,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bid.adview.com^
 ||bid.adx.com.ru^
 ||bid.g.doubleclick.net^
-||bid.hueadsxml.com^
 ||bid.lacunads.com^
 ||bid.run^
 ||bid2-eur.advlion.com^
@@ -22542,6 +22505,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bivos.xyz^
 ||bivqasthu.com^
 ||bivrhywwuwzo.com^
+||biwatyy2.pro^
 ||biwhemewy.pro^
 ||biwipuque.com^
 ||bixia.fymm.cn^
@@ -23196,6 +23160,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bobawb.pomellato.com^
 ||bobblegoobers.top^
 ||bobboro.com^
+||bobefay8.pro^
 ||bobgames-prolister.com^
 ||bobo.163.com^
 ||bobo.com^
@@ -23246,6 +23211,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||boilonauja.pro^
 ||boismometan.pro^
 ||boisterouspeccary.pro^
+||bojabio9.pro^
 ||bojyvp.xyz^
 ||bokeden.com^
 ||boksaumetaixa.net^
@@ -23346,6 +23312,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bookmsg.com^
 ||booknexus.pro^
 ||bookofsex.com^
+||bookpage.advertserve.com^
 ||bookpostponemoreover.com^
 ||bookprobe.com^
 ||books-analytics-events.apple.com^
@@ -23911,7 +23878,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||breezywords.pro^
 ||bregasciag.pro^
 ||bremphumz.com^
-||brend.specialadves.com^
 ||brene.site^
 ||brephras.com^
 ||brerkols.com^
@@ -24579,6 +24545,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||bup.bankofamerica.com^
 ||bupatp.com^
 ||bupnjndj.com^
+||buqezuu8.pro^
 ||buqkrzbrucz.com^
 ||buram.xyz^
 ||burbarkholpen.com^
@@ -24676,6 +24643,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||busy-man.com^
 ||busycricket.pro^
 ||busytoopor.pro^
+||butemei3.pro^
 ||buticiodized.shop^
 ||butlerelectricsupply.com^
 ||butlerrecast.com^
@@ -24982,6 +24950,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||c.lolamarket.com^
 ||c.lucktui.com^
 ||c.mibank.com^
+||c.microsoftadvertising.com^
 ||c.mightiger.net^
 ||c.mininini.cn^
 ||c.mkmp365.com^
@@ -26143,7 +26112,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cdn.advg.agency^
 ||cdn.adviad.com^
 ||cdn.advideo.ru^
-||cdn.adx.com.ru^
 ||cdn.adx.ws^
 ||cdn.adx1.com^
 ||cdn.adxcontent.com^
@@ -26243,6 +26211,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cdn.popmyads.com^
 ||cdn.premiumads.net^
 ||cdn.proadscdn.com^
+||cdn.prod.adskit.juno.alexa.amazon.dev^
 ||cdn.propellerads.com^
 ||cdn.prplads.com^
 ||cdn.puata.info^
@@ -26298,9 +26267,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cdn.ynuf.aliapp.org^
 ||cdn0.mobmore.com^
 ||cdn01.toboads.com^
-||cdn02.toboads.com^
-||cdn03.toboads.com^
-||cdn04.toboads.com^
 ||cdn1.ad-center.com^
 ||cdn1.adadvisor.net^
 ||cdn1.ads.brazzers.com^
@@ -26351,6 +26317,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cdnads.cam4.com^
 ||cdnads.com^
 ||cdnads.geeksforgeeks.org^
+||cdnads.msads.net^
 ||cdnadspecs-onead.cdn.hinet.net^
 ||cdnako.com^
 ||cdnapi.net^
@@ -26426,7 +26393,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cdxninteractive.blueadvertise.com^
 ||cdxyb.cn^
 ||cdyurlif.top^
-||ce-native.adxpremium.services^
 ||ce.wlaoc.cn^
 ||ce56df44.xyz^
 ||ce82020873.com^
@@ -26471,6 +26437,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ceilingbruiseslegend.com^
 ||cekgsyc.com^
 ||ceklcxte.com^
+||celabee6.pro^
 ||celai.site^
 ||celeb-ads.com^
 ||celebjihad.com^
@@ -26505,8 +26472,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||celestialwinds.pro^
 ||celiacontr.pro^
 ||cell001.us-east-1.prod.entry.video-ads.a2z.com^
-||cell7001.iad.pg.event-na.ads.aps.amazon-adsystem.com^
-||cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com^
 ||cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com^
 ||cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com^
 ||cellaplasm.pro^
@@ -26927,7 +26892,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||check-iy-ver-172-3.site^
 ||check-now.online^
 ||check-out-this.site^
-||check-product-error-now.online^
 ||check-tcp.rayjump.com^
 ||check-tl-ver-12-8.top^
 ||check-tl-ver-154-1.com^
@@ -27300,6 +27264,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||chugaiwe.net^
 ||chugrypsodu.com^
 ||chugsorlando.com^
+||chuguadventures.co.tz^
 ||chugveasoy.com^
 ||chulhawakened.com^
 ||chullohagrode.com^
@@ -27358,9 +27323,11 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cignfilib.pro^
 ||cigoadrouz.com^
 ||cigoqcq.top^
+||cigosoo8.pro^
 ||cihac.ubmmexico.com^
 ||ciimg.com^
 ||ciizxsdr.com^
+||cijaziu3.pro^
 ||cijoorsairgusa.com^
 ||ciksolre.net^
 ||cikvwv.dsdamat.com^
@@ -27643,7 +27610,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cleanerultra.club^
 ||cleanflawlessredir.com^
 ||cleanhaircut.com^
-||cleaningaheadstone.com^
 ||cleaningmaturegallop.com^
 ||cleaningmovies.analytics.qlook.net^
 ||cleaningmystical.com^
@@ -27859,7 +27825,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||click.signaturemarket.co^
 ||click.silvercash.com^
 ||click.space-link.shop^
-||click.specialadves.com^
 ||click.speee-ad.jp^
 ||click.ssp.d2c.ne.jp^
 ||click.startappservice.com^
@@ -28731,6 +28696,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||coinzillatag.com^
 ||coitaessic.pro^
 ||cojuxao6.pro^
+||cokizai8.pro^
 ||cokovay1.pro^
 ||cokudsvit.com^
 ||col.casa.it^
@@ -28814,6 +28780,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||collection.e-satisfaction.com^
 ||collection.saga.co.uk^
 ||collections.equifax.com^
+||collections.microsoftadvertising.com^
 ||collectiveablygathering.com^
 ||collector-1.ex.co^
 ||collector-api.99designs.com^
@@ -30625,6 +30592,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||cr-p31.ladsp.com^
 ||cr-p31.ladsp.jp^
 ||cr-p35.ladsp.jp^
+||cr-p42.ladsp.com^
 ||cr-p43.ladsp.com^
 ||cr-pall.ladsp.com^
 ||cr.ads.justpremium.com^
@@ -30993,6 +30961,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||crunchy-tango.dotabuff.com^
 ||crunchysheathstruck.com^
 ||cruntn.receno.com^
+||cruseevalu.pro^
 ||crushingaspirin.com^
 ||crustywainmen.shop^
 ||crutvncf.top^
@@ -31134,6 +31103,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||csync-eu.smartadserver.com^
 ||csync-global.smartadserver.com^
 ||csync-us.smartadserver.com^
+||csync.adsfactor.net^
 ||csync.smartadserver.com^
 ||csyqts.tmon.co.kr^
 ||cszaimmas.pro^
@@ -32883,6 +32853,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||daffodildreams.pro^
 ||daffodilnotifyquarterback.com^
 ||daffytrout.pro^
+||daforye4.pro^
 ||daftmalkoha.pro^
 ||dafvng.sunrefre.jp^
 ||dagd0kz7sipfl.cloudfront.net^
@@ -33071,6 +33042,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||das-rpt-log.ucloud.cn^
 ||das.api.youku.com^
 ||das.mobile.youku.com^
+||dasaboe4.pro^
 ||dasda64.fun^
 ||dasdujaosjdioad.com^
 ||dasensiblem.org^
@@ -33770,6 +33742,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||datum.jsdelivr.com^
 ||daturhugga.pro^
 ||datvantage.com^
+||datypua0.pro^
 ||daua.ero-advertising.com^
 ||daubedanywhen.shop^
 ||daughterinlawrib.com^
@@ -33796,6 +33769,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dax.yle.fi^
 ||daxigei8.pro^
 ||daxiu01.oss-accelerate.aliyuncs.com^
+||daxivue8.pro^
 ||day13vh1xl0gh.cloudfront.net^
 ||day66.com^
 ||daybeprese.pro^
@@ -33834,6 +33808,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dazzlingvista.pro^
 ||dazzlingvortex.pro^
 ||dazzmeup.pro^
+||db.adswag.nl^
+||db.advertsdata.com^
 ||db.cjtcc.cn^
 ||db.xiaoshuofuwuqi.com^
 ||db02cyz1aujy9.moatads.com^
@@ -34741,6 +34717,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dev-cenam-mobilefirst.tmx-internacional.net.iberostar.com^
 ||dev-deeplink.bigrichstore.com^
 ||dev-dl.oneworldonesai.com^
+||dev-e-urzadskarbovvy.pantheonsite.io^
 ||dev-get.unhedged.com.au^
 ||dev-get.wysa.uk^
 ||dev-imp.nextmedia.com^
@@ -34752,6 +34729,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dev-share.beaconlearningapp.com^
 ||dev-share.haloedapp.com^
 ||dev-share.smartfashion.ai^
+||dev-urzadskarbovvy-pl.pantheonsite.io^
 ||dev.email-signify.cjm.adobe.com^
 ||dev.flurry.com^
 ||dev.getcontact.me^
@@ -35062,6 +35040,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dibbuksnoonlit.shop^
 ||diboji.class101.net^
 ||dibsemey.com^
+||dibycee3.pro^
 ||dicerchaster.top^
 ||diceresembleshudder.com^
 ||dicheeph.com^
@@ -35080,6 +35059,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||did-it.com^
 ||didaccitta.pro^
 ||didacpapes.pro^
+||didactickestrel.pro^
 ||diddestrewinds.top^
 ||didit.com^
 ||didna.io^
@@ -35376,6 +35356,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dilitpolyp.pro^
 ||dilivmiter.pro^
 ||dilodiste.pro^
+||dilomsoffe.pro^
 ||dilowhang.com^
 ||dilruwha.net^
 ||diltqdxecyicf.com^
@@ -35492,6 +35473,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||directlycoldnesscomponent.com^
 ||directlymilligramresponded.com^
 ||directnavbt.com^
+||director-main-ads-id10058322495.vercel.app^
 ||directorym.com^
 ||directoutside.pro^
 ||directprimal.com^
@@ -35517,6 +35499,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||disagreeabledrop.com^
 ||disagsquat.pro^
 ||disagtopso.pro^
+||disakoo7.pro^
 ||disaltste.pro^
 ||disamdilet.pro^
 ||disamforce.pro^
@@ -37396,6 +37379,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dustyrabbits.com^
 ||dustywave.com^
 ||dustywrenchdesigned.com^
+||dutaciy0.pro^
 ||dutils.com^
 ||dutorterraom.com^
 ||dutydynamo.co^
@@ -38598,7 +38582,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ec.yimg.com^
 ||ec49775bc5.com^
 ||ec7be59676.com^
-||ecads2.mediasmart.io^
 ||ecatqefal.com^
 ||ecceccoyes.pro^
 ||ecceddispe.pro^
@@ -40752,6 +40735,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||eu-imp-pix.adstk.io^
 ||eu-pn2.adserver.yahoo.com^
 ||eu-pn4.adserver.yahoo.com^
+||eu-prog-pix.adstk.io^
 ||eu-soaxtatl.life^
 ||eu-ssp-pix.adstk.io^
 ||eu-survey.com^
@@ -40976,7 +40960,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||event3.thermofisher.com^
 ||event3.thermoscientific.com^
 ||eventapi.libring.com^
-||eventapi.sooplive.co.kr^
 ||eventbarricadewife.com^
 ||eventbus.intuit.com^
 ||eventcapture03.com^
@@ -42215,6 +42198,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||femsoahe.com^
 ||fen.dkdlsj.com^
 ||fenacheaverage.com^
+||fenafui6.pro^
 ||fenbo.cn^
 ||fengbuy.com^
 ||fengying5.com^
@@ -42342,6 +42326,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fhdnds.mrmarvis.com^
 ||fheiu43bcdhsj.top^
 ||fhfg.net.cn^
+||fhg.advertserve.com^
 ||fhgh9sd.com^
 ||fhiulnbk.cam^
 ||fhiwyq.axiory.com^
@@ -42463,6 +42448,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||filter.advlistings.com^
 ||filter.adxfactory.com^
 ||filter.explorads.com^
+||filter.pwr-ads.com^
+||filter.zeusadx.com^
 ||filteradkernel.adsimilate.com^
 ||filternannewspaper.com^
 ||filthnair.click^
@@ -42563,6 +42550,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fipsta.urbanara.at^
 ||fipsta.urbanara.co.uk^
 ||fipsta.worldfitness.de^
+||fipysoy4.pro^
 ||fipzammizac.com^
 ||firaapp.com^
 ||firdoagh.net^
@@ -43202,7 +43190,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||forkcdn.com^
 ||forlopolme.pro^
 ||forlumineoner.com^
-||form.ads.zalo.me^
 ||form.e.silverfernfarms.com^
 ||form.fusesource.com^
 ||form.harvardbusiness.org^
@@ -43673,7 +43660,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||frenchhypotheticallysubquery.com^
 ||frenghiacred.com^
 ||freniinter.pro^
-||frequencyads.com^
 ||frequentagentlicense.com^
 ||frequentflesh.com^
 ||fresh.inlinkz.com^
@@ -44000,7 +43986,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||fullstory.com^
 ||fulltai.top^
 ||fulltraffic.net^
-||fullyingelderberryed.pro^
 ||fullylustreenjoyed.com^
 ||fulmar.net.anwalt.de^
 ||fulotnatk.com^
@@ -44565,8 +44550,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gammaplatform.com^
 ||gammradiation.space^
 ||gamonalsmadevel.com^
+||gamopue0.pro^
 ||gamopyrth.pro^
-||gamovationbv-chessclub.adsbynimbus.com^
 ||gan.doubleclick.net^
 ||ganalyticshub.net^
 ||ganardineroreal.com^
@@ -44663,7 +44648,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gateway.gen.adsrvr.org^
 ||gateway.ttpsdk.info^
 ||gateway.unityads.unity3d.com^
-||gateway.unityads.unitychina.cn^
 ||gatherup.com^
 ||gatorleads.co.uk^
 ||gatsbybooger.shop^
@@ -44741,7 +44725,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gbvrgf.hibarai.com^
 ||gbwzrcymfmvym.bid^
 ||gbztputcfgp.com^
-||gc-adsrv-static.rtbsuperhub.com^
 ||gc.keefung-zs.com^
 ||gc.titans.com.au^
 ||gc.zgo.at^
@@ -44850,6 +44833,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gecksnabbie.shop^
 ||gecl.xyz^
 ||gecodbchclick.xyz^
+||gecofya5.pro^
 ||gedafdshb7.fun^
 ||gedashb112.fun^
 ||gedawang.com^
@@ -45574,6 +45558,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||giraffepiano.com^
 ||giraingoats.net^
 ||giravilliv.pro^
+||giravya.pro^
 ||girdersacetla.top^
 ||girelobes.pro^
 ||girelwhett.pro^
@@ -47517,6 +47502,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gubodyu.pro^
 ||gubsikroord.net^
 ||guc-api.sonic-us.supersonicads.com^
+||gucazaa.pro^
 ||guce.advertising.com^
 ||guchihyfa.pro^
 ||guckoash.net^
@@ -47536,6 +47522,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||guesswhatnews.com^
 ||guest.vistage.com^
 ||guestworld.tripod.lycos.com^
+||gufadau1.pro^
 ||gufouamicr.pro^
 ||gug.ku6cdn.com^
 ||guhomnfuzq.com^
@@ -47627,7 +47614,9 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||guvmcalwio.com^
 ||guvmmaolnk.com^
 ||guvnumnm.com^
+||guvoxoo6.pro^
 ||guvwolr.com^
+||guweqay.pro^
 ||guwuym.barneys.co.jp^
 ||guxidrookr.com^
 ||guxoonauftautch.net^
@@ -47707,7 +47696,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gxyaxf.pixartprinting.be^
 ||gxyojn.underarmour.fr^
 ||gxzjzg.com^
-||gybaway1.pro^
 ||gybles.shopee.ph^
 ||gybyxsy1588.com^
 ||gyca9f.dahuangcheng.cn^
@@ -47715,6 +47703,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||gyehtm.thebridge.it^
 ||gyfumobo.com^
 ||gygeboa0.pro^
+||gyjekei5.pro^
 ||gyklvfxbpt.com^
 ||gylor.xyz^
 ||gymea.site^
@@ -48196,6 +48185,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||havetohave.com^
 ||havierlikest.top^
 ||havingsreward.com^
+||havusyy9.pro^
 ||hawainootk.pro^
 ||hawkyeye5ssnd.com^
 ||hawsuffer.com^
@@ -48584,6 +48574,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||herynore.com^
 ||heryt111.fun^
 ||herzotph.icu^
+||hesads.akamaized.net^
 ||hesatinaco.com^
 ||heshebei.com^
 ||hesitanttoothpaste.com^
@@ -48736,7 +48727,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||hiad.vmall.com^
 ||hiadscvd.cezici.cn^
 ||hiasor.com^
-||hibaryu8.pro^
 ||hibids10.com^
 ||hichhereallyw.info^
 ||hicksblet.shop^
@@ -48804,6 +48794,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||higouckoavuck.net^
 ||higrigake.com^
 ||higyoe.cn^
+||hihagiy4.pro^
 ||hihufu.cn^
 ||hiidevelelastic.com^
 ||hiido.com^
@@ -49118,7 +49109,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||hldwmly.com^
 ||hleouh.feelunique.com^
 ||hlfuwsiayson.com^
-||hlgam-qg3e6.ads.tremorhub.com^
 ||hlhyzh.fann.cz^
 ||hlmiq.com^
 ||hlms.ecologie.gouv.fr^
@@ -49292,7 +49282,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||homogrheum.pro^
 ||homosexualfordtriggers.com^
 ||homozsim.pro^
-||honchads.apse.svr.rixengine.com^
 ||honcode.ch^
 ||hondaskashga.shop^
 ||honesciaco.pro^
@@ -50241,7 +50230,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||iad.e.360.cn^
 ||iad.eclick.vn^
 ||iad.g.163.com^
-||iad.pg.bid-na.ads.aps.amazon-adsystem.com^
 ||iad.pg.event-na.ads.aps.amazon-adsystem.com^
 ||iad02-event.spotxchange.com^
 ||iad02-search.spotxchange.com^
@@ -50411,6 +50399,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||id1.cn^
 ||id5-sync.com^
 ||id545e247ad11.nes-srl.com^
+||id5bcdad881c9.nova-terra.cl^
 ||id6.me^
 ||id73a2eac123cadd6e458660dc0b8980da6.big-shop.ge^
 ||ida.cnool.net^
@@ -51587,6 +51576,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||imgaliyun.da.mgtv.com^
 ||imgaliyun.res.mgtv.com^
 ||imgapp.yeyou.com^
+||imgbed.test-ads.com^
 ||imgc.cymzc.com^
 ||imgfeedget.com^
 ||imgg-cdn.adskeeper.co.uk^
@@ -51792,6 +51782,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||impossibilityaboriginalblessed.com^
 ||impossibleexpansion.com^
 ||impossiblemove.com^
+||impossiblerat.pro^
 ||imposterlost.com^
 ||imposterreproductionforeman.com^
 ||impostersierraglands.com^
@@ -54834,6 +54825,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||jezailmasking.com^
 ||jezer.site^
 ||jeziahkechel.top^
+||jezomoa8.pro^
 ||jf-bloply.one^
 ||jf.10010.com^
 ||jf.winads.cn^
@@ -54992,7 +54984,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||jinyzuu1.pro^
 ||jinzhao99.com^
 ||jioads.akamaized.net^
-||jipabee4.pro^
 ||jipinapi.panqis.cn^
 ||jipinyouwu.com^
 ||jipperbehoot.shop^
@@ -55175,6 +55166,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||jogglenetwork.com^
 ||joglomsexurgod.net^
 ||jogtestdrive.jeep.com^
+||jogypei4.pro^
 ||johannes.voith.com^
 ||johoroe6.pro^
 ||join-staging.kloaked.app^
@@ -55431,6 +55423,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||jpav.date^
 ||jpcctez.icu^
 ||jpfufu.xlmoto.co.uk^
+||jpfw.adsafeprotected.com^
 ||jpg.mengbingyuan.com^
 ||jpg.qzmqda.com^
 ||jpg1.oss-cn-beijing.aliyuncs.com^
@@ -55522,6 +55515,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||js-delivr.com^
 ||js-eu1.hsadspixel.net^
 ||js-na2.hsadspixel.net^
+||js-na3.hsadspixel.net^
 ||js.139y.com^
 ||js.1688988.com^
 ||js.2011.8684.com^
@@ -55727,6 +55721,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||jsqygwl.top^
 ||jsretra.com^
 ||jss.haoxyx.com^
+||jssdk.cf.mparticle.com^
 ||jssdk.cnzz.com^
 ||jssdkcdn.mparticle.com^
 ||jssdkcdns.mparticle.com^
@@ -56028,6 +56023,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||jyothishmathi.in^
 ||jyozavobzrlkz.top^
 ||jyqekzzlmymzy.top^
+||jysalai8.pro^
 ||jystea.com^
 ||jyuicr.codemonkey.com^
 ||jyumzv.dcshoes.com.br^
@@ -56393,6 +56389,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||keratfisezo.pro^
 ||keratvitto.pro^
 ||kerchtrich.pro^
+||keretoo3.pro^
 ||kernenergie.efscle.com^
 ||kerryfluence.com^
 ||kertzmann.com^
@@ -56878,6 +56875,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||kokotrokot.com^
 ||kolerevprivatedqu.com^
 ||koleyo.xyz^
+||kolicie3.pro^
 ||kolkamu.pro^
 ||kolkwi4tzicraamabilis.com^
 ||kolleqasforsale.com^
@@ -56893,6 +56891,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||konarifal.pro^
 ||kongbao858.com^
 ||kongjiiee.info^
+||konozuy4.pro^
 ||konradsheriff.com^
 ||konsor.ru^
 ||kontextua.com^
@@ -56946,6 +56945,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||kousjcignye.com^
 ||koutobey.net^
 ||kovla.com^
+||kowerzhick.pro^
 ||kowhinauwoulsas.net^
 ||kowj.cn^
 ||kowqd7.top^
@@ -57045,7 +57045,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ktikpuruxasq.com^
 ||ktilahosxv.com^
 ||ktimiyd.top^
-||ktk7k-1eakg.ads.tremorhub.com^
 ||ktkjmp.com^
 ||ktkvcpqyh.xyz^
 ||ktocpw.silabg.com^
@@ -57477,6 +57476,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lagt.cloud^
 ||lagxsntduepv.online^
 ||lagzoids.com^
+||lahudiauaday.pro^
 ||laichook.net^
 ||laichourooso.xyz^
 ||laidpunta.pro^
@@ -57492,6 +57492,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||laivue.com^
 ||lajevt.xyz^
 ||lajjmqeshj.com^
+||lajupii6.pro^
 ||lakequincy.com^
 ||lakerspreferences.gleague.nba.com^
 ||lakerspreferences.nba.com^
@@ -57648,6 +57649,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||larnox.info^
 ||larrenpicture.pro^
 ||larryhagbut.top^
+||larttads.info^
 ||las4srv.com^
 ||lasagneandands.com^
 ||lascapyoge.pro^
@@ -57758,6 +57760,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lb-adsdis.mng-ads.com^
 ||lb-adsmob.mng-ads.com^
 ||lb.aaxads.com^
+||lb.analytics.advalo.com^
 ||lb.billing01.email-allstate.com^
 ||lb.gtimg.com^
 ||lb.l.qq.com^
@@ -58017,6 +58020,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lecapush.net^
 ||leche69.com^
 ||leckbrinded.shop^
+||leconiy2.pro^
 ||lectureolympics.com^
 ||lecubzcgozcgk.one^
 ||ledfjl.icu^
@@ -58141,7 +58145,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lepetitdiary.com^
 ||lephaush.net^
 ||lepiotaspectry.com^
-||lepixae1.pro^
 ||lepomisprinted.shop^
 ||leptopiros.pro^
 ||leqasforsalesre.org^
@@ -58219,12 +58222,10 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||levi247.levi.com^
 ||levigrethr.pro^
 ||levisriman.pro^
-||levitateleads.com^
 ||levityheartinstrument.com^
 ||levougandan.shop^
 ||lewd.ws^
 ||lewdl.com^
-||lewetoy6.pro^
 ||lewis.gct.com^
 ||lewlanderpurgan.com^
 ||lewocui8.pro^
@@ -58460,6 +58461,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ligvraojlrr.com^
 ||ligwulmul.com^
 ||ligxyv.hackers.co.kr^
+||lihamyi3.pro^
 ||lihqutwoiumpd.top^
 ||lihugau.pro^
 ||lijaztozg.com^
@@ -58467,6 +58469,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lijjk.space^
 ||lijlrz.xyz^
 ||lijobkzugan.com^
+||lijufoa5.pro^
 ||like.reply.de^
 ||likeads.com^
 ||likebtn.com^
@@ -58485,6 +58488,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lilacsmilodon.pro^
 ||lilangdianqi.cn^
 ||liliwoin.top^
+||lilufoa5.pro^
 ||lilyairglow.shop^
 ||lilyhumility.com^
 ||lilyrealitycourthouse.com^
@@ -59803,7 +59807,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lnzangcha.com^
 ||loaboukuhoaphoa.net^
 ||load-apne1.exelator.com^
-||load-euc1.exelator.com^
 ||load-euw1.exelator.com^
 ||load-use1.exelator.com^
 ||load-usw2.exelator.com^
@@ -60254,6 +60257,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||losital.ru^
 ||losobo.xyz^
 ||losslace.com^
+||losspreventionmedia.advertserve.com^
 ||losstrack.com^
 ||lostcitiesrediscovered.pro^
 ||lostheaven.com.cn^
@@ -60271,7 +60275,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lottery.olg.ca^
 ||lottery.tresdor.com^
 ||lotteryaffiliates.com^
-||lottos.store-google-play.com^
 ||lotuseed.com^
 ||loublil.top^
 ||louchaug.com^
@@ -60934,6 +60937,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lyciarituo.pro^
 ||lyconery-readset.com^
 ||lycoty.com^
+||lydajuu3.pro^
 ||lydiacorneredreflect.com^
 ||lydiapain.com^
 ||lyearsfoundhertob.com^
@@ -62541,6 +62545,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||manarasse.pro^
 ||manbycus.com^
 ||manconsider.com^
+||mandabarke.pro^
 ||mandaimbit.pro^
 ||mandant.net.anwalt.de^
 ||mandatorycaptaincountless.com^
@@ -62682,6 +62687,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||maritaltrousersidle.com^
 ||maritanoded.shop^
 ||maritparal.pro^
+||maritprote.pro^
 ||maritwoozi.pro^
 ||mark.l.qq.com^
 ||markab.iad-03.braze.com^
@@ -64319,6 +64325,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||matchjunkie.com^
 ||matchpassg.pro^
 ||matecatenae.com^
+||matecua0.pro^
 ||matelso.de^
 ||material-ssl.mediav.com^
 ||material.jfdaily.adsame.com^
@@ -64840,6 +64847,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||media-sapiens.com^
 ||media-us.amillionads.com^
 ||media.2011.8684.com^
+||media.ad-courier.com^
 ||media.ad-lps.net^
 ||media.adget.cn^
 ||media.adrcdn.com^
@@ -65227,6 +65235,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||metaadvertisingsupportsolution.com^
 ||metabet.api.areyouwatchingthis.com^
 ||metabet.static.api.areyouwatchingthis.com^
+||metacperic.pro^
 ||metadsp.co.uk^
 ||metaenonad.pro^
 ||metafincip.pro^
@@ -65433,6 +65442,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||metrics.adiglobal.us^
 ||metrics.adobe.nb.com^
 ||metrics.adobe.nbprivatewealth.com^
+||metrics.adswag.nl^
 ||metrics.adt.com^
 ||metrics.advancedmd.com^
 ||metrics.aem.playstation.com^
@@ -66956,6 +66966,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||microsoft-auth-network.cc^
 ||microsoft-update.name^
 ||microsoft.eventionapp.com^
+||microsoftadvertising.com^
 ||microsoftadvertisingdevcenter.112.2o7.net^
 ||mid.houyi.baofeng.net^
 ||midas-i.com^
@@ -67134,6 +67145,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||mintaza.xyz^
 ||mintclick.xyz^
 ||mintmanunmanly.com^
+||minudoe7.pro^
 ||minus.akirashentai.com^
 ||minusmental.com^
 ||minute.ly^
@@ -68419,6 +68431,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||mu88ads.com^
 ||muai-pysmlp.icu^
 ||mubothawwp.com^
+||mubunoe8.pro^
 ||muccidiurn.pro^
 ||muchlivepad.com^
 ||muchooltoarsie.net^
@@ -68738,6 +68751,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||mycomm2.hackensackmeridian.org^
 ||mycounter.com.ua^
 ||mycounter.ua^
+||mycoxoe3.pro^
 ||mycrdhtv.xyz^
 ||mycuegxt.com^
 ||mycunroofs.top^
@@ -68822,6 +68836,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||myprofile.technics.eu^
 ||mypush.online^
 ||myqmgm.xyz^
+||myremoa9.pro^
 ||myreqdcompany.com^
 ||myretux.top^
 ||myricasicon.top^
@@ -69034,6 +69049,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||nadelle.wantsext.me^
 ||nadese.xyz^
 ||nados-lb-iad.moatads.com^
+||nados-lb-lhr.moatads.com^
 ||nados-lb-phx.moatads.com^
 ||nadruphoordy.xyz^
 ||nads.io^
@@ -69056,7 +69072,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||nahjzx.xyz^
 ||nahognavd.com^
 ||naiadexports.com^
-||naiadmedia.naiadsystems.com^
 ||naiadsystems.com^
 ||naiglipu.xyz^
 ||naileaggri.pro^
@@ -69173,6 +69188,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||native.djaxadserver.com^
 ||native.ladsp.jp^
 ||native.propellerads.com^
+||nativead-ash11.g.flashtalking.com^
 ||nativead-dub11.g.flashtalking.com^
 ||nativeadmatch.com^
 ||nativeads.cacafly.com^
@@ -69616,7 +69632,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||new-new-years.com^
 ||new-programmatic.com^
 ||new.ads.vungle.com^
-||new.adxpremium.services^
 ||new.cityads.com^
 ||new.cnzz.com^
 ||new.plus-eromanga.com^
@@ -69639,7 +69654,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||newcliam.com^
 ||newdisplayformats.com^
 ||newdosug.eu^
-||newejao0.pro^
 ||newhigee.net^
 ||newjersey-content.cresa.com^
 ||newjulads.com^
@@ -69964,6 +69978,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||nicorette.co.kr^
 ||nictaarmil.pro^
 ||nidaungig.net^
+||nidaweo8.pro^
 ||nidays.austria.ni.com^
 ||nidays.suisse.ni.com^
 ||nidays.switzerland.ni.com^
@@ -70053,6 +70068,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||nipe4head.com^
 ||nipechala.com^
 ||nippona7n2theum.com^
+||nippyroadrunner.pro^
 ||nippyrottweiler.pro^
 ||niqwtevkb.xyz^
 ||nirdjz.revolveclothing.com.au^
@@ -70074,6 +70090,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||niux88.com^
 ||niveausatan.shop^
 ||niwd.zhybw88.com^
+||niwidia8.pro^
 ||niwooghu.com^
 ||niwota.com^
 ||niyimu.xyz^
@@ -70364,6 +70381,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||nope.xn--ngbcrg3b.com^
 ||nope.xn--ygba1c.wtf^
 ||noptog.com^
+||noqevoy3.pro^
 ||nora7nice.com^
 ||nordicmarketing.sedgwick.com^
 ||nordicresearch.com^
@@ -70780,7 +70798,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||nuleedsa.net^
 ||nulez.xyz^
 ||null-point.com^
-||null-route.iad-01.braze.com^
 ||null.iad.appboy.com^
 ||nulldiscussion.com^
 ||nullitics.com^
@@ -70844,6 +70861,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||nuttyorganization.com^
 ||nuttyrope.pro^
 ||nuttywealth.pro^
+||nutulyo0.pro^
 ||nuvaioqds.com^
 ||nuxwlc.cn^
 ||nuyibu.pieper.de^
@@ -70958,6 +70976,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||nyutkikha.info^
 ||nyuyiw.linea-storia.co.kr^
 ||nyvknh.compracerta.com.br^
+||nyvujya8.pro^
 ||nywl7.top^
 ||nyzda.top^
 ||nz-go.experian.com^
@@ -71712,6 +71731,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||oligipurus.pro^
 ||oligoimboz.pro^
 ||olil.peopleselect.cn^
+||olimanoshksk.pro^
 ||olineman.pro^
 ||olingerphoto.com^
 ||olininicot.pro^
@@ -72777,8 +72797,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||orjfun.com^
 ||orkreats.com^
 ||orkwithcatukhy.com^
-||orlen.royaladverts.info^
-||orlen.royaladverts.pro^
 ||orlensystem.pro^
 ||orleonsystempl.pro^
 ||orlglnaldates.net^
@@ -75172,7 +75190,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pg308-zmbra.ads.tremorhub.com^
 ||pgaictlq.xyz^
 ||pgammedia.com^
-||pgapi.ksmobile.com^
 ||pgapyygfpg.com^
 ||pgazaz.icu^
 ||pgcciax.icu^
@@ -75802,7 +75819,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pixel.ionos.fr^
 ||pixel.kknews.cc^
 ||pixel.leadlovers.app^
-||pixel.leadsleap.net^
 ||pixel.lilystyle.ai^
 ||pixel.locker2.com^
 ||pixel.madadsmedia.com^
@@ -75813,6 +75829,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pixel.nine.com.au^
 ||pixel.redgifs.com^
 ||pixel.roymorgan.com^
+||pixel.rtgads.com^
 ||pixel.s3xified.com^
 ||pixel.safe-installation.com^
 ||pixel.sprinklr.com^
@@ -75965,6 +75982,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||placeframe.com^
 ||placehold.co^
 ||placeiq.com^
+||placement-main-ads-id6100722555103.vercel.app^
 ||placemypixel.com^
 ||placetobeforever.com^
 ||placidactivity.com^
@@ -76481,6 +76499,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||podbooth.martela.no^
 ||podbooth.martela.se^
 ||podcorn.com^
+||podeseo6.pro^
 ||podgejufti.top^
 ||podiumpresto.com^
 ||podleysensing.shop^
@@ -76947,7 +76966,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ppa18.com^
 ||ppaymnknqzvqw.tech^
 ||ppc-direct.com^
-||ppc.hueadsxml.com^
 ||ppcbuzz.rtb.adx1.com^
 ||ppclinking.com^
 ||ppcnt.pro^
@@ -77205,7 +77223,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||premiumdove.pro^
 ||premiumhdv.com^
 ||premiumimpression.com^
-||premiumleads.com^
 ||premiumredir.ru^
 ||premiumservicevers.pro^
 ||premiumstats.xyz^
@@ -77414,10 +77431,10 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pro-market.net^
 ||pro-networks.us.intellitxt.com^
 ||pro-pro-go.com^
+||pro-rentify.com^
 ||pro-tect.shop^
 ||pro-trading24.com^
 ||pro-web.net^
-||pro-worktools.com^
 ||pro.baidu.com^
 ||pro.bizportal.co.il^
 ||pro.cachelronef.top^
@@ -78131,6 +78148,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pubads-wiinvent.tv360.vn^
 ||pubads.g.doubleclick.net^
 ||pubads.g.doubleclick.uk.net^
+||pubads.gamob.com^
 ||pubads.wiinvent.tv^
 ||pubadx.one^
 ||pubaka5.com^
@@ -78582,6 +78600,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||puxokvda.com^
 ||puysis.com^
 ||puyyyifbmdh.com^
+||puzepai5.pro^
 ||puzna.com^
 ||puzzle.spiriteq.com^
 ||puzzlepursued.com^
@@ -78726,6 +78745,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pylywio8.pro^
 ||pymx5.com^
 ||pyouad.autonvaraosat24.fi^
+||pypukuo0.pro^
 ||pyqfjx.medwing.com^
 ||pyqqx.dcbxnc.cn^
 ||pyraminmil.pro^
@@ -78837,7 +78857,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||qasqhi.notino.pt^
 ||qateqyo.pro^
 ||qatsbesagne.com^
-||qavalui9.pro^
 ||qavgacsmegav.com^
 ||qavhivvcex.com^
 ||qawzwkvqayrlr.top^
@@ -78916,7 +78935,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||qdvavs.trademax.se^
 ||qdxpid-bxcy.today^
 ||qdzyspjx.com^
-||qebegey9.pro^
+||qebekae9.pro^
 ||qebgcdcjr000.fun^
 ||qebpwkxjz.com^
 ||qebuoxn.com^
@@ -79019,6 +79038,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||qichetiemo.info^
 ||qichetuoyun.com.cn^
 ||qichexin.com^
+||qicijiy9.pro^
 ||qidmhohammat.com^
 ||qidnujocmf.com^
 ||qidou.com^
@@ -79039,6 +79059,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||qimnubohcapb.com^
 ||qincai.info^
 ||qinchugudao.com^
+||qinerie6.pro^
 ||qinghua.cc^
 ||qinghyx.com^
 ||qingolor.com^
@@ -79185,6 +79206,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||qoairs.scholl-shoes.com^
 ||qogonsuqq.com^
 ||qogrux.com^
+||qoguhuo4.pro^
 ||qohemoe7.pro^
 ||qohlsl.drawer.fr^
 ||qoijertneio.com^
@@ -79193,6 +79215,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||qonbibff.icu^
 ||qonwdq.helmexpress.com^
 ||qoqv.com^
+||qorajui.pro^
 ||qorbnalwihvhbp.com^
 ||qoredi.com^
 ||qorf.nxh2h.cn^
@@ -79453,6 +79476,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||questus.com^
 ||queue.adspruce.com^
 ||queuequalificationtreasure.com^
+||qufagui.pro^
+||qufogoa8.pro^
 ||quick-counter.net^
 ||quick.offer-check.shop^
 ||quick.openapp.link^
@@ -79533,6 +79558,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||qunrcibhis.com^
 ||quokkacheeks.com^
 ||quokkasgraf.com^
+||quomomasti.pro^
 ||quotationfirearmrevision.com^
 ||quoteafs.com^
 ||quotes.com^
@@ -79636,6 +79662,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||qyogcr.amscope.com^
 ||qypvnb.24mx.it^
 ||qyromjlyvzymz.top^
+||qyrywea9.pro^
 ||qysknb.fukuishimbun.co.jp^
 ||qysnzg.bien-zenker.de^
 ||qyusgj.xyz^
@@ -79645,6 +79672,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||qywjvlazeervj.top^
 ||qyxizya0.pro^
 ||qyyrynjspeamfx.com^
+||qyzadyo3.pro^
 ||qz-hjgrdqih.fun^
 ||qz496amxfh87mst.com^
 ||qzaoltruzfus.com^
@@ -81415,6 +81443,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||rest.iad-03.braze.com^
 ||rest.iad-05.braze.com^
 ||rest.iad-06.braze.com^
+||rest.iad-07.braze.com^
 ||rest.sexypornvideo.net^
 ||rest.wildstar-online.com^
 ||restabbingenologistwoollies.com^
@@ -81467,6 +81496,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||retargeting.newsmanapp.com^
 ||retargetly.com^
 ||retargettracker.com^
+||retehyi.pro^
 ||retention.ankidecks.com^
 ||retentionscience.com^
 ||retgspondingco.com^
@@ -81506,6 +81536,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||retsifergoumti.net^
 ||retsinarameses.shop^
 ||rettica.com^
+||retticallo.pro^
 ||retticonce.pro^
 ||rettingle.pro^
 ||rettornrhema.com^
@@ -81851,6 +81882,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||rienfelegg.pro^
 ||rienfreper.pro^
 ||rientbronz.pro^
+||rientfinal.pro^
 ||riepiprecu.pro^
 ||riespindef.pro^
 ||riesplopin.pro^
@@ -81930,6 +81962,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||riguamenur.pro^
 ||riguesenso.pro^
 ||riiciuy.com^
+||rijuqye0.pro^
 ||rikadoolsogaigo.net^
 ||rikakza.xyz^
 ||rikharenut.shop^
@@ -82207,6 +82240,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||riutibalza.pro^
 ||riutiindif.pro^
 ||rivacsberc.pro^
+||rivajyu1.pro^
 ||rivalfocal.pro^
 ||rivalpout.com^
 ||rivalrifia.pro^
@@ -82409,7 +82443,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||rockyou.net^
 ||rockytrails.top^
 ||rocoads.com^
-||rocoads.xml-eu-v4.ak-is2.net^
 ||rocosopit.pro^
 ||rocywoy8.pro^
 ||rodejessie.com^
@@ -82541,7 +82574,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||rotatejavgg124.fun^
 ||rotateme.ru^
 ||rotatinscu.pro^
-||rotator.adsmediator.com^
 ||rotator.beginads.com^
 ||rote8mino.com^
 ||roteaducar.pro^
@@ -82674,6 +82706,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||rrjzyj.lepage.fr^
 ||rrkouuz.icu^
 ||rrmlejvyqwzk.top^
+||rrmn0-uag05.ads.tremorhub.com^
 ||rrobbybmkwewq.top^
 ||rrptnkao.icu^
 ||rrqhieeaf.com^
@@ -82778,6 +82811,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||rtb-usw.mfadsrvr.com^
 ||rtb.ad-stir.com^
 ||rtb.admaster.com.cn^
+||rtb.ads.production.travelaudience.com^
 ||rtb.ads.travelaudience.com^
 ||rtb.ads.us-east.travelaudience.com^
 ||rtb.ads.us-west.travelaudience.com^
@@ -82941,6 +82975,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ruddycast.com^
 ||ruddyred.pro^
 ||ruddywash.com^
+||rudimey4.pro^
 ||rudishtremolo.top^
 ||rudy.adsnative.com^
 ||rudytoparke.pro^
@@ -83136,6 +83171,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ryaqlybvobjw.top^
 ||ryauzo.xyz^
 ||rydresa.info^
+||ryduvou0.pro^
 ||ryenetworkconvicted.com^
 ||ryeprior.com^
 ||ryeweaver.com^
@@ -83149,11 +83185,14 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ryllae.com^
 ||rymhet.posudamart.ru^
 ||ryminos.com^
+||ryqagii6.pro^
 ||ryqgdrh.icu^
 ||ryre.cn^
 ||ryrmvbnpmhphkx.com^
+||ryryhou6.pro^
 ||rysheatlengthanl.xyz^
 ||rysjkulq.xyz^
+||rytehya9.pro^
 ||rytransionsco.org^
 ||ryvapi.fragrancenet.com^
 ||rz261.cn^
@@ -83204,7 +83243,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||s.ad.smaato.net^
 ||s.ad131m.com^
 ||s.ads.152media.com^
-||s.ads.altavara.co^
 ||s.ads.smartadserver.com^
 ||s.ads.sohu.com^
 ||s.adsrvr.org^
@@ -84141,7 +84179,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sallecoast.shop^
 ||salliesjoll.shop^
 ||sallyfundamental.com^
-||salmonads.com^
 ||salomdiscr.pro^
 ||salonmarketing.ca^
 ||salonscrowd.top^
@@ -84764,6 +84801,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sc.lombard.ie^
 ||sc.londonlive.co.uk^
 ||sc.metrics-shell.com^
+||sc.microsoftadvertising.com^
 ||sc.mtv.co.uk^
 ||sc.mtv.tv^
 ||sc.mtvne.com^
@@ -85144,8 +85182,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||scoredconnect.com^
 ||scoreheadingbabysitting.com^
 ||scoremobileinc-thescore.adsbynimbus.com^
-||scoremobileinc-thescorevideo.adsbynimbus.com^
-||scoresapp-baseballmlblivescores.adsbynimbus.com^
 ||scorespro.com^
 ||scoring.unoadsrv.com^
 ||scormationwind.org^
@@ -86112,6 +86148,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||segs.jp^
 ||seguiengen.pro^
 ||seguivolut.pro^
+||sehejii1.pro^
 ||sehiba.com^
 ||sehlicegxy.com^
 ||seibertspart.com^
@@ -86170,6 +86207,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||selvarotta.pro^
 ||selvi.viessmann.com.tr^
 ||selwrite.com^
+||selyway.pro^
 ||sem.tkc-biyou.jp^
 ||semadumbs.pro^
 ||semanticverses.com^
@@ -86208,7 +86246,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||semqraso.net^
 ||semsicou.net^
 ||semtracker.de^
-||senacoo0.pro^
 ||send.hollandcasino.nl^
 ||send.mad-infeed.jp^
 ||send.merit.me^
@@ -86496,6 +86533,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||servedby.adxpose.com^
 ||servedby.aqua-adserver.com^
 ||servedby.edgeads.org^
+||servedby.insideradverts.com^
 ||servedby.proxena-adserver.com^
 ||servedby.revive-adserver.net^
 ||servedby.studads.com^
@@ -87587,6 +87625,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sikisuu.pro^
 ||sikncs.com^
 ||sikvoilst.com^
+||sikynou2.pro^
 ||silebu.xyz^
 ||silenceblindness.com^
 ||silentadventure.pro^
@@ -88090,7 +88129,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||slightestpretenddebate.com^
 ||sliide-dolphin.adsbynimbus.com^
 ||sliide-huubtracfone.adsbynimbus.com^
-||sliide-tmobileplay.adsbynimbus.com^
 ||slikslik.com^
 ||slim2disc.com^
 ||slimads.vn^
@@ -91598,6 +91636,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sobesed.com^
 ||sobin.wang^
 ||sobismesse.pro^
+||sobyhiu9.pro^
 ||soc.innocreed.com^
 ||socadvnet.com^
 ||soccerflog.com^
@@ -91608,7 +91647,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sociaalpin.pro^
 ||sociablealpaca.pro^
 ||sociablesawfly.pro^
-||social-ad-builder.fresh8.co^
 ||social-bookmarking-tools.de^
 ||social-discovery.io^
 ||social-sb.com^
@@ -92103,6 +92141,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sonar6.fver1-1.fna.fbcdn.net.iberostar.com^
 ||sonar6.fzih1-1.fna.fbcdn.net.iberostar.com^
 ||sonar6.xy.fbcdn.net.iberostar.com^
+||sonehoe1.pro^
 ||song001.com^
 ||songbagoozes.com^
 ||songcorrespondence.com^
@@ -92458,7 +92497,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||spearad.video^
 ||special-offers.online^
 ||special-promotions.online^
-||specialadves.com^
 ||specialevent.informaengage.com^
 ||specialistrequirement.com^
 ||specialitypassagesfamous.com^
@@ -93030,6 +93068,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||srxy.xyz^
 ||srysvqjjcjwjc.xyz^
 ||ss-01.com^
+||ss-rec-vntd.pro^
 ||ss.ads.justpremium.com^
 ||ss.chelaile.net.cn^
 ||ss.cnczjy.com^
@@ -96451,6 +96490,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||suydnc.wwf.it^
 ||suzalsln.com^
 ||suzanne.pro^
+||suzanou.pro^
 ||suzigi-hilazo.pro^
 ||sv-api-event.headlines.pw^
 ||sv-api-lottery.headlines.pw^
@@ -96667,6 +96707,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||swcnmtb.top^
 ||swdced.open32.nl^
 ||swe.shylsp.com^
+||sweadsishclow.top^
 ||sweaterwarmly.com^
 ||sweatypositive.com^
 ||sweb.ulta.com^
@@ -97025,6 +97066,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sytuzk.nissanvimontlaval.com^
 ||syvvsv.artex.com.br^
 ||syxgsq.com.cn^
+||syxyhyy5.pro^
 ||syycwa.barcelo.com^
 ||syyycc.com^
 ||syzbh66.xyz^
@@ -97838,6 +97880,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||talkingdata.net^
 ||talkinggame.com^
 ||talkingnews.net^
+||talksport-ads.checkd-media.com^
 ||talkstewmisjudge.com^
 ||tallinitial.com^
 ||tallomissp.pro^
@@ -98797,7 +98840,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||terrasdsdstd.com^
 ||terratetralogy.pro^
 ||terratraf.com^
-||terraza.premiumleads.com^
 ||terren.cntv.cn^
 ||terribledeliberate.com^
 ||terriblethumb.com^
@@ -99310,7 +99352,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||thonkoirs.com^
 ||thoocheegee.xyz^
 ||thoohizoogli.xyz^
-||thoon.frequencyads.com^
 ||thoonsoard.net^
 ||thoorest.com^
 ||thoorteeboo.xyz^
@@ -99670,6 +99711,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||titolillai.pro^
 ||titolprote.pro^
 ||titomacia.net.anwalt.de^
+||titonui.pro^
 ||titrachak.pro^
 ||tittendestages.net.anwalt.de^
 ||titubsgove.pro^
@@ -99946,17 +99988,23 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||tm1-001.com^
 ||tm2.r-ad.ne.jp^
 ||tm5kpprikka.com^
+||tm701.ad-srv.net^
+||tm702.ad-srv.net^
 ||tm703.ad-srv.net^
 ||tm705.ad-srv.net^
 ||tm708.ad-srv.net^
 ||tm709.ad-srv.net^
-||tm710.ad-srv.net^
 ||tm711.ad-srv.net^
 ||tm714.ad-srv.net^
 ||tm715.ad-srv.net^
-||tm718.ad-srv.net^
+||tm719.ad-srv.net^
 ||tm721.ad-srv.net^
-||tm723.ad-srv.net^
+||tm722.ad-srv.net^
+||tm724.ad-srv.net^
+||tm725.ad-srv.net^
+||tm727.ad-srv.net^
+||tm728.ad-srv.net^
+||tm729.ad-srv.net^
 ||tmads.xyz^
 ||tmapp.fitnessyard.com^
 ||tmatch.adsame.com^
@@ -101799,6 +101847,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||track.tom.com^
 ||track.tomwx.net^
 ||track.totalav.com^
+||track.totoroadx.com^
 ||track.track-adsapi.com^
 ||track.ttsave.app^
 ||track.uc.cn^
@@ -101854,6 +101903,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||tracker-v4.gamedock.io^
 ||tracker.520call.me^
 ||tracker.adbinead.com^
+||tracker.ads-bidfuse.com^
 ||tracker.ads-radiantfusion.co^
 ||tracker.ads-rtbdemand.com^
 ||tracker.ads.sportradar.com^
@@ -101990,7 +102040,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||tracking.adpri.org^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.ads.ibibo.com^
-||tracking.adseedtech.com^
 ||tracking.adsup.me^
 ||tracking.adweb.co.kr^
 ||tracking.adwo.com^
@@ -103491,7 +103540,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||trk.mktg.nec.com^
 ||trk.mppumps.com^
 ||trk.mt.business.westernunion.com^
-||trk.myadstrk.com^
 ||trk.mycare.maimo.org^
 ||trk.nashpumps.com^
 ||trk.nationalhogfarmer.com^
@@ -104297,6 +104345,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||tycajoi9.pro^
 ||tychon.bid^
 ||tycihua.pro^
+||tyciqai6.pro^
 ||tydd.hunterwish.cn^
 ||tyfefye.pro^
 ||tyfqjbuk.one^
@@ -104409,6 +104458,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||u1.idongde.com^
 ||u1.img.mobile.sina.cn^
 ||u1.qyxxpd.com^
+||u1.vad6.ru^
 ||u1010.com^
 ||u1011.com^
 ||u1033.com^
@@ -105541,8 +105591,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||update.stickyadstv.com^
 ||update.tas.yieldmo.com^
 ||update.tcsg.edu^
+||update.vlnguba.com^
 ||update.volam2005pk.com^
-||update.volamthientu.cc^
 ||update.wo.gumgum.com^
 ||update.wps.cn^
 ||update.wtag.adaptv.advertising.com^
@@ -105773,7 +105823,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||us-central1-markuphero.cloudfunctions.net^
 ||us-east-1-ads.superawesome.tv^
 ||us-east-1.ads.digital.disneyadvertising.com^
-||us-east-1.awesomeads.superawesome.tv^
 ||us-east-1.dc.ads.linkedin.com^
 ||us-east-1.prod.entry.video-ads.a2z.com^
 ||us-east-1.prod.pr.analytics.console.aws.a2z.com^
@@ -105964,6 +106013,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||usw18-268-pdb.net.mydays.de^
 ||usw2-ads-alb.yieldmo.com^
 ||usw2-ads-proxy-temp-general-v2.yieldmo.com^
+||usw2.smartadserver.com^
+||usw3.smartadserver.com^
 ||uswardwot.com^
 ||uswdirect.adsrvr.org^
 ||usxabwaiinnu.com^
@@ -106593,7 +106644,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||v3-be-pack.pglstatp-toutiao.com^
 ||v3-dc-ad.ixigua.com^
 ||v3-st-vcdn.anthill.vn^
-||v3.awesomeads.superawesome.tv^
 ||v3.cnzz.com^
 ||v3.gdt.qq.com^
 ||v3.green-ads.net^
@@ -106703,6 +106753,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vali-ugc.cp31.ott.cibntv.net^
 ||vali.cp12.wasu.tv^
 ||vali.cp31.ott.cibntv.net.302.myalicdn.com^
+||valiantworm.pro^
 ||valiceracl.pro^
 ||valid-dad.com^
 ||validate.onecount.net^
@@ -107155,6 +107206,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vettunonfu.pro^
 ||vettutesta.pro^
 ||vetxanh.edu.vn^
+||vevulyi9.pro^
 ||vewbab.entertainmentearth.com^
 ||vexevutus.com^
 ||vexolinu.com^
@@ -107319,6 +107371,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vicomi.com^
 ||victimcondescendingcable.com^
 ||victoriaadvocate.112.2o7.net^
+||victoriousbulldog.pro^
 ||victoriousrequest.com^
 ||victoryrugbyumbrella.com^
 ||vid-cpm.xapads.com^
@@ -107628,6 +107681,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||virtue1266.fun^
 ||virtuereins.com^
 ||virusinfo-cloudscan-cn.heytapmobi.com^
+||visableleads.com^
 ||visagnonpr.pro^
 ||visam.info^
 ||visariomedia.com^
@@ -107926,6 +107980,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||voeux2020.wearemip.com^
 ||vofolie.pro^
 ||vogate.com^
+||vogel.adspirit.de^
 ||vogozae.ru^
 ||voguead.adsame.com^
 ||voguejive.pro^
@@ -108475,6 +108530,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vupoupay.com^
 ||vupteerairs.net^
 ||vupulse.com^
+||vuqobue0.pro^
 ||vursoofte.net^
 ||vuryua.ru^
 ||vutipseethu.net^
@@ -108542,6 +108598,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vyhxugizkaktg.tech^
 ||vyjwxc.elemis.com^
 ||vyk.admaster.com.cn^
+||vykafau9.pro^
 ||vymybkyrzvwyj.top^
 ||vyomkbmowzmzm.top^
 ||vyplzy.job-medley.com^
@@ -108549,6 +108606,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||vytn.cn^
 ||vyuodh.your-look-for-less.nl^
 ||vywvncjascsrw.world^
+||vyxijau2.pro^
 ||vyyikx.sixt.ch^
 ||vyykdr.renogy.com^
 ||vyz3nn85ed0e.controlconceptsusa.com^
@@ -108740,6 +108798,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||waescyne.com^
 ||waeshana.com^
 ||wafflesquaking.com^
+||wafibuy5.pro^
 ||wafmedia*.*^
 ||wafoub.graindemalice.fr^
 ||wafvertizing.crazygames.com^
@@ -108773,7 +108832,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||walkerbayonet.com^
 ||walkingtutor.com^
 ||wall.vgr.com^
-||wallapi.tappads.io^
 ||walle.bayescom.com^
 ||wallet.advcash.com^
 ||wallet.chain.com^
@@ -109426,6 +109484,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||webglstats.com^
 ||webhits.de^
 ||webid.ad.daum.net^
+||webihio4.pro^
 ||webinar.dnv.com^
 ||webinar.intel.com^
 ||webinar.ndtco.com^
@@ -109745,6 +109804,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wererxrzmp.com^
 ||wershichkij.pro^
 ||weryt111.fun^
+||weryvai4.pro^
 ||wesbgz.travel.co.jp^
 ||wescam.info^
 ||weshooship.net^
@@ -110160,6 +110220,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wihychoshi.pro^
 ||wiixqm.xyz^
 ||wiiytwd.icu^
+||wijafyy4.pro^
 ||wijmkizacdan.com^
 ||wijnavoqca.com^
 ||wijvziputcul.com^
@@ -110341,6 +110402,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wittypopcorn.com^
 ||wittypuddle.pro^
 ||wittyrandoms.pro^
+||wittyskua.pro^
 ||wittysparkle.pro^
 ||wittywhiskers.pro^
 ||wittywhispers.pro^
@@ -110442,7 +110504,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wlrkcefll.com^
 ||wlsbotop.adsrv.eacdn.com^
 ||wlsugarhouseaffiliates.adsrv.eacdn.com^
-||wlsuperbet.adsrv.eacdn.com^
 ||wlt-alice.de^
 ||wlt-jupiter.de^
 ||wlvkzwqmyjkmw.top^
@@ -110552,6 +110613,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wobblumbel.pro^
 ||wobbly-birth.com^
 ||wobo888.cc^
+||wobuxao4.pro^
 ||wocwibkfutrj.com^
 ||wodemeitu.com^
 ||wodfxn.com^
@@ -110996,6 +111058,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wuckaity.com^
 ||wucnmte.top^
 ||wucnwte.top^
+||wucokoi7.pro^
 ||wucvvh.surpricenow.com^
 ||wuczmaorkqaz.com^
 ||wudang05.com^
@@ -111026,6 +111089,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wurren.iad-03.braze.com^
 ||wusfa.xyz^
 ||wussucko.com^
+||wusuzee6.pro^
 ||wuujae.com^
 ||wuxlvvcv.com^
 ||wuyou.la^
@@ -111096,6 +111160,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ww362.smartadserver.com^
 ||ww370.smartadserver.com^
 ||ww38.smartadserver.com^
+||ww3809.smartadserver.com^
 ||ww381.smartadserver.com^
 ||ww392.smartadserver.com^
 ||ww4.leadboltads.net^
@@ -111416,7 +111481,9 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.adadvisor.net^
 ||www.adaizceriu.pro^
 ||www.adamaccountingservices.com^
+||www.adaptabledormouse.pro^
 ||www.adaptablefulmar.pro^
+||www.adaydealbais.pro^
 ||www.adclickservice.com^
 ||www.add.bootsclub-biber.de^
 ||www.addebcorni.pro^
@@ -111521,6 +111588,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.adsinimages.com^
 ||www.adskeeper.co.uk^
 ||www.adskeeper.com^
+||www.adsmartgo.com^
 ||www.adsmin.weebly.com^
 ||www.adsmogo.com^
 ||www.adsmogo.net^
@@ -111562,6 +111630,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.adsupporttips.vercel.app^
 ||www.adsurve.com^
 ||www.adsvert.com^
+||www.adsy-system.com^
 ||www.adsymptotic.com^
 ||www.adszooks.com^
 ||www.adt.com.vn^
@@ -111593,6 +111662,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.adventuregamers.xyz^
 ||www.adventureinnmoab.world^
 ||www.adventures-from-home.com^
+||www.adventures-nacho-social.com^
 ||www.adventurostravel.com^
 ||www.adventuroussoul.pro^
 ||www.adventurousspiritss.sbs^
@@ -111963,9 +112033,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.api.nxpwebex2.com^
 ||www.api.oli3.online^
 ||www.api.pcloud.run^
-||www.api.rodebm.net^
+||www.api.slackplane.com^
 ||www.api.taboola.com^
-||www.api.webhop.me^
 ||www.apiphframm.pro^
 ||www.apocametaf.pro^
 ||www.apocrrappe.pro^
@@ -112011,6 +112080,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.approrinse.pro^
 ||www.approzaqqu.pro^
 ||www.appunricon.pro^
+||www.apreyrubri.pro^
 ||www.apricotpony.pro^
 ||www.aprocrepon.pro^
 ||www.apronescrueting.pro^
@@ -112144,6 +112214,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.astriaffab.pro^
 ||www.astribomir.pro^
 ||www.astricontr.pro^
+||www.astriruffi.pro^
 ||www.astutesheep.pro^
 ||www.asyludisse.pro^
 ||www.asystgutti.pro^
@@ -112332,6 +112403,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.banners2.ero-advertising.com^
 ||www.bannevs.ero-advertising.com^
 ||www.bannibilke.pro^
+||www.banotia9.pro^
+||www.bapolue7.pro^
 ||www.baratethna.pro^
 ||www.barbaextra.pro^
 ||www.barbaillat.pro^
@@ -112368,6 +112441,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.battasvent.pro^
 ||www.batterival.pro^
 ||www.bavners2.ero-advertising.com^
+||www.baxetuy6.pro^
 ||www.beamidiswe.pro^
 ||www.bearastepf.pro^
 ||www.bearclawstrength.pro^
@@ -112435,6 +112509,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.bettertextads.com^
 ||www.bettoshipk.pro^
 ||www.bevanloung.pro^
+||www.bevicaa2.pro^
 ||www.bewasunpen.pro^
 ||www.bffymorta.pro^
 ||www.biancinopu.pro^
@@ -112488,6 +112563,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.biunihallo.pro^
 ||www.bivacinter.pro^
 ||www.bivavai3.pro^
+||www.biwatyy2.pro^
 ||www.bizanspigr.pro^
 ||www.bizarrejaguar.pro^
 ||www.bk8.pro.vn^
@@ -112663,6 +112739,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.bnf0ee1179ad8d8bb64f6b3065c975df62.ip-ddns.com^
 ||www.boastihorrts.pro^
 ||www.boastimpil.pro^
+||www.bobefay8.pro^
 ||www.boccadecon.pro^
 ||www.bodymnonan.pro^
 ||www.bodysdisgr.pro^
@@ -112674,6 +112751,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.boilonauja.pro^
 ||www.boismometan.pro^
 ||www.boisterouspeccary.pro^
+||www.bojabio9.pro^
 ||www.boldballoons.pro^
 ||www.boldbeverages.pro^
 ||www.boldserene.pro^
@@ -113013,6 +113091,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.bullorilec.pro^
 ||www.bumblejoy.pro^
 ||www.bunchoverc.pro^
+||www.buqezuu8.pro^
 ||www.burblokane.pro^
 ||www.burdkosolfa.pro^
 ||www.bureasurmu.pro^
@@ -113035,6 +113114,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.bustoclamm.pro^
 ||www.busycricket.pro^
 ||www.busytoopor.pro^
+||www.butemei3.pro^
 ||www.butsuammod.pro^
 ||www.buttemispr.pro^
 ||www.butterflywingdancing.pro^
@@ -113065,7 +113145,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.caditstecc.pro^
 ||www.cadrechco.pro^
 ||www.cadstandardparts.com^
-||www.cadsuta.net^
 ||www.cadvision.com^
 ||www.caecotanac.pro^
 ||www.cafonnevic.pro^
@@ -113259,6 +113338,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.cedraargum.pro^
 ||www.cedresciun.pro^
 ||www.cefaldrupa.pro^
+||www.celabee6.pro^
 ||www.celebritap.pro^
 ||www.celerseine.pro^
 ||www.celestialblazingwhirl.pro^
@@ -113414,7 +113494,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.check-device-map.com^
 ||www.check-dosz.shop^
 ||www.check-info.xyz^
-||www.check-product-error-now.online^
 ||www.check-zamov.shop^
 ||www.check.cloud-too.online^
 ||www.check.go19.online^
@@ -113526,6 +113605,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.cifrarisve.pro^
 ||www.cifsbacce.pro^
 ||www.cignfilib.pro^
+||www.cigosoo8.pro^
+||www.cijaziu3.pro^
 ||www.cimbojacco.pro^
 ||www.cimena-betuho.pro^
 ||www.cinchvergh.pro^
@@ -113581,7 +113662,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.classscapu.pro^
 ||www.classsupin.pro^
 ||www.classysnail.pro^
-||www.cleaningaheadstone.com^
 ||www.cleanlatif.pro^
 ||www.clearvisionpro.pro^
 ||www.clergverid.pro^
@@ -113655,6 +113735,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.cointrade1000.net^
 ||www.coitaessic.pro^
 ||www.cojuxao6.pro^
+||www.cokizai8.pro^
 ||www.cokovay1.pro^
 ||www.coldcrystalwhisper.pro^
 ||www.coldicefreezesall.pro^
@@ -114010,6 +114091,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.crucipropl.pro^
 ||www.crucisciac.pro^
 ||www.crueldisco.pro^
+||www.cruseevalu.pro^
 ||www.crystalbreeze.pro^
 ||www.crystalclearwaters.pro^
 ||www.crystalesrainying.pro^
@@ -114097,6 +114179,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.daea.ero-advertising.com^
 ||www.daffodildreams.pro^
 ||www.daffytrout.pro^
+||www.daforye4.pro^
 ||www.daftmalkoha.pro^
 ||www.dagydiy6.pro^
 ||www.daia.ero-advertising.com^
@@ -114140,6 +114223,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.dartecho.pro^
 ||www.darwefruit.pro^
 ||www.darwieaugu.pro^
+||www.dasaboe4.pro^
 ||www.dasesu-daboci.pro^
 ||www.dashingglimpse.pro^
 ||www.dat2.ero-advertising.com^
@@ -114150,10 +114234,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.dats.ero-advertising.com^
 ||www.datt.ero-advertising.com^
 ||www.daturhugga.pro^
+||www.datypua0.pro^
 ||www.daua.ero-advertising.com^
 ||www.dava.ero-advertising.com^
 ||www.dawa.ero-advertising.com^
 ||www.daxigei8.pro^
+||www.daxivue8.pro^
 ||www.daybeprese.pro^
 ||www.dayboappen.pro^
 ||www.daysskyfire.pro^
@@ -114344,6 +114430,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.deumidistr.pro^
 ||www.deuteciber.pro^
 ||www.deutedevol.pro^
+||www.dev-e-urzadskarbovvy.pantheonsite.io^
+||www.dev-urzadskarbovvy-pl.pantheonsite.io^
 ||www.devilrecon.pro^
 ||www.dewinipoac.pro^
 ||www.dexterousbullfrog.pro^
@@ -114363,12 +114451,14 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.diazeattir.pro^
 ||www.dibasvicin.pro^
 ||www.dibatzavor.pro^
+||www.dibycee3.pro^
 ||www.diciasubap.pro^
 ||www.dicolconde.pro^
 ||www.dicolexhib.pro^
 ||www.dicoremigr.pro^
 ||www.didaccitta.pro^
 ||www.didacpapes.pro^
+||www.didactickestrel.pro^
 ||www.didriabbac.pro^
 ||www.didymunrep.pro^
 ||www.dietepicci.pro^
@@ -114399,6 +114489,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.dilitpolyp.pro^
 ||www.dilivmiter.pro^
 ||www.dilodiste.pro^
+||www.dilomsoffe.pro^
 ||www.diluvabsol.pro^
 ||www.dimagaceti.pro^
 ||www.dimanseami.pro^
@@ -114429,6 +114520,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.diramperno.pro^
 ||www.directadvert.ru^
 ||www.directnetadvertising.net^
+||www.director-main-ads-id10058322495.vercel.app^
 ||www.diriminten.pro^
 ||www.diromcalmi.pro^
 ||www.dirugmomis.pro^
@@ -114439,6 +114531,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.disagimpor.pro^
 ||www.disagsquat.pro^
 ||www.disagtopso.pro^
+||www.disakoo7.pro^
 ||www.disaltste.pro^
 ||www.disamdilet.pro^
 ||www.disamforce.pro^
@@ -114553,7 +114646,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.dismirisco.pro^
 ||www.dismoprofa.pro^
 ||www.disneinfra.pro^
-||www.disneyadvertising.com^
 ||www.disobribru.pro^
 ||www.disocgrate.pro^
 ||www.disolhecto.pro^
@@ -114799,6 +114891,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.durerkill.pro^
 ||www.durliconna.pro^
 ||www.durriepisi.pro^
+||www.dutaciy0.pro^
 ||www.duvyleu6.pro^
 ||www.dyastinfro.pro^
 ||www.dycemediluv.pro^
@@ -115274,6 +115367,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.feltrpatro.pro^
 ||www.femmimutte.pro^
 ||www.femmioverl.pro^
+||www.fenafui6.pro^
 ||www.fennenonco.pro^
 ||www.fenomacrom.pro^
 ||www.feriapeati.pro^
@@ -115320,6 +115414,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.fiorericer.pro^
 ||www.fiorisemol.pro^
 ||www.fipplmodan.pro^
+||www.fipysoy4.pro^
 ||www.fireads.online^
 ||www.firedbrasa.pro^
 ||www.fireliedays.pro^
@@ -115579,7 +115674,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.fugheappla.pro^
 ||www.fugitodont.pro^
 ||www.fugumua.pro^
-||www.fullyingelderberryed.pro^
 ||www.fumifottin.pro^
 ||www.fungalocup.pro^
 ||www.funghsopre.pro^
@@ -115638,6 +115732,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.gameads.io^
 ||www.gameleads.ru^
 ||www.gametdiser.pro^
+||www.gamopue0.pro^
 ||www.gamopyrth.pro^
 ||www.ganglasset.pro^
 ||www.gangrbedro.pro^
@@ -115660,6 +115755,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.gebikua.pro^
 ||www.gebinue3.pro^
 ||www.gecchvezze.pro^
+||www.gecofya5.pro^
 ||www.gekecai7.pro^
 ||www.gelantravo.pro^
 ||www.gelatnutri.pro^
@@ -115736,6 +115832,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.giostwaken.pro^
 ||www.giovisuppl.pro^
 ||www.giravilliv.pro^
+||www.giravya.pro^
 ||www.girelobes.pro^
 ||www.girelwhett.pro^
 ||www.gironjoyan.pro^
@@ -115963,9 +116060,11 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.guaresuper.pro^
 ||www.guatinundi.pro^
 ||www.gubodyu.pro^
+||www.gucazaa.pro^
 ||www.guerdgymno.pro^
 ||www.guerrbairn.pro^
 ||www.guessspuli.pro^
+||www.gufadau1.pro^
 ||www.gufouamicr.pro^
 ||www.guidaexpla.pro^
 ||www.guinaderap.pro^
@@ -115978,11 +116077,13 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.gummyglitter.pro^
 ||www.gumuzae9.pro^
 ||www.guruads.de^
+||www.guvoxoo6.pro^
+||www.guweqay.pro^
 ||www.guyerdissa.pro^
 ||www.gvhwnqma.pro^
 ||www.gwedusparu.pro^
-||www.gybaway1.pro^
 ||www.gygeboa0.pro^
+||www.gyjekei5.pro^
 ||www.gymnoadvan.pro^
 ||www.gynansubte.pro^
 ||www.gypakau5.pro^
@@ -116061,6 +116162,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.hathmoimpor.pro^
 ||www.haulirefer.pro^
 ||www.havcinvai.pro^
+||www.havusyy9.pro^
 ||www.hawainootk.pro^
 ||www.haxeni-kixayu.pro^
 ||www.hazestride.pro^
@@ -116101,12 +116203,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.heydevenen.pro^
 ||www.heyheads.com^
 ||www.hgsprpgi.pro^
-||www.hibaryu8.pro^
 ||www.hiddenstarling.pro^
 ||www.hiddenvalleydreams.pro^
 ||www.hidewui3.pro^
 ||www.hifymeo4.pro^
 ||www.hightrafficads.com^
+||www.hihagiy4.pro^
 ||www.hildedesta.pro^
 ||www.hingeproch.pro^
 ||www.hirslmicro.pro^
@@ -116221,6 +116323,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.icyforeststorm.pro^
 ||www.icytranquilglow.pro^
 ||www.id545e247ad11.nes-srl.com^
+||www.id5bcdad881c9.nova-terra.cl^
 ||www.id73a2eac123cadd6e458660dc0b8980da6.big-shop.ge^
 ||www.iddederad.pro^
 ||www.ideafrostfire.pro^
@@ -116373,6 +116476,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.imporunrep.pro^
 ||www.imposappig.pro^
 ||www.impospurit.pro^
+||www.impossiblerat.pro^
 ||www.impowpanca.pro^
 ||www.impreemani.pro^
 ||www.impreennea.pro^
@@ -116858,11 +116962,11 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.jestelitho.pro^
 ||www.jetuno-garase.pro^
 ||www.jeunebaron.pro^
+||www.jezomoa8.pro^
 ||www.jhelmerit.pro^
 ||www.jinelea.pro^
 ||www.jinshcoinf.pro^
 ||www.jinyzuu1.pro^
-||www.jipabee4.pro^
 ||www.jirajei5.pro^
 ||www.jiryqui.pro^
 ||www.jiveglider.pro^
@@ -116870,6 +116974,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.jizzads.com^
 ||www.jjgkqv.pro^
 ||www.jnliakoeoqaq.pro^
+||www.jogypei4.pro^
 ||www.johoroe6.pro^
 ||www.jollydrift.pro^
 ||www.jollyflare.pro^
@@ -116976,6 +117081,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.juttiriscu.pro^
 ||www.juvocao9.pro^
 ||www.jycosuy2.pro^
+||www.jysalai8.pro^
 ||www.jyxocou.pro^
 ||www.kagurmicro.pro^
 ||www.kaleidopulse.pro^
@@ -117000,6 +117106,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.keratfisezo.pro^
 ||www.keratvitto.pro^
 ||www.kerchtrich.pro^
+||www.keretoo3.pro^
 ||www.ketchattos.pro^
 ||www.ketemnotac.pro^
 ||www.ketinfitta.pro^
@@ -117028,10 +117135,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.kobutopic.pro^
 ||www.kociwoy4.pro^
 ||www.kojangrech.pro^
+||www.kolicie3.pro^
 ||www.kolkamu.pro^
 ||www.kolserne.pro^
 ||www.komigye6.pro^
 ||www.konarifal.pro^
+||www.konozuy4.pro^
 ||www.kookycheer.pro^
 ||www.kookykaleidoscope.pro^
 ||www.kookykites.pro^
@@ -117039,6 +117148,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.koreitaluh.pro^
 ||www.korntdiroc.pro^
 ||www.kospalyss.pro^
+||www.kowerzhick.pro^
 ||www.krokiicoor.pro^
 ||www.kryptplagi.pro^
 ||www.ktqtyggmqgug.pro^
@@ -117067,7 +117177,9 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.ladyhhartf.pro^
 ||www.laevimanda.pro^
 ||www.lagnedisce.pro^
+||www.lahudiauaday.pro^
 ||www.laidpunta.pro^
+||www.lajupii6.pro^
 ||www.lambedisko.pro^
 ||www.lambrsampl.pro^
 ||www.lamentrans.pro^
@@ -117096,6 +117208,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.largielami.pro^
 ||www.larinconvo.pro^
 ||www.larlipreva.pro^
+||www.larttads.info^
 ||www.lascapyoge.pro^
 ||www.laserscomb.pro^
 ||www.latinglads.pro^
@@ -117123,6 +117236,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.leafyecho.pro^
 ||www.lealiimbus.pro^
 ||www.lecanincor.pro^
+||www.leconiy2.pro^
 ||www.leefticono.pro^
 ||www.leggiavvit.pro^
 ||www.leghidefor.pro^
@@ -117138,7 +117252,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.lenzuliber.pro^
 ||www.leopardspotagility.pro^
 ||www.lepadfugit.pro^
-||www.lepixae1.pro^
 ||www.leptopiros.pro^
 ||www.lerceunpre.pro^
 ||www.lessidelin.pro^
@@ -117148,8 +117261,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.levatnucle.pro^
 ||www.levigrethr.pro^
 ||www.levisriman.pro^
-||www.levitateleads.com^
-||www.lewetoy6.pro^
 ||www.lewocui8.pro^
 ||www.lexicdemod.pro^
 ||www.libanbedia.pro^
@@ -117171,9 +117282,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.lightmoth.pro^
 ||www.lightningflashingpower.pro^
 ||www.ligniresea.pro^
+||www.lihamyi3.pro^
 ||www.lihugau.pro^
+||www.lijufoa5.pro^
 ||www.likedyu.pro^
 ||www.lilacsmilodon.pro^
+||www.lilufoa5.pro^
 ||www.limaistalk.pro^
 ||www.limicornit.pro^
 ||www.linguantic.pro^
@@ -117270,7 +117384,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.lottery.ie^
 ||www.lottery.olg.ca^
 ||www.lottery.tresdor.com^
-||www.lottos.store-google-play.com^
 ||www.loudmusicplaysnight.pro^
 ||www.loutishrattlesnake.pro^
 ||www.loutishsheep.pro^
@@ -117336,6 +117449,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.lyaeunjil.pro^
 ||www.lycanfiamm.pro^
 ||www.lyciarituo.pro^
+||www.lydajuu3.pro^
 ||www.lyewfndsvvpq.pro^
 ||www.lygaxei4.pro^
 ||www.lyhonua.pro^
@@ -117406,6 +117520,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.mammicowar.pro^
 ||www.mamotrinci.pro^
 ||www.manarasse.pro^
+||www.mandabarke.pro^
 ||www.mandaimbit.pro^
 ||www.mandeunrha.pro^
 ||www.mandrancor.pro^
@@ -117442,6 +117557,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.mariorimpa.pro^
 ||www.mariosnoek.pro^
 ||www.maritparal.pro^
+||www.maritprote.pro^
 ||www.maritwoozi.pro^
 ||www.markleafloop.pro^
 ||www.markmosscue.pro^
@@ -117481,6 +117597,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.mata.ero-advertising.com^
 ||www.matchfioci.pro^
 ||www.matchpassg.pro^
+||www.matecua0.pro^
 ||www.matrolallte.pro^
 ||www.maturprese.pro^
 ||www.mawmiflust.pro^
@@ -117581,6 +117698,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.meta-ads-manager-facebook-support-business-id100019655719.vercel.app^
 ||www.meta-ads-manager-facebook-support-business-id200056679982.vercel.app^
 ||www.metaadvertisingsupportsolution.com^
+||www.metacperic.pro^
 ||www.metaenonad.pro^
 ||www.metafincip.pro^
 ||www.metafosteo.pro^
@@ -117644,6 +117762,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.minisilkworm.pro^
 ||www.minisproti.pro^
 ||www.miniswine.pro^
+||www.minudoe7.pro^
 ||www.miodiinfel.pro^
 ||www.miqyfou.pro^
 ||www.mirabaloge.pro^
@@ -117750,6 +117869,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.mozzarista.pro^
 ||www.mszene.pro^
 ||www.mu88ads.com^
+||www.mubunoe8.pro^
 ||www.muccidiurn.pro^
 ||www.mucopbarbi.pro^
 ||www.mucorcount.pro^
@@ -117784,10 +117904,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.myadsystem.com^
 ||www.myadvantify.com^
 ||www.mybb.ero-advertising.com^
+||www.mycoxoe3.pro^
 ||www.myelofallo.pro^
 ||www.mylodprepa.pro^
 ||www.mylottoadserv.com^
 ||www.mymeadville.com^
+||www.myremoa9.pro^
 ||www.myrindiste.pro^
 ||www.mysdkzzcl.com^
 ||www.mysdkzzfl.com^
@@ -117901,7 +118023,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.neviclecit.pro^
 ||www.nevraritoc.pro^
 ||www.nevrofibri.pro^
-||www.newejao0.pro^
 ||www.newsfeedchronicle.pro^
 ||www.newsfeedheadline.pro^
 ||www.newshuntads.com^
@@ -117918,6 +118039,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.nickeclino.pro^
 ||www.nickelbuffalo.pro^
 ||www.nictaarmil.pro^
+||www.nidaweo8.pro^
 ||www.nielldesta.pro^
 ||www.nieomutto.pro^
 ||www.niftynestyer.pro^
@@ -117938,10 +118060,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.ninikau0.pro^
 ||www.ninjakakapo.pro^
 ||www.ninyxei4.pro^
+||www.nippyroadrunner.pro^
 ||www.nippyrottweiler.pro^
 ||www.nitanoa.pro^
 ||www.nitragarbi.pro^
 ||www.nitroknoll.pro^
+||www.niwidia8.pro^
 ||www.nl1.ero-advertising.com^
 ||www.nl2.ero-advertising.com^
 ||www.nlkadogan.pro^
@@ -118012,6 +118136,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.nonteaccor.pro^
 ||www.nonvoruzze.pro^
 ||www.nonwedecea.pro^
+||www.noqevoy3.pro^
 ||www.norseuncha.pro^
 ||www.northpeeak.pro^
 ||www.nosewcoapp.pro^
@@ -118045,6 +118170,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.nutgrtitol.pro^
 ||www.nutritrapi.pro^
 ||www.nutritromb.pro^
+||www.nutulyo0.pro^
+||www.nyvujya8.pro^
 ||www.oaktreestrongest.pro^
 ||www.oata.ero-advertising.com^
 ||www.obedientmandrill.pro^
@@ -118096,6 +118223,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.olierentra.pro^
 ||www.oligipurus.pro^
 ||www.oligoimboz.pro^
+||www.olimanoshksk.pro^
 ||www.olininicot.pro^
 ||www.oliveappoliveinter.pro^
 ||www.olivebotolivedata.pro^
@@ -118197,8 +118325,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.origiredat.pro^
 ||www.origlsuper.pro^
 ||www.orion.iad.appboy.com^
-||www.orlen.royaladverts.info^
-||www.orlen.royaladverts.pro^
 ||www.orlensystem.pro^
 ||www.orleonsystempl.pro^
 ||www.orliqsbara.pro^
@@ -118638,6 +118764,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.pixiedreams.pro^
 ||www.pixiefrost.pro^
 ||www.pl-oferta-iphone-16-pro-max.sbs^
+||www.placement-main-ads-id6100722555103.vercel.app^
 ||www.placidbuffalo.pro^
 ||www.plagesvuot.pro^
 ||www.plagiprima.pro^
@@ -118705,6 +118832,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.pocztex.pl-add.lat^
 ||www.pocztex.pl-freight.pro^
 ||www.pocztex.pl-trace.lat^
+||www.podeseo6.pro^
 ||www.poephoffen.pro^
 ||www.poeticcapybara.pro^
 ||www.poeticorca.pro^
@@ -118901,9 +119029,9 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.pro-factory.com^
 ||www.pro-insights.info^
 ||www.pro-partners.nl^
+||www.pro-rentify.com^
 ||www.pro-tect.shop^
 ||www.pro-trading24.com^
-||www.pro-worktools.com^
 ||www.pro.clanweb.cz^
 ||www.pro.cloudmania.site^
 ||www.pro.cn^
@@ -119038,12 +119166,14 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.pusztdartm.pro^
 ||www.puteoplate.pro^
 ||www.putridemod.pro^
+||www.puzepai5.pro^
 ||www.pwefrn.pro^
 ||www.pygmyinchworm.pro^
 ||www.pykasui.pro^
 ||www.pyladsodis.com^
 ||www.pylhwf.pro^
 ||www.pylywio8.pro^
+||www.pypukuo0.pro^
 ||www.pyraminmil.pro^
 ||www.pyrenindiv.pro^
 ||www.pyrosabond.pro^
@@ -119051,21 +119181,24 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.pythoschid.pro^
 ||www.pyvopiu7.pro^
 ||www.qateqyo.pro^
-||www.qavalui9.pro^
 ||www.qchannel01.cn^
-||www.qebegey9.pro^
+||www.qebekae9.pro^
 ||www.qemuzii.pro^
 ||www.qenogiu.pro^
 ||www.qeqywui8.pro^
 ||www.qewediu7.pro^
+||www.qicijiy9.pro^
+||www.qinerie6.pro^
 ||www.qiuyva.pro^
 ||www.qiwdjfniejuk.pro^
 ||www.qiytximmzayf.pro^
 ||www.qkjfdqqxnnkj.pro^
 ||www.qkztpx.pro^
+||www.qoguhuo4.pro^
 ||www.qohemoe7.pro^
 ||www.qomilio9.pro^
 ||www.qomubaa4.pro^
+||www.qorajui.pro^
 ||www.qovaluo3.pro^
 ||www.qqads.com^
 ||www.quadraddor.pro^
@@ -119096,6 +119229,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.queresdila.pro^
 ||www.questasseg.pro^
 ||www.questsprout.pro^
+||www.qufagui.pro^
+||www.qufogoa8.pro^
 ||www.quick.offer-check.shop^
 ||www.quickfoxesjumphigh.pro^
 ||www.quickpopsmile.pro^
@@ -119125,11 +119260,14 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.qukemou.pro^
 ||www.qulucyi.pro^
 ||www.qunatuo.pro^
+||www.quomomasti.pro^
 ||www.qupijao7.pro^
 ||www.qutamai7.pro^
 ||www.qvhtts.pro^
 ||www.qyhynuu1.pro^
+||www.qyrywea9.pro^
 ||www.qyxizya0.pro^
+||www.qyzadyo3.pro^
 ||www.qzkondibqd.pro^
 ||www.rabblindor.pro^
 ||www.rabbrrispo.pro^
@@ -119494,6 +119632,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.resumbianc.pro^
 ||www.resumtatizu.pro^
 ||www.retaiprore.pro^
+||www.retehyi.pro^
 ||www.rethrdisab.pro^
 ||www.retraassor.pro^
 ||www.retraequid.pro^
@@ -119501,6 +119640,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.retriprocr.pro^
 ||www.retrogunni.pro^
 ||www.retrorimpi.pro^
+||www.retticallo.pro^
 ||www.retticonce.pro^
 ||www.rettingle.pro^
 ||www.reusableperiodpads.com^
@@ -119626,6 +119766,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.rienfelegg.pro^
 ||www.rienfreper.pro^
 ||www.rientbronz.pro^
+||www.rientfinal.pro^
 ||www.riepiprecu.pro^
 ||www.riespindef.pro^
 ||www.riesplopin.pro^
@@ -119675,6 +119816,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.rigrihorre.pro^
 ||www.riguamenur.pro^
 ||www.riguesenso.pro^
+||www.rijuqye0.pro^
 ||www.rilacconce.pro^
 ||www.rilacscapr.pro^
 ||www.rilamluex.pro^
@@ -119895,6 +120037,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.riutibalza.pro^
 ||www.riutiindif.pro^
 ||www.rivacsberc.pro^
+||www.rivajyu1.pro^
 ||www.rivalfocal.pro^
 ||www.rivalrifia.pro^
 ||www.rivarhymen.pro^
@@ -119955,6 +120098,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.rubydrift.pro^
 ||www.rubyskua.pro^
 ||www.rubytbacte.pro^
+||www.rudimey4.pro^
 ||www.rudytoparke.pro^
 ||www.rufficeler.pro^
 ||www.ruffipolyt.pro^
@@ -119977,9 +120121,13 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.ruzzeranto.pro^
 ||www.rxblxg.pro^
 ||www.rxddsdpgljsl.pro^
+||www.ryduvou0.pro^
 ||www.rygyvoe.pro^
 ||www.ryjesii4.pro^
 ||www.rylisay.pro^
+||www.ryqagii6.pro^
+||www.ryryhou6.pro^
+||www.rytehya9.pro^
 ||www.rzqilqfais.pro^
 ||www.s.ero-advertising.com^
 ||www.s10.hiadspaces.ero-advertising.com^
@@ -120337,10 +120485,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.segneleont.pro^
 ||www.seguiengen.pro^
 ||www.seguivolut.pro^
+||www.sehejii1.pro^
 ||www.seismfullo.pro^
 ||www.selciobvol.pro^
 ||www.selectigro.pro^
 ||www.selvarotta.pro^
+||www.selyway.pro^
 ||www.semadumbs.pro^
 ||www.sembinonin.pro^
 ||www.sememinsos.pro^
@@ -120363,7 +120513,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.sempetergi.pro^
 ||www.sempisolst.pro^
 ||www.semplpredi.pro^
-||www.senacoo0.pro^
 ||www.senegovere.pro^
 ||www.sensiconfi.pro^
 ||www.sensiligus.pro^
@@ -120588,6 +120737,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.signacunge.pro^
 ||www.signirisfa.pro^
 ||www.sikisuu.pro^
+||www.sikynou2.pro^
 ||www.silentadventure.pro^
 ||www.silentcormorant.pro^
 ||www.silentfirewhirl.pro^
@@ -120744,6 +120894,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.snzihelle.pro^
 ||www.soaringeaglesflyhigh.pro^
 ||www.sobismesse.pro^
+||www.sobyhiu9.pro^
 ||www.soci24.pro^
 ||www.sociaalpin.pro^
 ||www.sociablealpaca.pro^
@@ -120782,6 +120933,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.sompnenlin.pro^
 ||www.sonagapper.pro^
 ||www.sonanamica.pro^
+||www.sonehoe1.pro^
 ||www.sonicorchid.pro^
 ||www.sonictuber.pro^
 ||www.sonicwavetree.pro^
@@ -121041,6 +121193,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.sragiconge.pro^
 ||www.sraipheno.pro^
 ||www.sruggmesur.pro^
+||www.ss-rec-vntd.pro^
 ||www.ssqalpoxsvid.pro^
 ||www.staccriasf.pro^
 ||www.stackempen.pro^
@@ -121364,6 +121517,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.sussuscian.pro^
 ||www.susurringr.pro^
 ||www.suvuqua.pro^
+||www.suzanou.pro^
 ||www.suzigi-hilazo.pro^
 ||www.svagaincap.pro^
 ||www.svagipomst.pro^
@@ -121434,6 +121588,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.synonbilbo.pro^
 ||www.synopnapea.pro^
 ||www.syriaricon.pro^
+||www.syxyhyy5.pro^
 ||www.t-analytics.com^
 ||www.tabacgigi.pro^
 ||www.tabelmetan.pro^
@@ -121648,6 +121803,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.titolhallu.pro^
 ||www.titolillai.pro^
 ||www.titolprote.pro^
+||www.titonui.pro^
 ||www.titrachak.pro^
 ||www.titubsgove.pro^
 ||www.titubstudh.pro^
@@ -121950,6 +122106,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.tybakoo5.pro^
 ||www.tycajoi9.pro^
 ||www.tycihua.pro^
+||www.tyciqai6.pro^
 ||www.tyfefye.pro^
 ||www.typicmorph.pro^
 ||www.typo3.ero-advertising.com^
@@ -122242,6 +122399,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.vaguesnail.pro^
 ||www.valenciaadschool.com^
 ||www.valenstral.pro^
+||www.valiantworm.pro^
 ||www.valiceracl.pro^
 ||www.validconte.pro^
 ||www.valigdiscl.pro^
@@ -122338,6 +122496,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.vettubarch.pro^
 ||www.vettunonfu.pro^
 ||www.vettutesta.pro^
+||www.vevulyi9.pro^
 ||www.vf-corp.com^
 ||www.vgnatitil.pro^
 ||www.vibequest.pro^
@@ -122372,6 +122531,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.vicigyy3.pro^
 ||www.vicinwires.pro^
 ||www.vicisabbra.pro^
+||www.victoriousbulldog.pro^
 ||www.vidads.gr^
 ||www.videoadschallenge.com^
 ||www.videotetta.pro^
@@ -122424,6 +122584,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.vipads.live^
 ||www.viridiancoyote.pro^
 ||www.viridianrad.pro^
+||www.visableleads.com^
 ||www.visagnonpr.pro^
 ||www.viscitimpa.pro^
 ||www.viscomonod.pro^
@@ -122523,8 +122684,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.vulcarabbo.pro^
 ||www.vulneunref.pro^
 ||www.vumoseo6.pro^
+||www.vuqobue0.pro^
 ||www.vxyfkh.pro^
 ||www.vyk.admaster.com.cn^
+||www.vykafau9.pro^
+||www.vyxijau2.pro^
+||www.wafibuy5.pro^
 ||www.wagbestrut.pro^
 ||www.wager.dm^
 ||www.wailtofolgo.pro^
@@ -122581,6 +122746,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.weatvanda.pro^
 ||www.weaveglow.pro^
 ||www.web.cellfun.mobi^
+||www.webihio4.pro^
 ||www.wedgejaspe.pro^
 ||www.weekndiver.pro^
 ||www.wejuvxtjnpg.pro^
@@ -122590,6 +122756,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.wellcefelc.pro^
 ||www.weltiunchi.pro^
 ||www.wershichkij.pro^
+||www.weryvai4.pro^
 ||www.weskofless.pro^
 ||www.westreclameadvies.nl^
 ||www.wetnenevic.pro^
@@ -122681,6 +122848,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.wifocui2.pro^
 ||www.wiggeesple.pro^
 ||www.wigglyinnovation.pro^
+||www.wijafyy4.pro^
 ||www.wiki.ero-advertising.com^
 ||www.wildflowerdreaming.pro^
 ||www.wildflowerfields.pro^
@@ -122722,6 +122890,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.wittyphrasenest.pro^
 ||www.wittypuddle.pro^
 ||www.wittyrandoms.pro^
+||www.wittyskua.pro^
 ||www.wittysparkle.pro^
 ||www.wittywhiskers.pro^
 ||www.wittywhispers.pro^
@@ -122730,6 +122899,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.wks.ero-advertising.com^
 ||www.woavmhbb4tk19ic93ik8p4a9.funnyfoodadventures.com^
 ||www.wobblumbel.pro^
+||www.wobuxao4.pro^
 ||www.woftnepante.pro^
 ||www.wogydoy2.pro^
 ||www.wokapea.pro^
@@ -122758,6 +122928,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.wordwhirls.pro^
 ||www.workmsvesc.pro^
 ||www.worktanter.pro^
+||www.worldnomads.com^
 ||www.worshritogi.pro^
 ||www.wosttincan.pro^
 ||www.woundining.pro^
@@ -122772,6 +122943,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.wslzgoody.pro^
 ||www.wsw.ero-advertising.com^
 ||www.wta.ero-advertising.com^
+||www.wucokoi7.pro^
+||www.wusuzee6.pro^
 ||www.wuzenoo7.pro^
 ||www.wvuhvpjsev.pro^
 ||www.ww2.ero-advertising.com^
@@ -122802,6 +122975,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.xiaohongshu.com/api/marketing/box/trigger?
 ||www.xiaohongshu.com/api/sns/v1/ads/resource
 ||www.xiaohongshu.com/api/sns/v2/hey/*/hey_gallery
+||www.xifaraa3.pro^
 ||www.xiloldisan.pro^
 ||www.ximovuo.pro^
 ||www.xiporye.pro^
@@ -122815,6 +122989,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.xqjyofqhbo.pro^
 ||www.xujamye3.pro^
 ||www.xuporea4.pro^
+||www.xuwofue8.pro^
 ||www.xybihoa.pro^
 ||www.xycusua2.pro^
 ||www.xystecuoci.pro^
@@ -122851,6 +123026,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.zampisospi.pro^
 ||www.zangorrispa.pro^
 ||www.zannacratc.pro^
+||www.zappegastr.pro^
 ||www.zappylux.pro^
 ||www.zappytwiddle.pro^
 ||www.zarnoklex.pro^
@@ -122876,6 +123052,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.zephyrpine.pro^
 ||www.zephyrwonderland.pro^
 ||www.zeraxea6.pro^
+||www.zesojio3.pro^
 ||www.zestfuldora.pro^
 ||www.zestfulecho.pro^
 ||www.zestfultide.pro^
@@ -122928,6 +123105,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.zoopaposti.pro^
 ||www.zopiwoo.pro^
 ||www.zostealasc.pro^
+||www.zovucau6.pro^
 ||www.zowux.pro^
 ||www.ztjtbnrhkc.pro^
 ||www.ztsvjmvpyi.pro^
@@ -122935,10 +123113,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.zucchscacc.pro^
 ||www.zucunyy1.pro^
 ||www.zudepoi.pro^
+||www.zufarea6.pro^
 ||www.zufolmazzo.pro^
 ||www.zulkasobbi.pro^
 ||www.zulunuincam.pro^
 ||www.zuppadisin.pro^
+||www.zupywii5.pro^
 ||www.zwittdiste.pro^
 ||www.zww.ero-advertising.com^
 ||www.zydubeo5.pro^
@@ -123463,6 +123643,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||xibao100.com^
 ||xibspj.komehyo.jp^
 ||xielloltv.com^
+||xifaraa3.pro^
 ||xifatime.com^
 ||xigeng0375.com^
 ||xihawan8.com^
@@ -123624,30 +123805,32 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||xml-api.online^
 ||xml-console.xapads.com^
 ||xml-default.xapads.com^
+||xml-eu-v4.bidderads.com^
 ||xml-eu.flairadscpc.com^
 ||xml-eu.hueadsxml.com^
 ||xml-rtb.xapads.com^
 ||xml-v4.adverttise.com^
 ||xml-v4.advlistings.com^
 ||xml-v4.boffoadsfeeds.com^
+||xml-v4.pwr-ads.com^
 ||xml-v4.staradsmedia.com^
 ||xml-v4.winkleads.com^
 ||xml-v4.zentrixads.com^
+||xml-v4.zeusadx.com^
 ||xml.ad-maven.com^
 ||xml.adservme.com^
-||xml.adsfloow.net^
 ||xml.adsparkmedia.net^
 ||xml.adventurefeeds.com^
 ||xml.adverttise.com^
 ||xml.adx1.com^
 ||xml.adxfactory.com^
 ||xml.adxnexus.com^
+||xml.adxpoint.com^
 ||xml.boffoadsfeeds.com^
 ||xml.explorads.com^
 ||xml.flairadscpc.com^
 ||xml.hueadsxml.com^
 ||xml.kunvertads.com^
-||xml.staradsmedia.com^
 ||xml.zaimads.com^
 ||xml.zeusadx.com^
 ||xml1-v4.admeridianads.com^
@@ -123922,6 +124105,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||xutolr.mantan-web.jp^
 ||xutvbt.icu^
 ||xuugnuits.com^
+||xuwofue8.pro^
 ||xuxwvh.xyz^
 ||xuymgm.hostgator.mx^
 ||xvantage.ingrammicro.com^
@@ -125164,6 +125348,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||zapadserver1.com^
 ||zaparena.com^
 ||zaphararidged.com^
+||zappegastr.pro^
 ||zappylux.pro^
 ||zappytwiddle.pro^
 ||zapunited.com^
@@ -125313,6 +125498,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||zerzvqrzzvlmo.top^
 ||zesep.com^
 ||zesgky.belambra.fr^
+||zesojio3.pro^
 ||zestfuldora.pro^
 ||zestfulecho.pro^
 ||zestfultide.pro^
@@ -125624,6 +125810,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||zn2fbeqwshmuyrkad-twia.siteintercept.qualtrics.com^
 ||zn5w1o4oy3uonrtb4-adspipe.siteintercept.qualtrics.com^
 ||zn6qlz2bydohwnway-tripadvisor.siteintercept.qualtrics.com^
+||zn8oh78in97qktkhe-tripadvisor.siteintercept.qualtrics.com^
 ||znca5uksadxzw1dkb-nestlewaterscx.siteintercept.qualtrics.com^
 ||znctrack.net^
 ||zndsssp.dangbei.net^
@@ -125707,6 +125894,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||zouzeeps.net^
 ||zouzougri.net^
 ||zovidree.com^
+||zovucau6.pro^
 ||zowux.pro^
 ||zoykzjajvjoyo.top^
 ||zozwyc.moscot.com^
@@ -125829,6 +126017,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||zudopk.callondoc.com^
 ||zudver.matsmart.se^
 ||zudvl.com^
+||zufarea6.pro^
 ||zufolmazzo.pro^
 ||zug.sbb.ch^
 ||zugnogne.com^
@@ -125849,6 +126038,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||zunsoach.com^
 ||zuowen.hydcd.com^
 ||zuppadisin.pro^
+||zupywii5.pro^
 ||zuqalzajno.com^
 ||zuqjug.nutrabay.com^
 ||zureiskedamyb.world^
