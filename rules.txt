@@ -1,5 +1,5 @@
-! Version: 2025-05-10 09:23:58（北京时间） 
-! Total count: 126214
+! Version: 2025-05-10 20:33:02（北京时间） 
+! Total count: 126212
 /.*\.*\.shouji\.sogou\.com/
 /.*\.1rtb\.com/
 /.*\.a\.market\.xiaomi\.com/
@@ -33598,7 +33598,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||data.vdi-wissensforum.de^
 ||data.vinsolutions.com^
 ||data.vnadsrv.com^
-||data.vod.itc.cn^
 ||data.volksfreund.de^
 ||data.voyager.dev.cjmadobe.com^
 ||data.web.doitbest.com^
@@ -87718,7 +87717,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||simigincat.pro^
 ||similargrocery.pro^
 ||similarpresence.com^
-||similarweb.com^
 ||simility.com^
 ||simmeringsuitableunwoven.com^
 ||simonsignal.com^
