@@ -1,5 +1,5 @@
-! Version: 2025-05-14 20:37:19（北京时间） 
-! Total count: 126872
+! Version: 2025-05-15 09:24:01（北京时间） 
+! Total count: 126870
 /.*\.*\.shouji\.sogou\.com/
 /.*\.1rtb\.com/
 /.*\.a\.market\.xiaomi\.com/
@@ -989,7 +989,6 @@ pornhub.com##.premiumPromoBannerWrapper
 qdaily.com##.app
 qdaily.com##.clearfix.com-header-brief
 qq.com##+js(json-prune, ad)
-search.smzdm.com###elevator > LI:first-child
 sina.cn###j_card_miniVideo
 sina.cn###j_card_searchHotwords > section.s_card > a:last-child > ins.most
 sina.cn##.an.cm_art_push
@@ -1027,11 +1026,7 @@ sis001.com##.navbar-fixed-bottom
 sis001.com##.overlay.active
 sm.cn###index_banner
 sm.cn###index_hot_news
-smzdm.com###elevator > LI:first-child
 smzdm.com###global-search > DIV.search-inner.z-clearfix > DIV.download:last-child
-smzdm.com###index-elevator > LI:nth-child(3)
-smzdm.com###index-elevator > li:nth-of-type(1)
-smzdm.com###index-elevator > li:nth-of-type(2)
 smzdm.com##.J_copy.btn-open-app
 smzdm.com##.J_ota
 smzdm.com##.btn-open-app-b.btn-open-app
@@ -1054,6 +1049,7 @@ smzdm.com##.see-all
 smzdm.com##.swiper-container-ios
 smzdm.com##.top-applink
 smzdm.com##a[class^="fixed-logo"]
+smzdm.com#?#li:has(i.icon-mobile)
 sogou.com###right
 sogou.com###vl
 sogou.com##.erwm-box
@@ -9277,6 +9273,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads-pd.nbcuni.com^
 ||ads-pd.universalsports.com^
 ||ads-pebblemedia.adhese.com^
+||ads-pit-nfl.yinzcam.com^
 ||ads-pixiv.net^
 ||ads-platform.zalo.me^
 ||ads-portal.net^
@@ -12427,6 +12424,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adspirit.de^
 ||adspirit.info^
 ||adspirit.net^
+||adspixel.network^
 ||adspixle.com^
 ||adsplay.in^
 ||adsplay.net^
@@ -16989,7 +16987,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.emma.io^
 ||api.empower.net^
 ||api.engage-conversations.meltwater.io^
-||api.engager.ecbsn.com^
 ||api.enginemob.me^
 ||api.enjoyadsplatform.com^
 ||api.ent.mobileanjian.com^
@@ -80220,6 +80217,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||r1ztni.oui.sncf^
 ||r2.adwo.com^
 ||r2.cdn1cloudflare.xyz^
+||r2.leadsy.ai^
 ||r2.tschewang.com^
 ||r2b2.cz^
 ||r2b2.io^
