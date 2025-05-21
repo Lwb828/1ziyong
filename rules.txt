@@ -1,5 +1,5 @@
-! Version: 2025-05-21 09:27:27（北京时间） 
-! Total count: 125507
+! Version: 2025-05-21 20:37:56（北京时间） 
+! Total count: 125509
 /.*\.*\.shouji\.sogou\.com/
 /.*\.1rtb\.com/
 /.*\.a\.market\.xiaomi\.com/
@@ -8716,6 +8716,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adkonekt.com^
 ||adkongjian.com^
 ||adkova.com^
+||adks.hpplay.cn^
 ||adku.co^
 ||adku.com^
 ||adkwai.com^
@@ -15174,6 +15175,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||analytics.academy.com^
 ||analytics.ad.daum.net^
 ||analytics.adam.page^
+||analytics.adjust.cn^
 ||analytics.adliners.de^
 ||analytics.admon.com.vn^
 ||analytics.adobe.io^
@@ -18814,6 +18816,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||appunricon.pro^
 ||appuu.cn^
 ||appvast.adsafeprotected.com^
+||appversion.115.com^
 ||appwall.api.airpush.com^
 ||appwall.tv2phone.cn^
 ||appwebview.com^
@@ -19615,7 +19618,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||at.vodafone.de^
 ||at1.doubanio.com^
 ||at2.doubanio.com^
-||ata-sdk-uuid-report.dreport.meituan.net^
 ||ata.ero-advertising.com^
 ||atabekdoubly.top^
 ||atableofcup.com^
