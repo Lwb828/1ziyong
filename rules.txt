@@ -1,5 +1,5 @@
-! Version: 2025-06-04 09:37:27（北京时间） 
-! Total count: 137096
+! Version: 2025-06-04 20:39:03（北京时间） 
+! Total count: 137103
 /.*.*.shouji.sogou.com/
 /.*.1rtb.com/
 /.*.a.market.xiaomi.com/
@@ -3874,6 +3874,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||a-mo.net^
 ||a-mx.com^
 ||a-pagerank.net^
+||a-qmad.qm989.com^
 ||a-reporting.nytimes.com^
 ||a-sta-cn.upltv.com^
 ||a-static.com^
@@ -4245,6 +4246,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||a5jogo.biz^
 ||a5jogo.club^
 ||a5t.icu^
+||a6-remad.qm989.com^
 ||a6.bjdianyue.com^
 ||a6.codejumps.com^
 ||a6.hn985.com^
@@ -7739,7 +7741,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.wanchuweilai.com^
 ||ad.wanderlist.com^
 ||ad.wang502.com^
-||ad.wapkiz.com^
 ||ad.wavu.hu^
 ||ad.weatherbug.com^
 ||ad.webdice.jp^
@@ -9347,7 +9348,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads-58hnjs.rtb.admanmedia.com^
 ||ads-6686.top^
 ||ads-a.juicyads.com^
-||ads-adaptv.vidible.tv^
 ||ads-admin.hubs.vn^
 ||ads-ads-main-awesomeads.sacdn.net^
 ||ads-adsanddata.adhese.com^
@@ -9490,6 +9490,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads-secondary-conversion.unityads.unity3d.com^
 ||ads-secure.videohub.tv^
 ||ads-server.mxplay.com^
+||ads-service.api.linkme.global^
 ||ads-sg.tiktok.com^
 ||ads-shopping.shouqianba.com^
 ||ads-showheroes.adhese.com^
@@ -11174,11 +11175,13 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads09.focalink.com^
 ||ads09.win888b.com^
 ||ads1-adnow.com^
+||ads1-adqva.com^
 ||ads1-normal-hl.zijieapi.com^
 ||ads1-normal-lf.zijieapi.com^
 ||ads1-normal-lq.zijieapi.com^
 ||ads1-normal.zijieapi.com^
 ||ads1.admedia.ro^
+||ads1.ads1-adqva.com^
 ||ads1.adtelligent.com^
 ||ads1.advance.net^
 ||ads1.ami-admin.com^
@@ -17474,6 +17477,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.linkz.net^
 ||api.live.bilibili.com/xlive/e-commerce-interface/v1/ecommerce-user/get_shopping_info?
 ||api.liveramp.com^
+||api.livestt.co^
 ||api.locallogic.co^
 ||api.localytics.com^
 ||api.locately.com^
@@ -54714,6 +54718,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||imp.accesstra.de^
 ||imp.ad.xelements.cn^
 ||imp.ads.rgyun.com^
+||imp.ads1-adqva.com^
 ||imp.adsmogo.com^
 ||imp.adx.roockmobile.com^
 ||imp.asahi.com^
@@ -59031,6 +59036,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||jsnzoe301m.com^
 ||jsomtq.telescope.com^
 ||json.gewuwen.com^
+||jsonads.upnerd.net^
 ||jsontdsexit.com^
 ||jsoon.digitiminimi.com^
 ||jspqms.bellevue-ferienhaus.de^
@@ -76052,7 +76058,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||oms1.sportsnet.ca^
 ||omsc.kpn.com^
 ||omsdk.adjoe-programmatic.com^
-||omsdk.prod.vidible.tv^
 ||omshedinjaor.com^
 ||omt.shinobi.jp^
 ||omtr.financialengines.com^
@@ -93264,6 +93269,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||smartad.ee^
 ||smartads.statsperform.com^
 ||smartadserver.com^
+||smartadsflow.top^
 ||smartadtags.com^
 ||smartasset.com^
 ||smartb.tubeadvertising.eu^
@@ -102386,6 +102392,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||t-in.ads.heytapmobile.com^
 ||t-l.play.aiseet.atianqi.com^
 ||t-pan.triodos.com^
+||t-remad.qm989.com^
 ||t-s.actemra.com^
 ||t-s.activase.com^
 ||t-s.allergicasthma.com^
