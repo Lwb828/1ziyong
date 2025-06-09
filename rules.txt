@@ -1,5 +1,5 @@
-! Version: 2025-06-08 20:34:30（北京时间） 
-! Total count: 137719
+! Version: 2025-06-09 09:42:03（北京时间） 
+! Total count: 137727
 /.*.*.shouji.sogou.com/
 /.*.1rtb.com/
 /.*.a.market.xiaomi.com/
@@ -7096,6 +7096,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.api.attribuly.com^
 ||ad.api.fello.net^
 ||ad.api.kaffnet.com^
+||ad.api.looker.com^
 ||ad.api.mobile.youku.com^
 ||ad.api.moji.com^
 ||ad.api.stax.kr^
@@ -7215,6 +7216,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.dedicatedmedia.com^
 ||ad.deepthought.industries^
 ||ad.depositfiles.com^
+||ad.dev-cloud2.starleaf.com^
 ||ad.dev.360.cn^
 ||ad.dev.smartnews.net^
 ||ad.deviantart.com^
@@ -7921,7 +7923,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad19digital.checkm8.com^
 ||ad1digital.checkm8.com^
 ||ad1game.ru^
-||ad1x7.mea5ms.com^
 ||ad2.360yield.com^
 ||ad2.ad-srv.net^
 ||ad2.adecn.com^
@@ -9391,12 +9392,14 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads-bilek.com^
 ||ads-bitcoin.com^
 ||ads-brand-postback.unityads.unity3d.com^
+||ads-buf-nfl.yinzcam.com^
 ||ads-by.madadsmedia.com^
 ||ads-by.yieldselect.com^
 ||ads-candid.adhese.com^
 ||ads-cdn.fptplay.net^
 ||ads-cdn.loopaautomate.com^
 ||ads-cdn.tenmax.io^
+||ads-chi-nfl.yinzcam.com^
 ||ads-cloud.rovio.com^
 ||ads-collector.luizalabs.com^
 ||ads-colruytgroup.adhese.com^
@@ -11040,6 +11043,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.videoadvertising.com^
 ||ads.videofen.com^
 ||ads.videohub.tv^
+||ads.videomaker.com^
 ||ads.videosz.com^
 ||ads.videy.co^
 ||ads.vidoomy.com^
@@ -12713,6 +12717,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adstat.izuiyou.com^
 ||adstat.moyu88.xyz^
 ||adstat.ziyemy.shop^
+||adstat2.ziyemy.shop^
 ||adstatic.b-cdn.net^
 ||adstatic.zhihu.com^
 ||adstatistics.av380.net^
@@ -12746,6 +12751,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
 ||adstore.jp^
+||adstorebluebird.cy^
 ||adstory.gotrackier.com^
 ||adstosearch.com^
 ||adstrack-meta-id29217.vercel.app^
@@ -16974,7 +16980,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.ad.yipinread.com^
 ||api.ad4game.com^
 ||api.adaether.com^
-||api.adalytics.adastra.digital^
 ||api.adapty.io^
 ||api.adbana.com^
 ||api.adblockfast.com^
@@ -17193,7 +17198,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.ca.looker.com^
 ||api.cactusglobal.io^
 ||api.callget.cn^
-||api.campaigns.notino.com^
 ||api.caroda.io^
 ||api.cartsee.cartx.cloud^
 ||api.cazamba.com^
@@ -17269,6 +17273,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.deep.bi^
 ||api.demand.supply^
 ||api.demandbase.com^
+||api.dev-cloud2.starleaf.com^
 ||api.dev.acxsparkpost.acxiom.com^
 ||api.dev.looker.com^
 ||api.devatics.io^
@@ -17298,7 +17303,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.dttrk.com^
 ||api.duapp.com^
 ||api.e-cg.cn^
-||api.e-pfg.ca^
 ||api.e.kuaishou.com^
 ||api.e.mi.com^
 ||api.eaglem.net^
@@ -23607,6 +23611,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||blowcbrogl.pro^
 ||blowlsagri.pro^
 ||blownsuperstitionabound.com^
+||blpciu.skadsdkless.appsflyersdk.com^
 ||blprgctcgxjreyu.com^
 ||blsoof.wirwinzer.de^
 ||blu.mobileads.msn.com^
@@ -89056,6 +89061,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sacraperse.pro^
 ||sacrishebe.pro^
 ||sad-g.com^
+||sad-sandwich.pro^
 ||sad.adsgram.ai^
 ||sadb.superrtl-licensing.de^
 ||sadb.superrtl.de^
@@ -111837,6 +111843,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||us-marketing.roxtec.com^
 ||us-notify.bidagent.xad.com^
 ||us-now.experian.com^
+||us-sad-sandwich.cell.us.nr-data.net^
 ||us-sad-trombone.cell.us.nr-data.net^
 ||us-vast.unoadsrv.com^
 ||us-west-2.ads.digital.disneyadvertising.com^
@@ -118014,6 +118021,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||www.adstaces.ero-advertising.com^
 ||www.adstargetx.com^
 ||www.adstogo.com^
+||www.adstorebluebird.cy^
 ||www.adstosearch.com^
 ||www.adstrack-meta-id29217.vercel.app^
 ||www.adstract.adk2x.com^
