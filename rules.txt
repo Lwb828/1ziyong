@@ -1,5 +1,5 @@
-! Version: 2025-06-29 20:35:56（北京时间） 
-! Total count: 144758
+! Version: 2025-06-30 09:43:21（北京时间） 
+! Total count: 144767
 /.*.1rtb.com/
 /.*.a.market.xiaomi.com/
 /.*.ad.gameley.com/
@@ -6943,6 +6943,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad-locus.com^
 ||ad-logging2.ap-northeast-2.elasticbeanstalk.com^
 ||ad-m.asia^
+||ad-management.int.ad.dev.smartnews.net^
 ||ad-management.srv.ad.dev.smartnews.net^
 ||ad-mapps.com^
 ||ad-market.vivo.com.cn^
@@ -7279,6 +7280,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.cyapi.cn^
 ||ad.cyycoy.com^
 ||ad.da88vn.win^
+||ad.danawa.com^
 ||ad.dangkygo88.in^
 ||ad.datadeliver.net^
 ||ad.datadrivenpromotion.com^
@@ -9567,10 +9569,12 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads-nextdaymedia.adhese.com^
 ||ads-not-by-this-site.de^
 ||ads-nrc.adhese.com^
+||ads-partner-noneu.truecaller.com^
 ||ads-partners.coupang.com^
 ||ads-pd.nbcuni.com^
 ||ads-pd.universalsports.com^
 ||ads-pebblemedia.adhese.com^
+||ads-pit-nfl.yinzcam.com^
 ||ads-pixiv.net^
 ||ads-platform.zalo.me^
 ||ads-portal.net^
@@ -11678,6 +11682,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads31.adtelligent.com^
 ||ads31.unoadsrv.com^
 ||ads31.vertamedia.com^
+||ads32.adtelligent.com^
 ||ads32.vertamedia.com^
 ||ads33.adtelligent.com^
 ||ads33.unoadsrv.com^
@@ -11901,6 +11906,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adschemist.com^
 ||adschill.com^
 ||adscholar.com^
+||adscholars.com^
 ||adschoom.com^
 ||adscience.nl^
 ||adscienceltd.com^
@@ -14665,6 +14671,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||airbornelobster.pro^
 ||airbrake.io^
 ||airbuinfos.pro^
+||airbyte.us-west-2.v3.awesomeads.staging.superawesome.tv^
 ||aircraftairliner.com^
 ||aircraftreign.com^
 ||airdilute.com^
@@ -17507,6 +17514,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.convrse.media^
 ||api.cooladata.com^
 ||api.coolguang.com^
+||api.copybara.com^
 ||api.counterapi.dev^
 ||api.country.is^
 ||api.cpu.baidu.com^
@@ -17745,6 +17753,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.ksapisrv.com^
 ||api.ktplay.com^
 ||api.kwaizt.com^
+||api.kws.staging.superawesome.tv^
 ||api.lab.amplitude.com^
 ||api.lab.eu.amplitude.com^
 ||api.lanistaads.com^
@@ -94100,7 +94109,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sdk.kochava.com^
 ||sdk.kochava.dewrain.life^
 ||sdk.kochava.kvaedit.site^
-||sdk.kokocads.com^
 ||sdk.ksapisrv.com^
 ||sdk.look.360.cn^
 ||sdk.loomi-prod.xyz^
@@ -94117,7 +94125,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sdk.mrf.io^
 ||sdk.n-analytics.io^
 ||sdk.native123.com^
-||sdk.navnow.xyz^
 ||sdk.nsureapi.com^
 ||sdk.ocmhood.com^
 ||sdk.open.amp.igexin.com^
@@ -112351,6 +112358,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||tracking2.bokf.com^
 ||tracking2.bokfinancial.com^
 ||tracking2.channeladvisor.com^
+||tracking2.chongdaads.com^
 ||tracking2.cigna.co.id^
 ||tracking2.cigna.co.uk^
 ||tracking2.cigna.com.tw^
@@ -115938,6 +115946,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||us-west-2.prod.pr.analytics.console.aws.a2z.com^
 ||us-west-2.prod.skywave.jetstream.advertising.a2z.com^
 ||us-west-2.stinger-ad.bidr.io^
+||us-west-2.v3.awesomeads.staging.superawesome.tv^
 ||us-west-2.v3.awesomeads.superawesome.tv^
 ||us-west.3px.axp.amazon-adsystem.com^
 ||us-west.aps.axp.amazon-adsystem.com^
