@@ -1,5 +1,5 @@
-! Version: 2025-07-22 09:44:24（北京时间） 
-! Total count: 158148
+! Version: 2025-07-22 20:41:37（北京时间） 
+! Total count: 158146
 /.*.1rtb.com/
 /.*.a.market.xiaomi.com/
 /.*.ad.gameley.com/
@@ -7108,7 +7108,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad-sdk-config.youdao.com^
 ||ad-sdk.aiclk.com^
 ||ad-sdk.altamob.xiaoying.co^
-||ad-sdk.huxiu.com^
 ||ad-seek.jp^
 ||ad-sell.com^
 ||ad-serve.b-cdn.net^
@@ -57389,8 +57388,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||imads.ero-advertising.com^
 ||imads.integral-marketing.com^
 ||imads.rediff.com^
-||imag8.pubmatic.com^
-||imag86.pubmatic.com^
 ||imagazine.advertserve.com^
 ||image-ad.sm.cn^
 ||image.139y.com^
@@ -58085,7 +58082,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||img.ad2.maho.jp^
 ||img.adbox.sina.com.cn^
 ||img.adnyg.com.w.kunlungr.com^
-||img.adnyg.com^
 ||img.ads.csdn.net^
 ||img.ads.huntmad.com^
 ||img.ads.mobilefuse.net^
@@ -68114,7 +68110,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||log.seekda.com^
 ||log.sina.cn^
 ||log.snapdeal.com^
-||log.snssdk.com^
 ||log.stat.kugou.com^
 ||log.tagtic.cn^
 ||log.targetpush.co.kr^
@@ -75930,7 +75925,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||mimasparci.pro^
 ||mime.baidu.com/*/start_screen_ads
 ||mime.baidu.com/v5/start_screen_ads
-||mime.baidu.com^
 ||mimeihui.com^
 ||mimekitab.shop^
 ||mimerestates.top^
@@ -114694,6 +114688,9 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||tnaczwecikco.online^
 ||tnative.ru^
 ||tnbjbmxxmas.com^
+||tnc0-aliec2.zijieapi.com^
+||tnc0-alisc1.zijieapi.com^
+||tnc0-bjlgy.zijieapi.com^
 ||tnc16-alisg.isnssdk.com^
 ||tnc16-useast1a.isnssdk.com^
 ||tnc3-aliec1.toutiaoapi.com^
@@ -114704,6 +114701,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||tnc3-aliec2.zijieapi.com^
 ||tnc3-alisc1.bytedance.com^
 ||tnc3-alisc1.snssdk.com^
+||tnc3-alisc1.toutiaoapi.com^
 ||tnc3-alisc1.zijieapi.com^
 ||tnc3-alisc2.bytedance.com^
 ||tnc3-alisc2.snssdk.com^
