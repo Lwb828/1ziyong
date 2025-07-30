@@ -1,5 +1,5 @@
-! Version: 2025-07-29 20:43:34（北京时间） 
-! Total count: 160852
+! Version: 2025-07-30 09:46:42（北京时间） 
+! Total count: 160851
 /.*.1rtb.com/
 /.*.a.market.xiaomi.com/
 /.*.ad.gameley.com/
@@ -23,7 +23,6 @@
 /app/loadAdPositionConfig?app_id=
 /app_ads/splash_preload
 /app_ads/splash_show
-/cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
 /static/upload/ads
 @@||1dot1dot1dot1.cloudflare-dns.com^$document
 @@||360.cn^$document
