@@ -1,28 +1,10 @@
-! Version: 2025-08-03 09:54:02（北京时间） 
-! Total count: 162055
+! Version: 2025-08-03 20:40:03（北京时间） 
+! Total count: 162035
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
 *-be-pack-sign.pglstatp-toutiao.com*
 *-normal.zijieapi.com*
-/.*.1rtb.com/
-/.*.a.market.xiaomi.com/
-/.*.ad.gameley.com/
-/.*.adintl.cn/
-/.*.adx.adwangmai.com/
-/.*.data.hicloud.com/
-/.*.log.aliyuncs.com/
-/.*.ubixioe.com/
-/.*.vlion.cn/
-/.*.yfanads.com/
-/.*.zhangyuyidong.cn/
-/[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com/
-/[a-zA-Z0-9.-]*-ad.sm.cn/
-/[a-zA-Z0-9.-]*-ad.video.yximgs.com/
-/[a-zA-Z0-9.-]*-ad.wtzw.com/
-/[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com/
-/[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com/
-/[a-zA-Z0-9.-]*-normal.zijieapi.com/
 /api/ad/adserver/
 /api/index/splash_ad
 /app/loadAdPositionConfig?app_id=
@@ -161949,8 +161931,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||zymjzwvmjjqz.top^
 ||zymo.mps.weibo.com^
 ||zynewaylxyxex.buzz^
-||zynga.com^
-||zyngaplayersupport.com^
 ||zynyboi.pro^
 ||zypenetwork.com^
 ||zyq2.destinia.sk^
