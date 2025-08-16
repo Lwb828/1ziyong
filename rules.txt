@@ -1,5 +1,5 @@
-! Version: 2025-08-15 20:38:09（北京时间） 
-! Total count: 165883
+! Version: 2025-08-16 09:26:45（北京时间） 
+! Total count: 165882
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -1125,7 +1125,6 @@ v.ifeng.com##section[class^="index_hot"]
 v.qq.com###pc_client > .quick_link
 v.qq.com##.svg_icon_client.svg_quick_icon
 v.qq.com##.svg_icon_client.svg_quick_icon > path:nth-of-type(1)
-vents.reddit.com^
 view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
