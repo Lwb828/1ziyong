@@ -1,5 +1,5 @@
-! Version: 2025-08-21 09:23:53（北京时间） 
-! Total count: 1363
+! Version: 2025-08-21 20:37:54（北京时间） 
+! Total count: 1364
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1331,6 +1331,7 @@
 @@||tpns.tencent.com^
 @@||tracker.ai.xiaomi.com^$document
 @@||tracker.eu.org^
+@@||tube.e.kuaishou.com^
 @@||tuisong.baidu.com^
 @@||tunion-api.m.taobao.com^$document
 @@||twitter.com^$document

@@ -1,5 +1,5 @@
-! Version: 2025-08-21 09:23:53（北京时间） 
-! Total count: 160968
+! Version: 2025-08-21 20:37:54（北京时间） 
+! Total count: 160972
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -366,6 +366,7 @@
 @@||tongji.edu.cn^
 @@||tracker.ai.xiaomi.com^$document
 @@||tracker.eu.org^
+@@||tube.e.kuaishou.com^
 @@||tunion-api.m.taobao.com^$document
 @@||twitter.com^$document
 @@||u.oppomobile.com^$document
@@ -124021,6 +124022,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||v1-ad.video.yximgs.com^
 ||v1-dc-ad.ixigua.com^
 ||v1-feed.idreamsky.com^
+||v1-lm.adukwai.com^
 ||v1.19purify.com^
 ||v1.browser-tools.systems^
 ||v1.cnzz.com^
@@ -124057,6 +124059,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||v2-ad.ixigua.com^
 ||v2-ad.video.yximgs.com^
 ||v2-api-channel-launcher.hismarttv.com^
+||v2-lm.adukwai.com^
 ||v2.adsbookie.com^
 ||v2.api.adflex.vn^
 ||v2.cnzz.com^
@@ -124100,6 +124103,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||v31-ad.ixigua.com^
 ||v3cdn.net^
 ||v4-ad.ixigua.com^
+||v4-lm.adukwai.com^
 ||v4.cnzz.com^
 ||v4.mpsuadv.ru^
 ||v4dwkcv.com^
