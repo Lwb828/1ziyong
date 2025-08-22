@@ -1,5 +1,5 @@
-! Version: 2025-08-22 09:24:31（北京时间） 
-! Total count: 160972
+! Version: 2025-08-22 20:37:11（北京时间） 
+! Total count: 160974
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -18013,6 +18013,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.domob.cn^
 ||api.donglogs.com^
 ||api.dotmetrics.net^
+||api.douban.com/v2/app_ads
 ||api.doumob.com^
 ||api.dreamfull.cn^
 ||api.dsp.madserving.com^
@@ -49542,6 +49543,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||froaqldtuqssk.website^
 ||frockherbal.com^
 ||frodo.douban.com/api/v2/erebor/feed_ad
+||frodo.douban.com/api/v2/home_ads
 ||frodo.douban.com/api/v2/movie/ad
 ||frodx.com^
 ||frog.editorx.com^
