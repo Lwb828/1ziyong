@@ -1,5 +1,5 @@
-! Version: 2025-09-12 20:35:22（北京时间） 
-! Total count: 166090
+! Version: 2025-09-13 09:15:07（北京时间） 
+! Total count: 166092
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -467,8 +467,8 @@ c.m.163.com##.fixedOpenNewsapp
 c.m.163.com##.js-open-newsapp.s-top > .s-btn
 c.m.163.com##.openNewsapp
 c.m.163.com##.qr
-chat.deepseek.com##div:has(> .ds-icon + span)
-chat.deepseek.com##div:has(> .ds-icon[style*="width: 28px"][style*="height: 28px"])
+chat.deepseek.com#?#div:has(> .ds-icon + span)
+chat.deepseek.com#?#div:has(> .ds-icon[style*="width: 28px"][style*="height: 28px"])
 chinaso.com###Fixed_app
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
@@ -948,6 +948,8 @@ new.qq.com#?#div.operation:contains(手机看)
 news.qq.com##.download-banner-wrap
 news.qq.com##.download-content
 news.qq.com##.godown.qqcom_fb-item
+news.qq.com#?#div:has(> div[dt-eid="em_rec_app"])
+news.qq.com#?#div[id="download-btn-wrapid"]
 note.youdao.com##.top-btns
 oneplusbbs.com###bbsRegisterGuide
 oneplusbbs.com##li[style*="position: relative; border: 0px;"]
