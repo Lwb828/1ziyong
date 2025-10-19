@@ -1,5 +1,5 @@
-! Version: 2025-10-19 09:39:09（北京时间） 
-! Total count: 1363
+! Version: 2025-10-19 20:34:02（北京时间） 
+! Total count: 1361
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1118,7 +1118,6 @@
 @@||dns9.quad9.net^$document
 @@||dnscheck.tools^
 @@||douyinstatic.com^
-@@||download.falco.org^
 @@||dragate-cn.dc.heytapmobi.com^$important,document
 @@||dragate.dc.oppomobile.com^$important,document
 @@||du.163.com^$document
@@ -1264,7 +1263,6 @@
 @@||resolver.gslb.mi-idc.com^$document
 @@||resolver.msg.xiaomi.net^$document
 @@||retcode.taobao.com^$document
-@@||rocket.chat^
 @@||s.click.alimama.com^$document
 @@||s.click.taobao.com^$document
 @@||s.click.tmall.com^$document
