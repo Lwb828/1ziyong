@@ -1,5 +1,5 @@
-! Version: 2025-10-20 09:28:00（北京时间） 
-! Total count: 116737
+! Version: 2025-10-20 20:39:01（北京时间） 
+! Total count: 116738
 				<li>如网站托管，请联系空间提供商；</li>
 				<li>您的IP所属地不受信任</li>
 				<li>普通网站访客，请联系网站管理员；</li>
@@ -948,6 +948,7 @@ mf.meizu.cn##.guide-suspend.suspend
 mi.com###J_siteDownloadApp
 mi.com##.item-image.item
 mi.com##span.sep:nth-of-type(10)
+mob.iyingdi.com##.down-button
 mob.iyingdi.com##.down-load-app-container
 mob.iyingdi.com##.reply
 mparticle.uc.cn##.UtpAd
@@ -978,8 +979,8 @@ new.qq.com#?#div.operation:contains(手机看)
 news.qq.com##.download-banner-wrap
 news.qq.com##.download-content
 news.qq.com##.godown.qqcom_fb-item
+news.qq.com##div[id="download-btn-wrapid"]
 news.qq.com#?#div:has(> div[dt-eid="em_rec_app"])
-news.qq.com#?#div[id="download-btn-wrapid"]
 note.youdao.com##.top-btns
 ol li{line-height:30px}
 ol{margin:0 0 20px 22px;padding:0;}
