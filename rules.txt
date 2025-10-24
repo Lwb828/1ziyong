@@ -1,5 +1,5 @@
-! Version: 2025-10-23 20:40:01（北京时间） 
-! Total count: 116031
+! Version: 2025-10-24 09:26:14（北京时间） 
+! Total count: 116032
 				<li>如网站托管，请联系空间提供商；</li>
 				<li>您的IP所属地不受信任</li>
 				<li>普通网站访客，请联系网站管理员；</li>
@@ -749,6 +749,7 @@ limbopro.xyz###disqus_thread
 limbopro.xyz##.grecaptcha-badge
 link.bilibili.com#?#.shortcut-item:contains(下载客户端)
 live.bilibili.com#?#div.pointer:contains(下载客户端)
+m.163.com##.fixedOpenNewsapp
 m.163.com##.floatMenu-backflow
 m.163.com##.floatMenu-logo
 m.163.com##footer > span
