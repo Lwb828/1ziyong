@@ -1,5 +1,5 @@
-! Version: 2025-10-24 20:39:48（北京时间） 
-! Total count: 1361
+! Version: 2025-10-25 09:21:24（北京时间） 
+! Total count: 1355
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1121,7 +1121,6 @@
 @@||dragate-cn.dc.heytapmobi.com^$important,document
 @@||dragate.dc.oppomobile.com^$important,document
 @@||du.163.com^$document
-@@||dw.iask.com.cn^
 @@||dxcloud.episerver.net^
 @@||ecma.bdimg.com^$document
 @@||ecmb.bdimg.com^$document
@@ -1195,7 +1194,6 @@
 @@||livew.l.qq.com^$document
 @@||lmlicenses.wip4.adobe.com^$document
 @@||log.mmstat.com^
-@@||login-ishare.iask.com.cn^
 @@||lsposed.org^
 @@||m.intl.taobao.com^$document
 @@||m.jd.watbc.top^$document
@@ -1242,7 +1240,6 @@
 @@||pdds-c1-cdn.uc.cn^$document
 @@||pdds.ucweb.com^$document
 @@||personaclick.com^$document
-@@||pic.iask.cn^
 @@||pingjs.qq.com^$document
 @@||pp.myapp.com^$document
 @@||pro.m.jd.com^$document
@@ -1273,7 +1270,6 @@
 @@||saveu.zijieapi.com^$document
 @@||saveu3-normal-lq.zijieapi.com^$document
 @@||saveu5-normal-lq.zijieapi.com^$document
-@@||sax.sina.com.cn^
 @@||sax.sina.com.cn^$document
 @@||sdk-api.beizi.biz^$document
 @@||sdk.ptqy.gitv.tv^$document
@@ -1304,7 +1300,6 @@
 @@||static.inkuai.com^
 @@||static.res.qq.com^$document
 @@||static.tieba.baidu.com^$document
-@@||static3.iask.cn^
 @@||staticsns.cdn.bcebos.com^$document
 @@||stats.gov.cn^
 @@||stats.uptimerobot.com^
@@ -1344,7 +1339,6 @@
 @@||verify.snssdk.com^$document
 @@||w1.kskwai.com^$app=com.smile.gifmaker
 @@||we.tl^
-@@||wechat.ishare.iask.com.cn^
 @@||wgo.mmstat.com^$document
 @@||widget.intercom.io^
 @@||wtradv.market.xiaomi.com^$document

@@ -1,5 +1,5 @@
-! Version: 2025-10-24 20:39:48（北京时间） 
-! Total count: 116032
+! Version: 2025-10-25 09:21:24（北京时间） 
+! Total count: 116026
 				<li>如网站托管，请联系空间提供商；</li>
 				<li>您的IP所属地不受信任</li>
 				<li>普通网站访客，请联系网站管理员；</li>
@@ -218,7 +218,6 @@
 @@||dragate-cn.dc.heytapmobi.com^$important,document
 @@||dragate.dc.oppomobile.com^$important,document
 @@||du.163.com^$document
-@@||dw.iask.com.cn^
 @@||dxcloud.episerver.net^
 @@||ecma.bdimg.com^$document
 @@||ecmb.bdimg.com^$document
@@ -281,7 +280,6 @@
 @@||livew.l.qq.com^$document
 @@||lmlicenses.wip4.adobe.com^$document
 @@||log.mmstat.com^
-@@||login-ishare.iask.com.cn^
 @@||m.intl.taobao.com^$document
 @@||m.jd.watbc.top^$document
 @@||m.jd.watbe.top^$document
@@ -323,7 +321,6 @@
 @@||pdds-c1-cdn.uc.cn^$document
 @@||pdds.ucweb.com^$document
 @@||personaclick.com^$document
-@@||pic.iask.cn^
 @@||pingjs.qq.com^$document
 @@||pp.myapp.com^$document
 @@||pro.m.jd.com^$document
@@ -348,7 +345,6 @@
 @@||saveu.zijieapi.com^$document
 @@||saveu3-normal-lq.zijieapi.com^$document
 @@||saveu5-normal-lq.zijieapi.com^$document
-@@||sax.sina.com.cn^
 @@||sax.sina.com.cn^$document
 @@||sdk-api.beizi.biz^$document
 @@||sdk.ptqy.gitv.tv^$document
@@ -376,7 +372,6 @@
 @@||stat.jseea.cn^
 @@||static.res.qq.com^$document
 @@||static.tieba.baidu.com^$document
-@@||static3.iask.cn^
 @@||staticsns.cdn.bcebos.com^$document
 @@||stats.gov.cn^
 @@||stats.uptimerobot.com^
@@ -407,7 +402,6 @@
 @@||vd.l.qq.com^$document
 @@||verify.snssdk.com^$document
 @@||w1.kskwai.com^$app=com.smile.gifmaker
-@@||wechat.ishare.iask.com.cn^
 @@||wgo.mmstat.com^$document
 @@||widget.intercom.io^
 @@||wtradv.market.xiaomi.com^$document
@@ -33531,6 +33525,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||dd.dante2007.com^
 ||dd.g2.com^
 ||dd.garena.com^
+||dd.iask.cn^
 ||dd.leboncoin.fr^
 ||dd.lofujj.com^
 ||dd.mangofortune.net^
@@ -49984,8 +49979,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||iapi.takeads.com^
 ||iareascebc.life^
 ||iasbetaffiliates.com^
-||iask.cn^
-||iask.com.cn^
 ||iask.qq.com^
 ||iatoex.kahve.com^
 ||iau.adsiduous.com^
@@ -68741,6 +68734,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||mwxema.galerieslafayette.com^
 ||mwxtdssacysl.com^
 ||mwxxgdhvhdrgt.space^
+||mwzbp.iask.com.cn^
 ||mwzkkpwmq.com^
 ||mx.ads.justpremium.com^
 ||mx.adserver.yahoo.com^
