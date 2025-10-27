@@ -1,5 +1,5 @@
-! Version: 2025-10-27 09:39:34（北京时间） 
-! Total count: 1355
+! Version: 2025-10-27 20:40:19（北京时间） 
+! Total count: 1354
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1333,7 +1333,6 @@
 @@||ulog*.*.com^$important
 @@||updata.miui.com^
 @@||update.360safe.com^
-@@||usageapi.*.oraclecloud.com^
 @@||vcs.snssdk.com^$document
 @@||vd.l.qq.com^$document
 @@||verify.snssdk.com^$document
