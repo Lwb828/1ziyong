@@ -1,5 +1,5 @@
-! Version: 2025-10-29 09:28:08（北京时间） 
-! Total count: 117408
+! Version: 2025-10-29 20:40:22（北京时间） 
+! Total count: 117409
 				<li>如网站托管，请联系空间提供商；</li>
 				<li>您的IP所属地不受信任</li>
 				<li>普通网站访客，请联系网站管理员；</li>
@@ -1006,6 +1006,7 @@ pornhub.com##.premiumPromoBannerWrapper
 qdaily.com##.app
 qdaily.com##.clearfix.com-header-brief
 qq.com##+js(json-prune, ad)
+qq.com##.home-download-btn
 sina.cn###j_card_miniVideo
 sina.cn###j_card_searchHotwords > section.s_card > a:last-child > ins.most
 sina.cn##.an.cm_art_push
