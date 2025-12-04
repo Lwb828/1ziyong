@@ -1,5 +1,5 @@
-! Version: 2025-12-04 09:38:15（北京时间） 
-! Total count: 116068
+! Version: 2025-12-04 20:42:58（北京时间） 
+! Total count: 116070
 				<li>如网站托管，请联系空间提供商；</li>
 				<li>您的IP所属地不受信任</li>
 				<li>普通网站访客，请联系网站管理员；</li>
@@ -973,6 +973,7 @@ new.qq.com#?#div.operation:contains(手机看)
 news.qq.com##.download-banner-wrap
 news.qq.com##.download-content
 news.qq.com##.godown.qqcom_fb-item
+news.qq.com##.slider-list.swiper-horizontal.swiper-initialized.swiper
 news.qq.com##div[id="download-btn-wrapid"]
 news.qq.com#?#div:has(> div[dt-eid="em_rec_app"])
 note.youdao.com##.top-btns
@@ -1005,6 +1006,7 @@ pornhub.com##.premiumAdvertWrapper
 pornhub.com##.premiumPromoBannerWrapper
 qdaily.com##.app
 qdaily.com##.clearfix.com-header-brief
+qq.com###download-btn-wrapid
 qq.com##+js(json-prune, ad)
 qq.com##.home-download-btn
 sina.cn###j_card_miniVideo
