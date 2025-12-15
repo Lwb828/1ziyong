@@ -1,5 +1,5 @@
-! Version: 2025-12-15 09:44:16（北京时间） 
-! Total count: 116162
+! Version: 2025-12-15 20:45:31（北京时间） 
+! Total count: 116163
 				<li>如网站托管，请联系空间提供商；</li>
 				<li>您的IP所属地不受信任</li>
 				<li>普通网站访客，请联系网站管理员；</li>
@@ -208,6 +208,7 @@
 @@||di.phncdn.com^$document
 @@||dig.bdurl.net^$document
 @@||dig.zjurl.cn^$document
+@@||dl.zuimeitianqi.com^$document
 @@||dm.toutiao.com^$document
 @@||dm1.phncdn.com^$document
 @@||dns.alidns.com^$document
@@ -39665,7 +39666,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||err.ifengcloud.ifeng.com^
 ||erranddealing.com^
 ||erreoawajurdj.space^
-||errlog.umeng.com^
 ||errnewlog.umeng.com^
 ||error-analytics-production.shopifysvc.com^
 ||error-analytics-sessions-production.shopifysvc.com^
@@ -96106,6 +96106,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sygic-api.infinario.com^
 ||sygrip.info^
 ||syh-imp.cdnjtzy.com^
+||syh.zybang.com^
 ||syhhlxnyzltmu.site^
 ||syiae.com^
 ||syinga.com^

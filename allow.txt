@@ -1,5 +1,5 @@
-! Version: 2025-12-15 09:44:16（北京时间） 
-! Total count: 1355
+! Version: 2025-12-15 20:45:31（北京时间） 
+! Total count: 1356
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1108,6 +1108,7 @@
 @@||di.phncdn.com^$document
 @@||dig.bdurl.net^$document
 @@||dig.zjurl.cn^$document
+@@||dl.zuimeitianqi.com^$document
 @@||dm.toutiao.com^$document
 @@||dm1.phncdn.com^$document
 @@||dns.alidns.com^$document
