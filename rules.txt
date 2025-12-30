@@ -1,4 +1,4 @@
-! Version: 2025-12-30 09:41:58（北京时间） 
+! Version: 2025-12-30 20:44:44（北京时间） 
 ! Total count: 114119
 				<li>如网站托管，请联系空间提供商；</li>
 				<li>您的IP所属地不受信任</li>
@@ -529,6 +529,7 @@ dgtle.com##.footer-abox
 discord.com##div[class*=notice]
 doc.mbalib.com###viewer > div.doc-ad
 douban.com##.lnk-doubanapp
+doubao.com##.group\/download
 douyu.com##.ClientJump
 douyu.com##.Download
 douyu.com##.Header-download-wrap
@@ -1150,8 +1151,6 @@ tmall.com##.mui-mbarp-qrcode-hd-d.mui-mbarp-qrcode-hd
 tmall.com##.mui-mbarp-qrcode-tip
 tmall.com##.sn-mobile
 tmall.com##div[style*="z-index: 99999; display: block;"]
-tongyi.aliyun.com##div[class^="downloadWrap"]
-tongyi.aliyun.com#?#ul > li:nth-child(2):not(:contains("效率"))
 up.woozooo.com##.ves
 userstyles.org###top_android_button
 userstyles.org##.android_button_banner
@@ -1221,6 +1220,7 @@ wk.baidu.com##.sf-edu-gonglve-id-rec-adv-second.rec-adv-second
 wk.baidu.com##.top-banner-guide
 wk.baidu.com##.video-rec-inner
 wk.baidu.com##.vip-guide-contanier.guidetowkvipwg-root
+www.qianwen.com##.bg-weaken
 xiaohongshu.com##.android.all-comment
 xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
 xiaohongshu.com##.bottom-button-box
