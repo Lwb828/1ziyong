@@ -1,5 +1,5 @@
-! Version: 2026-01-03 09:44:00（北京时间） 
-! Total count: 115156
+! Version: 2026-01-03 20:45:03（北京时间） 
+! Total count: 115158
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -299,6 +299,7 @@
 @@||pv.sohu.com^$document
 @@||py.qlogo.cn^$document
 @@||py2.qlogo.cn^$document
+@@||qhres2.com^$document
 @@||rcs.cmpassport.com^$document
 @@||register*mi.com^
 @@||register.xmpush.xiaomi.com^$document
@@ -311,6 +312,7 @@
 @@||s.click.taobao.com^$document
 @@||s.click.tmall.com^$document
 @@||s.mvconf.f.360.cn^
+@@||s.ssl.qhres2.com^$document
 @@||saveu*.zijieapi.com^$document
 @@||saveu.zijieapi.com^$document
 @@||saveu3-normal-lq.zijieapi.com^$document

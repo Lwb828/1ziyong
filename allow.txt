@@ -1,5 +1,5 @@
-! Version: 2026-01-03 09:44:00（北京时间） 
-! Total count: 1356
+! Version: 2026-01-03 20:45:03（北京时间） 
+! Total count: 1358
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1253,6 +1253,7 @@
 @@||pv.sohu.com^$document
 @@||py.qlogo.cn^$document
 @@||py2.qlogo.cn^$document
+@@||qhres2.com^$document
 @@||quoracdn.net^
 @@||rcs.cmpassport.com^$document
 @@||register*mi.com^
@@ -1266,6 +1267,7 @@
 @@||s.click.taobao.com^$document
 @@||s.click.tmall.com^$document
 @@||s.mvconf.f.360.cn^
+@@||s.ssl.qhres2.com^$document
 @@||s.yimg.com^
 @@||samsungknox.com^
 @@||saveu*.zijieapi.com^$document
