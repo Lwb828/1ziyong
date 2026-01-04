@@ -1,5 +1,5 @@
-! Version: 2026-01-04 09:52:35（北京时间） 
-! Total count: 1358
+! Version: 2026-01-04 20:39:13（北京时间） 
+! Total count: 1361
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1253,6 +1253,7 @@
 @@||pv.sohu.com^$document
 @@||py.qlogo.cn^$document
 @@||py2.qlogo.cn^$document
+@@||qappcenterv6.3g.qq.com^$document
 @@||qhres2.com^$document
 @@||quoracdn.net^
 @@||rcs.cmpassport.com^$document
@@ -1313,9 +1314,11 @@
 @@||sugs.m.sm.cn^$document
 @@||t.uc.cn^$document
 @@||t7z.cupid.iqiyi.com^$document
+@@||tangram.e.qq.com^$document,app=com.tencent.mobileqq
 @@||target.clickfunnels.com^$document
 @@||tbskip.taobao.com^$document
 @@||tbsone.imtt.qq.com^$document
+@@||tdid.m.qq.com^$document
 @@||tinyurl.com^
 @@||tj.gov.cn^
 @@||toblog.ctobsnssdk.com^$important
