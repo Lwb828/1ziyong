@@ -1,5 +1,5 @@
-! Version: 2026-01-08 09:43:50（北京时间） 
-! Total count: 112110
+! Version: 2026-01-08 20:45:03（北京时间） 
+! Total count: 112119
 				<li>如网站托管，请联系空间提供商；</li>
 				<li>您的IP所属地不受信任</li>
 				<li>普通网站访客，请联系网站管理员；</li>
@@ -1291,8 +1291,10 @@ youku.com##.downloadApp.icon
 youku.com##div[class*="Corner-container"]
 youku.com##div[class^="clip"]
 yuanbao.tencent.com##.agent-dialogue__content-qrcode
+yuanbao.tencent.com##.agent-dialogue__tool
 yuanbao.tencent.com##.icon-yb-downapp
 yuanbao.tencent.com##div[class^="index_pc_download"]
+yuanbao.tencent.com#?#div.input-guide-v2-item:contains(下载)
 yystv.cn##.fixed-container
 yystv.cn##.flex-box.flex.top-nav-download
 yystv.cn##li:nth-of-type(7) > [href="/app/download"]
@@ -7137,6 +7139,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ad.dzwww.com^
 ||ad.e-dpe.jp^
 ||ad.e-kolay.net^
+||ad.e.waimai.sankuai.com^
 ||ad.ecplaza.net^
 ||ad.edugram.com^
 ||ad.egloos.com^
@@ -8939,6 +8942,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads-api.tiktok.com^
 ||ads-api.twitter.com^
 ||ads-api.videy.co^
+||ads-api.xiaohongshu.com^
 ||ads-backend.chaincliq.com^
 ||ads-bi.zenkube.com^
 ||ads-bid.l.doubleclick.net^
@@ -10211,6 +10215,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ads.xedoisong.vn^
 ||ads.xemphimso.com^
 ||ads.xhamster.com^
+||ads.xiaohongshu.com^
 ||ads.xtargeting.com^
 ||ads.xtra.ca^
 ||ads.xtra.co.nz^
@@ -11782,6 +11787,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||adx-ad.smart-tv.cn^
 ||adx-api.hupu.com^
 ||adx-api.jinmo.tech^
+||adx-api.yfanads.com^
 ||adx-asia-imp.aarki.net^
 ||adx-asia.aarki.net^
 ||adx-bid.tianzhuobj.com^
@@ -13083,7 +13089,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||alocdn.com^
 ||aloftriottomato.com^
 ||alog.umeng.com^
-||alogsus.umeng.com^
 ||alogus.umeng.com^
 ||alohamiles.com^
 ||alonedisallowrearview.com^
@@ -36707,7 +36712,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||err.ifengcloud.ifeng.com^
 ||erranddealing.com^
 ||erreoawajurdj.space^
-||errnewlog.umeng.com^
 ||error-analytics-production.shopifysvc.com^
 ||error-analytics-sessions-production.shopifysvc.com^
 ||error-collector.ted.com^
@@ -69761,6 +69765,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||optimost.com^
 ||optimove.net^
 ||optimum-xyz.com^
+||optimus-ads.amap.com.w.alikunlun.com^
 ||optimus-ads.amap.com^
 ||optimus.ipinyou.com^
 ||optinly.net^
@@ -75457,6 +75462,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||pwxnufxcwbbev.space^
 ||pwxzkpspgaxxl.online^
 ||px-intl.ucweb.com^
+||px.ads.linkedin.cn^
 ||px.ads.linkedin.com^
 ||px.derstandard.at^
 ||px.dmp.zaloapp.com^
@@ -80722,6 +80728,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||sadbmetrics.zendalibros.com^
 ||sadc1.outbrain.org^
 ||saddarue.com^
+||sadfasdfa962.com^
 ||sadisperli.pro^
 ||sadjk.com^
 ||sadloaf.com^
@@ -89178,6 +89185,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||ssp1.kfadx.tech^
 ||ssp15.adview.cn^
 ||ssp16.adview.cn^
+||sspapi.youxiaoad.com^
 ||sspkbf.ragtag.jp^
 ||sspmservice.ad-survey.com^
 ||sspservice.ad-survey.com^
@@ -92414,6 +92422,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||szxc868.com^
 ||szyr474.com^
 ||t-ads.adap.tv^
+||t-ads.xiaohongshu.com^
 ||t-adx.52qumao.com^
 ||t-analytics.com^
 ||t-dsp.pinduoduo.com/dspcb/i/mrk_union
