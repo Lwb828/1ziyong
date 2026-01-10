@@ -1,5 +1,5 @@
-! Version: 2026-01-09 20:43:37（北京时间） 
-! Total count: 112230
+! Version: 2026-01-10 09:41:17（北京时间） 
+! Total count: 112234
 				<li>如网站托管，请联系空间提供商；</li>
 				<li>您的IP所属地不受信任</li>
 				<li>普通网站访客，请联系网站管理员；</li>
@@ -589,7 +589,6 @@ google.com##.ads
 google.com##.adsbygoogle
 google.com##.fbar
 google.com##.g.kno-result.rQUFld.mnr-c.g-blk
-grcv.yunxish.com^
 gwdang.com###tool-menu > li.fl.item:nth-of-type(2)
 gwdang.com##.qr-area
 h5.m.taobao.com##[style*="top: 0rem"]
@@ -15355,6 +15354,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.weibo.cn/2/*/wbox/*/home_bottom_modal
 ||api.weibo.cn/2/*/wbox/*/interest_category
 ||api.weibo.cn/2/ad/weibointl?
+||api.weibo.cn/2/adscheme
 ||api.weibo.cn/2/comments/bullet_screens?
 ||api.weibo.cn/2/hot/hours_spotlight?
 ||api.weibo.cn/2/photo/info?
@@ -15364,6 +15364,8 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||api.weibo.cn/2/remind/unread_count?
 ||api.weibo.cn/2/search/container_discover?
 ||api.weibo.cn/2/statuses/container_positive
+||api.weibo.cn/2/statuses/extend?$replace=/"is_ad_card":/"10007":/
+||api.weibo.cn/2/statuses/extend?$replace=/"source": "ad_reduce"/"source": "10007"/
 ||api.weibo.cn/2/statuses/push_info
 ||api.weibo.cn/2/ug/checkin/list
 ||api.weibo.cn/2/video/redpacket?
@@ -22660,7 +22662,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||carcflma.de^
 ||card.getgifted.com^
 ||card.pingpro.com^
-||card.weibo.com/article/m/aj/reward
 ||card.weibo.com/article/m/aj/uvead
 ||cardexchanges.carte-gr.total.fr^
 ||cardflix.co^
@@ -52684,6 +52685,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||kadfaedmpjdki.space^
 ||kadime.cc^
 ||kadlec.psjhealth.org^
+||kadmimage.biz.weibo.com^
 ||kaebyy.autouncle.se^
 ||kaewutruyxfqa.online^
 ||kafwxfqcuxkyrag.xyz^
@@ -55009,6 +55011,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lf24-common-ckv-tos.pstatp.com^
 ||lf25-common-ckv-tos.pstatp.com^
 ||lf26-common-ckv-tos.pstatp.com^
+||lf26-sf-be-pack-sign.pglstatp-toutiao.com^
 ||lf27-common-ckv-tos.pstatp.com^
 ||lf28-common-ckv-tos.pstatp.com^
 ||lf29-common-ckv-tos.pstatp.com^
@@ -55026,6 +55029,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||lf7-common-ckv-tos.pstatp.com^
 ||lf8-common-ckv-tos.pstatp.com^
 ||lf9-common-ckv-tos.pstatp.com^
+||lf9-sf-be-pack-sign.pglstatp-toutiao.com^
 ||lfafacbfqrsom.online^
 ||lfamuxkaqobp.com^
 ||lfapbe.quiksilver.co.jp^
@@ -104475,6 +104479,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wbads.vo.llnwd.net^
 ||wbamedia.com^
 ||wbaolixcouqle.website^
+||wbapp.mobile.sina.cn/wbapplua/wbpullad.lua
 ||wbapp.mobile.sina.cn^
 ||wbapp.uve.weibo.com^
 ||wbbuhddcgijha.online^
@@ -105125,7 +105130,6 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||wehdflzsphxij.website^
 ||wehoofurniture.com^
 ||weibo.com/ttarticle/x/m/aj/reward
-||weibo.com/ttarticle/x/m/aj/uvead
 ||weidianyuedu.com^
 ||weigherrejolt.com^
 ||weightfeathersoffhand.com^
