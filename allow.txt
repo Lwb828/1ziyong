@@ -1,5 +1,5 @@
-! Version: 2026-01-10 09:41:17（北京时间） 
-! Total count: 1361
+! Version: 2026-01-10 20:39:00（北京时间） 
+! Total count: 1362
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -985,6 +985,7 @@
 @@||alissl.ucdl.pp.uc.cn^$document
 @@||als.baidu.com^$document
 @@||amdc.m.taobao.com^$document
+@@||analysis.windows.net^
 @@||analytics.95516.com^$document
 @@||android.push.126.net^$document
 @@||ap6.ssl.msdk.qq.com^$document

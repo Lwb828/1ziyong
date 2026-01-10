@@ -1,5 +1,5 @@
-! Version: 2026-01-10 09:41:17（北京时间） 
-! Total count: 112234
+! Version: 2026-01-10 20:39:00（北京时间） 
+! Total count: 112235
 				<li>如网站托管，请联系空间提供商；</li>
 				<li>您的IP所属地不受信任</li>
 				<li>普通网站访客，请联系网站管理员；</li>
@@ -90,6 +90,7 @@
 @@||alissl.ucdl.pp.uc.cn^$document
 @@||als.baidu.com^$document
 @@||amdc.m.taobao.com^$document
+@@||analysis.windows.net^
 @@||analytics.95516.com^$document
 @@||android.push.126.net^$document
 @@||ap6.ssl.msdk.qq.com^$document
