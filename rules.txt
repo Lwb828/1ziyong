@@ -1,5 +1,5 @@
-! Version: 2026-02-24 21:04:49（北京时间） 
-! Total count: 118386
+! Version: 2026-02-25 10:06:56（北京时间） 
+! Total count: 118397
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -468,6 +468,12 @@ c.m.163.com##.qr
 chat.deepseek.com#?#.ds-dropdown-menu-option:has-text(下载手机应用)
 chat.deepseek.com#?#button:has(span:contains(下载应用))
 chinaso.com###Fixed_app
+cj.sina.cn##.module-footer
+cj.sina.cn##.module-hot.module-extend
+cj.sina.cn##.u-article-video-title4
+cj.sina.cn##.unfold-words
+cj.sina.cn##.wap-msg-bar
+cj.sina.cn##div[class^="u-article-video-title"]
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
 cn.torrentkitty.app###note
@@ -517,7 +523,12 @@ egame.qq.com##.nav-download
 egame.qq.com##.widget-box
 egame.qq.com##div.live-review:nth-of-type(6)
 egame.qq.com##li.interactive-redenvelope:nth-of-type(2)
+finance.sina.cn##.pluse.animated
 finance.sina.cn##.s_card.cj_24
+finance.sina.cn##.wap-msg-bar
+finance.sina.cn##div[class^="s-"]
+finance.sina.cn#?#.flag_sf:upward(div):upward(div)
+finance.sina.cn#?#.snp-container:upward(div)
 finance.sina.com.cn###SFA_NV_POP_ZW
 finance.sina.com.cn###most_read
 finance.sina.com.cn###tab_related_btn
