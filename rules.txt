@@ -1,5 +1,5 @@
-! Version: 2026-02-28 09:51:53（北京时间） 
-! Total count: 119032
+! Version: 2026-02-28 20:44:42（北京时间） 
+! Total count: 119033
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -946,6 +946,7 @@ music.163.com##.u-ft
 mzh.moegirl.org.cn##.download-app
 mzh.moegirl.org.cn##.open-in-app-wrapper
 mzh.moegirl.org.cn#?#.n-button__content:contains(在App内打开)
+n.com##h2 > [href^="https://www.douban.com/doubanapp/card/get_app"]
 n.sinaimg.cn/finance/blackcat/pc/blink.gif$image
 n.sinaimg.cn/tech/zcapp2018/zc_new1x.png$image
 new.m.taobao.com##[style*="top: 0px"]
