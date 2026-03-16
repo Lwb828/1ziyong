@@ -1,5 +1,5 @@
-! Version: 2026-03-16 10:26:21（北京时间） 
-! Total count: 1362
+! Version: 2026-03-16 21:11:40（北京时间） 
+! Total count: 1364
 @@|*-api-idc.ksapisrv.com^
 @@|*-api-js.gifshow.com^
 @@|*-api.ksapisrv.com^
@@ -1170,6 +1170,7 @@
 @@||hot.browser.intl.miui.com^$document
 @@||hot.browser.miui.com^$document
 @@||httpdns.push.oppomobile.com^$document
+@@||hyperos.developer.xiaomi.com^$document
 @@||i*.snssdk.com^$document
 @@||i.snssdk.com^$document
 @@||ib.snssdk.com^$document
@@ -1209,6 +1210,7 @@
 @@||me-api.jd.com^$document
 @@||med-fe.cdn.bcebos.com^$document
 @@||meizu.coapi.moji.com^
+@@||metok.sys.miui.com^$document
 @@||micloud.xiaomi.net^
 @@||midas.gtimg.cn^$document
 @@||mime.baidu.com^$document
