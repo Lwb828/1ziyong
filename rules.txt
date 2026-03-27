@@ -1,11 +1,10 @@
-! Version: 2026-03-27 10:24:13（北京时间） 
-! Total count: 120680
+! Version: 2026-03-27 21:06:43（北京时间） 
+! Total count: 120679
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
 *-be-pack-sign.pglstatp-toutiao.com*
 *-normal.zijieapi.com*
---v.qq.com---
 /api/ad/adserver/
 /api/index/splash_ad
 /app/loadAdPositionConfig?app_id=
