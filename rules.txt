@@ -1,5 +1,5 @@
-! Version: 2026-04-06 10:30:27（北京时间） 
-! Total count: 123026
+! Version: 2026-04-06 21:10:07（北京时间） 
+! Total count: 123027
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -967,6 +967,7 @@ news.qq.com##.godown.qqcom_fb-item
 news.qq.com##.qqcom-modal-mask
 news.qq.com##.slider-list.swiper-horizontal.swiper-initialized.swiper
 news.qq.com##div[id="download-btn-wrapid"]
+news.qq.com#?#.item-back:has(.ruyi-icon-phone-regular):upward(div)
 news.qq.com#?#div:has(> div[dt-eid="em_rec_app"])
 note.youdao.com##.top-btns
 oneplusbbs.com###bbsRegisterGuide
