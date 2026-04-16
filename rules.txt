@@ -1,5 +1,5 @@
-! Version: 2026-04-15 21:23:30（北京时间） 
-! Total count: 121708
+! Version: 2026-04-16 10:38:02（北京时间） 
+! Total count: 121711
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -841,7 +841,7 @@ m.lianjia.com##.download_fixed
 m.lianjia.com##.download_full_box
 m.lianjia.com##.fadeDown.download_topfixed.mod_download
 m.lianjia.com##.mod_app.mod_sub_tit.mod_tit
-m.lianjia.com##div.mod_download:nth-of-type(1) 
+m.lianjia.com##div.mod_download:nth-of-type(1)
 m.mi.com##.download-app-go
 m.nubia.com###topofwap
 m.qidian.com###footerApp
@@ -1210,6 +1210,9 @@ wk.baidu.com##.video-rec-inner
 wk.baidu.com##.vip-guide-contanier.guidetowkvipwg-root
 www.qianwen.com##.leading-7.text-center.w-16.h-7.rounded-8.text-theme.text-12.bg-weaken
 www.qianwen.com#?#button:contains(下载电脑版)
+www.toutiao.com##.download-app-banner
+www.toutiao.com##.download.tool-item
+www.toutiao.com##.ttp-portal-anime-show
 xiaohongshu.com##.android.all-comment
 xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
 xiaohongshu.com##.bottom-button-box
